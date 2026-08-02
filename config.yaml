@@ -11,13 +11,9 @@ filters:
   location_any:
     - bangalore
     - bengaluru
-    - hyderabad
-    - pune
-    - chennai
-    - gurgaon
-    - gurugram
-    - noida
-    - india
+    - remote - india
+    - india (remote)
+    - remote, india
 
   # If a posting has NO location string at all (Workday does this sometimes),
   # setting this to false lets it through rather than silently dropping it.
@@ -31,8 +27,16 @@ filters:
     - graduate
     - trainee
     - fresher
+    - intermediate
+    - associate
     - manager
     - director
+    - principal          # 12+ yrs; Autodesk/Cisco post these constantly
+    - distinguished
+    - fellow
+    - architect
+    - leader
+    - chief
     - head of
     - vp
     - vice president
@@ -46,12 +50,28 @@ filters:
     - designer
     - technical writer
     - business analyst
+    - data scientist
+    - specialist
+    - consultant
     - support engineer
     - customer success
     - qa engineer
     - test engineer
     - quality engineer
-    # hardware / silicon (NVIDIA, Qualcomm, Intel post hundreds of these)
+    # frontend -- you're backend/AI
+    - frontend
+    - front end
+    - front-end
+    - ui
+    - reactjs
+    - angular
+    # systems / hardware / silicon (NVIDIA and HPE post hundreds of these)
+    - c++
+    - embedded
+    - device driver
+    - gpu
+    - hypervisor
+    - virtualization
     - hardware
     - firmware
     - silicon
@@ -75,11 +95,17 @@ filters:
     - solution architect
     - database administrator
     - security engineer
+    - networking          # Databricks posts a lot of these
+    - network platform
+    - observability
+    - service mesh
+    - multi cloud
+    - infrastructure
 
   # Base score is 10 for a title match. Each boost term found in the title is
   # +6, in the body +2, seniority +4. 12 means "title match plus at least one
   # real signal". Raise to ~20 if you're getting too much noise.
-  min_score: 12
+  min_score: 26
 
 # ---------------------------------------------------------------------------
 # Resume routing. The highest-scoring profile decides which PDF to send.
@@ -87,7 +113,14 @@ filters:
 profiles:
   - name: ai_ml
     resume: Resume_Anshita_Makode_AI_ML.pdf
+    # Wins ties against backend_java. Without it, an AI role with a
+    # Java-heavy description gets routed to the wrong resume.
+    title_match_bonus: 15
     title_any:
+      - ai
+      - ml
+      - genai
+      - gen ai
       - machine learning
       - ml engineer
       - ai engineer
@@ -135,8 +168,6 @@ profiles:
       - sr
       - staff
       - lead
-      - ii
-      - iii
     exclude:
       - phd required
       - research scientist
@@ -185,15 +216,13 @@ profiles:
       - kubernetes
       - ci/cd
       - python
+    # NOTE: "ii", "iii", "2", "3" deliberately removed -- they matched every
+    # "Software Engineer 3" and "MTS 2" title and inflated junk to score 14.
     seniority_boost:
       - senior
       - sr
       - staff
       - lead
-      - ii
-      - iii
-      - 2
-      - 3
     exclude:
       - php
       - .net

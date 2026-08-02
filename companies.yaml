@@ -1,12 +1,108 @@
-# Managed by `jobwatch add <url>`. Safe to hand-edit.
-# Set `paused: true` on any entry to skip it without deleting it.
-#
-# This entry was derived from the NVIDIA URL in your browser, so it is known
-# good. Everything else: run `./bootstrap.sh` or `jobwatch add <url>`, which
-# verifies the feed before writing anything here.
-
 - name: nvidia
   ats: workday
   tenant: nvidia
   wd: wd5
   site: NVIDIAExternalCareerSite
+- name: salesforce
+  ats: workday
+  tenant: salesforce
+  wd: wd12
+  site: External_Career_Site
+- name: cisco
+  ats: workday
+  tenant: cisco
+  wd: wd5
+  site: Cisco_Careers
+- name: hpe
+  ats: workday
+  tenant: hpe
+  wd: wd5
+  site: Jobsathpe
+- name: lseg
+  ats: workday
+  tenant: lseg
+  wd: wd3
+  site: Careers
+- name: forcepoint
+  ats: workday
+  tenant: forcepoint
+  wd: wd1
+  site: external-careers
+- name: databricks
+  ats: greenhouse
+  token: databricks
+- name: gleanwork
+  ats: greenhouse
+  token: gleanwork
+- name: tide
+  ats: greenhouse
+  token: tide
+- name: tekion
+  ats: greenhouse
+  token: tekion
+- name: atomicwork
+  ats: greenhouse
+  token: atomicwork
+- name: coupang
+  ats: greenhouse
+  token: coupang
+- name: abnormalsecurity
+  ats: greenhouse
+  token: abnormalsecurity
+- name: openai
+  ats: ashby
+  token: openai
+- name: cartesia
+  ats: ashby
+  token: cartesia
+- name: zimperium
+  ats: lever
+  token: zimperium
+- name: adobe
+  ats: workday
+  tenant: adobe
+  wd: wd5
+  site: external_experienced
+- name: target
+  ats: workday
+  tenant: target
+  wd: wd5
+  site: targetcareers
+- name: paypal
+  ats: workday
+  tenant: paypal
+  wd: wd1
+  site: jobs
+- name: ebay
+  ats: workday
+  tenant: ebay
+  wd: wd5
+  site: apply
+- name: dell
+  ats: workday
+  tenant: dell
+  wd: wd1
+  site: External
+- name: autodesk
+  ats: workday
+  tenant: autodesk
+  wd: wd1
+  site: Ext
+- name: mongodb
+  ats: greenhouse
+  token: mongodb
+- name: postman
+  ats: greenhouse
+  token: postman
+- name: gitlab
+  ats: greenhouse
+  token: gitlab
+- name: rubrik
+  ats: greenhouse
+  token: rubrik
+- name: groww
+  ats: greenhouse
+  token: groww
+- name: decagon
+  ats: ashby
+  token: decagon

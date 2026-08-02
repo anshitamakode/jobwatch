@@ -1,0 +1,85 @@
+# Companies to watch. One URL per line, # for comments.
+# Run:  ./bootstrap.sh
+#
+# Any URL on the ATS host works -- a specific job, a search page, whatever.
+# `add` strips the path down to the board identifier and verifies the feed
+# before writing anything to companies.yaml.
+#
+# Delete lines you don't care about. Adding your own is the whole point:
+# open a job on any careers page, copy the address bar, paste it here.
+
+# =========================================================================
+# TIER 1 -- confirmed live
+# =========================================================================
+
+# --- Workday ---
+https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite
+https://salesforce.wd12.myworkdayjobs.com/External_Career_Site
+https://cisco.wd5.myworkdayjobs.com/Cisco_Careers
+https://hpe.wd5.myworkdayjobs.com/Jobsathpe
+https://lseg.wd3.myworkdayjobs.com/Careers
+https://forcepoint.wd1.myworkdayjobs.com/external-careers
+
+# --- Greenhouse ---
+https://job-boards.greenhouse.io/databricks
+https://job-boards.greenhouse.io/gleanwork
+https://job-boards.greenhouse.io/tide
+https://job-boards.greenhouse.io/tekion
+https://job-boards.greenhouse.io/atomicwork
+https://job-boards.greenhouse.io/coupang
+https://job-boards.greenhouse.io/abnormalsecurity
+https://job-boards.greenhouse.io/appliedintuition
+
+# --- Ashby ---
+https://jobs.ashbyhq.com/openai
+https://jobs.ashbyhq.com/cartesia
+
+# --- Lever ---
+https://jobs.lever.co/zimperium
+
+# =========================================================================
+# TIER 2 -- plausible, unverified. `add` will confirm or reject each.
+# Failures here are expected and harmless; companies migrate ATS often.
+# =========================================================================
+
+# --- Workday guesses ---
+https://adobe.wd5.myworkdayjobs.com/external_experienced
+https://walmart.wd5.myworkdayjobs.com/WalmartExternal
+https://target.wd5.myworkdayjobs.com/targetcareers
+https://paypal.wd1.myworkdayjobs.com/jobs
+https://ebay.wd5.myworkdayjobs.com/apply
+https://dell.wd1.myworkdayjobs.com/External
+https://sap.wd3.myworkdayjobs.com/SAPCareers
+https://intuit.wd1.myworkdayjobs.com/IntuitExternalCareerSite
+https://autodesk.wd1.myworkdayjobs.com/Ext
+https://vmware.wd1.myworkdayjobs.com/VMware
+
+# --- Greenhouse guesses ---
+https://job-boards.greenhouse.io/confluent
+https://job-boards.greenhouse.io/mongodb
+https://job-boards.greenhouse.io/postman
+https://job-boards.greenhouse.io/gitlab
+https://job-boards.greenhouse.io/rubrik
+https://job-boards.greenhouse.io/harness
+https://job-boards.greenhouse.io/sprinklr
+https://job-boards.greenhouse.io/hasura
+https://job-boards.greenhouse.io/browserstack
+https://job-boards.greenhouse.io/chargebee
+https://job-boards.greenhouse.io/freshworks
+https://job-boards.greenhouse.io/zeta
+https://job-boards.greenhouse.io/cred
+https://job-boards.greenhouse.io/groww
+https://job-boards.greenhouse.io/meesho
+https://job-boards.greenhouse.io/razorpay
+
+# --- Ashby guesses (AI-heavy, often India-remote friendly) ---
+https://jobs.ashbyhq.com/sarvam-ai
+https://jobs.ashbyhq.com/perplexity.ai
+https://jobs.ashbyhq.com/weights-and-biases
+https://jobs.ashbyhq.com/decagon
+https://jobs.ashbyhq.com/together-ai
+
+# --- Lever guesses ---
+https://jobs.lever.co/dream11
+https://jobs.lever.co/leapfinance
+https://jobs.lever.co/attentive
