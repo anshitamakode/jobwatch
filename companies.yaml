@@ -1,0 +1,12 @@
+# Managed by `jobwatch add <url>`. Safe to hand-edit.
+# Set `paused: true` on any entry to skip it without deleting it.
+#
+# This entry was derived from the NVIDIA URL in your browser, so it is known
+# good. Everything else: run `./bootstrap.sh` or `jobwatch add <url>`, which
+# verifies the feed before writing anything here.
+
+- name: nvidia
+  ats: workday
+  tenant: nvidia
+  wd: wd5
+  site: NVIDIAExternalCareerSite

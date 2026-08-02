@@ -1,0 +1,222 @@
+# ---------------------------------------------------------------------------
+# jobwatch config
+# Tune this file freely -- it's the only thing that decides what wakes you up.
+# ---------------------------------------------------------------------------
+
+retain_days: 90          # how long a seen job stays in state before being forgotten
+politeness_seconds: 1.0  # pause between companies so you don't hammer anyone
+
+filters:
+  # Applied to every posting, before profiles are considered.
+  location_any:
+    - bangalore
+    - bengaluru
+    - hyderabad
+    - pune
+    - chennai
+    - gurgaon
+    - gurugram
+    - noida
+    - india
+
+  # If a posting has NO location string at all (Workday does this sometimes),
+  # setting this to false lets it through rather than silently dropping it.
+  location_required: false
+
+  # Title-level kill list. First match drops the posting entirely.
+  exclude_titles:
+    # wrong level
+    - intern
+    - internship
+    - graduate
+    - trainee
+    - fresher
+    - manager
+    - director
+    - head of
+    - vp
+    - vice president
+    # wrong function
+    - recruiter
+    - sales
+    - marketing
+    - account executive
+    - product manager
+    - program manager
+    - designer
+    - technical writer
+    - business analyst
+    - support engineer
+    - customer success
+    - qa engineer
+    - test engineer
+    - quality engineer
+    # hardware / silicon (NVIDIA, Qualcomm, Intel post hundreds of these)
+    - hardware
+    - firmware
+    - silicon
+    - asic
+    - fpga
+    - verification engineer
+    - physical design
+    - analog
+    - rtl
+    # infra / cloud / platform -- you said you don't want these
+    - site reliability
+    - sre
+    - devops
+    - infrastructure engineer
+    - cloud engineer
+    - cloud platform
+    - platform engineer
+    - systems engineer
+    - network engineer
+    - solutions architect
+    - solution architect
+    - database administrator
+    - security engineer
+
+  # Base score is 10 for a title match. Each boost term found in the title is
+  # +6, in the body +2, seniority +4. 12 means "title match plus at least one
+  # real signal". Raise to ~20 if you're getting too much noise.
+  min_score: 12
+
+# ---------------------------------------------------------------------------
+# Resume routing. The highest-scoring profile decides which PDF to send.
+# ---------------------------------------------------------------------------
+profiles:
+  - name: ai_ml
+    resume: Resume_Anshita_Makode_AI_ML.pdf
+    title_any:
+      - machine learning
+      - ml engineer
+      - ai engineer
+      - ai/ml
+      - applied scientist
+      - applied ai
+      - deep learning
+      - generative ai
+      - genai
+      - llm
+      - nlp
+      - conversational ai
+      - recommendation
+      - personalization
+      - search engineer
+      - relevance
+    boost:
+      - llm
+      - llms
+      - rag
+      - agent
+      - agents
+      - agentic
+      - multi agent
+      - orchestration
+      - prompt
+      - embeddings
+      - vector
+      - fine tuning
+      - transformers
+      - pytorch
+      - tensorflow
+      - vertex ai
+      - gemini
+      - openai
+      - langchain
+      - gcp
+      - python
+      - nlp
+      - generative ai
+      - inference
+      - evaluation
+    seniority_boost:
+      - senior
+      - sr
+      - staff
+      - lead
+      - ii
+      - iii
+    exclude:
+      - phd required
+      - research scientist
+
+  - name: backend_java
+    resume: Resume_Anshita_Makode.pdf
+    title_any:
+      - software engineer
+      - software development engineer
+      - software developer
+      - sde
+      - sde 2
+      - sde ii
+      - sde 3
+      - backend
+      - back end
+      - back-end
+      - server side
+      - full stack
+      - fullstack
+      - java
+      - api engineer
+      - member of technical staff
+    boost:
+      - java
+      - spring boot
+      - spring
+      - microservices
+      - distributed systems
+      - rest
+      - grpc
+      - kafka
+      - pub/sub
+      - postgresql
+      - mysql
+      - mongodb
+      - cassandra
+      - aws
+      - gcp
+      - scalability
+      - low latency
+      - high throughput
+      - multithreading
+      - concurrency
+      - docker
+      - kubernetes
+      - ci/cd
+      - python
+    seniority_boost:
+      - senior
+      - sr
+      - staff
+      - lead
+      - ii
+      - iii
+      - 2
+      - 3
+    exclude:
+      - php
+      - .net
+      - c#
+      - ruby on rails
+      - salesforce developer
+      - sap
+      - mainframe
+      - cobol
+      - android developer
+      - ios developer
+
+# ---------------------------------------------------------------------------
+notify:
+  console: true
+  telegram:
+    enabled: true
+    token_env: TELEGRAM_BOT_TOKEN
+    chat_id_env: TELEGRAM_CHAT_ID
+  email:
+    enabled: false
+    host: smtp.gmail.com
+    port: 587
+    from: anshitamakode@gmail.com
+    to: anshitamakode@gmail.com
+    password_env: SMTP_APP_PASSWORD   # Gmail *app password*, not your login

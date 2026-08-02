@@ -1,0 +1,49 @@
+name: jobwatch
+
+on:
+  schedule:
+    # Every 15 minutes. GitHub queues cron jobs, so real spacing is usually
+    # 15-25 min. That still beats LinkedIn's syndication delay by hours.
+    - cron: "*/15 * * * *"
+  workflow_dispatch: {}
+
+# Only one run at a time, otherwise two runs can both see the same job as new
+# and you get duplicate alerts plus a git push conflict.
+concurrency:
+  group: jobwatch-poll
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  poll:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Poll
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python -m jobwatch poll --quiet
+
+      - name: Commit state
+        run: |
+          git config user.name  "jobwatch-bot"
+          git config user.email "actions@github.com"
+          git add state/seen.json
+          if git diff --staged --quiet; then
+            echo "No state change."
+          else
+            git commit -m "state: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git pull --rebase --autostash origin "${GITHUB_REF_NAME}" || true
+            git push
+          fi
