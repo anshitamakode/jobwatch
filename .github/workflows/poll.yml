@@ -2,9 +2,9 @@ name: jobwatch
 
 on:
   schedule:
-    # Every 15 minutes. GitHub queues cron jobs, so real spacing is usually
-    # 15-25 min. That still beats LinkedIn's syndication delay by hours.
-    - cron: "*/15 * * * *"
+    # Hourly. Scanning ~13k postings across 79 companies takes 10-15 min per
+    # run; hourly keeps this inside GitHub's free 2,000 min/month quota.
+    - cron: "0 * * * *"
   workflow_dispatch: {}
 
 # Only one run at a time, otherwise two runs can both see the same job as new
