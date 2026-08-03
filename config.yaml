@@ -105,7 +105,7 @@ filters:
   # Base score is 10 for a title match. Each boost term found in the title is
   # +6, in the body +2, seniority +4. 12 means "title match plus at least one
   # real signal". Raise to ~20 if you're getting too much noise.
-  min_score: 26
+  min_score: 22
 
 # ---------------------------------------------------------------------------
 # Resume routing. The highest-scoring profile decides which PDF to send.
