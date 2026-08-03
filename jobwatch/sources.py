@@ -264,3 +264,188 @@ def fetch(entry: dict, sess: requests.Session | None = None) -> list[Posting]:
     if ats not in FETCHERS:
         raise ValueError(f"unknown ats: {ats}")
     return FETCHERS[ats](entry, sess)
+
+
+# --------------------------------------------------------------------------
+# Workable  (very common for startups)
+# --------------------------------------------------------------------------
+def fetch_workable(entry: dict, sess: requests.Session) -> list[Posting]:
+    token = entry["token"]
+    url = f"https://apply.workable.com/api/v1/widget/accounts/{token}?details=true"
+    r = sess.get(url, timeout=TIMEOUT)
+    r.raise_for_status()
+    out = []
+    for j in r.json().get("jobs", []):
+        loc = ", ".join(
+            x for x in [j.get("city"), j.get("state"), j.get("country")] if x
+        ) or j.get("location", "")
+        out.append(
+            Posting(
+                source="workable",
+                company=entry["name"],
+                job_id=str(j.get("shortcode") or j.get("id")),
+                title=j.get("title", ""),
+                location=loc,
+                url=j.get("url") or j.get("application_url", ""),
+                posted_at=j.get("published_on") or j.get("created_at"),
+                description=html_to_text(j.get("description")),
+            )
+        )
+    return out
+
+
+# --------------------------------------------------------------------------
+# Recruitee
+# --------------------------------------------------------------------------
+def fetch_recruitee(entry: dict, sess: requests.Session) -> list[Posting]:
+    token = entry["token"]
+    url = f"https://{token}.recruitee.com/api/offers/"
+    r = sess.get(url, timeout=TIMEOUT)
+    r.raise_for_status()
+    out = []
+    for j in r.json().get("offers", []):
+        loc = ", ".join(x for x in [j.get("city"), j.get("country")] if x) or j.get(
+            "location", ""
+        )
+        out.append(
+            Posting(
+                source="recruitee",
+                company=entry["name"],
+                job_id=str(j.get("id")),
+                title=j.get("title", ""),
+                location=loc,
+                url=j.get("careers_url") or j.get("careers_apply_url", ""),
+                posted_at=j.get("published_at"),
+                description=html_to_text(j.get("description")),
+            )
+        )
+    return out
+
+
+# --------------------------------------------------------------------------
+# Eightfold  (used by several large Indian enterprises)
+# --------------------------------------------------------------------------
+def fetch_eightfold(entry: dict, sess: requests.Session) -> list[Posting]:
+    token = entry["token"]
+    domain = entry.get("domain", f"{token}.com")
+    out: list[Posting] = []
+    start = 0
+    while True:
+        url = (
+            f"https://{token}.eightfold.ai/api/apply/v2/jobs"
+            f"?domain={domain}&start={start}&num=100"
+        )
+        r = sess.get(url, timeout=TIMEOUT)
+        r.raise_for_status()
+        data = r.json()
+        positions = data.get("positions", [])
+        for j in positions:
+            loc = j.get("location") or ", ".join(j.get("locations", []) or [])
+            out.append(
+                Posting(
+                    source="eightfold",
+                    company=entry["name"],
+                    job_id=str(j.get("id")),
+                    title=j.get("name", ""),
+                    location=loc,
+                    url=j.get("canonicalPositionUrl")
+                    or f"https://{token}.eightfold.ai/careers/job?id={j.get('id')}",
+                    posted_at=str(j.get("t_create", "")) or None,
+                    description=html_to_text(j.get("job_description")),
+                )
+            )
+        start += len(positions)
+        if not positions or start >= data.get("count", 0) or start >= entry.get(
+            "max_jobs", 500
+        ):
+            break
+        time.sleep(0.3)
+    return out
+
+
+# --------------------------------------------------------------------------
+# Generic: schema.org JobPosting embedded as JSON-LD
+#
+# Google requires this markup to index a job in Google Jobs, so most career
+# pages carry it regardless of what ATS is underneath. This is the catch-all
+# for companies running their own portal.
+# --------------------------------------------------------------------------
+def _walk_jsonld(node, found: list) -> None:
+    if isinstance(node, dict):
+        t = node.get("@type")
+        types = t if isinstance(t, list) else [t]
+        if "JobPosting" in types:
+            found.append(node)
+        for v in node.values():
+            _walk_jsonld(v, found)
+    elif isinstance(node, list):
+        for v in node:
+            _walk_jsonld(v, found)
+
+
+def fetch_jsonld(entry: dict, sess: requests.Session) -> list[Posting]:
+    import json as _json
+
+    url = entry["url"]
+    r = sess.get(url, timeout=TIMEOUT, headers={"Accept": "text/html,*/*"})
+    r.raise_for_status()
+    blocks = re.findall(
+        r'<script[^>]+type=["\']application/ld\+json["\'][^>]*>(.*?)</script>',
+        r.text,
+        re.S | re.I,
+    )
+    found: list = []
+    for b in blocks:
+        try:
+            _walk_jsonld(_json.loads(b.strip()), found)
+        except (ValueError, TypeError):
+            continue
+
+    out = []
+    for j in found:
+        loc = ""
+        jl = j.get("jobLocation")
+        jl = jl[0] if isinstance(jl, list) and jl else jl
+        if isinstance(jl, dict):
+            addr = jl.get("address") or {}
+            if isinstance(addr, dict):
+                loc = ", ".join(
+                    x
+                    for x in [
+                        addr.get("addressLocality"),
+                        addr.get("addressRegion"),
+                        addr.get("addressCountry")
+                        if isinstance(addr.get("addressCountry"), str)
+                        else (addr.get("addressCountry") or {}).get("name"),
+                    ]
+                    if x
+                )
+        ident = j.get("identifier")
+        if isinstance(ident, dict):
+            ident = ident.get("value")
+        job_url = j.get("url") or j.get("sameAs") or url
+        out.append(
+            Posting(
+                source="jsonld",
+                company=entry["name"],
+                job_id=str(ident or job_url or j.get("title")),
+                title=j.get("title", ""),
+                location=loc,
+                url=job_url,
+                posted_at=j.get("datePosted"),
+                description=html_to_text(j.get("description")),
+            )
+        )
+    return out
+
+
+# Registered here rather than in the literal above because these adapters are
+# defined further down the file.
+FETCHERS.update(
+    {
+        "workable": fetch_workable,
+        "recruitee": fetch_recruitee,
+        "eightfold": fetch_eightfold,
+        "jsonld": fetch_jsonld,
+    }
+)

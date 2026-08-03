@@ -4,7 +4,8 @@
 # ---------------------------------------------------------------------------
 
 retain_days: 90          # how long a seen job stays in state before being forgotten
-politeness_seconds: 1.0  # pause between companies so you don't hammer anyone
+politeness_seconds: 0.3  # pause between companies; 0.3 keeps ~120 companies
+                         # inside GitHub's free 2,000 min/month Actions quota
 
 filters:
   # Applied to every posting, before profiles are considered.

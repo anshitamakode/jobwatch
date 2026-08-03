@@ -3,31 +3,37 @@
   tenant: nvidia
   wd: wd5
   site: NVIDIAExternalCareerSite
+  search_text: India
 - name: salesforce
   ats: workday
   tenant: salesforce
   wd: wd12
   site: External_Career_Site
+  search_text: India
 - name: cisco
   ats: workday
   tenant: cisco
   wd: wd5
   site: Cisco_Careers
+  search_text: India
 - name: hpe
   ats: workday
   tenant: hpe
   wd: wd5
   site: Jobsathpe
+  search_text: India
 - name: lseg
   ats: workday
   tenant: lseg
   wd: wd3
   site: Careers
+  search_text: India
 - name: forcepoint
   ats: workday
   tenant: forcepoint
   wd: wd1
   site: external-careers
+  max_jobs: 1500
 - name: databricks
   ats: greenhouse
   token: databricks
@@ -63,31 +69,31 @@
   tenant: adobe
   wd: wd5
   site: external_experienced
+  search_text: India
 - name: target
   ats: workday
   tenant: target
   wd: wd5
   site: targetcareers
+  search_text: India
 - name: paypal
   ats: workday
   tenant: paypal
   wd: wd1
   site: jobs
+  max_jobs: 1500
 - name: ebay
   ats: workday
   tenant: ebay
   wd: wd5
   site: apply
-- name: dell
-  ats: workday
-  tenant: dell
-  wd: wd1
-  site: External
+  search_text: India
 - name: autodesk
   ats: workday
   tenant: autodesk
   wd: wd1
   site: Ext
+  search_text: India
 - name: mongodb
   ats: greenhouse
   token: mongodb
@@ -106,3 +112,171 @@
 - name: decagon
   ats: ashby
   token: decagon
+- name: citi
+  ats: workday
+  tenant: citi
+  wd: wd5
+  site: '2'
+  max_jobs: 1500
+- name: mastercard
+  ats: workday
+  tenant: mastercard
+  wd: wd1
+  site: CorporateCareers
+  search_text: India
+- name: micron
+  ats: workday
+  tenant: micron
+  wd: wd1
+  site: External
+  search_text: India
+- name: workday
+  ats: workday
+  tenant: workday
+  wd: wd5
+  site: Workday
+  max_jobs: 1500
+- name: affirm
+  ats: greenhouse
+  token: affirm
+- name: amplitude
+  ats: greenhouse
+  token: amplitude
+- name: asana
+  ats: greenhouse
+  token: asana
+- name: clickhouse
+  ats: greenhouse
+  token: clickhouse
+- name: cloudflare
+  ats: greenhouse
+  token: cloudflare
+- name: cockroachlabs
+  ats: greenhouse
+  token: cockroachlabs
+- name: datadog
+  ats: greenhouse
+  token: datadog
+- name: discord
+  ats: greenhouse
+  token: discord
+- name: dropbox
+  ats: greenhouse
+  token: dropbox
+- name: elastic
+  ats: greenhouse
+  token: elastic
+- name: fastly
+  ats: greenhouse
+  token: fastly
+- name: figma
+  ats: greenhouse
+  token: figma
+- name: fivetran
+  ats: greenhouse
+  token: fivetran
+- name: instacart
+  ats: greenhouse
+  token: instacart
+- name: lyft
+  ats: greenhouse
+  token: lyft
+- name: neo4j
+  ats: greenhouse
+  token: neo4j
+- name: netradyne
+  ats: greenhouse
+  token: netradyne
+- name: newrelic
+  ats: greenhouse
+  token: newrelic
+- name: observeai
+  ats: greenhouse
+  token: observeai
+- name: phonepe
+  ats: greenhouse
+  token: phonepe
+- name: pinterest
+  ats: greenhouse
+  token: pinterest
+- name: reddit
+  ats: greenhouse
+  token: reddit
+- name: samsara
+  ats: greenhouse
+  token: samsara
+- name: scaleai
+  ats: greenhouse
+  token: scaleai
+- name: singlestore
+  ats: greenhouse
+  token: singlestore
+- name: slice
+  ats: greenhouse
+  token: slice
+- name: starburst
+  ats: greenhouse
+  token: starburst
+- name: sumologic
+  ats: greenhouse
+  token: sumologic
+- name: turing
+  ats: greenhouse
+  token: turing
+- name: twilio
+  ats: greenhouse
+  token: twilio
+- name: typeface
+  ats: greenhouse
+  token: typeface
+- name: yugabyte
+  ats: greenhouse
+  token: yugabyte
+- name: browserbase
+  ats: ashby
+  token: browserbase
+- name: cohere
+  ats: ashby
+  token: cohere
+- name: harvey
+  ats: ashby
+  token: harvey
+- name: langchain
+  ats: ashby
+  token: langchain
+- name: linear
+  ats: ashby
+  token: linear
+- name: llamaindex
+  ats: ashby
+  token: llamaindex
+- name: neon
+  ats: ashby
+  token: neon
+- name: notion
+  ats: ashby
+  token: notion
+- name: railway
+  ats: ashby
+  token: railway
+- name: ramp
+  ats: ashby
+  token: ramp
+- name: render
+  ats: ashby
+  token: render
+- name: replit
+  ats: ashby
+  token: replit
+- name: spotdraft
+  ats: ashby
+  token: spotdraft
+- name: supabase
+  ats: ashby
+  token: supabase
+- name: vanta
+  ats: ashby
+  token: vanta
+- name: hevodata
+  ats: lever
+  token: hevodata

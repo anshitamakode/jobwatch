@@ -108,6 +108,13 @@ def cmd_add(args) -> int:
         print("  Not adding. Double-check the URL, or the board may be private.")
         return 1
 
+    if not postings:
+        print("✗ Feed responded but returned 0 postings.")
+        print("  Usually means the page renders its job list in JavaScript,")
+        print("  so there is nothing to read server-side. Not adding -- an")
+        print("  empty feed costs runtime on every poll and can never match.")
+        return 1
+
     print(f"✓ {len(postings)} postings visible.")
     for p in postings[:5]:
         print(f"    - {p.title}  [{p.location}]")
@@ -158,6 +165,43 @@ def cmd_check(args) -> int:
 
 
 # --------------------------------------------------------------------------
+def cmd_prune(args) -> int:
+    """Drop companies whose feed is dead or returns nothing.
+
+    Empty feeds are pure cost: polled every run, incapable of ever matching.
+    """
+    companies = load_yaml(args.companies)
+    sess = _session()
+    keep, drop = [], []
+    for entry in companies:
+        name = entry.get("name", "?")
+        try:
+            postings = fetch(entry, sess)
+        except Exception as e:
+            drop.append((name, f"{type(e).__name__}"))
+            continue
+        if not postings:
+            drop.append((name, "0 postings"))
+        else:
+            keep.append(entry)
+            print(f"  ✓ {name:<22} {len(postings)}")
+        time.sleep(0.3)
+
+    for name, why in drop:
+        print(f"  ✗ {name:<22} {why}")
+
+    if not drop:
+        print("\nNothing to prune.")
+        return 0
+    if args.dry_run:
+        print(f"\n{len(drop)} would be removed, {len(keep)} kept. (Dry run.)")
+        return 0
+    save_companies(args.companies, keep)
+    print(f"\nRemoved {len(drop)}, kept {len(keep)}.")
+    return 0
+
+
+# --------------------------------------------------------------------------
 def cmd_test_notify(args) -> int:
     cfg = load_yaml(args.config)
     from .matcher import Match
@@ -203,6 +247,10 @@ def main(argv=None) -> int:
 
     p = sub.add_parser("check", help="Dry run: show current matches, change nothing.")
     p.set_defaults(func=cmd_check)
+
+    p = sub.add_parser("prune", help="Remove companies with dead or empty feeds.")
+    p.add_argument("--dry-run", action="store_true")
+    p.set_defaults(func=cmd_prune)
 
     p = sub.add_parser("test-notify", help="Send one fake alert to verify delivery.")
     p.set_defaults(func=cmd_test_notify)
