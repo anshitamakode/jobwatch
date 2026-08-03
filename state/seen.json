@@ -7129,6 +7129,16 @@
   "title": "Manager, Forward Deployed Engineer - Tokyo",
   "url": "https://jobs.ashbyhq.com/openai/bef38cc8-b13c-4ca8-8e1c-7d97139efdea"
  },
+ "ashby:openai:bf036b23-cd23-46d0-a02f-4b1483f4698a": {
+  "company": "openai",
+  "first_seen": "2026-08-03T05:03:11+00:00",
+  "job_id": "bf036b23-cd23-46d0-a02f-4b1483f4698a",
+  "location": "Delhi, India",
+  "posted_at": "2026-08-03T04:14:45.299+00:00",
+  "source": "ashby",
+  "title": "AI Deployment Engineer",
+  "url": "https://jobs.ashbyhq.com/openai/bf036b23-cd23-46d0-a02f-4b1483f4698a"
+ },
  "ashby:openai:bf74a8c1-db25-4f35-8711-7870ff1fc9b0": {
   "company": "openai",
   "first_seen": "2026-08-02T23:21:09+00:00",
@@ -8968,6 +8978,16 @@
   "source": "ashby",
   "title": "Federal Account Director, Intelligence Community",
   "url": "https://jobs.ashbyhq.com/openai/fd5522f1-8e39-4d60-8b8a-34fae61104cb"
+ },
+ "ashby:openai:fd8c0f71-da99-4d1a-97f7-ff6b72420689": {
+  "company": "openai",
+  "first_seen": "2026-08-03T05:03:11+00:00",
+  "job_id": "fd8c0f71-da99-4d1a-97f7-ff6b72420689",
+  "location": "Delhi, India",
+  "posted_at": "2026-08-03T03:50:56.759+00:00",
+  "source": "ashby",
+  "title": "Account Director, Large Enterprise",
+  "url": "https://jobs.ashbyhq.com/openai/fd8c0f71-da99-4d1a-97f7-ff6b72420689"
  },
  "ashby:openai:fdf2201f-e2ad-4b4a-9da4-776f64b4fa62": {
   "company": "openai",
@@ -16498,6 +16518,16 @@
   "source": "greenhouse",
   "title": "[\ucfe0\ud321] \uc601\uc5c5 \ubc0f \uc601\uc5c5\uad00\ub9ac \ub2f4\ub2f9\uc790 (\uc8fc\ub2c8\uc5b4, \uc2e0\uc785\uac00\ub2a5)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8096053"
+ },
+ "greenhouse:coupang:8098013": {
+  "company": "coupang",
+  "first_seen": "2026-08-03T05:03:08+00:00",
+  "job_id": "8098013",
+  "location": "South Korea",
+  "posted_at": "2026-08-02T21:24:46-04:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321\uc774\uce20\uc11c\ube44\uc2a4] CX \uc6b4\uc601 \ubc0f \uae30\ud68d \uac1c\uc120 \ub2f4\ub2f9\uc790",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8098013"
  },
  "greenhouse:coupang:8098130": {
   "company": "coupang",
@@ -24918,6 +24948,16 @@
   "source": "greenhouse",
   "title": "AI Transformation Owner, Marketing",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8548105002"
+ },
+ "greenhouse:gitlab:8548980002": {
+  "company": "gitlab",
+  "first_seen": "2026-08-03T05:05:01+00:00",
+  "job_id": "8548980002",
+  "location": "Remote, Australia",
+  "posted_at": "2026-05-14T19:47:08-04:00",
+  "source": "greenhouse",
+  "title": "Customer Success Manager - Australia",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8548980002"
  },
  "greenhouse:gitlab:8551468002": {
   "company": "gitlab",
@@ -40409,6 +40449,16 @@
   "title": "Anaplan Sr SW Applications Engineer",
   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Bengaluru-IND/Anaplan-Sr-SW-Applications-Engineer_26WD100209"
  },
+ "workday:autodesk:/job/Bengaluru-IND/Candidate-Support-Advisor_26WD100000": {
+  "company": "autodesk",
+  "first_seen": "2026-08-03T05:04:58+00:00",
+  "job_id": "/job/Bengaluru-IND/Candidate-Support-Advisor_26WD100000",
+  "location": "Bengaluru, IND",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Candidate Support Advisor",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Bengaluru-IND/Candidate-Support-Advisor_26WD100000"
+ },
  "workday:autodesk:/job/Bengaluru-IND/Credit-Tech-Operations-Team-Lead_26WD99381-1": {
   "company": "autodesk",
   "first_seen": "2026-08-02T23:22:59+00:00",
@@ -44379,6 +44429,16 @@
   "title": "Test Development Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Test-Development-Engineer_2018695-1"
  },
+ "workday:cisco:/job/Bangkok-Thailand/Administrative-Assistant--Thailand_2020111": {
+  "company": "cisco",
+  "first_seen": "2026-08-03T05:02:03+00:00",
+  "job_id": "/job/Bangkok-Thailand/Administrative-Assistant--Thailand_2020111",
+  "location": "Bangkok, Thailand",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Administrative Assistant, Thailand",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangkok-Thailand/Administrative-Assistant--Thailand_2020111"
+ },
  "workday:cisco:/job/Bangkok-Thailand/Inside-Account-Executive---Architecture_2019299": {
   "company": "cisco",
   "first_seen": "2026-08-02T23:20:03+00:00",
@@ -44939,6 +44999,16 @@
   "title": "Foundry Technology Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Holmdel-New-Jersey-US/Foundry-Technology-Engineer_2018617-1"
  },
+ "workday:cisco:/job/Holmdel-New-Jersey-US/Hardware-Engineering-Technical-Leader_2019255": {
+  "company": "cisco",
+  "first_seen": "2026-08-03T05:02:03+00:00",
+  "job_id": "/job/Holmdel-New-Jersey-US/Hardware-Engineering-Technical-Leader_2019255",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Hardware Engineering Technical Leader",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Holmdel-New-Jersey-US/Hardware-Engineering-Technical-Leader_2019255"
+ },
  "workday:cisco:/job/Hong-Kong-Hong-Kong/Account-Executive---Services---Software-Buying-Programs_2020103": {
   "company": "cisco",
   "first_seen": "2026-08-02T23:20:03+00:00",
@@ -45038,6 +45108,16 @@
   "source": "workday",
   "title": "Data Scientist\u00a0|\u00a0Data Engineer (AI & GTM Analytics)\u00a0",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Hyderabad-India/Data-Scientist_2018975"
+ },
+ "workday:cisco:/job/Hyderabad-India/Site-Reliability-Engineer_2016183-1": {
+  "company": "cisco",
+  "first_seen": "2026-08-03T05:02:03+00:00",
+  "job_id": "/job/Hyderabad-India/Site-Reliability-Engineer_2016183-1",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Site Reliability Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Hyderabad-India/Site-Reliability-Engineer_2016183-1"
  },
  "workday:cisco:/job/Hyderabad-India/Software-Engineer---Mulesoft-Developer_2019654": {
   "company": "cisco",
@@ -45649,6 +45729,16 @@
   "title": "Technical Leader, Site Reliability Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Technical-Leader--Site-Reliability-Engineer_2018405"
  },
+ "workday:cisco:/job/Minato-Japan/Account-Executive---Splunk_2019191-1": {
+  "company": "cisco",
+  "first_seen": "2026-08-03T05:02:03+00:00",
+  "job_id": "/job/Minato-Japan/Account-Executive---Splunk_2019191-1",
+  "location": "Minato, Japan",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Account Executive (\u516c\u5171\u62c5\u5f53) - Splunk",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Minato-Japan/Account-Executive---Splunk_2019191-1"
+ },
  "workday:cisco:/job/Minato-Japan/Account-Executive--Service-_2020455-1": {
   "company": "cisco",
   "first_seen": "2026-08-03T01:16:36+00:00",
@@ -45668,6 +45758,16 @@
   "source": "workday",
   "title": "Business Operations Analyst",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Minato-Japan/Business-Operations-Analyst_2019993"
+ },
+ "workday:cisco:/job/Minato-Japan/Consulting-Enginer_2018055": {
+  "company": "cisco",
+  "first_seen": "2026-08-03T05:02:03+00:00",
+  "job_id": "/job/Minato-Japan/Consulting-Enginer_2018055",
+  "location": "Minato, Japan",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Consulting Enginer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Minato-Japan/Consulting-Enginer_2018055"
  },
  "workday:cisco:/job/Minato-Japan/Inside-Account-Executive---Architecture_2018888": {
   "company": "cisco",
@@ -45898,6 +45998,16 @@
   "source": "workday",
   "title": "Consulting Engineering Technical Leader - Optus",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/North-Sydney-Australia/Consulting-Engineering-Technical-Leader---Optus_2019674"
+ },
+ "workday:cisco:/job/North-Sydney-Australia/Customer-Experience-Customer-Success-Specialist---Security_2020468": {
+  "company": "cisco",
+  "first_seen": "2026-08-03T05:02:03+00:00",
+  "job_id": "/job/North-Sydney-Australia/Customer-Experience-Customer-Success-Specialist---Security_2020468",
+  "location": "3 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Customer Experience Customer Success Specialist - Security",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/North-Sydney-Australia/Customer-Experience-Customer-Success-Specialist---Security_2020468"
  },
  "workday:cisco:/job/North-Sydney-Australia/Technical-Consulting-Engineer_2016176": {
   "company": "cisco",
@@ -46199,6 +46309,16 @@
   "title": "Senior Kubernetes Platform Engineer - AI Infrastructure",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Senior-Kubernetes-Platform-Engineer---AI-Infrastructure_2013580"
  },
+ "workday:cisco:/job/RTP-North-Carolina-US/Senior-Software-Engineer--Hybrid-_2019339": {
+  "company": "cisco",
+  "first_seen": "2026-08-03T05:02:03+00:00",
+  "job_id": "/job/RTP-North-Carolina-US/Senior-Software-Engineer--Hybrid-_2019339",
+  "location": "RTP, North Carolina, US",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Software Engineer (Hybrid)",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/RTP-North-Carolina-US/Senior-Software-Engineer--Hybrid-_2019339"
+ },
  "workday:cisco:/job/RTP-North-Carolina-US/Senior-Software-Engineer-in-Test--Network-Security--Performance---Hybrid--RTP--NC_2011993": {
   "company": "cisco",
   "first_seen": "2026-08-02T23:20:03+00:00",
@@ -46378,6 +46498,16 @@
   "source": "workday",
   "title": "Account Executive - Splunk - Air Force",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Remote---Virginia-USA/Account-Executive---Splunk---Air-Force_2017429-1"
+ },
+ "workday:cisco:/job/Remote---Virginia-USA/Account-Executive---Splunk-PBST-Defense--Remote-_2020428-1": {
+  "company": "cisco",
+  "first_seen": "2026-08-03T05:02:03+00:00",
+  "job_id": "/job/Remote---Virginia-USA/Account-Executive---Splunk-PBST-Defense--Remote-_2020428-1",
+  "location": "Remote - Virginia, USA",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Account Executive - Splunk PBST Defense (Remote)",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Remote---Virginia-USA/Account-Executive---Splunk-PBST-Defense--Remote-_2020428-1"
  },
  "workday:cisco:/job/Remote---Virginia-USA/Leader--Sales--Splunk---US-Military-Defense_2020044-1": {
   "company": "cisco",
@@ -47379,6 +47509,16 @@
   "title": "Account Executive - Splunk (Remote)",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Sao-Paulo-Brazil/Account-Executive---Splunk--Remote-_2020791-1"
  },
+ "workday:cisco:/job/Sao-Paulo-Brazil/Manufacturing-Engineer_2019094": {
+  "company": "cisco",
+  "first_seen": "2026-08-03T05:02:03+00:00",
+  "job_id": "/job/Sao-Paulo-Brazil/Manufacturing-Engineer_2019094",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manufacturing Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Sao-Paulo-Brazil/Manufacturing-Engineer_2019094"
+ },
  "workday:cisco:/job/Sao-Paulo-Brazil/Manufacturing-Operations-Supply-Project-Manager_2019151": {
   "company": "cisco",
   "first_seen": "2026-08-02T23:20:03+00:00",
@@ -47628,6 +47768,16 @@
   "source": "workday",
   "title": "Leader, Sales / Country Manager - Austria",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Vienna-Austria/Leader--Sales---Country-Manager---Austria_2020934"
+ },
+ "workday:cisco:/job/Washington-District-of-Columbia-US/Federal-Account-Executive---ThousandEyes_2019379": {
+  "company": "cisco",
+  "first_seen": "2026-08-03T05:02:03+00:00",
+  "job_id": "/job/Washington-District-of-Columbia-US/Federal-Account-Executive---ThousandEyes_2019379",
+  "location": "4 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Federal Account Executive - ThousandEyes",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Washington-District-of-Columbia-US/Federal-Account-Executive---ThousandEyes_2019379"
  },
  "workday:cisco:/job/Washington-District-of-Columbia-US/Sales-Development-Representative_2019588-1": {
   "company": "cisco",
@@ -50429,6 +50579,16 @@
   "title": "Sr. MTS iOS Engineer, eBay Live",
   "url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/San-Jose/Sr-MTS--Software-Engineer--iOS-_R0069689"
  },
+ "workday:ebay:/job/San-Jose/Sr-Manager--Executive-Communications_R0075239-1": {
+  "company": "ebay",
+  "first_seen": "2026-08-03T05:04:37+00:00",
+  "job_id": "/job/San-Jose/Sr-Manager--Executive-Communications_R0075239-1",
+  "location": "San Jose",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Manager, Executive Communications",
+  "url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/San-Jose/Sr-Manager--Executive-Communications_R0075239-1"
+ },
  "workday:ebay:/job/San-Jose/Sr-Product-Manager--Search-AI_R0073606-1": {
   "company": "ebay",
   "first_seen": "2026-08-02T23:22:35+00:00",
@@ -52739,6 +52899,16 @@
   "title": "ARC Support Engineer - L3 ( Switching )",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/ARC-Support-Engineer---L3---Switching--_1210019-2"
  },
+ "workday:hpe:/job/Bengaluru-Karntaka-India/ARC-Support-Engineer---L3_1200100-1": {
+  "company": "hpe",
+  "first_seen": "2026-08-03T05:02:29+00:00",
+  "job_id": "/job/Bengaluru-Karntaka-India/ARC-Support-Engineer---L3_1200100-1",
+  "location": "Bengaluru, Karn\u0101taka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "ARC Support Engineer - L3 (Routing)",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/ARC-Support-Engineer---L3_1200100-1"
+ },
  "workday:hpe:/job/Bengaluru-Karntaka-India/ASIC-Front-end-Design-engineer_1207305-2": {
   "company": "hpe",
   "first_seen": "2026-08-02T23:20:27+00:00",
@@ -53268,6 +53438,16 @@
   "source": "workday",
   "title": "Senior AI Product Manager",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/Senior-AI-Product-Manager_1206805-2"
+ },
+ "workday:hpe:/job/Bengaluru-Karntaka-India/Senior-AI-and-Machine-Learning-Engineer_1207376-2": {
+  "company": "hpe",
+  "first_seen": "2026-08-03T05:02:29+00:00",
+  "job_id": "/job/Bengaluru-Karntaka-India/Senior-AI-and-Machine-Learning-Engineer_1207376-2",
+  "location": "Bengaluru, Karn\u0101taka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Networking AI Engineer",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/Senior-AI-and-Machine-Learning-Engineer_1207376-2"
  },
  "workday:hpe:/job/Bengaluru-Karntaka-India/Senior-Application-Software-Engineer_1208405-3": {
   "company": "hpe",
@@ -56159,6 +56339,26 @@
   "title": "HPEFS Process Engineer",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Wroclaw-Lower-Silesian-Poland/HPEFS-Process-Engineer_1208476-3"
  },
+ "workday:hpe:1203928": {
+  "company": "hpe",
+  "first_seen": "2026-08-03T05:02:29+00:00",
+  "job_id": "1203928",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe"
+ },
+ "workday:hpe:1208476": {
+  "company": "hpe",
+  "first_seen": "2026-08-03T05:02:29+00:00",
+  "job_id": "1208476",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe"
+ },
  "workday:lseg:/job/Allen-Texas/Principal---Cloud-Data-Architect_R0122117": {
   "company": "lseg",
   "first_seen": "2026-08-02T23:20:53+00:00",
@@ -58969,6 +59169,16 @@
   "title": "Senior Content Operations Manager",
   "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/PHL-Taguig-City-CitiPlaza/Content-Operations-Manager_R0119425-1"
  },
+ "workday:lseg:/job/PHL-Taguig-City-CitiPlaza/Content-Quality---Automation-Specialist_R0121955": {
+  "company": "lseg",
+  "first_seen": "2026-08-03T05:02:55+00:00",
+  "job_id": "/job/PHL-Taguig-City-CitiPlaza/Content-Quality---Automation-Specialist_R0121955",
+  "location": "PHL-Taguig City-CitiPlaza",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Content Quality & Automation Specialist",
+  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/PHL-Taguig-City-CitiPlaza/Content-Quality---Automation-Specialist_R0121955"
+ },
  "workday:lseg:/job/PHL-Taguig-City-CitiPlaza/Credit-Controller_R0119958-1": {
   "company": "lseg",
   "first_seen": "2026-08-02T23:20:53+00:00",
@@ -58998,6 +59208,16 @@
   "source": "workday",
   "title": "DevSecOps Engineer, Senior Associate",
   "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/PHL-Taguig-City-CitiPlaza/DevSecOps-Engineer--Senior-Associate_R0120437-1"
+ },
+ "workday:lseg:/job/PHL-Taguig-City-CitiPlaza/Director--Content-Operations-Management_R0121581-1": {
+  "company": "lseg",
+  "first_seen": "2026-08-03T05:02:55+00:00",
+  "job_id": "/job/PHL-Taguig-City-CitiPlaza/Director--Content-Operations-Management_R0121581-1",
+  "location": "PHL-Taguig City-CitiPlaza",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Content Operations Management",
+  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/PHL-Taguig-City-CitiPlaza/Director--Content-Operations-Management_R0121581-1"
  },
  "workday:lseg:/job/PHL-Taguig-City-CitiPlaza/LCH-SA-Manager--Regulatory-Reporting_R0120969": {
   "company": "lseg",
@@ -60209,6 +60429,16 @@
   "title": "Principal Carline Program Manager - Autonomous Vehicles",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Guangzhou/Carline-Program-Manager---Autonomous-Vehicles_JR2020557"
  },
+ "workday:nvidia:/job/China-Shanghai/ASIC-Design-Engineer--Clocks_JR2020494": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/China-Shanghai/ASIC-Design-Engineer--Clocks_JR2020494",
+  "location": "China, Shanghai",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "ASIC Design Engineer, Clocks",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/China-Shanghai/ASIC-Design-Engineer--Clocks_JR2020494"
+ },
  "workday:nvidia:/job/China-Shanghai/Deep-Learning-Performance-Architect_JR2021807": {
   "company": "nvidia",
   "first_seen": "2026-08-02T23:19:35+00:00",
@@ -60358,6 +60588,16 @@
   "source": "workday",
   "title": "ASIC Design and STA Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Design-and-STA-Engineer_JR2021789-1"
+ },
+ "workday:nvidia:/job/India-Bengaluru/DFT-Verification-Engineer_JR2022621": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/India-Bengaluru/DFT-Verification-Engineer_JR2022621",
+  "location": "India, Bengaluru",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "DFT Verification Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/DFT-Verification-Engineer_JR2022621"
  },
  "workday:nvidia:/job/India-Bengaluru/Emulation-and-Prototyping-Engineer_JR2020636": {
   "company": "nvidia",
@@ -60809,6 +61049,16 @@
   "title": "Senior Chip Design Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR2020876"
  },
+ "workday:nvidia:/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR2022408-1": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR2022408-1",
+  "location": "Israel, Tel Aviv",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Chip Design Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Chip-Design-Engineer_JR2022408-1"
+ },
  "workday:nvidia:/job/Israel-Tel-Aviv/Senior-Chip-Design-and-Verification-Engineer_JR2022222": {
   "company": "nvidia",
   "first_seen": "2026-08-02T23:19:35+00:00",
@@ -60878,6 +61128,16 @@
   "source": "workday",
   "title": "Senior Software Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Engineer_JR1994007"
+ },
+ "workday:nvidia:/job/Israel-Tel-Aviv/Senior-Software-Firmware-Architect--Host-Management_JR2022470": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/Israel-Tel-Aviv/Senior-Software-Firmware-Architect--Host-Management_JR2022470",
+  "location": "3 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Software Firmware Architect, Host Management",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Tel-Aviv/Senior-Software-Firmware-Architect--Host-Management_JR2022470"
  },
  "workday:nvidia:/job/Israel-Tel-Aviv/Senior-Switch-System-Validation-Engineer_JR2010510": {
   "company": "nvidia",
@@ -61179,6 +61439,16 @@
   "title": "Senior Software and System Architect",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-Software-and-System-Architect_JR2022247"
  },
+ "workday:nvidia:/job/Israel-Yokneam/Senior-System-Management-Architect_JR2022518": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/Israel-Yokneam/Senior-System-Management-Architect_JR2022518",
+  "location": "Israel, Yokneam",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior System Management Architect",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Israel-Yokneam/Senior-System-Management-Architect_JR2022518"
+ },
  "workday:nvidia:/job/Israel-Yokneam/Senior-System-Software-Architect--AI-Networking_JR2007250": {
   "company": "nvidia",
   "first_seen": "2026-08-02T23:19:35+00:00",
@@ -61309,6 +61579,16 @@
   "title": "Solution Architect, Local Government AI",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Spain-Remote/Solution-Architect--Local-Government-AI_JR2021891"
  },
+ "workday:nvidia:/job/Sweden-Remote/Developer-Relations-Manager--AI-Natives_JR2021213": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/Sweden-Remote/Developer-Relations-Manager--AI-Natives_JR2021213",
+  "location": "3 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Developer Relations Manager, AI Natives",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Sweden-Remote/Developer-Relations-Manager--AI-Natives_JR2021213"
+ },
  "workday:nvidia:/job/Switzerland-Remote/Senior-HPC-Performance-Engineer_JR2016204": {
   "company": "nvidia",
   "first_seen": "2026-08-02T23:19:35+00:00",
@@ -61318,6 +61598,16 @@
   "source": "workday",
   "title": "Senior HPC Performance Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Remote/Senior-HPC-Performance-Engineer_JR2016204"
+ },
+ "workday:nvidia:/job/Switzerland-Zurich/Solutions-Architect--Cloud-Inference-Services_JR2022206-1": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/Switzerland-Zurich/Solutions-Architect--Cloud-Inference-Services_JR2022206-1",
+  "location": "3 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Solutions Architect, Cloud Inference Services",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/Solutions-Architect--Cloud-Inference-Services_JR2022206-1"
  },
  "workday:nvidia:/job/Taiwan-Hsinchu/Senior-Mixed-Signal-Circuit-Design-Engineer_JR2022443": {
   "company": "nvidia",
@@ -61359,6 +61649,16 @@
   "title": "Senior Embedded System Software Engineer - Hypervisor and Visualization",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Embedded-System-Software-Engineer---Hypervisor-and-Visualization_JR2022307"
  },
+ "workday:nvidia:/job/Taiwan-Taipei/Senior-MGX-Ecosystem-Engineer_JR2021581": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/Taiwan-Taipei/Senior-MGX-Ecosystem-Engineer_JR2021581",
+  "location": "Taiwan, Taipei",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior MGX Ecosystem Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-MGX-Ecosystem-Engineer_JR2021581"
+ },
  "workday:nvidia:/job/Taiwan-Taipei/Senior-System-Software-Engineer--Client-Embedded-Controller_JR2021636": {
   "company": "nvidia",
   "first_seen": "2026-08-02T23:19:35+00:00",
@@ -61379,6 +61679,16 @@
   "title": "Senior Systems Software Engineer, Data Center Platform Enablement",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2022097"
  },
+ "workday:nvidia:/job/Taiwan-Taipei/System-Design-Engineer---LDE--RDSS-Intern-_JR2021878": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/Taiwan-Taipei/System-Design-Engineer---LDE--RDSS-Intern-_JR2021878",
+  "location": "Taiwan, Taipei",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "System Design Engineer - LDE (RDSS Intern)",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Engineer---LDE--RDSS-Intern-_JR2021878"
+ },
  "workday:nvidia:/job/Taiwan-Taipei/System-Design-Intern--LDE---2027_JR2021952": {
   "company": "nvidia",
   "first_seen": "2026-08-02T23:19:35+00:00",
@@ -61388,6 +61698,16 @@
   "source": "workday",
   "title": "System Design Intern, LDE - 2027",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/System-Design-Intern--LDE---2027_JR2021952"
+ },
+ "workday:nvidia:/job/Taiwan-Taipei/Test-Development-Engineer---Data-Center-System-Software_JR2022346": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/Taiwan-Taipei/Test-Development-Engineer---Data-Center-System-Software_JR2022346",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Test Development Engineer - Data Center System Software",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Taiwan-Taipei/Test-Development-Engineer---Data-Center-System-Software_JR2022346"
  },
  "workday:nvidia:/job/UK-Remote/Developer-Relations-Manager--Computer-Aided-Engineering_JR2021816": {
   "company": "nvidia",
@@ -62009,6 +62329,16 @@
   "title": "Post-Silicon Validation and Methodology Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Post-Silicon-Validation-and-Methodology-Engineer_JR2018268"
  },
+ "workday:nvidia:/job/US-CA-Santa-Clara/Principal-Architect--System-Software---Orbital-Data-Center_JR2019010": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/US-CA-Santa-Clara/Principal-Architect--System-Software---Orbital-Data-Center_JR2019010",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Principal Architect, System Software - Orbital Data Center",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Architect--System-Software---Orbital-Data-Center_JR2019010"
+ },
  "workday:nvidia:/job/US-CA-Santa-Clara/Principal-Chip-Lead--Silicon-Co-Design-Group_JR2021473": {
   "company": "nvidia",
   "first_seen": "2026-08-02T23:19:35+00:00",
@@ -62098,6 +62428,16 @@
   "source": "workday",
   "title": "Principal Systems Software Engineer - Observability and Telemetry Platform",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Site-Reliability-Engineer---Observability-and-Telemetry-Platform_JR2018098"
+ },
+ "workday:nvidia:/job/US-CA-Santa-Clara/Principal-Software-Architect--Networking-AI_JR2017640": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/US-CA-Santa-Clara/Principal-Software-Architect--Networking-AI_JR2017640",
+  "location": "US, CA, Santa Clara",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Principal Software Architect, Networking AI",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Principal-Software-Architect--Networking-AI_JR2017640"
  },
  "workday:nvidia:/job/US-CA-Santa-Clara/Principal-Software-Engineer---CSP-Engagements_JR1998405": {
   "company": "nvidia",
@@ -62238,6 +62578,16 @@
   "source": "workday",
   "title": "Senior ASIC Design Efficiency Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Efficiency-Engineer_JR2022622"
+ },
+ "workday:nvidia:/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer---Clocks-IP_JR2022532": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer---Clocks-IP_JR2022532",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior ASIC Design Engineer \u2013 Clocks IP",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer---Clocks-IP_JR2022532"
  },
  "workday:nvidia:/job/US-CA-Santa-Clara/Senior-ASIC-Design-Engineer_JR2009401": {
   "company": "nvidia",
@@ -62869,6 +63219,16 @@
   "title": "Senior Memory Post Silicon Qualification Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Memory-Post-Silicon-Qualification-Engineer_JR2021467"
  },
+ "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Memory-System-Architect_JR2022582": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/US-CA-Santa-Clara/Senior-Memory-System-Architect_JR2022582",
+  "location": "3 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Memory System Architect",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Memory-System-Architect_JR2022582"
+ },
  "workday:nvidia:/job/US-CA-Santa-Clara/Senior-NPI-Program-Manager_JR2016872": {
   "company": "nvidia",
   "first_seen": "2026-08-02T23:19:35+00:00",
@@ -63219,6 +63579,16 @@
   "title": "Senior Software Architect - Deep Learning and HPC Communications",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Architect---Deep-Learning-and-HPC-Communications_JR2001099-1"
  },
+ "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Software-Architect---Deep-Learning-and-HPC-Communications_JR2016116": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/US-CA-Santa-Clara/Senior-Software-Architect---Deep-Learning-and-HPC-Communications_JR2016116",
+  "location": "5 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Software Architect - Deep Learning and HPC Communications",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Architect---Deep-Learning-and-HPC-Communications_JR2016116"
+ },
  "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Software-Engineer---CUDA-Driver_JR2014725": {
   "company": "nvidia",
   "first_seen": "2026-08-02T23:19:35+00:00",
@@ -63309,6 +63679,16 @@
   "title": "Senior Software Engineer, Agentic AI",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Agentic-AI_JR2017340"
  },
+ "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Software-Engineer--Agentic-Robotics-Infrastructure_JR2022617": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--Agentic-Robotics-Infrastructure_JR2022617",
+  "location": "US, CA, Santa Clara",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Software Engineer, Agentic Robotics Infrastructure",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Agentic-Robotics-Infrastructure_JR2022617"
+ },
  "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Software-Engineer--Cloud-Native-Stack---CSP-Engagements_JR2001098": {
   "company": "nvidia",
   "first_seen": "2026-08-02T23:19:35+00:00",
@@ -63338,6 +63718,16 @@
   "source": "workday",
   "title": "Senior Software Engineer, Distributed Systems Engineer - DGX Cloud",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Distributed-Systems-Engineer---DGX-Cloud_JR2021856-1"
+ },
+ "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Software-Engineer--Embedded-Platform-Middleware---Automotive-and-Robotics_JR2022103": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/US-CA-Santa-Clara/Senior-Software-Engineer--Embedded-Platform-Middleware---Automotive-and-Robotics_JR2022103",
+  "location": "US, CA, Santa Clara",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Software Engineer, Embedded Platform Middleware \u2014 Automotive and Robotics",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Engineer--Embedded-Platform-Middleware---Automotive-and-Robotics_JR2022103"
  },
  "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Software-Engineer--Evaluation-Flywheel---Autonomous-Vehicles_JR2021751": {
   "company": "nvidia",
@@ -63739,6 +64129,16 @@
   "title": "Senior Systems Software Engineer, Cloud Infrastructure and Development",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Cloud-Infrastructure-and-Development_JR2013426"
  },
+ "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Compute-Stack-Acceleration_JR2021549": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Compute-Stack-Acceleration_JR2021549",
+  "location": "4 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Systems Software Engineer, Compute Stack Acceleration",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Compute-Stack-Acceleration_JR2021549"
+ },
  "workday:nvidia:/job/US-CA-Santa-Clara/Senior-Systems-Software-Engineer--Data-Center-Platform-Enablement_JR2019870": {
   "company": "nvidia",
   "first_seen": "2026-08-02T23:19:35+00:00",
@@ -64029,6 +64429,16 @@
   "title": "Physical Design Engineer, Synthesis and Implementation",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Physical-Design-Engineer--Synthesis-and-Implementation_JR2022543-1"
  },
+ "workday:nvidia:/job/US-MA-Westford/Senior-Architect--NVLink_JR2022626": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/US-MA-Westford/Senior-Architect--NVLink_JR2022626",
+  "location": "US, MA, Westford",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Architect, NVLink",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Senior-Architect--NVLink_JR2022626"
+ },
  "workday:nvidia:/job/US-MA-Westford/Senior-Fullstack-Software-Engineer_JR2021866": {
   "company": "nvidia",
   "first_seen": "2026-08-02T23:19:35+00:00",
@@ -64058,6 +64468,16 @@
   "source": "workday",
   "title": "Inception Partner Manager - Public Sector, Energy, and CAE",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MD-Remote/Inception-Partner-Manager---Public-Sector--Energy--and-CAE_JR2020430"
+ },
+ "workday:nvidia:/job/US-NC-Durham/Senior-ASIC-Verification-Engineer_JR2022623-1": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/US-NC-Durham/Senior-ASIC-Verification-Engineer_JR2022623-1",
+  "location": "US, NC, Durham",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior ASIC Verification Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/Senior-ASIC-Verification-Engineer_JR2022623-1"
  },
  "workday:nvidia:/job/US-NC-Durham/Senior-System-Software-Engineer---Data-Center-Compute-Diagnostics_JR2022439": {
   "company": "nvidia",
@@ -64149,6 +64569,26 @@
   "title": "Senior Software Engineer, Customer Data and Marketing AI",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-Software-Engineer--Customer-Data-and-Marketing-AI_JR2022042"
  },
+ "workday:nvidia:/job/US-TX-Remote/Senior-Systems-Software-Engineer--Data-Center-Infrastructure-Management---EngOps_JR2015514": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/US-TX-Remote/Senior-Systems-Software-Engineer--Data-Center-Infrastructure-Management---EngOps_JR2015514",
+  "location": "4 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Systems Software Engineer, Data Center Infrastructure Management - EngOps",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Remote/Senior-Systems-Software-Engineer--Data-Center-Infrastructure-Management---EngOps_JR2015514"
+ },
+ "workday:nvidia:/job/US-WA-Redmond/Senior-Software-Engineer--Agentic-AI_JR2022556": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/US-WA-Redmond/Senior-Software-Engineer--Agentic-AI_JR2022556",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Software Engineer, Agentic AI",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Senior-Software-Engineer--Agentic-AI_JR2022556"
+ },
  "workday:nvidia:/job/US-WA-Remote/Senior-Account-Manager_JR2022472": {
   "company": "nvidia",
   "first_seen": "2026-08-02T23:19:35+00:00",
@@ -64168,6 +64608,26 @@
   "source": "workday",
   "title": "Research Scientist, Robotics Research -  PhD New College Grad 2026",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473"
+ },
+ "workday:nvidia:/job/Vietnam-Hanoi/Senior-System-Software-Engineer--AI-Data-Platform_JR2021105": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "/job/Vietnam-Hanoi/Senior-System-Software-Engineer--AI-Data-Platform_JR2021105",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior System Software Engineer, AI Data Platform",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Hanoi/Senior-System-Software-Engineer--AI-Data-Platform_JR2021105"
+ },
+ "workday:nvidia:JR2009131": {
+  "company": "nvidia",
+  "first_seen": "2026-08-03T05:01:34+00:00",
+  "job_id": "JR2009131",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite"
  },
  "workday:paypal:/job/Austin-Texas-United-States-of-America/Manager--Global-Mobility---Immigration-Ops_R0136403-1": {
   "company": "paypal",
@@ -65459,6 +65919,16 @@
   "title": "Services Sales Solution Lead (Pre-Sales)",
   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Australia---Sydney/Services-Sales-Solution-Lead--Pre-Sales-_JR353396"
  },
+ "workday:salesforce:/job/Australia---Sydney/XMLNAME-2026-Legal-Summer-Intern---Sydney_JR354606-1": {
+  "company": "salesforce",
+  "first_seen": "2026-08-03T05:01:50+00:00",
+  "job_id": "/job/Australia---Sydney/XMLNAME-2026-Legal-Summer-Intern---Sydney_JR354606-1",
+  "location": "Australia - Sydney",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "2026 Legal Summer Intern - Sydney",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Australia---Sydney/XMLNAME-2026-Legal-Summer-Intern---Sydney_JR354606-1"
+ },
  "workday:salesforce:/job/Belgium---Brussels/Forward-Deployed-Engineer---Public-Sector--Nonprofit---Education_JR348876": {
   "company": "salesforce",
   "first_seen": "2026-08-02T23:19:51+00:00",
@@ -65728,6 +66198,16 @@
   "source": "workday",
   "title": "Customer Success Senior Manager - Core (Sales & Service) Clouds - TMT",
   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Customer-Success-Senior-Manager---Core--Sales---Service--Clouds---TMT_JR351039"
+ },
+ "workday:salesforce:/job/California---San-Francisco/Diagram-Designer_JR351673": {
+  "company": "salesforce",
+  "first_seen": "2026-08-03T05:01:50+00:00",
+  "job_id": "/job/California---San-Francisco/Diagram-Designer_JR351673",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Diagram Designer",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Diagram-Designer_JR351673"
  },
  "workday:salesforce:/job/California---San-Francisco/Digital-Success---Operations-Senior-Lead---Events-Technology-Platform_JR347898": {
   "company": "salesforce",
@@ -67549,6 +68029,16 @@
   "title": "Senior Analyst, GTM Product Marketing \u2014 Contact Center",
   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Senior-Analyst--GTM-Product-Marketing---Contact-Center_JR353299"
  },
+ "workday:salesforce:/job/Indiana---Indianapolis/Senior-Benefits---Leave-Specialist_JR347407": {
+  "company": "salesforce",
+  "first_seen": "2026-08-03T05:01:50+00:00",
+  "job_id": "/job/Indiana---Indianapolis/Senior-Benefits---Leave-Specialist_JR347407",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Benefits & Leave Specialist",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Senior-Benefits---Leave-Specialist_JR347407"
+ },
  "workday:salesforce:/job/Indiana---Indianapolis/Senior-Manager--Employee-Recruiting_JR346811": {
   "company": "salesforce",
   "first_seen": "2026-08-02T23:19:51+00:00",
@@ -68218,6 +68708,16 @@
   "source": "workday",
   "title": "Sr Manager, Technical Support Engineering",
   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Japan---Tokyo/Sr-Manager--Technical-Support-Engineering_JR353415"
+ },
+ "workday:salesforce:/job/Japan---Tokyo/Technical-SEO---AI-Search-Optimization-Manager_JR350197-1": {
+  "company": "salesforce",
+  "first_seen": "2026-08-03T05:01:50+00:00",
+  "job_id": "/job/Japan---Tokyo/Technical-SEO---AI-Search-Optimization-Manager_JR350197-1",
+  "location": "Japan - Tokyo",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Technical SEO & AI Search Optimization Manager",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Japan---Tokyo/Technical-SEO---AI-Search-Optimization-Manager_JR350197-1"
  },
  "workday:salesforce:/job/Korea---Remote/Technical-Architect_JR353933-1": {
   "company": "salesforce",
@@ -69288,6 +69788,26 @@
   "source": "workday",
   "title": "Senior Director, Technical Engagement",
   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/West-Virginia---Washington-DC-Metro---Remote/Senior-Director--Technical-Engagement_JR351971"
+ },
+ "workday:salesforce:JR312327": {
+  "company": "salesforce",
+  "first_seen": "2026-08-03T05:01:50+00:00",
+  "job_id": "JR312327",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site"
+ },
+ "workday:target:/job/1-Hawes-Way-Stoughton-MA-02072-1162/General-Merchandise-Team-Leader--early-mornings--3-30-am-_R0000447926-1": {
+  "company": "target",
+  "first_seen": "2026-08-03T05:04:07+00:00",
+  "job_id": "/job/1-Hawes-Way-Stoughton-MA-02072-1162/General-Merchandise-Team-Leader--early-mornings--3-30-am-_R0000447926-1",
+  "location": "1 Hawes Way, Stoughton, MA 02072-1162",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "General Merchandise Team Leader (early mornings, 3:30 am)",
+  "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1-Hawes-Way-Stoughton-MA-02072-1162/General-Merchandise-Team-Leader--early-mornings--3-30-am-_R0000447926-1"
  },
  "workday:target:/job/1-N-Galleria-DrSte-140-MiddletownNY-10941-3029/Service---Engagement-Team-Leader_R0000447366": {
   "company": "target",
@@ -70688,6 +71208,16 @@
   "source": "workday",
   "title": "Human Resources Expert",
   "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1900-Springsteen-Rd-Rock-HillSC-29730-6990/Human-Resources-Expert_R0000447144"
+ },
+ "workday:target:/job/1901-N-Croatan-Hwy-Kill-Devil-HillsNC-27948-8978/Closing-Team-Leader---Outer-Banks--NC_R0000447763-1": {
+  "company": "target",
+  "first_seen": "2026-08-03T05:04:07+00:00",
+  "job_id": "/job/1901-N-Croatan-Hwy-Kill-Devil-HillsNC-27948-8978/Closing-Team-Leader---Outer-Banks--NC_R0000447763-1",
+  "location": "1901 N Croatan Hwy, Kill Devil Hills,NC 27948-8978",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Closing Team Leader - Outer Banks, NC",
+  "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1901-N-Croatan-Hwy-Kill-Devil-HillsNC-27948-8978/Closing-Team-Leader---Outer-Banks--NC_R0000447763-1"
  },
  "workday:target:/job/1902-Miller-Trunk-Hwy-DuluthMN-55811-1810/Service---Engagement-Team-Leader_R0000443325": {
   "company": "target",
