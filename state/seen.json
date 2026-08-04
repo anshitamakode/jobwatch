@@ -1619,6 +1619,16 @@
   "title": "Business Development Representative ",
   "url": "https://jobs.ashbyhq.com/cohere/dd2f91e7-d2bb-41b7-b8e9-4de925dc0111"
  },
+ "ashby:cohere:de6b51b2-39be-4e0b-93e7-72b0898ed739": {
+  "company": "cohere",
+  "first_seen": "2026-08-04T21:06:12+00:00",
+  "job_id": "de6b51b2-39be-4e0b-93e7-72b0898ed739",
+  "location": "Boston",
+  "posted_at": "2026-08-04T19:51:30.628+00:00",
+  "source": "ashby",
+  "title": "Director, Total Rewards",
+  "url": "https://jobs.ashbyhq.com/cohere/de6b51b2-39be-4e0b-93e7-72b0898ed739"
+ },
  "ashby:cohere:e09a69b2-55ee-4141-99f6-cc4d8e39347a": {
   "company": "cohere",
   "first_seen": "2026-08-03T08:06:19+00:00",
@@ -4599,6 +4609,16 @@
   "title": "Senior Commercial Counsel",
   "url": "https://jobs.ashbyhq.com/harvey/6fad5e17-0729-4f51-8618-47717104905f"
  },
+ "ashby:harvey:6fef4451-dbbf-40e7-a41c-5569641bcc16": {
+  "company": "harvey",
+  "first_seen": "2026-08-04T21:06:13+00:00",
+  "job_id": "6fef4451-dbbf-40e7-a41c-5569641bcc16",
+  "location": "New York",
+  "posted_at": "2026-08-04T20:51:25.548+00:00",
+  "source": "ashby",
+  "title": "Director, Government Affairs & Public Policy",
+  "url": "https://jobs.ashbyhq.com/harvey/6fef4451-dbbf-40e7-a41c-5569641bcc16"
+ },
  "ashby:harvey:6ffe89d1-f22f-4228-b8fd-e0e69e46e6fb": {
   "company": "harvey",
   "first_seen": "2026-08-03T08:06:20+00:00",
@@ -5859,6 +5879,16 @@
   "title": "Senior Software Engineer, Security",
   "url": "https://jobs.ashbyhq.com/harvey/c5726e3b-72c1-4240-b99d-526d0a9adbad"
  },
+ "ashby:harvey:c59ad688-0106-4f49-a1d3-94c2ea0f5a48": {
+  "company": "harvey",
+  "first_seen": "2026-08-04T21:06:13+00:00",
+  "job_id": "c59ad688-0106-4f49-a1d3-94c2ea0f5a48",
+  "location": "San Francisco",
+  "posted_at": "2026-08-04T20:51:23.446+00:00",
+  "source": "ashby",
+  "title": "Director, Government Affairs & Public Policy",
+  "url": "https://jobs.ashbyhq.com/harvey/c59ad688-0106-4f49-a1d3-94c2ea0f5a48"
+ },
  "ashby:harvey:c6e602c1-57d7-4af7-9b98-e52b5b4ff76a": {
   "company": "harvey",
   "first_seen": "2026-08-03T08:06:20+00:00",
@@ -7058,6 +7088,16 @@
   "source": "ashby",
   "title": "Enterprise Account Executive (Federal) ",
   "url": "https://jobs.ashbyhq.com/langchain/6847e38f-ec98-4fb2-a2cb-a97cdd9be108"
+ },
+ "ashby:langchain:6bcf9d0f-053c-4c07-82dd-e6b3815fb2e0": {
+  "company": "langchain",
+  "first_seen": "2026-08-04T21:06:13+00:00",
+  "job_id": "6bcf9d0f-053c-4c07-82dd-e6b3815fb2e0",
+  "location": "San Francisco, CA",
+  "posted_at": "2026-08-04T20:00:40.086+00:00",
+  "source": "ashby",
+  "title": "Sales Development Representative (Supporting APAC Region) ",
+  "url": "https://jobs.ashbyhq.com/langchain/6bcf9d0f-053c-4c07-82dd-e6b3815fb2e0"
  },
  "ashby:langchain:6c1c47cf-fac0-4367-975e-795197df2c5d": {
   "company": "langchain",
@@ -16079,6 +16119,16 @@
   "title": "Software Engineer, Infrastructure - Analytics Platform",
   "url": "https://jobs.ashbyhq.com/openai/e44bfa94-0b82-4d0c-b224-02155b76eea9"
  },
+ "ashby:openai:e4b92c0d-67c1-4147-a408-be4fe806be99": {
+  "company": "openai",
+  "first_seen": "2026-08-04T21:02:05+00:00",
+  "job_id": "e4b92c0d-67c1-4147-a408-be4fe806be99",
+  "location": "San Francisco",
+  "posted_at": "2026-08-04T20:52:32.684+00:00",
+  "source": "ashby",
+  "title": "International Strategy & Operations Lead",
+  "url": "https://jobs.ashbyhq.com/openai/e4b92c0d-67c1-4147-a408-be4fe806be99"
+ },
  "ashby:openai:e4d0e517-4380-43f3-b5ee-1ce30a88539f": {
   "company": "openai",
   "first_seen": "2026-08-03T08:02:33+00:00",
@@ -23209,6 +23259,26 @@
   "title": "Key Account Manager",
   "url": "https://job-boards.greenhouse.io/affirm/jobs/7789940003"
  },
+ "greenhouse:affirm:7791668003": {
+  "company": "affirm",
+  "first_seen": "2026-08-04T21:05:48+00:00",
+  "job_id": "7791668003",
+  "location": "Remote US",
+  "posted_at": "2026-08-04T16:49:42-04:00",
+  "source": "greenhouse",
+  "title": "Internal Events Manager",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7791668003"
+ },
+ "greenhouse:affirm:7791670003": {
+  "company": "affirm",
+  "first_seen": "2026-08-04T21:05:48+00:00",
+  "job_id": "7791670003",
+  "location": "Remote Canada",
+  "posted_at": "2026-08-04T16:49:43-04:00",
+  "source": "greenhouse",
+  "title": "Internal Events Manager",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7791670003"
+ },
  "greenhouse:affirm:7791742003": {
   "company": "affirm",
   "first_seen": "2026-08-03T08:06:01+00:00",
@@ -23668,6 +23738,26 @@
   "source": "greenhouse",
   "title": "Chief of Staff Director, Product",
   "url": "https://job-boards.greenhouse.io/affirm/jobs/7808142003"
+ },
+ "greenhouse:affirm:7808243003": {
+  "company": "affirm",
+  "first_seen": "2026-08-04T21:05:48+00:00",
+  "job_id": "7808243003",
+  "location": "Remote US",
+  "posted_at": "2026-08-04T16:50:34-04:00",
+  "source": "greenhouse",
+  "title": "Internal Events Specialist I",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7808243003"
+ },
+ "greenhouse:affirm:7808245003": {
+  "company": "affirm",
+  "first_seen": "2026-08-04T21:05:48+00:00",
+  "job_id": "7808245003",
+  "location": "Remote Canada",
+  "posted_at": "2026-08-04T16:50:35-04:00",
+  "source": "greenhouse",
+  "title": "Internal Events Specialist I",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7808245003"
  },
  "greenhouse:affirm:7808247003": {
   "company": "affirm",
@@ -24528,6 +24618,16 @@
   "source": "greenhouse",
   "title": "Business Development Representative, German Speaking",
   "url": "https://www.asana.com/jobs/apply/7477015?gh_jid=7477015"
+ },
+ "greenhouse:asana:7488925": {
+  "company": "asana",
+  "first_seen": "2026-08-04T21:05:49+00:00",
+  "job_id": "7488925",
+  "location": "San Francisco",
+  "posted_at": "2025-12-23T17:43:27-05:00",
+  "source": "greenhouse",
+  "title": "Strategic Operations Lead",
+  "url": "https://www.asana.com/jobs/apply/7488925?gh_jid=7488925"
  },
  "greenhouse:asana:7555402": {
   "company": "asana",
@@ -30848,6 +30948,16 @@
   "source": "greenhouse",
   "title": "Marketing Programs and Analytics Intern (Fall 2026)",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8104138?gh_jid=8104138"
+ },
+ "greenhouse:cloudflare:8105728": {
+  "company": "cloudflare",
+  "first_seen": "2026-08-04T21:05:58+00:00",
+  "job_id": "8105728",
+  "location": "In-Office",
+  "posted_at": "2026-08-04T16:20:51-04:00",
+  "source": "greenhouse",
+  "title": "U.S. Public Policy and AI Innovation Intern (Fall 2026)",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8105728?gh_jid=8105728"
  },
  "greenhouse:cockroachlabs:2578081": {
   "company": "cockroachlabs",
@@ -45999,6 +46109,16 @@
   "title": "Solutions Architect (Portuguese Speaking) Madrid Spain",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8653583002"
  },
+ "greenhouse:databricks:8654148002": {
+  "company": "databricks",
+  "first_seen": "2026-08-04T21:01:35+00:00",
+  "job_id": "8654148002",
+  "location": "Dallas, Texas; New Jersey; New York",
+  "posted_at": "2026-08-04T16:16:10-04:00",
+  "source": "greenhouse",
+  "title": "Lead Engagement Manager, FDE - CMEG",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8654148002"
+ },
  "greenhouse:databricks:8654620002": {
   "company": "databricks",
   "first_seen": "2026-08-03T08:02:29+00:00",
@@ -52779,6 +52899,16 @@
   "title": "Senior Information Security Analyst - Compliance - InfoSec",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8053896&gh_jid=8053896"
  },
+ "greenhouse:elastic:8053898": {
+  "company": "elastic",
+  "first_seen": "2026-08-04T21:06:00+00:00",
+  "job_id": "8053898",
+  "location": "United States",
+  "posted_at": "2026-08-04T16:10:16-04:00",
+  "source": "greenhouse",
+  "title": "Principal Threat Hunting and Emulation Engineer - InfoSec",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8053898&gh_jid=8053898"
+ },
  "greenhouse:elastic:8053907": {
   "company": "elastic",
   "first_seen": "2026-08-03T08:06:06+00:00",
@@ -54328,6 +54458,16 @@
   "source": "greenhouse",
   "title": "Senior Data Security Architect",
   "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8089506"
+ },
+ "greenhouse:fastly:8094426": {
+  "company": "fastly",
+  "first_seen": "2026-08-04T21:06:01+00:00",
+  "job_id": "8094426",
+  "location": "Denver, CO; New York City, NY; San Francisco, CA",
+  "posted_at": "2026-08-04T15:58:51-04:00",
+  "source": "greenhouse",
+  "title": "Senior Engineer - VCL Compiler",
+  "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8094426"
  },
  "greenhouse:fastly:8097890": {
   "company": "fastly",
@@ -56098,6 +56238,16 @@
   "source": "greenhouse",
   "title": "Director, Enterprise Sales (London, United Kingdom)",
   "url": "https://boards.greenhouse.io/figma/jobs/6130524004?gh_jid=6130524004"
+ },
+ "greenhouse:figma:6130540004": {
+  "company": "figma",
+  "first_seen": "2026-08-04T21:06:01+00:00",
+  "job_id": "6130540004",
+  "location": "London, England",
+  "posted_at": "2026-08-04T16:52:51-04:00",
+  "source": "greenhouse",
+  "title": "Program Manager, Scale Onboarding (London, United Kingdom) ",
+  "url": "https://boards.greenhouse.io/figma/jobs/6130540004?gh_jid=6130540004"
  },
  "greenhouse:figma:6130557004": {
   "company": "figma",
@@ -68389,6 +68539,16 @@
   "title": "VP, Executive Operations - Office of CEO",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8103967"
  },
+ "greenhouse:mongodb:8105037": {
+  "company": "mongodb",
+  "first_seen": "2026-08-04T21:02:56+00:00",
+  "job_id": "8105037",
+  "location": "Dublin, Ireland",
+  "posted_at": "2026-08-04T15:28:51-04:00",
+  "source": "greenhouse",
+  "title": "Contract Sourcer",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8105037"
+ },
  "greenhouse:neo4j:4322847006": {
   "company": "neo4j",
   "first_seen": "2026-08-03T08:06:11+00:00",
@@ -69488,6 +69648,16 @@
   "source": "greenhouse",
   "title": "Senior Cloud Partner Sales Manager (AWS & Microsoft Azure)",
   "url": "https://job-boards.greenhouse.io/newrelic/jobs/5287057008"
+ },
+ "greenhouse:newrelic:5287663008": {
+  "company": "newrelic",
+  "first_seen": "2026-08-04T21:06:04+00:00",
+  "job_id": "5287663008",
+  "location": "Atlanta, Georgia, USA",
+  "posted_at": "2026-06-30T15:38:09-04:00",
+  "source": "greenhouse",
+  "title": "Business Development Representative (Outbound)",
+  "url": "https://job-boards.greenhouse.io/newrelic/jobs/5287663008"
  },
  "greenhouse:newrelic:5288143008": {
   "company": "newrelic",
@@ -71978,6 +72148,16 @@
   "source": "greenhouse",
   "title": "Security Software Engineer II, Detection and Response",
   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015490"
+ },
+ "greenhouse:pinterest:8015504": {
+  "company": "pinterest",
+  "first_seen": "2026-08-04T21:06:06+00:00",
+  "job_id": "8015504",
+  "location": "San Francisco, CA, US; Remote, US",
+  "posted_at": "2026-08-04T16:37:06-04:00",
+  "source": "greenhouse",
+  "title": "Sr. Manager, Machine Learning Engineering-Applied Research",
+  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015504"
  },
  "greenhouse:pinterest:8015519": {
   "company": "pinterest",
@@ -82339,6 +82519,26 @@
   "title": "Chief of Staff, Public Sector Engineering",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720163005"
  },
+ "greenhouse:scaleai:4720213005": {
+  "company": "scaleai",
+  "first_seen": "2026-08-04T21:06:08+00:00",
+  "job_id": "4720213005",
+  "location": "New York, NY; San Francisco, CA",
+  "posted_at": "2026-08-04T16:50:58-04:00",
+  "source": "greenhouse",
+  "title": "Senior AI Product Manager, Cybersecurity",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720213005"
+ },
+ "greenhouse:scaleai:4720216005": {
+  "company": "scaleai",
+  "first_seen": "2026-08-04T21:06:08+00:00",
+  "job_id": "4720216005",
+  "location": "New York, NY; San Francisco, CA",
+  "posted_at": "2026-08-04T16:47:38-04:00",
+  "source": "greenhouse",
+  "title": "Senior AI Product Manager, Leaderboard",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720216005"
+ },
  "greenhouse:scaleai:4720422005": {
   "company": "scaleai",
   "first_seen": "2026-08-03T08:06:15+00:00",
@@ -82368,6 +82568,16 @@
   "source": "greenhouse",
   "title": "Staff Frontier Agents Engineer (Applied AI)",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720487005"
+ },
+ "greenhouse:scaleai:4720501005": {
+  "company": "scaleai",
+  "first_seen": "2026-08-04T21:06:08+00:00",
+  "job_id": "4720501005",
+  "location": "New York, NY; San Francisco, CA",
+  "posted_at": "2026-08-04T16:48:21-04:00",
+  "source": "greenhouse",
+  "title": "Senior AI Product Manager, Code",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4720501005"
  },
  "greenhouse:scaleai:4720573005": {
   "company": "scaleai",
@@ -82778,6 +82988,16 @@
   "source": "greenhouse",
   "title": "Senior AI & Automation Manager",
   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8052299"
+ },
+ "greenhouse:singlestore:8097185": {
+  "company": "singlestore",
+  "first_seen": "2026-08-04T21:06:08+00:00",
+  "job_id": "8097185",
+  "location": "San Francisco, California, United States",
+  "posted_at": "2026-08-04T15:58:14-04:00",
+  "source": "greenhouse",
+  "title": "Executive Assistant",
+  "url": "https://job-boards.greenhouse.io/singlestore/jobs/8097185"
  },
  "greenhouse:singlestore:8099024": {
   "company": "singlestore",
@@ -85789,6 +86009,16 @@
   "title": "Senior Network Engineer",
   "url": "https://job-boards.greenhouse.io/twilio/jobs/7657993"
  },
+ "greenhouse:twilio:7661919": {
+  "company": "twilio",
+  "first_seen": "2026-08-04T21:06:10+00:00",
+  "job_id": "7661919",
+  "location": "Remote - US",
+  "posted_at": "2026-02-27T11:24:08-05:00",
+  "source": "greenhouse",
+  "title": "Software Engineer - Video",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/7661919"
+ },
  "greenhouse:twilio:7689461": {
   "company": "twilio",
   "first_seen": "2026-08-03T08:06:18+00:00",
@@ -86689,6 +86919,26 @@
   "title": "Partner Program Manager",
   "url": "https://job-boards.greenhouse.io/twilio/jobs/8025913"
  },
+ "greenhouse:twilio:8026203": {
+  "company": "twilio",
+  "first_seen": "2026-08-04T21:06:10+00:00",
+  "job_id": "8026203",
+  "location": "Remote - US",
+  "posted_at": "2026-08-04T15:52:01-04:00",
+  "source": "greenhouse",
+  "title": "Software Engineer (L3) Email",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8026203"
+ },
+ "greenhouse:twilio:8026207": {
+  "company": "twilio",
+  "first_seen": "2026-08-04T21:06:10+00:00",
+  "job_id": "8026207",
+  "location": "Remote - US",
+  "posted_at": "2026-08-04T16:00:02-04:00",
+  "source": "greenhouse",
+  "title": "Software Engineer (L2) Email",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8026207"
+ },
  "greenhouse:twilio:8026615": {
   "company": "twilio",
   "first_seen": "2026-08-03T08:06:18+00:00",
@@ -87488,6 +87738,16 @@
   "source": "greenhouse",
   "title": "Software Engineer (L4)",
   "url": "https://job-boards.greenhouse.io/twilio/jobs/8098945"
+ },
+ "greenhouse:twilio:8099162": {
+  "company": "twilio",
+  "first_seen": "2026-08-04T21:06:10+00:00",
+  "job_id": "8099162",
+  "location": "Remote - US",
+  "posted_at": "2026-08-04T16:08:51-04:00",
+  "source": "greenhouse",
+  "title": "Senior Software Engineer (L3)",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8099162"
  },
  "greenhouse:twilio:8100236": {
   "company": "twilio",
@@ -94759,6 +95019,16 @@
   "title": "QA Automation Engineer (AVP)",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Belfast--United-Kingdom/QA-Automation-Engineer--AVP-_26977133"
  },
+ "workday:citi:/job/Belfast--United-Kingdom/Reference-Data-Operations-Strategic-Implementation-and-Planning-Analyst---Assistant-Vice-President_26983140": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/Belfast--United-Kingdom/Reference-Data-Operations-Strategic-Implementation-and-Planning-Analyst---Assistant-Vice-President_26983140",
+  "location": "Belfast  United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Reference Data Operations Strategic Implementation and Planning Analyst - Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Belfast--United-Kingdom/Reference-Data-Operations-Strategic-Implementation-and-Planning-Analyst---Assistant-Vice-President_26983140"
+ },
  "workday:citi:/job/Belfast--United-Kingdom/Risk-Reporting-Intermediate-Analyst_26971760": {
   "company": "citi",
   "first_seen": "2026-08-03T16:16:44+00:00",
@@ -95199,6 +95469,16 @@
   "title": "Financial Administration Audit Support Senior Analyst Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Boston-Massachusetts-United-States/Financial-Administration-Audit-Support-Senior-Analyst-Assistant-Vice-President_26983137"
  },
+ "workday:citi:/job/Boston-Massachusetts-United-States/Mutual-Fund-Tax-Associate-Analyst_26983236": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/Boston-Massachusetts-United-States/Mutual-Fund-Tax-Associate-Analyst_26983236",
+  "location": "Boston Massachusetts United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Mutual Fund Tax Associate Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Boston-Massachusetts-United-States/Mutual-Fund-Tax-Associate-Analyst_26983236"
+ },
  "workday:citi:/job/Boston-Massachusetts-United-States/Senior-Aladdin-Performance-Analyst_26972639": {
   "company": "citi",
   "first_seen": "2026-08-03T08:04:56+00:00",
@@ -95588,6 +95868,16 @@
   "source": "workday",
   "title": "Product Control Senior Analyst",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Budapest--Hungary/Product-Control-Senior-Analyst_26983163"
+ },
+ "workday:citi:/job/Budapest--Hungary/Product-Control-Senior-Analyst_26983169-1": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/Budapest--Hungary/Product-Control-Senior-Analyst_26983169-1",
+  "location": "Budapest  Hungary",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Product Control Senior Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Budapest--Hungary/Product-Control-Senior-Analyst_26983169-1"
  },
  "workday:citi:/job/Budapest--Hungary/Product-Control-Senior-Analyst_26983774": {
   "company": "citi",
@@ -96999,6 +97289,16 @@
   "title": "Banamex Banquero Integral - Distrito San Angel",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Banquero-Integral---Distrito-San-Angel_26967745-1"
  },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Banquero-de-Relacin-Empresarial-SR_26976355": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Banquero-de-Relacin-Empresarial-SR_26976355",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex Banquero de Relaci\u00f3n Empresarial SR.",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Banquero-de-Relacin-Empresarial-SR_26976355"
+ },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-CSIS-LIDER-DE-ADMINISTRACION-Y-LOGISTICA-PROTECCION-EJECUTIVA_26980443": {
   "company": "citi",
   "first_seen": "2026-08-03T08:04:56+00:00",
@@ -97018,6 +97318,26 @@
   "source": "workday",
   "title": "Banamex CSIS LIDER OPERATIVO PROTECCION EJECUTIVA",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-CSIS-LIDER-OPERATIVO-PROTECCION-EJECUTIVA_26980440"
+ },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Cajero-CDMX-Y-AREA-METROPOLITANA_26976054": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Cajero-CDMX-Y-AREA-METROPOLITANA_26976054",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex Cajero CDMX Y AREA METROPOLITANA",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Cajero-CDMX-Y-AREA-METROPOLITANA_26976054"
+ },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Cajero-Iztapalapa-y-Aeropuerto_26978518": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Cajero-Iztapalapa-y-Aeropuerto_26978518",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex Cajero Iztapalapa y Aeropuerto",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Cajero-Iztapalapa-y-Aeropuerto_26978518"
  },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Cajero-Metropolitana-Sur---CDMX_26981054": {
   "company": "citi",
@@ -98519,6 +98839,16 @@
   "title": "Data Governance Foundation Sr Analyst - AVP",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Data-Governance-Foundation-Sr-Analyst---Assitant-Vice-President_26973016"
  },
+ "workday:citi:/job/Getzville-New-York-United-States/Entity-Data-Management---Data-Quality-Analyst_26982938": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/Getzville-New-York-United-States/Entity-Data-Management---Data-Quality-Analyst_26982938",
+  "location": "Getzville New York United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Entity Data Management - Data Quality Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Getzville-New-York-United-States/Entity-Data-Management---Data-Quality-Analyst_26982938"
+ },
  "workday:citi:/job/Getzville-New-York-United-States/Equity-Derivative-Middle-Office-Manager-Hybrid_26978451": {
   "company": "citi",
   "first_seen": "2026-08-03T19:18:55+00:00",
@@ -99048,6 +99378,16 @@
   "source": "workday",
   "title": "Operations Accounting Intermediate Analyst (C09) - Invoice Processing",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Heredia--Costa-Rica/Operations-Accounting-Intermediate-Analyst--C09----Invoice-Processing_26982439"
+ },
+ "workday:citi:/job/Heredia--Costa-Rica/Ops-Sup-Analyst-1-SOW-Team---C09_26981880": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/Heredia--Costa-Rica/Ops-Sup-Analyst-1-SOW-Team---C09_26981880",
+  "location": "Heredia  Costa Rica",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Ops Sup Analyst 1 SOW Team - C09",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Heredia--Costa-Rica/Ops-Sup-Analyst-1-SOW-Team---C09_26981880"
  },
  "workday:citi:/job/Heredia--Costa-Rica/Semi-Sr-Platform-Engineer-Analyst-IT-Support_26963833": {
   "company": "citi",
@@ -99759,6 +100099,16 @@
   "title": "Paid Media Audience Strategy & Data Architecture Lead",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Paid-Media-Audience-Strategy---Data-Architecture-Lead_26981165"
  },
+ "workday:citi:/job/Irving-Texas-United-States/Product-Developer---Business-Analyst---Counterparty-Credit-Risk-Stress-Testing--Vice-President_26983883": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/Irving-Texas-United-States/Product-Developer---Business-Analyst---Counterparty-Credit-Risk-Stress-Testing--Vice-President_26983883",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Product Developer / Business Analyst - Counterparty Credit Risk Stress Testing, Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Product-Developer---Business-Analyst---Counterparty-Credit-Risk-Stress-Testing--Vice-President_26983883"
+ },
  "workday:citi:/job/Irving-Texas-United-States/Programmatic-Media-Group-Manager_26981158": {
   "company": "citi",
   "first_seen": "2026-08-03T08:04:56+00:00",
@@ -100249,6 +100599,16 @@
   "title": "Data Analytics Lead Analyst - VP",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Data-Analytics-Lead-Analyst---VP_26982448"
  },
+ "workday:citi:/job/Jersey-City-New-Jersey-United-States/Digital-S-W-Eng-Sr-Analyst---C12---JERSEY-CITY_26961430": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/Jersey-City-New-Jersey-United-States/Digital-S-W-Eng-Sr-Analyst---C12---JERSEY-CITY_26961430",
+  "location": "Jersey City New Jersey United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Digital S/W Eng Sr Analyst - C12 - JERSEY CITY",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Digital-S-W-Eng-Sr-Analyst---C12---JERSEY-CITY_26961430"
+ },
  "workday:citi:/job/Jersey-City-New-Jersey-United-States/Futures---OTC-Client-Service-Analyst-Hybrid_26980972": {
   "company": "citi",
   "first_seen": "2026-08-03T08:04:56+00:00",
@@ -100528,6 +100888,16 @@
   "source": "workday",
   "title": "Voluntary Corporate Actions - Asset Servicing Intermediate Associate Analyst Hybrid",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Voluntary-Corporate-Actions---Asset-Servicing-Intermediate-Associate-Analyst-Hybrid_26981108"
+ },
+ "workday:citi:/job/Jilotepec-Estado-De-Mexico-Mexico/Banamex---Gerente-de-Sucursal-765-Jilotepec---Distrito-Edo-Mx_26981159-1": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/Jilotepec-Estado-De-Mexico-Mexico/Banamex---Gerente-de-Sucursal-765-Jilotepec---Distrito-Edo-Mx_26981159-1",
+  "location": "Jilotepec Estado De Mexico Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex | Gerente de Sucursal 765 Jilotepec | Distrito Edo. M\u00e9x.",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jilotepec-Estado-De-Mexico-Mexico/Banamex---Gerente-de-Sucursal-765-Jilotepec---Distrito-Edo-Mx_26981159-1"
  },
  "workday:citi:/job/Johannesburg--South-Africa/Client-Management-Associate---JOHANNESBURG_26976575": {
   "company": "citi",
@@ -105059,6 +105429,16 @@
   "title": "Consumer Product Sales Lead Analyst, Vice President (Hybrid)",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Consumer-Product-Sales-Lead-Analyst--Vice-President--Hybrid-_26966154-1"
  },
+ "workday:citi:/job/New-York-New-York-United-States/Core-Java-Developer---Trading---Securities-Lending---Vice-President_26983472": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/New-York-New-York-United-States/Core-Java-Developer---Trading---Securities-Lending---Vice-President_26983472",
+  "location": "New York New York United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Core Java Developer - Trading / Securities Lending - Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Core-Java-Developer---Trading---Securities-Lending---Vice-President_26983472"
+ },
  "workday:citi:/job/New-York-New-York-United-States/Corporate-Banker---Metals---Mining---VP_26983488": {
   "company": "citi",
   "first_seen": "2026-08-03T08:04:56+00:00",
@@ -105568,6 +105948,16 @@
   "source": "workday",
   "title": "Investor Relations \u2013 Senior Vice President (SVP)",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Investor-Relations---Senior-Vice-President--SVP-_26975191"
+ },
+ "workday:citi:/job/New-York-New-York-United-States/Investor-Relations--Strategy----M-A-Senior-Executive-Assistant_26980053": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/New-York-New-York-United-States/Investor-Relations--Strategy----M-A-Senior-Executive-Assistant_26980053",
+  "location": "New York New York United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Investor Relations, Strategy, & M&A Senior Executive Assistant",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Investor-Relations--Strategy----M-A-Senior-Executive-Assistant_26980053"
  },
  "workday:citi:/job/New-York-New-York-United-States/Korea-Sales-Desk---TTS-Payments---Liquidity-Product-Sales_26978751-1": {
   "company": "citi",
@@ -106558,6 +106948,16 @@
   "source": "workday",
   "title": "Operador Cajero Cajero Corresponsal",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Poza-Rica-Veracruz-Mexico/Operador-Cajero-Cajero-Corresponsal_26979993"
+ },
+ "workday:citi:/job/Puebla-Puebla-Mexico/Intern---C01---PUEBLA_26984155": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/Puebla-Puebla-Mexico/Intern---C01---PUEBLA_26984155",
+  "location": "Puebla Puebla Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Intern - C01 - PUEBLA",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Puebla-Puebla-Mexico/Intern---C01---PUEBLA_26984155"
  },
  "workday:citi:/job/Pune-Maharashtra-India/AI-Python-Engineer---Vice-President_26949503": {
   "company": "citi",
@@ -108059,6 +108459,16 @@
   "title": "Part-Time Teller (20 Hours), Rego Park Branch",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Rego-Park-New-York-United-States/Part-Time-Teller--20-Hours---Rego-Park-Branch_26982493"
  },
+ "workday:citi:/job/Reston-Virginia-United-States/Universal-Banker---Reston-Branch_26984187": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/Reston-Virginia-United-States/Universal-Banker---Reston-Branch_26984187",
+  "location": "Reston Virginia United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Universal Banker - Reston Branch",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Reston-Virginia-United-States/Universal-Banker---Reston-Branch_26984187"
+ },
  "workday:citi:/job/Ridgefield-Connecticut-United-States/Universal-Banker-Part-Time--20-Hours----Ridgefield-Branch_26983820": {
   "company": "citi",
   "first_seen": "2026-08-03T08:04:56+00:00",
@@ -108548,6 +108958,16 @@
   "source": "workday",
   "title": "Personal Banker SAFE Act, Santa Clara Pruneridge Branch",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Santa-Clara-California-United-States/Personal-Banker-SAFE-Act--Santa-Clara-Pruneridge-Branch--Bilingual-Preferred--Mandarin-or-Cantonese-_26978823"
+ },
+ "workday:citi:/job/Santa-Clara-California-United-States/Pruneridge-Santa-Clara-Branch-Manager--Vice-President_26983984": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/Santa-Clara-California-United-States/Pruneridge-Santa-Clara-Branch-Manager--Vice-President_26983984",
+  "location": "Santa Clara California United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Pruneridge Santa Clara Branch Manager, Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Santa-Clara-California-United-States/Pruneridge-Santa-Clara-Branch-Manager--Vice-President_26983984"
  },
  "workday:citi:/job/Santiago--Chile/Applications-Development-Sr-Programmer-Analyst--Net-Java-_26960087": {
   "company": "citi",
@@ -111348,6 +111768,16 @@
   "source": "workday",
   "title": "Zast\u0119pca / Zast\u0119pczyni Koordynatora Ochrony Infrastruktury Krytycznej",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Warsaw--Poland/Zastpca---Zastpczyni-Koordynatora-Ochrony-Infrastruktury-Krytycznej_26978342"
+ },
+ "workday:citi:/job/Washington-District-Of-Columbia-United-States/Branch-Manager-Safe-Act-Palisades--Washington-DC--Assistant-Vice-President_26984225": {
+  "company": "citi",
+  "first_seen": "2026-08-04T21:04:31+00:00",
+  "job_id": "/job/Washington-District-Of-Columbia-United-States/Branch-Manager-Safe-Act-Palisades--Washington-DC--Assistant-Vice-President_26984225",
+  "location": "Washington District Of Columbia United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Branch Manager Safe Act Palisades/ Washington D.C, Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Washington-District-Of-Columbia-United-States/Branch-Manager-Safe-Act-Palisades--Washington-DC--Assistant-Vice-President_26984225"
  },
  "workday:citi:/job/Washington-District-Of-Columbia-United-States/Citi-Commercial-Bank---Business-Development-Specialist--Vice-President_26980294": {
   "company": "citi",
@@ -128509,6 +128939,16 @@
   "title": "Senior Tax Systems Engineer (Vertex)",
   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Senior-Tax-Systems-Engineer--Vertex-_JR339073"
  },
+ "workday:salesforce:/job/California---San-Francisco/Software-Engineer--Machine-Learning--Senior--SWE-II---SWE-I-_JR328085-1": {
+  "company": "salesforce",
+  "first_seen": "2026-08-04T21:00:43+00:00",
+  "job_id": "/job/California---San-Francisco/Software-Engineer--Machine-Learning--Senior--SWE-II---SWE-I-_JR328085-1",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer, Machine Learning (SWE II & SWE I)",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer--Machine-Learning--Senior--SWE-II---SWE-I-_JR328085-1"
+ },
  "workday:salesforce:/job/California---San-Francisco/Software-Engineering-AMTS-MTS--College-Grad-_JR330400-1": {
   "company": "salesforce",
   "first_seen": "2026-08-03T08:01:39+00:00",
@@ -128658,6 +129098,16 @@
   "source": "workday",
   "title": "Salesforce Program Executive -  Senior Director (Consumer Goods/ Manufacturing)",
   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Georgia---Atlanta/Program-Executive---Senior-Director--Consumer-Goods-_JR339783"
+ },
+ "workday:salesforce:/job/Georgia---Atlanta/Senior-Analyst--Content-Marketing_JR353384-1": {
+  "company": "salesforce",
+  "first_seen": "2026-08-04T21:00:43+00:00",
+  "job_id": "/job/Georgia---Atlanta/Senior-Analyst--Content-Marketing_JR353384-1",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Analyst, Content Marketing",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Georgia---Atlanta/Senior-Analyst--Content-Marketing_JR353384-1"
  },
  "workday:salesforce:/job/Georgia---Atlanta/Senior-Analyst--Strategic-Finance-Analytics_JR354974": {
   "company": "salesforce",
@@ -129588,6 +130038,16 @@
   "source": "workday",
   "title": "Territory Account Executive - SMB",
   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Gurgaon/Territory-Account-Executive---SMB_JR351728"
+ },
+ "workday:salesforce:/job/India---Hyderabad/Accountant---Fixed-Assets_JR354057": {
+  "company": "salesforce",
+  "first_seen": "2026-08-04T21:00:43+00:00",
+  "job_id": "/job/India---Hyderabad/Accountant---Fixed-Assets_JR354057",
+  "location": "India - Hyderabad",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Accountant - Fixed Assets",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Accountant---Fixed-Assets_JR354057"
  },
  "workday:salesforce:/job/India---Hyderabad/Accountant_JR349380-1": {
   "company": "salesforce",
@@ -134299,6 +134759,16 @@
   "title": "",
   "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers"
  },
+ "workday:workday:/job/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105494": {
+  "company": "workday",
+  "first_seen": "2026-08-04T21:05:47+00:00",
+  "job_id": "/job/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105494",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Analytics-Sr-Software-Engineer--US-Federal-_JR-0105494"
+ },
  "workday:workday:/job/Australia-NSW-North-Sydney/Business-Development-Representative---Supporting-ANZ_JR-0104274": {
   "company": "workday",
   "first_seen": "2026-08-03T08:06:00+00:00",
@@ -135869,6 +136339,16 @@
   "title": "Finance Manager",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Finance-Manager_JR-0109082"
  },
+ "workday:workday:/job/USA-CA-Pleasanton/Functional-Consultant-for-Workday-CLM-Evisort_JR-0107370": {
+  "company": "workday",
+  "first_seen": "2026-08-04T21:05:47+00:00",
+  "job_id": "/job/USA-CA-Pleasanton/Functional-Consultant-for-Workday-CLM-Evisort_JR-0107370",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Functional Consultant for Workday CLM Evisort",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Functional-Consultant-for-Workday-CLM-Evisort_JR-0107370"
+ },
  "workday:workday:/job/USA-CA-Pleasanton/Key-Accounts-Director_JR-0108590-1": {
   "company": "workday",
   "first_seen": "2026-08-03T08:06:00+00:00",
@@ -136938,6 +137418,16 @@
   "source": "workday",
   "title": "Sr Strategic Customer Engagement - AI",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-NY-Remote/Sr-Strategic-Customer-Engagement---AI_JR-0108767"
+ },
+ "workday:workday:/job/USA-OH-Mason/Sr-Product-Manager_JR-0108497": {
+  "company": "workday",
+  "first_seen": "2026-08-04T21:05:47+00:00",
+  "job_id": "/job/USA-OH-Mason/Sr-Product-Manager_JR-0108497",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Product Manager - VNDLY",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-OH-Mason/Sr-Product-Manager_JR-0108497"
  },
  "workday:workday:/job/USA-OH-Remote/Customer-Base-Account-Executive--Large-Enterprise--FSI-_JR-0109121": {
   "company": "workday",
