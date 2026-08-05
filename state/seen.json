@@ -449,6 +449,16 @@
   "title": "Director, Corporate Communications",
   "url": "https://jobs.ashbyhq.com/cohere/044edc1d-9ade-45bd-aece-da840ac705b1"
  },
+ "ashby:cohere:061d7ee4-91c5-4a13-aff6-20d05bf80abb": {
+  "company": "cohere",
+  "first_seen": "2026-08-05T22:51:38+00:00",
+  "job_id": "061d7ee4-91c5-4a13-aff6-20d05bf80abb",
+  "location": "Toronto",
+  "posted_at": "2026-08-05T22:46:36.912+00:00",
+  "source": "ashby",
+  "title": "Marketing Chief of Staff",
+  "url": "https://jobs.ashbyhq.com/cohere/061d7ee4-91c5-4a13-aff6-20d05bf80abb"
+ },
  "ashby:cohere:0cade8fa-d7bf-4e40-8ee1-b601ab439d12": {
   "company": "cohere",
   "first_seen": "2026-08-03T08:06:19+00:00",
@@ -1498,6 +1508,16 @@
   "source": "ashby",
   "title": "Account Executive Korea",
   "url": "https://jobs.ashbyhq.com/cohere/c0bed981-0439-4bd6-9fa1-7f90efae3168"
+ },
+ "ashby:cohere:c0cab8c2-7215-449b-92c8-44b48c313514": {
+  "company": "cohere",
+  "first_seen": "2026-08-05T22:51:38+00:00",
+  "job_id": "c0cab8c2-7215-449b-92c8-44b48c313514",
+  "location": "Houston",
+  "posted_at": "2026-08-05T21:21:09.220+00:00",
+  "source": "ashby",
+  "title": "Strategic Account Executive - Energy (oil and gas) & Utilities ",
+  "url": "https://jobs.ashbyhq.com/cohere/c0cab8c2-7215-449b-92c8-44b48c313514"
  },
  "ashby:cohere:c1543c10-4c71-4bb9-a570-215a31e9e7fc": {
   "company": "cohere",
@@ -6929,6 +6949,16 @@
   "title": "Deployed Engineer (Early Career- SF/NY)",
   "url": "https://jobs.ashbyhq.com/langchain/0f35c8e1-9318-411d-929b-04c60e6d8522"
  },
+ "ashby:langchain:0faf969b-33a8-4cf8-9f7b-0b0b0b327bd4": {
+  "company": "langchain",
+  "first_seen": "2026-08-05T22:51:39+00:00",
+  "job_id": "0faf969b-33a8-4cf8-9f7b-0b0b0b327bd4",
+  "location": "Amsterdam",
+  "posted_at": "2026-08-05T22:15:51.525+00:00",
+  "source": "ashby",
+  "title": "AI Engineer, Enablement (Amsterdam)",
+  "url": "https://jobs.ashbyhq.com/langchain/0faf969b-33a8-4cf8-9f7b-0b0b0b327bd4"
+ },
  "ashby:langchain:1683a053-1bca-4a54-9889-bc32259df4e1": {
   "company": "langchain",
   "first_seen": "2026-08-03T08:06:20+00:00",
@@ -7468,6 +7498,16 @@
   "source": "ashby",
   "title": "Senior Fullstack Engineer,  AI Observability & Evals Platform ",
   "url": "https://jobs.ashbyhq.com/langchain/a03b3e54-495d-4960-aee7-0194a3cef57d"
+ },
+ "ashby:langchain:a16d58f7-e210-495c-9e6f-82222267de3a": {
+  "company": "langchain",
+  "first_seen": "2026-08-05T22:51:39+00:00",
+  "job_id": "a16d58f7-e210-495c-9e6f-82222267de3a",
+  "location": "London",
+  "posted_at": "2026-08-05T22:15:59.861+00:00",
+  "source": "ashby",
+  "title": "AI Engineer, Enablement (London)",
+  "url": "https://jobs.ashbyhq.com/langchain/a16d58f7-e210-495c-9e6f-82222267de3a"
  },
  "ashby:langchain:a7ba225a-b4c8-4ae8-9979-b6ff4cb4401d": {
   "company": "langchain",
@@ -9638,6 +9678,16 @@
   "source": "ashby",
   "title": "Security Engineer, Application Security",
   "url": "https://jobs.ashbyhq.com/openai/0322d6d8-6588-4209-a304-83e768063a25"
+ },
+ "ashby:openai:0331f23d-bb84-4931-b509-c0b91980f46c": {
+  "company": "openai",
+  "first_seen": "2026-08-05T22:47:52+00:00",
+  "job_id": "0331f23d-bb84-4931-b509-c0b91980f46c",
+  "location": "Dublin, Ireland",
+  "posted_at": "2026-08-05T21:05:43.784+00:00",
+  "source": "ashby",
+  "title": "Manager, Field Security Specialists (Cyber Solutions Engineering",
+  "url": "https://jobs.ashbyhq.com/openai/0331f23d-bb84-4931-b509-c0b91980f46c"
  },
  "ashby:openai:0432731c-f229-476e-92b6-d53491e79096": {
   "company": "openai",
@@ -11908,6 +11958,16 @@
   "source": "ashby",
   "title": "Forward Deployed Engineer - Singapore",
   "url": "https://jobs.ashbyhq.com/openai/4c078f82-93b9-427c-8fd8-95de198884b4"
+ },
+ "ashby:openai:4c0a6cb6-d365-4e5b-bdff-c093d951026d": {
+  "company": "openai",
+  "first_seen": "2026-08-05T22:47:52+00:00",
+  "job_id": "4c0a6cb6-d365-4e5b-bdff-c093d951026d",
+  "location": "San Francisco",
+  "posted_at": "2026-08-05T21:59:31.333+00:00",
+  "source": "ashby",
+  "title": "Software Engineer, API Enterprise Controls",
+  "url": "https://jobs.ashbyhq.com/openai/4c0a6cb6-d365-4e5b-bdff-c093d951026d"
  },
  "ashby:openai:4cbbf0b1-7c0b-4c42-bf38-48377f847e91": {
   "company": "openai",
@@ -15059,6 +15119,16 @@
   "title": "Head of Communications, Business",
   "url": "https://jobs.ashbyhq.com/openai/b5b3f2ea-1ae9-4620-aadd-eb7a66174739"
  },
+ "ashby:openai:b5ede8ec-8c71-4155-ace1-1a7be9b26f83": {
+  "company": "openai",
+  "first_seen": "2026-08-05T22:47:52+00:00",
+  "job_id": "b5ede8ec-8c71-4155-ace1-1a7be9b26f83",
+  "location": "San Francisco",
+  "posted_at": "2026-08-05T22:13:39.017+00:00",
+  "source": "ashby",
+  "title": "Business Development Lead, Compute Strategy",
+  "url": "https://jobs.ashbyhq.com/openai/b5ede8ec-8c71-4155-ace1-1a7be9b26f83"
+ },
  "ashby:openai:b621a08b-e8fa-4829-b248-525880390040": {
   "company": "openai",
   "first_seen": "2026-08-03T08:02:33+00:00",
@@ -15858,6 +15928,16 @@
   "source": "ashby",
   "title": "Forward Deployed Engineer - London",
   "url": "https://jobs.ashbyhq.com/openai/cf83e70e-6949-480f-ad97-df0f22cd0283"
+ },
+ "ashby:openai:cf9c63d6-3cf3-4951-af4f-ef60d71a3521": {
+  "company": "openai",
+  "first_seen": "2026-08-05T22:47:52+00:00",
+  "job_id": "cf9c63d6-3cf3-4951-af4f-ef60d71a3521",
+  "location": "San Francisco",
+  "posted_at": "2026-08-05T22:33:48.733+00:00",
+  "source": "ashby",
+  "title": "Strategic Partner Manager",
+  "url": "https://jobs.ashbyhq.com/openai/cf9c63d6-3cf3-4951-af4f-ef60d71a3521"
  },
  "ashby:openai:cffa3a8d-918a-4e91-a1c6-3fa84a454408": {
   "company": "openai",
@@ -24369,6 +24449,26 @@
   "title": "Senior Software Engineer, Fullstack (Card Acquisition)   ",
   "url": "https://job-boards.greenhouse.io/affirm/jobs/7819656003"
  },
+ "greenhouse:affirm:7819999003": {
+  "company": "affirm",
+  "first_seen": "2026-08-05T22:51:20+00:00",
+  "job_id": "7819999003",
+  "location": "Remote US",
+  "posted_at": "2026-08-05T17:45:22-04:00",
+  "source": "greenhouse",
+  "title": "Staff Analytics Analyst, Full Stack (Revenue)",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7819999003"
+ },
+ "greenhouse:affirm:7820001003": {
+  "company": "affirm",
+  "first_seen": "2026-08-05T22:51:20+00:00",
+  "job_id": "7820001003",
+  "location": "Remote Canada",
+  "posted_at": "2026-08-05T17:45:23-04:00",
+  "source": "greenhouse",
+  "title": "Staff Analytics Analyst, Full Stack (Revenue)",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/7820001003"
+ },
  "greenhouse:affirm:7820306003": {
   "company": "affirm",
   "first_seen": "2026-08-04T19:21:04+00:00",
@@ -31419,6 +31519,16 @@
   "title": "Senior Territory Account Executive- OH",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8109303?gh_jid=8109303"
  },
+ "greenhouse:cloudflare:8110209": {
+  "company": "cloudflare",
+  "first_seen": "2026-08-05T22:51:22+00:00",
+  "job_id": "8110209",
+  "location": "Hybrid",
+  "posted_at": "2026-08-05T17:51:40-04:00",
+  "source": "greenhouse",
+  "title": "Senior Forward Deployed Engineer",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8110209?gh_jid=8110209"
+ },
  "greenhouse:cockroachlabs:2578081": {
   "company": "cockroachlabs",
   "first_seen": "2026-08-03T08:06:04+00:00",
@@ -32178,6 +32288,16 @@
   "source": "greenhouse",
   "title": "Senior Product Manager (Coupang pay, new Fintech)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7340247"
+ },
+ "greenhouse:coupang:7342961": {
+  "company": "coupang",
+  "first_seen": "2026-08-05T22:47:51+00:00",
+  "job_id": "7342961",
+  "location": "Mountain View, USA",
+  "posted_at": "2026-03-31T16:43:53-04:00",
+  "source": "greenhouse",
+  "title": "Senior Staff Backend Engineer, Security",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=7342961"
  },
  "greenhouse:coupang:7361248": {
   "company": "coupang",
@@ -46439,6 +46559,16 @@
   "title": "Geo Hunter Account Executive - Digital Natives",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643053002"
  },
+ "greenhouse:databricks:8643452002": {
+  "company": "databricks",
+  "first_seen": "2026-08-05T22:47:48+00:00",
+  "job_id": "8643452002",
+  "location": "New York City, New York; San Francisco, California",
+  "posted_at": "2026-07-22T02:51:37-04:00",
+  "source": "greenhouse",
+  "title": "Staff Partner Engineer, AI Partnerships",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8643452002"
+ },
  "greenhouse:databricks:8643542002": {
   "company": "databricks",
   "first_seen": "2026-08-03T08:02:28+00:00",
@@ -51969,6 +52099,16 @@
   "title": "Senior Software Engineer, Enterprise Platform",
   "url": "https://job-boards.greenhouse.io/discord/jobs/8675277002"
  },
+ "greenhouse:discord:8680047002": {
+  "company": "discord",
+  "first_seen": "2026-08-05T22:51:24+00:00",
+  "job_id": "8680047002",
+  "location": "San Francisco Bay Area ",
+  "posted_at": "2026-08-05T17:50:08-04:00",
+  "source": "greenhouse",
+  "title": "Commercial Policy Lead, Brand Safety & Malware",
+  "url": "https://job-boards.greenhouse.io/discord/jobs/8680047002"
+ },
  "greenhouse:dropbox:6330377": {
   "company": "dropbox",
   "first_seen": "2026-08-03T08:06:05+00:00",
@@ -54808,6 +54948,16 @@
   "source": "greenhouse",
   "title": "Principal software developer/Tech Lead, Agent Framework - Observability",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8106089&gh_jid=8106089"
+ },
+ "greenhouse:elastic:8107090": {
+  "company": "elastic",
+  "first_seen": "2026-08-05T22:51:25+00:00",
+  "job_id": "8107090",
+  "location": "United States",
+  "posted_at": "2026-08-05T18:07:27-04:00",
+  "source": "greenhouse",
+  "title": "Sr. Business Systems Analyst",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8107090&gh_jid=8107090"
  },
  "greenhouse:fastly:6873321": {
   "company": "fastly",
@@ -75579,6 +75729,16 @@
   "title": "Senior Engineer, API Network",
   "url": "https://job-boards.greenhouse.io/postman/jobs/7825511003"
  },
+ "greenhouse:postman:7830052003": {
+  "company": "postman",
+  "first_seen": "2026-08-05T22:48:42+00:00",
+  "job_id": "7830052003",
+  "location": "Austin, Texas, United States",
+  "posted_at": "2026-08-05T18:45:59-04:00",
+  "source": "greenhouse",
+  "title": "Contracts Manager",
+  "url": "https://job-boards.greenhouse.io/postman/jobs/7830052003"
+ },
  "greenhouse:reddit:6042236": {
   "company": "reddit",
   "first_seen": "2026-08-03T08:06:14+00:00",
@@ -81758,6 +81918,16 @@
   "source": "greenhouse",
   "title": "Implementation Consultant ",
   "url": "https://www.samsara.com/company/careers/roles/8088205?gh_jid=8088205"
+ },
+ "greenhouse:samsara:8089981": {
+  "company": "samsara",
+  "first_seen": "2026-08-05T22:51:32+00:00",
+  "job_id": "8089981",
+  "location": "Remote - US",
+  "posted_at": "2026-08-05T18:07:31-04:00",
+  "source": "greenhouse",
+  "title": "Director, Technical Support Engineering (L2 Support)",
+  "url": "https://www.samsara.com/company/careers/roles/8089981?gh_jid=8089981"
  },
  "greenhouse:samsara:8092918": {
   "company": "samsara",
@@ -89339,6 +89509,16 @@
   "title": "Software Engineer (L2)",
   "url": "https://job-boards.greenhouse.io/twilio/jobs/8097672"
  },
+ "greenhouse:twilio:8098732": {
+  "company": "twilio",
+  "first_seen": "2026-08-05T22:51:36+00:00",
+  "job_id": "8098732",
+  "location": "Remote - Canada",
+  "posted_at": "2026-08-05T17:29:21-04:00",
+  "source": "greenhouse",
+  "title": "Senior Field Enablement Business Partner",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8098732"
+ },
  "greenhouse:twilio:8098945": {
   "company": "twilio",
   "first_seen": "2026-08-03T22:54:18+00:00",
@@ -89428,6 +89608,16 @@
   "source": "greenhouse",
   "title": "Incident Commander",
   "url": "https://job-boards.greenhouse.io/twilio/jobs/8108404"
+ },
+ "greenhouse:twilio:8108654": {
+  "company": "twilio",
+  "first_seen": "2026-08-05T22:51:36+00:00",
+  "job_id": "8108654",
+  "location": "Remote - US",
+  "posted_at": "2026-08-05T18:16:41-04:00",
+  "source": "greenhouse",
+  "title": "Principal Internal Communications Manager",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8108654"
  },
  "greenhouse:twilio:8108771": {
   "company": "twilio",
@@ -99129,6 +99319,16 @@
   "title": "Banamex - AVP Ventas Institucionales- CIUDAD DE MEXICO",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---AVP-Ventas-Institucionales--CIUDAD-DE-MEXICO_26983815"
  },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Analista-de-Bases-de-Datos-y-Mtricas---SQL_26980419": {
+  "company": "citi",
+  "first_seen": "2026-08-05T22:50:13+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Analista-de-Bases-de-Datos-y-Mtricas---SQL_26980419",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex - Analista de Bases de Datos y M\u00e9tricas / SQL",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Analista-de-Bases-de-Datos-y-Mtricas---SQL_26980419"
+ },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Analista-de-Campo-de-Cajeros-Automticos_26965253": {
   "company": "citi",
   "first_seen": "2026-08-05T01:24:24+00:00",
@@ -99788,6 +99988,16 @@
   "source": "workday",
   "title": "Accounting Operations Senior Manager- Bilingual",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Operations-Support-Senior-Manager_26950963"
+ },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Operations-Support-Supervisor_26984317": {
+  "company": "citi",
+  "first_seen": "2026-08-05T22:50:13+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Operations-Support-Supervisor_26984317",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Operations Support Supervisor",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Operations-Support-Supervisor_26984317"
  },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Transaction-Manager_26974919": {
   "company": "citi",
@@ -102309,6 +102519,16 @@
   "title": "Business Analysis Sr Manager",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Business-Analysis-Sr-Manager_26981102"
  },
+ "workday:citi:/job/Irving-Texas-United-States/Cash-and-Trade-Processor_26983321": {
+  "company": "citi",
+  "first_seen": "2026-08-05T22:50:13+00:00",
+  "job_id": "/job/Irving-Texas-United-States/Cash-and-Trade-Processor_26983321",
+  "location": "Irving Texas United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Cash and Trade Processor",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Cash-and-Trade-Processor_26983321"
+ },
  "workday:citi:/job/Irving-Texas-United-States/Cobrand-Acquisition-Strategy--Performance---Analytics--VP--Irving--TX_26960979": {
   "company": "citi",
   "first_seen": "2026-08-03T08:04:56+00:00",
@@ -102479,6 +102699,16 @@
   "title": "Full Stack Developer - Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Full-Stack-Developer---Vice-President_26976361"
  },
+ "workday:citi:/job/Irving-Texas-United-States/Full-Stack-Senior-Engineering-Lead_26966255": {
+  "company": "citi",
+  "first_seen": "2026-08-05T22:50:13+00:00",
+  "job_id": "/job/Irving-Texas-United-States/Full-Stack-Senior-Engineering-Lead_26966255",
+  "location": "Irving Texas United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Full Stack Senior Engineering Lead",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Full-Stack-Senior-Engineering-Lead_26966255"
+ },
  "workday:citi:/job/Irving-Texas-United-States/Full-Stack-Software-Engineer---Vice-President_26980668": {
   "company": "citi",
   "first_seen": "2026-08-03T08:04:56+00:00",
@@ -102508,6 +102738,16 @@
   "source": "workday",
   "title": "Functions - Internal Audit, Full-Time Analyst, Dallas - USA, 2027",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Full-Time-Analyst--Dallas---USA--2027_26983260"
+ },
+ "workday:citi:/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372": {
+  "company": "citi",
+  "first_seen": "2026-08-05T22:50:13+00:00",
+  "job_id": "/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372",
+  "location": "Irving Texas United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Functions - Internal Audit, Summer Analyst, Dallas - USA, 2027",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Functions---Internal-Audit--Summer-Analyst--Dallas---USA--2027_26951372"
  },
  "workday:citi:/job/Irving-Texas-United-States/Group-Manager--Advertising-Trafficking----Advertising-Operations_26981155": {
   "company": "citi",
@@ -102708,6 +102948,16 @@
   "source": "workday",
   "title": "Senior Product Manager - Digital Payments",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Senior-Product-Manager---Digital-Payments_26981444"
+ },
+ "workday:citi:/job/Irving-Texas-United-States/Senior-Product-Manager--Digital-Payments---Small-Business_26981449": {
+  "company": "citi",
+  "first_seen": "2026-08-05T22:50:13+00:00",
+  "job_id": "/job/Irving-Texas-United-States/Senior-Product-Manager--Digital-Payments---Small-Business_26981449",
+  "location": "Irving Texas United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Product Manager, Digital Payments - Small Business",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Senior-Product-Manager--Digital-Payments---Small-Business_26981449"
  },
  "workday:citi:/job/Irving-Texas-United-States/Solutions-Architecture-Senior-Analyst---Assistant-Vice-President_26952729": {
   "company": "citi",
@@ -105119,6 +105369,16 @@
   "title": "Senior Blockchain Engineer - Digital Assets Platform",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Senior-Blockchain-Engineer---Digital-Assets-Platform_26983945"
  },
+ "workday:citi:/job/London--United-Kingdom/Senior-FX-eTrading-Developer---VP---London_26951129": {
+  "company": "citi",
+  "first_seen": "2026-08-05T22:50:13+00:00",
+  "job_id": "/job/London--United-Kingdom/Senior-FX-eTrading-Developer---VP---London_26951129",
+  "location": "London  United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior FX eTrading Developer - VP - London",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Senior-FX-eTrading-Developer---VP---London_26951129"
+ },
  "workday:citi:/job/London--United-Kingdom/Senior-Group-Manager---Head-of-FX-Partnerships-Engineering_26980983-1": {
   "company": "citi",
   "first_seen": "2026-08-03T12:51:41+00:00",
@@ -105929,6 +106189,16 @@
   "title": "Application Development AI Engineer - Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Application-Development-AI-Engineer---Vice-President_26974514"
  },
+ "workday:citi:/job/Mississauga-Ontario-Canada/Application-Development-Intermediate-Programmer-Analyst_26973379": {
+  "company": "citi",
+  "first_seen": "2026-08-05T22:50:13+00:00",
+  "job_id": "/job/Mississauga-Ontario-Canada/Application-Development-Intermediate-Programmer-Analyst_26973379",
+  "location": "Mississauga Ontario Canada",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Application Development Intermediate Programmer Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Application-Development-Intermediate-Programmer-Analyst_26973379"
+ },
  "workday:citi:/job/Mississauga-Ontario-Canada/Application-Development-Manager---Senior-Vice-President_26975096": {
   "company": "citi",
   "first_seen": "2026-08-03T08:04:56+00:00",
@@ -106568,6 +106838,16 @@
   "source": "workday",
   "title": "Senior Application Full Stack Developer \u2013 Inventory Management, AVP",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Senior-Application-Full-Stack-Developer---Inventory-Management--VP_26971039"
+ },
+ "workday:citi:/job/Mississauga-Ontario-Canada/Senior-Automation-Developer---Assistant-Vice-President_26980490": {
+  "company": "citi",
+  "first_seen": "2026-08-05T22:50:13+00:00",
+  "job_id": "/job/Mississauga-Ontario-Canada/Senior-Automation-Developer---Assistant-Vice-President_26980490",
+  "location": "Mississauga Ontario Canada",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Automation Developer - Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Senior-Automation-Developer---Assistant-Vice-President_26980490"
  },
  "workday:citi:/job/Mississauga-Ontario-Canada/Senior-Automation-Developer_26981157": {
   "company": "citi",
@@ -108459,6 +108739,16 @@
   "title": "Corporate Structurer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Corporate-Structurer_26978413"
  },
+ "workday:citi:/job/New-York-New-York-United-States/Counterparty-Credit-Risk---Private-Equity--Senior-Vice-President-_26985042": {
+  "company": "citi",
+  "first_seen": "2026-08-05T22:50:13+00:00",
+  "job_id": "/job/New-York-New-York-United-States/Counterparty-Credit-Risk---Private-Equity--Senior-Vice-President-_26985042",
+  "location": "New York New York United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Counterparty Credit Risk - Private Equity (Senior Vice President)",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Counterparty-Credit-Risk---Private-Equity--Senior-Vice-President-_26985042"
+ },
  "workday:citi:/job/New-York-New-York-United-States/Credit-Algorithmic-Market-Making-Quant----VP_26969342": {
   "company": "citi",
   "first_seen": "2026-08-04T16:08:29+00:00",
@@ -108468,6 +108758,16 @@
   "source": "workday",
   "title": "Mortgage Quantitative Analyst, VP",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Credit-Algorithmic-Market-Making-Quant----VP_26969342"
+ },
+ "workday:citi:/job/New-York-New-York-United-States/Credit-Portfolio-Sr-Analyst_26979274": {
+  "company": "citi",
+  "first_seen": "2026-08-05T22:50:13+00:00",
+  "job_id": "/job/New-York-New-York-United-States/Credit-Portfolio-Sr-Analyst_26979274",
+  "location": "New York New York United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Credit Portfolio Sr Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Credit-Portfolio-Sr-Analyst_26979274"
  },
  "workday:citi:/job/New-York-New-York-United-States/Credit-Risk-Officer---Alternatives--Hedge-Funds---Private-Markets----Vice-President_26969431": {
   "company": "citi",
@@ -108708,6 +109008,16 @@
   "source": "workday",
   "title": "Functions - Internal Audit, Full-Time Analyst, New York - USA, 2027",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Functions---Internal-Audit--Full-Time-Analyst--New-York---USA--2027_26983265"
+ },
+ "workday:citi:/job/New-York-New-York-United-States/Functions---Internal-Audit--Summer-Analyst--New-York---USA--2027_26951374": {
+  "company": "citi",
+  "first_seen": "2026-08-05T22:50:13+00:00",
+  "job_id": "/job/New-York-New-York-United-States/Functions---Internal-Audit--Summer-Analyst--New-York---USA--2027_26951374",
+  "location": "New York New York United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Functions - Internal Audit, Summer Analyst, New York - USA, 2027",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Functions---Internal-Audit--Summer-Analyst--New-York---USA--2027_26951374"
  },
  "workday:citi:/job/New-York-New-York-United-States/Global-Commercial-Cards-Payables-Product-Lead---SVP_26979101": {
   "company": "citi",
@@ -114239,6 +114549,16 @@
   "title": "Apps Development Sr Manager - C13 - TAMPA",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Apps-Development-Sr-Manager---C13---TAMPA_26966419"
  },
+ "workday:citi:/job/Tampa-Florida-United-States/Artificial-Intelligence--AI--Offensive-Security-Analyst_26985034": {
+  "company": "citi",
+  "first_seen": "2026-08-05T22:50:13+00:00",
+  "job_id": "/job/Tampa-Florida-United-States/Artificial-Intelligence--AI--Offensive-Security-Analyst_26985034",
+  "location": "5 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Artificial Intelligence (AI) Offensive Security Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Artificial-Intelligence--AI--Offensive-Security-Analyst_26985034"
+ },
  "workday:citi:/job/Tampa-Florida-United-States/Bank-Account-Management---Controls-Lead--Vice-President_26974254": {
   "company": "citi",
   "first_seen": "2026-08-03T08:04:56+00:00",
@@ -114388,6 +114708,16 @@
   "source": "workday",
   "title": "Functions - Internal Audit, Full-Time Analyst, Tampa - USA, 2027",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Internal-Audit--Full-Time-Analyst--Tampa---USA--2027_26983267"
+ },
+ "workday:citi:/job/Tampa-Florida-United-States/Functions---Internal-Audit--Summer-Analyst--Tampa---USA--2027_26951376": {
+  "company": "citi",
+  "first_seen": "2026-08-05T22:50:13+00:00",
+  "job_id": "/job/Tampa-Florida-United-States/Functions---Internal-Audit--Summer-Analyst--Tampa---USA--2027_26951376",
+  "location": "Tampa Florida United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Functions - Internal Audit, Summer Analyst, Tampa - USA, 2027",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Functions---Internal-Audit--Summer-Analyst--Tampa---USA--2027_26951376"
  },
  "workday:citi:/job/Tampa-Florida-United-States/GenAI-Engineering-and-Transformation-Senior-Manager_26982865": {
   "company": "citi",
@@ -132019,6 +132349,16 @@
   "title": "Sr Manager, Employee Relations",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Sr-Manager--Employee-Relations_R0135857-1"
  },
+ "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Data-Scientist_R0137204": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/Chicago-Illinois-United-States-of-America/Data-Scientist_R0137204",
+  "location": "Chicago, Illinois, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Data Scientist",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Data-Scientist_R0137204"
+ },
  "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Sr-Auditor_R0136218-1": {
   "company": "paypal",
   "first_seen": "2026-08-03T08:03:11+00:00",
@@ -132048,6 +132388,16 @@
   "source": "workday",
   "title": "Sr Data Scientist",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Data-Scientist_R0134212-1"
+ },
+ "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Sr-Data-Scientist_R0137205": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/Chicago-Illinois-United-States-of-America/Sr-Data-Scientist_R0137205",
+  "location": "Chicago, Illinois, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Data Scientist",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Data-Scientist_R0137205"
  },
  "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Sr-Manager--Sales-Incentive-Compensation_R0135855-1": {
   "company": "paypal",
@@ -132269,6 +132619,16 @@
   "title": "Consumer Product Growth Mgr",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Madrid-Spain/Consumer-Product-Growth-Mgr_R0136498"
  },
+ "workday:paypal:/job/Mexico-City-Ciudad-de-Mexico-Mexico/Director--Legal-Counsel---LATAM---Canada_R0137079": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/Mexico-City-Ciudad-de-Mexico-Mexico/Director--Legal-Counsel---LATAM---Canada_R0137079",
+  "location": "Mexico City, Ciudad de Mexico, Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Legal Counsel - LATAM & Canada",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Mexico-City-Ciudad-de-Mexico-Mexico/Director--Legal-Counsel---LATAM---Canada_R0137079"
+ },
  "workday:paypal:/job/Mexico-City-Ciudad-de-Mexico-Mexico/Regulatory-Reporting-Manager_R0135053-1": {
   "company": "paypal",
   "first_seen": "2026-08-03T08:03:11+00:00",
@@ -132389,6 +132749,16 @@
   "title": "Sr Data Scientist",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Data-Scientist_R0134770-1"
  },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Sr-Data-Scientist_R0137185": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Sr-Data-Scientist_R0137185",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Data Scientist",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Data-Scientist_R0137185"
+ },
  "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Sr-Legal-Counsel---Commercial_R0137075": {
   "company": "paypal",
   "first_seen": "2026-08-03T08:03:11+00:00",
@@ -132489,6 +132859,26 @@
   "title": "Manager, Software Engineering",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--Software-Engineering_R0137158"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Manager--Software-Engineering_R0137183": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Manager--Software-Engineering_R0137183",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Software Engineering",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--Software-Engineering_R0137183"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Manager--Software-Engineering_R0137186": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Manager--Software-Engineering_R0137186",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Software Engineering",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--Software-Engineering_R0137186"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Principal-Engineer--Data-Platforms-Venmo_R0136817-1": {
   "company": "paypal",
   "first_seen": "2026-08-03T08:03:11+00:00",
@@ -132519,6 +132909,26 @@
   "title": "Senior Software Engineer - Python",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Senior-Software-Engineer---Python_R0134448-1"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Senior-Software-Engineer_R0137206": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Senior-Software-Engineer_R0137206",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Senior-Software-Engineer_R0137206"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Senior-Staff-Machine-Learning-Engineer_R0137207": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Senior-Staff-Machine-Learning-Engineer_R0137207",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Staff Machine Learning Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Senior-Staff-Machine-Learning-Engineer_R0137207"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Software-Engineer---Cloud-Infrastructure-and-Devops_R0136771": {
   "company": "paypal",
   "first_seen": "2026-08-03T08:03:11+00:00",
@@ -132539,6 +132949,16 @@
   "title": "Software Engineer- Cloud Infrastructure and DevOps",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136963-1"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Software-Engineer-2_R0137187": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Software-Engineer-2_R0137187",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer 2",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-2_R0137187"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137152": {
   "company": "paypal",
   "first_seen": "2026-08-03T08:03:11+00:00",
@@ -132558,6 +132978,56 @@
   "source": "workday",
   "title": "Software Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137155"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137189": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137189",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137189"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137190": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137190",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137190"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137191": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137191",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137191"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137192": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137192",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137192"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137195": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137195",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137195"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Data-Scientist_R0137151": {
   "company": "paypal",
@@ -132628,6 +133098,16 @@
   "source": "workday",
   "title": "Sr Machine Learning Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0136787"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0137198": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0137198",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Machine Learning Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0137198"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Manager--Audit_R0135958-1": {
   "company": "paypal",
@@ -132729,6 +133209,86 @@
   "title": "Sr Software Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137156"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137188": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137188",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137188"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137193": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137193",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137193"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137194": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137194",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137194"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137196": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137196",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137196"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137197": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137197",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137197"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137200": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137200",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137200"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137201": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137201",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137201"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137202": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137202",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137202"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Staff-Software-Engineer--BE-Python_R0136939-1": {
   "company": "paypal",
   "first_seen": "2026-08-03T08:03:11+00:00",
@@ -132818,6 +133378,36 @@
   "source": "workday",
   "title": "Staff Software Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0134048-1"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137184": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137184",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137184"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137199": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137199",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137199"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137203": {
+  "company": "paypal",
+  "first_seen": "2026-08-05T22:48:32+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137203",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137203"
  },
  "workday:paypal:/job/Scottsdale-Arizona-United-States-of-America/Lead-Product-Manager_R0136057-1": {
   "company": "paypal",
@@ -141539,6 +142129,16 @@
   "title": "Large Enterprise Account Executive",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/Account-Executive---Large-Enterprise_JR-0107746"
  },
+ "workday:workday:/job/USA-CA-San-Francisco/Principal-Product-Manager---Evisort-AI_JR-0108875": {
+  "company": "workday",
+  "first_seen": "2026-08-05T22:51:19+00:00",
+  "job_id": "/job/USA-CA-San-Francisco/Principal-Product-Manager---Evisort-AI_JR-0108875",
+  "location": "3 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Principal Product Manager - Evisort AI",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-San-Francisco/Principal-Product-Manager---Evisort-AI_JR-0108875"
+ },
  "workday:workday:/job/USA-CA-San-Francisco/Senior-Product-Manager--Pipedream_JR-0107616": {
   "company": "workday",
   "first_seen": "2026-08-03T08:06:00+00:00",
@@ -142288,6 +142888,16 @@
   "source": "workday",
   "title": "Senior Machine Learning Engineer/Machine Learning Engineer III",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-WA-Seattle/Senior-Machine-Learning-Engineer-Machine-Learning-Engineer-III_JR-0107996"
+ },
+ "workday:workday:/job/USACAHome-Office-Bay-Area/Large-Enterprise-Customer-Base-Account-Executive_JR-0109148": {
+  "company": "workday",
+  "first_seen": "2026-08-05T22:51:19+00:00",
+  "job_id": "/job/USACAHome-Office-Bay-Area/Large-Enterprise-Customer-Base-Account-Executive_JR-0109148",
+  "location": "USA.CA.Home Office Bay Area",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Large Enterprise Customer Base Account Executive",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USACAHome-Office-Bay-Area/Large-Enterprise-Customer-Base-Account-Executive_JR-0109148"
  },
  "workday:workday:/job/USADCHome-Office-Washington-DC-Metro/Capture-Director--US-Federal-_JR-0108652": {
   "company": "workday",
