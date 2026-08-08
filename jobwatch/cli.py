@@ -8,6 +8,7 @@ from pathlib import Path
 
 import yaml
 
+from . import apply as apply_mod
 from . import discover, notify
 from .matcher import Matcher, dedupe
 from .sources import Posting, _session, fetch
@@ -165,6 +166,42 @@ def cmd_check(args) -> int:
 
 
 # --------------------------------------------------------------------------
+def cmd_apply(args) -> int:
+    """Work through current matches: open each, reveal the right resume, log it."""
+    cfg = load_yaml(args.config)
+    companies = load_yaml(args.companies)
+    matcher = Matcher(cfg)
+    sess = _session()
+
+    matches, scanned = [], 0
+    for entry in companies:
+        if entry.get("paused"):
+            continue
+        try:
+            postings = fetch(entry, sess)
+        except Exception as e:
+            print(f"  ! {entry.get('name')}: {type(e).__name__}", file=sys.stderr)
+            continue
+        scanned += len(postings)
+        for p in postings:
+            m = matcher.match(p)
+            if m:
+                matches.append(m)
+        time.sleep(cfg.get("politeness_seconds", 0.3))
+
+    matches = dedupe(matches)
+    if args.profile:
+        matches = [m for m in matches if m.profile == args.profile]
+
+    log = apply_mod.AppliedLog(args.applied)
+    browser = args.browser or cfg.get("browser")
+    apply_mod.run(
+        matches, Path(args.resume_dir).expanduser(), log, args.limit, browser
+    )
+    return 0
+
+
+# --------------------------------------------------------------------------
 def cmd_prune(args) -> int:
     """Drop companies whose feed is dead or returns nothing.
 
@@ -232,6 +269,7 @@ def main(argv=None) -> int:
     ap.add_argument("--config", type=Path, default=ROOT / "config.yaml")
     ap.add_argument("--companies", type=Path, default=ROOT / "companies.yaml")
     ap.add_argument("--state", type=Path, default=ROOT / "state" / "seen.json")
+    ap.add_argument("--applied", type=Path, default=ROOT / "state" / "applied.json")
     sub = ap.add_subparsers(dest="cmd", required=True)
 
     p = sub.add_parser("poll", help="Fetch, diff against state, alert on new matches.")
@@ -247,6 +285,14 @@ def main(argv=None) -> int:
 
     p = sub.add_parser("check", help="Dry run: show current matches, change nothing.")
     p.set_defaults(func=cmd_check)
+
+    p = sub.add_parser("apply", help="Work through matches one at a time.")
+    p.add_argument("--limit", type=int, default=10)
+    p.add_argument("--profile", choices=["ai_ml", "backend_java"],
+                   help="Only this resume profile.")
+    p.add_argument("--resume-dir", default="~/Downloads/jobwatch/resumes")
+    p.add_argument("--browser", help='e.g. "Google Chrome". Overrides config.')
+    p.set_defaults(func=cmd_apply)
 
     p = sub.add_parser("prune", help="Remove companies with dead or empty feeds.")
     p.add_argument("--dry-run", action="store_true")
