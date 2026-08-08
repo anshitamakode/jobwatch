@@ -32929,6 +32929,16 @@
   "title": "Senior Named Account Executive, MD/VA/DC",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8112200?gh_jid=8112200"
  },
+ "greenhouse:cloudflare:8115936": {
+  "company": "cloudflare",
+  "first_seen": "2026-08-08T03:19:49+00:00",
+  "job_id": "8115936",
+  "location": "Distributed",
+  "posted_at": "2026-08-07T23:19:21-04:00",
+  "source": "greenhouse",
+  "title": "Senior Customer Engineer, Hong Kong",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8115936?gh_jid=8115936"
+ },
  "greenhouse:cockroachlabs:2578081": {
   "company": "cockroachlabs",
   "first_seen": "2026-08-03T08:06:04+00:00",
@@ -63658,6 +63668,16 @@
   "source": "greenhouse",
   "title": "Senior Backend Engineer, Architecture Engineering: Nonlinear Productivity",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646556002"
+ },
+ "greenhouse:gitlab:8646573002": {
+  "company": "gitlab",
+  "first_seen": "2026-08-08T03:17:17+00:00",
+  "job_id": "8646573002",
+  "location": "Remote, Canada; Remote, United States",
+  "posted_at": "2026-08-07T21:00:24-04:00",
+  "source": "greenhouse",
+  "title": "Staff Backend Engineer (Ruby), AI Engineering: DAP Repository Flows",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8646573002"
  },
  "greenhouse:gitlab:8646595002": {
   "company": "gitlab",
@@ -101729,6 +101749,16 @@
   "title": "Senior Aladdin Performance Analyst",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Boston-Massachusetts-United-States/Senior-Aladdin-Performance-Analyst_26972639"
  },
+ "workday:citi:/job/Boynton--Beach-Florida-United-States/Personal-Banker-SAFE-Act--Boynton-Beach-Area_26983944": {
+  "company": "citi",
+  "first_seen": "2026-08-08T03:18:45+00:00",
+  "job_id": "/job/Boynton--Beach-Florida-United-States/Personal-Banker-SAFE-Act--Boynton-Beach-Area_26983944",
+  "location": "Boynton  Beach Florida United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Personal Banker SAFE Act, Boynton Beach Area, Officer",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Boynton--Beach-Florida-United-States/Personal-Banker-SAFE-Act--Boynton-Beach-Area_26983944"
+ },
  "workday:citi:/job/Boynton--Beach-Florida-United-States/Personal-Banker-SAFE-Act--Boynton-Beach-Branch_26982880": {
   "company": "citi",
   "first_seen": "2026-08-03T08:04:56+00:00",
@@ -104339,6 +104369,16 @@
   "title": "Banamex Senior Executive Search Recruiter",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Senior-Executive-Search-Recruiter_26982102"
  },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Senior-Operations-Support-Manager--Talent-Acquisition-Operations-_26982962": {
+  "company": "citi",
+  "first_seen": "2026-08-08T03:18:45+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Senior-Operations-Support-Manager--Talent-Acquisition-Operations-_26982962",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex Senior Operations Support Manager (Talent Acquisition Operations)",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Senior-Operations-Support-Manager--Talent-Acquisition-Operations-_26982962"
+ },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Strategic-Value---Analytics-Specialist_26977041-1": {
   "company": "citi",
   "first_seen": "2026-08-04T01:20:59+00:00",
@@ -105398,6 +105438,16 @@
   "source": "workday",
   "title": "Part-Time Universal Banker (20 Hours), Bilingual English/Spanish Speaking Preferred, Doral Area",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Doral-Florida-United-States/Part-Time-Universal-Banker--20-Hours---Bilingual-English-Spanish-Speaking-Preferred--Doral-Area_26983524"
+ },
+ "workday:citi:/job/Doral-Florida-United-States/Part-Time-Universal-Banker--20-Hours---Bilingual-English-Spanish-Speaking-Preferred--Doral-Area_26985256": {
+  "company": "citi",
+  "first_seen": "2026-08-08T03:18:45+00:00",
+  "job_id": "/job/Doral-Florida-United-States/Part-Time-Universal-Banker--20-Hours---Bilingual-English-Spanish-Speaking-Preferred--Doral-Area_26985256",
+  "location": "Doral Florida United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Part-Time Universal Banker (20 Hours), Bilingual English/Spanish Speaking Preferred, Doral Area",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Doral-Florida-United-States/Part-Time-Universal-Banker--20-Hours---Bilingual-English-Spanish-Speaking-Preferred--Doral-Area_26985256"
  },
  "workday:citi:/job/Dubai-United-Arab-Emirates/Business-Analyst---Planning-and-Support--UAE-Nationals-only----DUBAI_26952362": {
   "company": "citi",
@@ -107998,6 +108048,26 @@
   "source": "workday",
   "title": "Senior Data Engineer - Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Senior-Data-Engineer---Vice-President_26970128"
+ },
+ "workday:citi:/job/Irving-Texas-United-States/Senior-Front-End-Engineer--VP_26984215-1": {
+  "company": "citi",
+  "first_seen": "2026-08-08T03:18:45+00:00",
+  "job_id": "/job/Irving-Texas-United-States/Senior-Front-End-Engineer--VP_26984215-1",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Front End Engineer, VP",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Senior-Front-End-Engineer--VP_26984215-1"
+ },
+ "workday:citi:/job/Irving-Texas-United-States/Senior-Front-End-Engineer--VP_26984217": {
+  "company": "citi",
+  "first_seen": "2026-08-08T03:18:45+00:00",
+  "job_id": "/job/Irving-Texas-United-States/Senior-Front-End-Engineer--VP_26984217",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Front End Engineer, VP",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Senior-Front-End-Engineer--VP_26984217"
  },
  "workday:citi:/job/Irving-Texas-United-States/Senior-Java-Engineer-Agentic-AI-Driven-Development_26980337": {
   "company": "citi",
@@ -111198,6 +111268,16 @@
   "source": "workday",
   "title": "Banamex - Cajero Suc 187 Manzanillo",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Manzanillo-Colima-Mexico/Banamex---Cajero-Suc-187-Manzanillo_26985033"
+ },
+ "workday:citi:/job/Martinez--Argentina/Reference-Data-Services-Analyst_26982916-1": {
+  "company": "citi",
+  "first_seen": "2026-08-08T03:18:45+00:00",
+  "job_id": "/job/Martinez--Argentina/Reference-Data-Services-Analyst_26982916-1",
+  "location": "Martinez  Argentina",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Reference Data Services Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Martinez--Argentina/Reference-Data-Services-Analyst_26982916-1"
  },
  "workday:citi:/job/Martinez-De-La-Torre-Veracruz-Mexico/Banamex-Cajero--a--Bancario-Martnez-de-la-Torre--Ver_26962078": {
   "company": "citi",
@@ -150429,6 +150509,16 @@
   "title": "",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Sr-Recruiting-Consultant---Workday-Success-Plans_JR-0098509-1"
  },
+ "workday:workday:/job/Sr-Reporting---Prism-Consultant--State---Local-Government_JR-0108796": {
+  "company": "workday",
+  "first_seen": "2026-08-08T03:19:46+00:00",
+  "job_id": "/job/Sr-Reporting---Prism-Consultant--State---Local-Government_JR-0108796",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Sr-Reporting---Prism-Consultant--State---Local-Government_JR-0108796"
+ },
  "workday:workday:/job/Sweden-Stockholm/Sana-Learn-Customer-Success-Manager_JR-0108358": {
   "company": "workday",
   "first_seen": "2026-08-03T08:06:00+00:00",
@@ -151858,6 +151948,16 @@
   "source": "workday",
   "title": "Principal Managing Partner - Education & Government",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-Remote/Principal-Managing-Partner---Education---Government_JR-0108986-1"
+ },
+ "workday:workday:/job/USA-Remote/Principal-Reporting---Prism-Consultant--State---Local-Government_JR-0109222": {
+  "company": "workday",
+  "first_seen": "2026-08-08T03:19:46+00:00",
+  "job_id": "/job/USA-Remote/Principal-Reporting---Prism-Consultant--State---Local-Government_JR-0109222",
+  "location": "USA Remote",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Principal Reporting & Prism Consultant, State & Local Government",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-Remote/Principal-Reporting---Prism-Consultant--State---Local-Government_JR-0109222"
  },
  "workday:workday:/job/USA-Remote/Senior-Technical-Consultant--Integrations---State---Local-Government_JR-0108797": {
   "company": "workday",
