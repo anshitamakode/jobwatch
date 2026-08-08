@@ -43,9 +43,6 @@
 - name: tide
   ats: greenhouse
   token: tide
-- name: tekion
-  ats: greenhouse
-  token: tekion
 - name: atomicwork
   ats: greenhouse
   token: atomicwork
@@ -280,3 +277,6 @@
 - name: hevodata
   ats: lever
   token: hevodata
+- name: tekion
+  ats: ashby
+  token: tekion
