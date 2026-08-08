@@ -2,8 +2,9 @@ name: jobwatch
 
 on:
   schedule:
-    # Hourly. Scanning ~13k postings across 79 companies takes 10-15 min per
-    # run; hourly keeps this inside GitHub's free 2,000 min/month quota.
+    # Every two hours. A full scan of ~13k postings across 79 companies takes
+    # ~6 min on GitHub's runners; two-hourly keeps this inside the free
+    # 2,000 min/month Actions quota with headroom.
     - cron: "0 */2 * * *"
   workflow_dispatch: {}
 
@@ -33,6 +34,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          SMTP_APP_PASSWORD: ${{ secrets.SMTP_APP_PASSWORD }}
         run: python -m jobwatch poll --quiet
 
       - name: Commit state

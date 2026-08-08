@@ -103,9 +103,9 @@ filters:
     - multi cloud
     - infrastructure
 
-  # Base score is 10 for a title match. Each boost term found in the title is
-  # +6, in the body +2, seniority +4. 12 means "title match plus at least one
-  # real signal". Raise to ~20 if you're getting too much noise.
+  # Base score is 10 for a title match. Each boost term in the title is +6,
+  # in the body +2, seniority +4, plus title_match_bonus. 22 was tuned against
+  # a real 13k-posting scan. Too much noise? raise toward 26.
   min_score: 22
 
 # ---------------------------------------------------------------------------
@@ -244,7 +244,7 @@ notify:
     token_env: TELEGRAM_BOT_TOKEN
     chat_id_env: TELEGRAM_CHAT_ID
   email:
-    enabled: false
+    enabled: true
     host: smtp.gmail.com
     port: 587
     from: anshitamakode@gmail.com
