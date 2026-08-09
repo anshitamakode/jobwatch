@@ -280,7 +280,7 @@
 - name: tekion
   ats: ashby
   token: tekion
-- name: egug
+- name: amex
   ats: oraclecloud
   host: egug.fa.us2.oraclecloud.com
   site: CX_1
