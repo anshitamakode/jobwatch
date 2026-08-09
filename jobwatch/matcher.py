@@ -17,8 +17,12 @@ from .sources import Posting
 
 
 def _norm(s) -> str:
-    # str() because YAML happily turns `- 2` and `- 3` into ints
-    return re.sub(r"[^a-z0-9+#/ ]+", " ", str(s or "").lower())
+    # str() because YAML happily turns `- 2` and `- 3` into ints.
+    # Collapsing runs of whitespace matters: punctuation becomes spaces, so
+    # "Remote - India" and "Remote, India" would otherwise normalise to
+    # different numbers of spaces and a single filter term couldn't match both.
+    out = re.sub(r"[^a-z0-9+#/ ]+", " ", str(s or "").lower())
+    return re.sub(r"\s+", " ", out).strip()
 
 
 def _hits(terms: list[str], haystack: str) -> list[str]:

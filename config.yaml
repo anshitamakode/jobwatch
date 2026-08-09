@@ -2,19 +2,31 @@
 # jobwatch config
 # Tune this file freely -- it's the only thing that decides what wakes you up.
 # ---------------------------------------------------------------------------
-browser: "Google Chrome"
+
 retain_days: 90          # how long a seen job stays in state before being forgotten
 politeness_seconds: 0.3  # pause between companies; 0.3 keeps ~120 companies
                          # inside GitHub's free 2,000 min/month Actions quota
 
 filters:
   # Applied to every posting, before profiles are considered.
+  # Punctuation normalises to single spaces, so "Remote - India",
+  # "Remote, India" and "Remote (India)" all collapse to "remote india".
   location_any:
     - bangalore
     - bengaluru
-    - remote - india
-    - india (remote)
-    - remote, india
+    # India-remote, both word orders
+    - remote india
+    - india remote
+    - remote in india
+    # regional postings that include India
+    - apac
+    - asia pacific
+    # genuinely global remote -- verify work authorisation before applying,
+    # many of these still require a US/EU entity
+    - remote global
+    - global remote
+    - worldwide
+    - anywhere
 
   # If a posting has NO location string at all (Workday does this sometimes),
   # setting this to false lets it through rather than silently dropping it.
