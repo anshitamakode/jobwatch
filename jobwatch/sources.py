@@ -518,3 +518,128 @@ def fetch_oraclecloud(entry: dict, sess: requests.Session) -> list[Posting]:
 
 
 FETCHERS["oraclecloud"] = fetch_oraclecloud
+
+
+# --------------------------------------------------------------------------
+# Keka  (very common among Indian product companies and startups)
+#
+# Keka's careers pages are server-rendered, so the listing page is scraped
+# rather than hit via API. Job detail pages carry the full description.
+# --------------------------------------------------------------------------
+def fetch_keka(entry: dict, sess: requests.Session) -> list[Posting]:
+    tenant = entry["tenant"]
+    base = f"https://{tenant}.keka.com"
+
+    # The JSON API is the happy path; the HTML listing is the fallback.
+    for api in (
+        f"{base}/careers/api/embedjobs",
+        f"{base}/careers/api/jobs",
+    ):
+        try:
+            r = sess.get(api, timeout=TIMEOUT)
+            if r.ok and "json" in r.headers.get("Content-Type", ""):
+                data = r.json()
+                rows = data if isinstance(data, list) else (
+                    data.get("data") or data.get("jobs") or []
+                )
+                if rows:
+                    out = []
+                    for j in rows:
+                        jid = str(j.get("id") or j.get("jobId") or "")
+                        out.append(
+                            Posting(
+                                source="keka",
+                                company=entry["name"],
+                                job_id=jid,
+                                title=j.get("title") or j.get("jobTitle", ""),
+                                location=j.get("location")
+                                or j.get("locationName", ""),
+                                url=f"{base}/careers/jobdetails/{jid}",
+                                posted_at=j.get("createdOn") or j.get("postedOn"),
+                                description=html_to_text(
+                                    j.get("description") or j.get("jobDescription")
+                                ),
+                            )
+                        )
+                    return out
+        except Exception:
+            pass
+
+    # Fallback: scrape job ids out of the listing page.
+    r = sess.get(f"{base}/careers/", timeout=TIMEOUT,
+                 headers={"Accept": "text/html,*/*"})
+    r.raise_for_status()
+    ids = dict.fromkeys(re.findall(r"/careers/jobdetails/(\d+)", r.text))
+    out = []
+    for jid in list(ids)[: entry.get("max_jobs", 100)]:
+        url = f"{base}/careers/jobdetails/{jid}"
+        try:
+            d = sess.get(url, timeout=TIMEOUT,
+                         headers={"Accept": "text/html,*/*"})
+            text = html_to_text(d.text)
+        except Exception:
+            text = ""
+        # first non-empty line after the company name is the title
+        lines = [x.strip() for x in text.split("\n") if x.strip()]
+        title = lines[1] if len(lines) > 1 else ""
+        location = lines[2] if len(lines) > 2 else ""
+        out.append(
+            Posting(
+                source="keka",
+                company=entry["name"],
+                job_id=jid,
+                title=title,
+                location=location,
+                url=url,
+                description=text[:8000],
+            )
+        )
+        time.sleep(0.2)
+    return out
+
+
+# --------------------------------------------------------------------------
+# Rippling ATS  (ats.rippling.com)
+# --------------------------------------------------------------------------
+def fetch_ripplingats(entry: dict, sess: requests.Session) -> list[Posting]:
+    token = entry["token"]
+    for api in (
+        f"https://api.rippling.com/platform/api/ats/v1/board/{token}/jobs",
+        f"https://ats.rippling.com/api/v1/board/{token}/jobs",
+    ):
+        try:
+            r = sess.get(api, timeout=TIMEOUT)
+            if not r.ok:
+                continue
+            data = r.json()
+            rows = data if isinstance(data, list) else (
+                data.get("jobs") or data.get("data") or []
+            )
+            if not rows:
+                continue
+            out = []
+            for j in rows:
+                jid = str(j.get("uuid") or j.get("id") or "")
+                loc = j.get("workLocation") or j.get("location") or ""
+                if isinstance(loc, dict):
+                    loc = loc.get("label") or loc.get("name", "")
+                out.append(
+                    Posting(
+                        source="ripplingats",
+                        company=entry["name"],
+                        job_id=jid,
+                        title=j.get("name") or j.get("title", ""),
+                        location=loc,
+                        url=f"https://ats.rippling.com/{token}/jobs/{jid}",
+                        posted_at=j.get("createdAt"),
+                        description=html_to_text(
+                            j.get("description") or j.get("jobDescription")
+                        ),
+                    )
+                )
+            return out
+        except Exception:
+            continue
+    raise RuntimeError("no working Rippling ATS endpoint")
+FETCHERS["keka"] = fetch_keka
+FETCHERS["ripplingats"] = fetch_ripplingats

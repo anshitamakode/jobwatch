@@ -5,7 +5,7 @@ on:
     # Every two hours. A full scan of ~13k postings across 79 companies takes
     # ~6 min on GitHub's runners; two-hourly keeps this inside the free
     # 2,000 min/month Actions quota with headroom.
-    - cron: "0 */2 * * *"
+    - cron: "0 */4 * * *"
   workflow_dispatch: {}
 
 # Only one run at a time, otherwise two runs can both see the same job as new

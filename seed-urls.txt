@@ -3,25 +3,260 @@
 # Run:  ./bootstrap.sh
 #
 # One URL per line. `add` resolves each to an ATS, VERIFIES the feed actually
-# responds, and only then writes it to companies.yaml. Failures are expected
-# and harmless -- companies migrate ATS constantly. Re-running is safe:
-# anything already in companies.yaml is skipped.
+# responds, and only writes it to companies.yaml if it returns postings.
+# Failures are expected and free -- companies migrate ATS constantly, and
+# many of these tokens are educated guesses. Re-running is safe: anything
+# already in companies.yaml is skipped.
 #
 # To add your own: open a real job posting on any careers page, copy the URL
 # from the address bar, paste it here. Any URL on the ATS host works.
 #
-# Note on the JSON-LD section: those are self-hosted portals with no public
-# API. The scraper reads schema.org JobPosting markup off a single page, so
-# it only works when the page is server-rendered. Career pages that load jobs
-# via JavaScript return 0 postings -- `add` tells you immediately. Drop those.
+# Twelve ATSs supported: Workday, Greenhouse, Lever, Ashby, SmartRecruiters,
+# Workable, Recruitee, Eightfold, Oracle HCM, Keka, Rippling, plus a generic
+# JSON-LD scraper for self-hosted pages.
 #
-# Deliberately NOT included: Flipkart. They use TurboHire, whose robots.txt
-# disallows automated access. Set a LinkedIn alert for them instead.
+# NOT included: Flipkart (TurboHire; robots.txt disallows automated access).
+# Use a LinkedIn alert for them.
 
 
-# ========================================================================
-# Workday  — large enterprises with Bangalore engineering centres  (42)
-# ========================================================================
+# ======================================================================
+# Greenhouse — biggest source of matches so far  (131)
+# ======================================================================
+https://job-boards.greenhouse.io/abnormalsecurity
+https://job-boards.greenhouse.io/adept
+https://job-boards.greenhouse.io/affirm
+https://job-boards.greenhouse.io/airbyte
+https://job-boards.greenhouse.io/airtable
+https://job-boards.greenhouse.io/algolia
+https://job-boards.greenhouse.io/amplitude
+https://job-boards.greenhouse.io/anyscale
+https://job-boards.greenhouse.io/appliedintuition
+https://job-boards.greenhouse.io/arize
+https://job-boards.greenhouse.io/asana
+https://job-boards.greenhouse.io/assemblyai
+https://job-boards.greenhouse.io/atlan
+https://job-boards.greenhouse.io/atlassian
+https://job-boards.greenhouse.io/atomicwork
+https://job-boards.greenhouse.io/auth0
+https://job-boards.greenhouse.io/branch
+https://job-boards.greenhouse.io/browserstack
+https://job-boards.greenhouse.io/canva
+https://job-boards.greenhouse.io/capillarytech
+https://job-boards.greenhouse.io/character
+https://job-boards.greenhouse.io/chargebee
+https://job-boards.greenhouse.io/circleci
+https://job-boards.greenhouse.io/clevertap
+https://job-boards.greenhouse.io/clickhouse
+https://job-boards.greenhouse.io/cloudflare
+https://job-boards.greenhouse.io/cockroachlabs
+https://job-boards.greenhouse.io/confluent
+https://job-boards.greenhouse.io/couchbase
+https://job-boards.greenhouse.io/coupang
+https://job-boards.greenhouse.io/cred
+https://job-boards.greenhouse.io/crowdstrike
+https://job-boards.greenhouse.io/darwinbox
+https://job-boards.greenhouse.io/databricks
+https://job-boards.greenhouse.io/datadog
+https://job-boards.greenhouse.io/dataiku
+https://job-boards.greenhouse.io/dbtlabs
+https://job-boards.greenhouse.io/deel
+https://job-boards.greenhouse.io/deepgram
+https://job-boards.greenhouse.io/discord
+https://job-boards.greenhouse.io/domino
+https://job-boards.greenhouse.io/doordash
+https://job-boards.greenhouse.io/dropbox
+https://job-boards.greenhouse.io/druva
+https://job-boards.greenhouse.io/dunzo
+https://job-boards.greenhouse.io/eightfold
+https://job-boards.greenhouse.io/elastic
+https://job-boards.greenhouse.io/elevenlabs
+https://job-boards.greenhouse.io/exotel
+https://job-boards.greenhouse.io/fampay
+https://job-boards.greenhouse.io/fastly
+https://job-boards.greenhouse.io/featureform
+https://job-boards.greenhouse.io/fiddler
+https://job-boards.greenhouse.io/figma
+https://job-boards.greenhouse.io/fivetran
+https://job-boards.greenhouse.io/flipkart
+https://job-boards.greenhouse.io/freshworks
+https://job-boards.greenhouse.io/gainsight
+https://job-boards.greenhouse.io/galileo
+https://job-boards.greenhouse.io/gitlab
+https://job-boards.greenhouse.io/glean
+https://job-boards.greenhouse.io/gleanwork
+https://job-boards.greenhouse.io/grafanalabs
+https://job-boards.greenhouse.io/groww
+https://job-boards.greenhouse.io/gupshup
+https://job-boards.greenhouse.io/h2oai
+https://job-boards.greenhouse.io/haptik
+https://job-boards.greenhouse.io/harness
+https://job-boards.greenhouse.io/hashicorp
+https://job-boards.greenhouse.io/hasura
+https://job-boards.greenhouse.io/heap
+https://job-boards.greenhouse.io/highradius
+https://job-boards.greenhouse.io/huggingface
+https://job-boards.greenhouse.io/icertis
+https://job-boards.greenhouse.io/innovaccer
+https://job-boards.greenhouse.io/instacart
+https://job-boards.greenhouse.io/kissflow
+https://job-boards.greenhouse.io/lambdaai
+https://job-boards.greenhouse.io/launchdarkly
+https://job-boards.greenhouse.io/lyft
+https://job-boards.greenhouse.io/meilisearch
+https://job-boards.greenhouse.io/miro
+https://job-boards.greenhouse.io/mixpanel
+https://job-boards.greenhouse.io/mongodb
+https://job-boards.greenhouse.io/neo4j
+https://job-boards.greenhouse.io/netlify
+https://job-boards.greenhouse.io/netradyne
+https://job-boards.greenhouse.io/newrelic
+https://job-boards.greenhouse.io/nutanixindia
+https://job-boards.greenhouse.io/observeai
+https://job-boards.greenhouse.io/okta
+https://job-boards.greenhouse.io/onsurity
+https://job-boards.greenhouse.io/pagerduty
+https://job-boards.greenhouse.io/paloaltonetworks
+https://job-boards.greenhouse.io/perplexityai
+https://job-boards.greenhouse.io/phonepe
+https://job-boards.greenhouse.io/pinterest
+https://job-boards.greenhouse.io/planetscale
+https://job-boards.greenhouse.io/plum
+https://job-boards.greenhouse.io/postman
+https://job-boards.greenhouse.io/prisma
+https://job-boards.greenhouse.io/project44
+https://job-boards.greenhouse.io/reddit
+https://job-boards.greenhouse.io/rubrik
+https://job-boards.greenhouse.io/samsara
+https://job-boards.greenhouse.io/scalapay
+https://job-boards.greenhouse.io/scaleai
+https://job-boards.greenhouse.io/segmentio
+https://job-boards.greenhouse.io/sentry
+https://job-boards.greenhouse.io/sierraai
+https://job-boards.greenhouse.io/singlestore
+https://job-boards.greenhouse.io/slice
+https://job-boards.greenhouse.io/springworks
+https://job-boards.greenhouse.io/starburst
+https://job-boards.greenhouse.io/sumologic
+https://job-boards.greenhouse.io/synthesia
+https://job-boards.greenhouse.io/tecton
+https://job-boards.greenhouse.io/tekion
+https://job-boards.greenhouse.io/tide
+https://job-boards.greenhouse.io/turing
+https://job-boards.greenhouse.io/twilio
+https://job-boards.greenhouse.io/typeface
+https://job-boards.greenhouse.io/typesense
+https://job-boards.greenhouse.io/uber
+https://job-boards.greenhouse.io/vercel
+https://job-boards.greenhouse.io/weightsandbiases
+https://job-boards.greenhouse.io/whatfix
+https://job-boards.greenhouse.io/wint
+https://job-boards.greenhouse.io/yugabyte
+https://job-boards.greenhouse.io/zetaindia
+https://job-boards.greenhouse.io/zscaler
+
+# ======================================================================
+# Ashby — AI-forward companies, often India-remote friendly  (56)
+# ======================================================================
+https://jobs.ashbyhq.com/abridge
+https://jobs.ashbyhq.com/airbyte
+https://jobs.ashbyhq.com/astronomer
+https://jobs.ashbyhq.com/baseten
+https://jobs.ashbyhq.com/browserbase
+https://jobs.ashbyhq.com/cartesia
+https://jobs.ashbyhq.com/chroma
+https://jobs.ashbyhq.com/cohere
+https://jobs.ashbyhq.com/convex
+https://jobs.ashbyhq.com/dagster
+https://jobs.ashbyhq.com/dashtoon
+https://jobs.ashbyhq.com/decagon
+https://jobs.ashbyhq.com/fractal
+https://jobs.ashbyhq.com/glean
+https://jobs.ashbyhq.com/harvey
+https://jobs.ashbyhq.com/hebbia
+https://jobs.ashbyhq.com/hex
+https://jobs.ashbyhq.com/hoppscotch
+https://jobs.ashbyhq.com/lamini
+https://jobs.ashbyhq.com/langchain
+https://jobs.ashbyhq.com/linear
+https://jobs.ashbyhq.com/llamaindex
+https://jobs.ashbyhq.com/mihup
+https://jobs.ashbyhq.com/modal
+https://jobs.ashbyhq.com/motherduck
+https://jobs.ashbyhq.com/neon
+https://jobs.ashbyhq.com/nimble
+https://jobs.ashbyhq.com/nirmata
+https://jobs.ashbyhq.com/notion
+https://jobs.ashbyhq.com/omni
+https://jobs.ashbyhq.com/openai
+https://jobs.ashbyhq.com/outerbounds
+https://jobs.ashbyhq.com/pinecone
+https://jobs.ashbyhq.com/postman
+https://jobs.ashbyhq.com/predibase
+https://jobs.ashbyhq.com/prefect
+https://jobs.ashbyhq.com/qodo
+https://jobs.ashbyhq.com/railway
+https://jobs.ashbyhq.com/ramp
+https://jobs.ashbyhq.com/render
+https://jobs.ashbyhq.com/replit
+https://jobs.ashbyhq.com/rippling
+https://jobs.ashbyhq.com/sarvam
+https://jobs.ashbyhq.com/sierra
+https://jobs.ashbyhq.com/sourcegraph
+https://jobs.ashbyhq.com/spotdraft
+https://jobs.ashbyhq.com/supabase
+https://jobs.ashbyhq.com/temporal
+https://jobs.ashbyhq.com/tigris
+https://jobs.ashbyhq.com/turso
+https://jobs.ashbyhq.com/unstructured
+https://jobs.ashbyhq.com/upstash
+https://jobs.ashbyhq.com/vanta
+https://jobs.ashbyhq.com/warp
+https://jobs.ashbyhq.com/weaviate
+https://jobs.ashbyhq.com/zilliz
+
+# ======================================================================
+# Keka — heavily used by Indian product startups  (36)
+# ======================================================================
+https://arcana.keka.com/careers/
+https://atlan.keka.com/careers/
+https://capillary.keka.com/careers/
+https://chargebee.keka.com/careers/
+https://clevertap.keka.com/careers/
+https://cred.keka.com/careers/
+https://curefit.keka.com/careers/
+https://darwinbox.keka.com/careers/
+https://gupshup.keka.com/careers/
+https://haptik.keka.com/careers/
+https://hasura.keka.com/careers/
+https://innovaccer.keka.com/careers/
+https://jupiter.keka.com/careers/
+https://juspay.keka.com/careers/
+https://khatabook.keka.com/careers/
+https://leadsquared.keka.com/careers/
+https://m2pfintech.keka.com/careers/
+https://mindtickle.keka.com/careers/
+https://moengage.keka.com/careers/
+https://observeai.keka.com/careers/
+https://pocketfm.keka.com/careers/
+https://razorpay.keka.com/careers/
+https://setu.keka.com/careers/
+https://siterecon.keka.com/careers/
+https://skit.keka.com/careers/
+https://slice.keka.com/careers/
+https://sprinklr.keka.com/careers/
+https://superleap.keka.com/careers/
+https://testsigma.keka.com/careers/
+https://theomdata.keka.com/careers/
+https://uniphore.keka.com/careers/
+https://vahan.keka.com/careers/
+https://webengage.keka.com/careers/
+https://whatfix.keka.com/careers/
+https://yellowai.keka.com/careers/
+https://zeta.keka.com/careers/
+
+# ======================================================================
+# Workday — large enterprises with Bangalore engineering centres  (42)
+# ======================================================================
 https://adobe.wd5.myworkdayjobs.com/external_experienced
 https://akamaicareers.wd1.myworkdayjobs.com/Akamai_Careers
 https://amd.wd1.myworkdayjobs.com/External
@@ -65,115 +300,30 @@ https://walmart.wd5.myworkdayjobs.com/WalmartExternal
 https://wellsfargojobs.wd12.myworkdayjobs.com/Wells_Fargo_Jobs
 https://workday.wd5.myworkdayjobs.com/Workday
 
-# ========================================================================
-# Greenhouse — the single biggest source of matches so far  (123)
-# ========================================================================
-https://job-boards.greenhouse.io/abnormalsecurity
-https://job-boards.greenhouse.io/adept
-https://job-boards.greenhouse.io/affirm
-https://job-boards.greenhouse.io/airbyte
-https://job-boards.greenhouse.io/amplitude
-https://job-boards.greenhouse.io/anyscale
-https://job-boards.greenhouse.io/appliedintuition
-https://job-boards.greenhouse.io/asana
-https://job-boards.greenhouse.io/atlan
-https://job-boards.greenhouse.io/atomicwork
-https://job-boards.greenhouse.io/browserstack
-https://job-boards.greenhouse.io/capillarytech
-https://job-boards.greenhouse.io/character
-https://job-boards.greenhouse.io/chargebee
-https://job-boards.greenhouse.io/clevertap
-https://job-boards.greenhouse.io/clickhouse
-https://job-boards.greenhouse.io/cloudflare
-https://job-boards.greenhouse.io/cockroachlabs
-https://job-boards.greenhouse.io/confluent
-https://job-boards.greenhouse.io/couchbase
-https://job-boards.greenhouse.io/coupang
-https://job-boards.greenhouse.io/cred
-https://job-boards.greenhouse.io/darwinbox
-https://job-boards.greenhouse.io/databricks
-https://job-boards.greenhouse.io/datadog
-https://job-boards.greenhouse.io/dbtlabs
-https://job-boards.greenhouse.io/deel
-https://job-boards.greenhouse.io/discord
-https://job-boards.greenhouse.io/doordash
-https://job-boards.greenhouse.io/dropbox
-https://job-boards.greenhouse.io/dunzo
-https://job-boards.greenhouse.io/eightfold
-https://job-boards.greenhouse.io/elastic
-https://job-boards.greenhouse.io/fastly
-https://job-boards.greenhouse.io/figma
-https://job-boards.greenhouse.io/fivetran
-https://job-boards.greenhouse.io/flipkart
-https://job-boards.greenhouse.io/freshworks
-https://job-boards.greenhouse.io/gitlab
-https://job-boards.greenhouse.io/gleanwork
-https://job-boards.greenhouse.io/groww
-https://job-boards.greenhouse.io/gupshup
-https://job-boards.greenhouse.io/haptik
-https://job-boards.greenhouse.io/harness
-https://job-boards.greenhouse.io/hashicorp
-https://job-boards.greenhouse.io/hasura
-https://job-boards.greenhouse.io/huggingface
-https://job-boards.greenhouse.io/instacart
-https://job-boards.greenhouse.io/lyft
-https://job-boards.greenhouse.io/mongodb
-https://job-boards.greenhouse.io/neo4j
-https://job-boards.greenhouse.io/netradyne
-https://job-boards.greenhouse.io/newrelic
-https://job-boards.greenhouse.io/observeai
-https://job-boards.greenhouse.io/phonepe
-https://job-boards.greenhouse.io/pinterest
-https://job-boards.greenhouse.io/postman
-https://job-boards.greenhouse.io/reddit
-https://job-boards.greenhouse.io/rubrik
-https://job-boards.greenhouse.io/samsara
-https://job-boards.greenhouse.io/scaleai
-https://job-boards.greenhouse.io/singlestore
-https://job-boards.greenhouse.io/slice
-https://job-boards.greenhouse.io/starburst
-https://job-boards.greenhouse.io/sumologic
-https://job-boards.greenhouse.io/tekion
-https://job-boards.greenhouse.io/tide
-https://job-boards.greenhouse.io/turing
-https://job-boards.greenhouse.io/twilio
-https://job-boards.greenhouse.io/typeface
-https://job-boards.greenhouse.io/whatfix
-https://job-boards.greenhouse.io/yugabyte
-
-# ========================================================================
-# Ashby — AI-forward companies, often India-remote friendly  (38)
-# ========================================================================
-https://jobs.ashbyhq.com/browserbase
-https://jobs.ashbyhq.com/cartesia
-https://jobs.ashbyhq.com/cohere
-https://jobs.ashbyhq.com/decagon
-https://jobs.ashbyhq.com/harvey
-https://jobs.ashbyhq.com/langchain
-https://jobs.ashbyhq.com/linear
-https://jobs.ashbyhq.com/llamaindex
-https://jobs.ashbyhq.com/neon
-https://jobs.ashbyhq.com/notion
-https://jobs.ashbyhq.com/openai
-https://jobs.ashbyhq.com/railway
-https://jobs.ashbyhq.com/ramp
-https://jobs.ashbyhq.com/render
-https://jobs.ashbyhq.com/replit
-https://jobs.ashbyhq.com/spotdraft
-https://jobs.ashbyhq.com/supabase
-https://jobs.ashbyhq.com/vanta
-
-# ========================================================================
-# Lever  (16)
-# ========================================================================
+# ======================================================================
+# Lever  (14)
+# ======================================================================
+https://jobs.lever.co/apna
+https://jobs.lever.co/arcana
+https://jobs.lever.co/bijnis
+https://jobs.lever.co/curefit
+https://jobs.lever.co/eightfold
 https://jobs.lever.co/hevodata
+https://jobs.lever.co/jai-kisan
+https://jobs.lever.co/pocketfm
+https://jobs.lever.co/project44
+https://jobs.lever.co/recro
+https://jobs.lever.co/refyne
+https://jobs.lever.co/sprinto
+https://jobs.lever.co/testsigma
 https://jobs.lever.co/zimperium
 
-# ========================================================================
-# Eightfold — used by several large Indian enterprises  (5)
-# ========================================================================
+# ======================================================================
+# Rippling's own ATS  (1)
+# ======================================================================
+https://ats.rippling.com/rippling/jobs/x
 
-# ========================================================================
-# Self-hosted career pages — handled by the generic JSON-LD scraper  (26)
-# ========================================================================
+# ======================================================================
+# Self-hosted portals — generic JSON-LD scraper (most return 0; SPAs)  (1)
+# ======================================================================
 https://zeptonow.com/careers

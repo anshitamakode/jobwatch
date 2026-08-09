@@ -111,6 +111,15 @@ def parse(url: str) -> dict:
             "site": site,
         }
 
+    # ---- Keka (common among Indian product companies) --------------------
+    m = re.match(r"^(?P<t>[^.]+)\.keka\.com$", host)
+    if m:
+        return {"name": m.group("t"), "ats": "keka", "tenant": m.group("t")}
+
+    # ---- Rippling's own ATS ----------------------------------------------
+    if host == "ats.rippling.com" and parts:
+        return {"name": parts[0], "ats": "ripplingats", "token": parts[0]}
+
     # ---- Fallback: treat it as a careers page with JSON-LD ---------------
     # Most career pages embed schema.org JobPosting markup because Google
     # requires it for job indexing. Works regardless of the ATS underneath.
