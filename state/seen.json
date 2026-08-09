@@ -14249,6 +14249,16 @@
   "title": "Technical Lead Manager - Training Runtime, Data(set) Movement",
   "url": "https://jobs.ashbyhq.com/openai/4cbbf0b1-7c0b-4c42-bf38-48377f847e91"
  },
+ "ashby:openai:4d0b1eb5-ea5d-460b-8fe6-23c45b0703f5": {
+  "company": "openai",
+  "first_seen": "2026-08-09T20:25:21+00:00",
+  "job_id": "4d0b1eb5-ea5d-460b-8fe6-23c45b0703f5",
+  "location": "San Francisco",
+  "posted_at": "2026-08-09T20:20:33.818+00:00",
+  "source": "ashby",
+  "title": "Electrical Commissioning Lead",
+  "url": "https://jobs.ashbyhq.com/openai/4d0b1eb5-ea5d-460b-8fe6-23c45b0703f5"
+ },
  "ashby:openai:4d104ebe-64ff-4421-94c3-03a8982b19ea": {
   "company": "openai",
   "first_seen": "2026-08-09T16:02:24+00:00",
@@ -67449,6 +67459,16 @@
   "title": "Senior Director, Revenue Analytics",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8686820002"
  },
+ "greenhouse:gitlab:8687026002": {
+  "company": "gitlab",
+  "first_seen": "2026-08-09T20:26:07+00:00",
+  "job_id": "8687026002",
+  "location": "Bangalore, India",
+  "posted_at": "2026-08-09T12:35:51-04:00",
+  "source": "greenhouse",
+  "title": "Intermediate Support Engineer",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8687026002"
+ },
  "greenhouse:gitlab:8687171002": {
   "company": "gitlab",
   "first_seen": "2026-08-09T16:03:13+00:00",
@@ -117939,6 +117959,16 @@
   "title": "Personal Banker SAFE Act, Bilingual Mandarin Speaking Preferred, Arcadia-Downtown Branch, Officer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Arcadia-California-United-States/Personal-Banker-SAFE-Act--Bilingual-Mandarin-Speaking-Preferred--Arcadia-Downtown-Branch--Officer_26980467"
  },
+ "workday:citi:/job/Astana--Kazakhstan/KYC-Operations-Analyst_26978365": {
+  "company": "citi",
+  "first_seen": "2026-08-09T20:27:30+00:00",
+  "job_id": "/job/Astana--Kazakhstan/KYC-Operations-Analyst_26978365",
+  "location": "2 Locations",
+  "posted_at": "Posted 17 Days Ago",
+  "source": "workday",
+  "title": "KYC Operations Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Astana--Kazakhstan/KYC-Operations-Analyst_26978365"
+ },
  "workday:citi:/job/Astana--Kazakhstan/Relationship-Associate--Astana_26982358-1": {
   "company": "citi",
   "first_seen": "2026-08-09T16:04:42+00:00",
@@ -122189,6 +122219,16 @@
   "title": "Spread Products Banker - Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Spread-Products-Banker---Vice-President_26983355"
  },
+ "workday:citi:/job/Hong-Kong--Hong-Kong/VP--Mutual-Fund---Discretionary-Specialist--Mandarin---English-Mandatory-_26971823": {
+  "company": "citi",
+  "first_seen": "2026-08-09T20:27:30+00:00",
+  "job_id": "/job/Hong-Kong--Hong-Kong/VP--Mutual-Fund---Discretionary-Specialist--Mandarin---English-Mandatory-_26971823",
+  "location": "Hong Kong  Hong Kong",
+  "posted_at": "Posted 17 Days Ago",
+  "source": "workday",
+  "title": "VP, Mutual Fund & Discretionary Specialist (Mandarin & English Mandatory)",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/VP--Mutual-Fund---Discretionary-Specialist--Mandarin---English-Mandatory-_26971823"
+ },
  "workday:citi:/job/Hong-Kong--Hong-Kong/VP-Quantitative-Analyst---Execution-Algo---Microstructure-Research_26981928": {
   "company": "citi",
   "first_seen": "2026-08-09T16:04:41+00:00",
@@ -124159,6 +124199,16 @@
   "title": "Equity Research Analyst, Homebuilders & Building Materials, Director",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Equity-Research-Analyst--Homebuilders---Building-Materials_26963831"
  },
+ "workday:citi:/job/London--United-Kingdom/Executive-Chauffeur-Driver---London_26976676-1": {
+  "company": "citi",
+  "first_seen": "2026-08-09T20:27:30+00:00",
+  "job_id": "/job/London--United-Kingdom/Executive-Chauffeur-Driver---London_26976676-1",
+  "location": "London  United Kingdom",
+  "posted_at": "Posted 17 Days Ago",
+  "source": "workday",
+  "title": "Executive Chauffeur Driver - London",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Executive-Chauffeur-Driver---London_26976676-1"
+ },
  "workday:citi:/job/London--United-Kingdom/FI-Sales-UK-Cluster-Head--Services_26979546": {
   "company": "citi",
   "first_seen": "2026-08-09T16:04:42+00:00",
@@ -124278,6 +124328,26 @@
   "source": "workday",
   "title": "Investment Banking Associate \u2013 Financial Sponsors (Financial & Strategic Investors Group)",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Investment-Banking-Associate---GAM_26981664"
+ },
+ "workday:citi:/job/London--United-Kingdom/Investment-Banking-Associate--Energy_26971864": {
+  "company": "citi",
+  "first_seen": "2026-08-09T20:27:30+00:00",
+  "job_id": "/job/London--United-Kingdom/Investment-Banking-Associate--Energy_26971864",
+  "location": "London  United Kingdom",
+  "posted_at": "Posted 17 Days Ago",
+  "source": "workday",
+  "title": "Investment Banking Associate, Energy",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Investment-Banking-Associate--Energy_26971864"
+ },
+ "workday:citi:/job/London--United-Kingdom/Investment-Banking-Senior-Analyst--Communications_26979834-1": {
+  "company": "citi",
+  "first_seen": "2026-08-09T20:27:30+00:00",
+  "job_id": "/job/London--United-Kingdom/Investment-Banking-Senior-Analyst--Communications_26979834-1",
+  "location": "London  United Kingdom",
+  "posted_at": "Posted 17 Days Ago",
+  "source": "workday",
+  "title": "Investment Banking Senior Analyst, Communications",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Investment-Banking-Senior-Analyst--Communications_26979834-1"
  },
  "workday:citi:/job/London--United-Kingdom/Investment-Banking-Senior-Analyst--Energy_26979835": {
   "company": "citi",
@@ -126129,6 +126199,26 @@
   "title": "Business Unit Manager - SVP",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Business-Unit-Manager---SVP_26982203-1"
  },
+ "workday:citi:/job/Mumbai-Maharashtra-India/Cash---Collateral-Management-Intermediate-Analyst_26984405-1": {
+  "company": "citi",
+  "first_seen": "2026-08-09T20:27:30+00:00",
+  "job_id": "/job/Mumbai-Maharashtra-India/Cash---Collateral-Management-Intermediate-Analyst_26984405-1",
+  "location": "Mumbai Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Cash & Collateral Management Intermediate Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Cash---Collateral-Management-Intermediate-Analyst_26984405-1"
+ },
+ "workday:citi:/job/Mumbai-Maharashtra-India/Cash---Trade-Process-Lead-Analyst---VP_26961239": {
+  "company": "citi",
+  "first_seen": "2026-08-09T20:27:30+00:00",
+  "job_id": "/job/Mumbai-Maharashtra-India/Cash---Trade-Process-Lead-Analyst---VP_26961239",
+  "location": "Mumbai Maharashtra India",
+  "posted_at": "Posted 17 Days Ago",
+  "source": "workday",
+  "title": "Payments Ops Transformation \u2013 Project Execution Manager \u2013 VP",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Cash---Trade-Process-Lead-Analyst---VP_26961239"
+ },
  "workday:citi:/job/Mumbai-Maharashtra-India/Cash-and-Trade-Proc-Rep_26982683": {
   "company": "citi",
   "first_seen": "2026-08-09T16:04:41+00:00",
@@ -126578,6 +126668,16 @@
   "source": "workday",
   "title": "Trading Floor Application Support Analyst - Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Trading-Floor-Application-Support-Analyst---Assistant-Vice-President_26980571"
+ },
+ "workday:citi:/job/Mumbai-Maharashtra-India/Vice-President---Data-Governance_26982542": {
+  "company": "citi",
+  "first_seen": "2026-08-09T20:27:30+00:00",
+  "job_id": "/job/Mumbai-Maharashtra-India/Vice-President---Data-Governance_26982542",
+  "location": "Mumbai Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Vice President - Data Governance",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Vice-President---Data-Governance_26982542"
  },
  "workday:citi:/job/Mumbai-Maharashtra-India/XMLNAME--FP-A---Database-Developer--Assistant-Vice-President_26960335": {
   "company": "citi",
@@ -128659,6 +128759,16 @@
   "title": "Business Model Validation and Implementation- Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Business-Model-Validation-and-Implementation--Assistant-Vice-President_26958675-1"
  },
+ "workday:citi:/job/Pune-Maharashtra-India/Business-Senior-Analyst---C12---PUNE_26960867": {
+  "company": "citi",
+  "first_seen": "2026-08-09T20:27:30+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Business-Senior-Analyst---C12---PUNE_26960867",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted 17 Days Ago",
+  "source": "workday",
+  "title": "Senior Tech Product Owner AVP",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Business-Senior-Analyst---C12---PUNE_26960867"
+ },
  "workday:citi:/job/Pune-Maharashtra-India/Client-Onboard-Analyst-1_26982739-1": {
   "company": "citi",
   "first_seen": "2026-08-09T16:04:41+00:00",
@@ -129088,6 +129198,16 @@
   "source": "workday",
   "title": "Operations Core Project Lead Analyst - VP",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Operations-Core-Project-Lead-Analyst---VP_26974051"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/Project-Management-Senior-Lead_26972195-1": {
+  "company": "citi",
+  "first_seen": "2026-08-09T20:27:30+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Project-Management-Senior-Lead_26972195-1",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted 17 Days Ago",
+  "source": "workday",
+  "title": "Business Analyst/Project Management Senior Lead- Equities",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Project-Management-Senior-Lead_26972195-1"
  },
  "workday:citi:/job/Pune-Maharashtra-India/Project-Manager-2---C13---PUNE_26979828": {
   "company": "citi",
@@ -131049,6 +131169,16 @@
   "title": "Cross-disciplinary Controls Sr. Analyst - AVP",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taguig--Philippines/Cross-disciplinary-Controls-Sr-Analyst---AVP_26983703"
  },
+ "workday:citi:/job/Taguig--Philippines/Cross-disciplinary-Controls-Sr-Analyst_26981611": {
+  "company": "citi",
+  "first_seen": "2026-08-09T20:27:30+00:00",
+  "job_id": "/job/Taguig--Philippines/Cross-disciplinary-Controls-Sr-Analyst_26981611",
+  "location": "Taguig  Philippines",
+  "posted_at": "Posted 17 Days Ago",
+  "source": "workday",
+  "title": "Cross-disciplinary Controls Sr. Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taguig--Philippines/Cross-disciplinary-Controls-Sr-Analyst_26981611"
+ },
  "workday:citi:/job/Taguig--Philippines/Markets-Risk-and-Control---AVP_26982354": {
   "company": "citi",
   "first_seen": "2026-08-09T16:04:42+00:00",
@@ -131068,6 +131198,16 @@
   "source": "workday",
   "title": "Officer - Payroll Accounting Analyst 2 - (Hybrid) - HR Shared Services - EMEA Shift - 6 month Fixed Term Contract",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taguig--Philippines/Officer---Payroll-Accounting-Analyst-2----Hybrid--ROHQ---HR-Shared-Services_26979142"
+ },
+ "workday:citi:/job/Taguig--Philippines/Officer---Payroll-Accounting-Intermediate-Analyst--Hybrid-_26979803": {
+  "company": "citi",
+  "first_seen": "2026-08-09T20:27:30+00:00",
+  "job_id": "/job/Taguig--Philippines/Officer---Payroll-Accounting-Intermediate-Analyst--Hybrid-_26979803",
+  "location": "Taguig  Philippines",
+  "posted_at": "Posted 17 Days Ago",
+  "source": "workday",
+  "title": "Officer - Payroll Accounting Intermediate Analyst (Hybrid) - EMEA Shift",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taguig--Philippines/Officer---Payroll-Accounting-Intermediate-Analyst--Hybrid-_26979803"
  },
  "workday:citi:/job/Taguig--Philippines/Operations-Core-Project-Lead---VP_26975890-1": {
   "company": "citi",
@@ -132008,6 +132148,16 @@
   "source": "workday",
   "title": "Counterparty Credit Portfolio Officer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Warsaw--Poland/Counterparty-Credit-Portfolio-Officer_26972485"
+ },
+ "workday:citi:/job/Warsaw--Poland/Digital-Relationship-Manager_26976213": {
+  "company": "citi",
+  "first_seen": "2026-08-09T20:27:30+00:00",
+  "job_id": "/job/Warsaw--Poland/Digital-Relationship-Manager_26976213",
+  "location": "3 Locations",
+  "posted_at": "Posted 17 Days Ago",
+  "source": "workday",
+  "title": "Relationship Manager",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Warsaw--Poland/Digital-Relationship-Manager_26976213"
  },
  "workday:citi:/job/Warsaw--Poland/EMEA-Services-Billing-Operations-Director_26977629": {
   "company": "citi",
@@ -134628,6 +134778,16 @@
   "source": "workday",
   "title": "Duty Manager",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/Duty-Manager_1205897-1"
+ },
+ "workday:hpe:/job/Bengaluru-Karntaka-India/EHS-Program-Manager_1206372": {
+  "company": "hpe",
+  "first_seen": "2026-08-09T20:24:59+00:00",
+  "job_id": "/job/Bengaluru-Karntaka-India/EHS-Program-Manager_1206372",
+  "location": "Bengaluru, Karn\u0101taka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "EHS Program Manager",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/EHS-Program-Manager_1206372"
  },
  "workday:hpe:/job/Bengaluru-Karntaka-India/Engineering-Vmware-and-compute_1192148-2": {
   "company": "hpe",
@@ -141788,6 +141948,16 @@
   "source": "workday",
   "title": "Technical Program Management/ Software Engineering/ Program Management",
   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Technical-Program-Management--Software-Engineering--Program-Management_R-249209"
+ },
+ "workday:mastercard:/job/Pune-India/Technical-Program-Manager-II_R-287460": {
+  "company": "mastercard",
+  "first_seen": "2026-08-09T20:27:42+00:00",
+  "job_id": "/job/Pune-India/Technical-Program-Manager-II_R-287460",
+  "location": "Pune, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Technical Program Manager II",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Technical-Program-Manager-II_R-287460"
  },
  "workday:mastercard:/job/Pune-India/Technical-Program-Manager_R-278490": {
   "company": "mastercard",
@@ -153858,6 +154028,16 @@
   "source": "workday",
   "title": "Sr.Engineer",
   "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/Tower-02-Manyata-Embassy-Business-Park-Racenahali--Nagawara-Villages-Outer-Ring-Rd-Bangalore-540065/SrEngineer_R0000437730"
+ },
+ "workday:target:R0000429073": {
+  "company": "target",
+  "first_seen": "2026-08-09T20:25:51+00:00",
+  "job_id": "R0000429073",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers"
  },
  "workday:workday:/job/Australia-NSW-North-Sydney/Business-Development-Representative---Supporting-ANZ_JR-0104274": {
   "company": "workday",
