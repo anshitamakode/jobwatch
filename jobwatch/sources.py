@@ -449,3 +449,72 @@ FETCHERS.update(
         "jsonld": fetch_jsonld,
     }
 )
+
+
+# --------------------------------------------------------------------------
+# Oracle Recruiting Cloud (Oracle HCM)
+#
+# Used by many large enterprises -- Amex, Expedia, banks, telecoms. Like
+# Workday, every company runs its own instance, so each is added separately.
+# The site code is the CX_n in the careers URL path.
+# --------------------------------------------------------------------------
+def fetch_oraclecloud(entry: dict, sess: requests.Session) -> list[Posting]:
+    host = entry["host"]
+    site = entry.get("site", "CX_1")
+    keyword = entry.get("keyword", "")
+    base = f"https://{host}"
+    out: list[Posting] = []
+    offset = 0
+    limit = 200
+    total = None
+
+    while True:
+        finder = (
+            f"findReqs;siteNumber={site},limit={limit},offset={offset},"
+            "sortBy=POSTING_DATES_DESC"
+        )
+        if keyword:
+            finder += f",keyword={keyword}"
+        url = (
+            f"{base}/hcmRestApi/resources/latest/recruitingCEJobRequisitions"
+            f"?onlyData=true&expand=requisitionList.secondaryLocations"
+            f"&finder={finder}"
+        )
+        r = sess.get(url, timeout=TIMEOUT)
+        r.raise_for_status()
+        items = r.json().get("items") or []
+        if not items:
+            break
+        block = items[0]
+        if total is None:
+            total = block.get("TotalJobsCount") or block.get("SearchHitCount") or 0
+        reqs = block.get("requisitionList") or []
+        for j in reqs:
+            jid = str(j.get("Id") or j.get("RequisitionNumber") or "")
+            loc = j.get("PrimaryLocation") or ""
+            secondary = j.get("secondaryLocations") or []
+            if secondary:
+                extra = ", ".join(
+                    x.get("Name", "") for x in secondary if isinstance(x, dict)
+                )
+                loc = f"{loc}, {extra}" if loc else extra
+            out.append(
+                Posting(
+                    source="oraclecloud",
+                    company=entry["name"],
+                    job_id=jid,
+                    title=j.get("Title", ""),
+                    location=loc,
+                    url=f"{base}/hcmUI/CandidateExperience/en/sites/{site}/job/{jid}",
+                    posted_at=j.get("PostedDate"),
+                    description=html_to_text(j.get("ShortDescriptionStr")),
+                )
+            )
+        offset += len(reqs)
+        if not reqs or offset >= (total or 0) or offset >= entry.get("max_jobs", 600):
+            break
+        time.sleep(0.3)
+    return out
+
+
+FETCHERS["oraclecloud"] = fetch_oraclecloud

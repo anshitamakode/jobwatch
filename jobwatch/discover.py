@@ -96,6 +96,21 @@ def parse(url: str) -> dict:
             return {"name": parts[0], "ats": "smartrecruiters", "token": parts[0]}
         raise UnknownATS("SmartRecruiters URL with no company name in the path.")
 
+    # ---- Oracle Recruiting Cloud (Oracle HCM) ----------------------------
+    # https://<host>.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/123
+    if "oraclecloud.com" in host and "hcmUI" in (u.path or ""):
+        site = "CX_1"
+        if "sites" in parts:
+            i = parts.index("sites")
+            if len(parts) > i + 1:
+                site = parts[i + 1]
+        return {
+            "name": host.split(".")[0],
+            "ats": "oraclecloud",
+            "host": host,
+            "site": site,
+        }
+
     # ---- Fallback: treat it as a careers page with JSON-LD ---------------
     # Most career pages embed schema.org JobPosting markup because Google
     # requires it for job indexing. Works regardless of the ATS underneath.
