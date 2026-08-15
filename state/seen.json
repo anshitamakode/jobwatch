@@ -38189,6 +38189,16 @@
   "title": "Senior Technical Program Manager, New Product Introduction",
   "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6113060004"
  },
+ "greenhouse:clickhouse:6113761004": {
+  "company": "clickhouse",
+  "first_seen": "2026-08-15T12:28:03+00:00",
+  "job_id": "6113761004",
+  "location": "United Kingdom",
+  "posted_at": "2026-08-15T08:11:29-04:00",
+  "source": "greenhouse",
+  "title": "Enterprise Account Executive - UK",
+  "url": "https://job-boards.greenhouse.io/clickhouse/jobs/6113761004"
+ },
  "greenhouse:clickhouse:6114708004": {
   "company": "clickhouse",
   "first_seen": "2026-08-09T16:05:43+00:00",
@@ -121969,6 +121979,16 @@
   "title": "Analyst \u2013 International Independent Compliance Testing (ICT) H/F",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012365"
  },
+ "oraclecloud:amex:26012372": {
+  "company": "amex",
+  "first_seen": "2026-08-15T12:28:27+00:00",
+  "job_id": "26012372",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-08-15",
+  "source": "oraclecloud",
+  "title": "Apprentice",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012372"
+ },
  "oraclecloud:amex:26012381": {
   "company": "amex",
   "first_seen": "2026-08-10T12:58:48+00:00",
@@ -122199,6 +122219,16 @@
   "title": "Werkstudent - Business Development & Partnerships (m/w/d) - 2026 (befristet f\u00fcr 12 Monate, Frankfurt am Main)",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012475"
  },
+ "oraclecloud:amex:26012478": {
+  "company": "amex",
+  "first_seen": "2026-08-15T12:28:27+00:00",
+  "job_id": "26012478",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-08-15",
+  "source": "oraclecloud",
+  "title": "Apprentice",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012478"
+ },
  "oraclecloud:amex:26012484": {
   "company": "amex",
   "first_seen": "2026-08-11T20:41:53+00:00",
@@ -122308,6 +122338,16 @@
   "source": "oraclecloud",
   "title": "Marketing & Lending Product Director",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012583"
+ },
+ "oraclecloud:amex:26012586": {
+  "company": "amex",
+  "first_seen": "2026-08-15T12:28:27+00:00",
+  "job_id": "26012586",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-08-15",
+  "source": "oraclecloud",
+  "title": "Apprentice",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012586"
  },
  "oraclecloud:amex:26012587": {
   "company": "amex",
@@ -124088,6 +124128,16 @@
   "source": "ripplingats",
   "title": "Manager, Sales Development  ",
   "url": "https://ats.rippling.com/rippling/jobs/6d4b565f-257a-4db5-812f-37077b61c250"
+ },
+ "ripplingats:rippling:6d6d606b-dac4-49e0-a44e-c632a129735f": {
+  "company": "rippling",
+  "first_seen": "2026-08-15T12:28:41+00:00",
+  "job_id": "6d6d606b-dac4-49e0-a44e-c632a129735f",
+  "location": "New York, NY",
+  "posted_at": null,
+  "source": "ripplingats",
+  "title": "Senior Engineering Manager, Documents Platform",
+  "url": "https://ats.rippling.com/rippling/jobs/6d6d606b-dac4-49e0-a44e-c632a129735f"
  },
  "ripplingats:rippling:6d996cf7-a72f-40e6-b617-892139f81a2a": {
   "company": "rippling",
@@ -158998,6 +159048,16 @@
   "source": "workday",
   "title": "Software Engineer Intern",
   "url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/Software-Engineer-Intern_R0069699"
+ },
+ "workday:ebay:/job/Bengaluru-India/Software-Engineer-Streaming-Messaging_R0075939": {
+  "company": "ebay",
+  "first_seen": "2026-08-15T12:25:26+00:00",
+  "job_id": "/job/Bengaluru-India/Software-Engineer-Streaming-Messaging_R0075939",
+  "location": "Bengaluru, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer Streaming/Messaging",
+  "url": "https://ebay.wd5.myworkdayjobs.com/en-US/apply/job/Bengaluru-India/Software-Engineer-Streaming-Messaging_R0075939"
  },
  "workday:ebay:/job/Bengaluru-India/Sr--Data-Engineer_R0075574-1": {
   "company": "ebay",
