@@ -4219,6 +4219,16 @@
   "title": "Staff Research Engineer, Voice + Speech",
   "url": "https://jobs.ashbyhq.com/decagon/7e727fb5-cc08-4728-97ca-2730e965ce41"
  },
+ "ashby:decagon:7fd0e4f6-9c2a-403a-a242-0a20ca2f832c": {
+  "company": "decagon",
+  "first_seen": "2026-08-15T08:21:16+00:00",
+  "job_id": "7fd0e4f6-9c2a-403a-a242-0a20ca2f832c",
+  "location": "San Francisco",
+  "posted_at": "2026-08-15T06:53:51.402+00:00",
+  "source": "ashby",
+  "title": "Payroll Manager",
+  "url": "https://jobs.ashbyhq.com/decagon/7fd0e4f6-9c2a-403a-a242-0a20ca2f832c"
+ },
  "ashby:decagon:80e62efe-c1e1-4f00-a9cb-2a75d8cbb577": {
   "company": "decagon",
   "first_seen": "2026-08-09T16:03:14+00:00",
@@ -50009,6 +50019,16 @@
   "title": "Staff Fullstack Engineer",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6704975002"
  },
+ "greenhouse:databricks:6709301002": {
+  "company": "databricks",
+  "first_seen": "2026-08-15T08:20:18+00:00",
+  "job_id": "6709301002",
+  "location": "Bengaluru, India",
+  "posted_at": "2023-05-08T02:10:29-04:00",
+  "source": "greenhouse",
+  "title": "Senior Software Engineer (Backend)",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6709301002"
+ },
  "greenhouse:databricks:6716344002": {
   "company": "databricks",
   "first_seen": "2026-08-09T16:02:19+00:00",
@@ -51598,6 +51618,16 @@
   "source": "greenhouse",
   "title": "Director of Engineering (Data Infrastructure)",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8290810002"
+ },
+ "greenhouse:databricks:8294304002": {
+  "company": "databricks",
+  "first_seen": "2026-08-15T08:20:18+00:00",
+  "job_id": "8294304002",
+  "location": "Bengaluru, India",
+  "posted_at": "2025-11-18T03:36:08-05:00",
+  "source": "greenhouse",
+  "title": "Senior Software Engineer (App-Framework)",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8294304002"
  },
  "greenhouse:databricks:8295792002": {
   "company": "databricks",
@@ -173073,6 +173103,16 @@
   "company": "micron",
   "first_seen": "2026-08-12T05:29:55+00:00",
   "job_id": "JR106012",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External"
+ },
+ "workday:micron:JR97465": {
+  "company": "micron",
+  "first_seen": "2026-08-15T08:23:03+00:00",
+  "job_id": "JR97465",
   "location": "",
   "posted_at": null,
   "source": "workday",
