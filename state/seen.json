@@ -62399,6 +62399,16 @@
   "title": "Senior Partner Manager - Channels (Indian GSI)",
   "url": "https://careers.datadoghq.com/detail/8074700/?gh_jid=8074700"
  },
+ "greenhouse:datadog:8075107": {
+  "company": "datadog",
+  "first_seen": "2026-08-15T16:20:14+00:00",
+  "job_id": "8075107",
+  "location": "Boston, Massachusetts, USA",
+  "posted_at": "2026-08-15T08:55:28-04:00",
+  "source": "greenhouse",
+  "title": "Vice President, Mid Market Sales (Global)",
+  "url": "https://careers.datadoghq.com/detail/8075107/?gh_jid=8075107"
+ },
  "greenhouse:datadog:8075583": {
   "company": "datadog",
   "first_seen": "2026-08-09T16:05:45+00:00",
@@ -166119,6 +166129,16 @@
   "title": "Senior Data Scientist",
   "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-Bangalore-A-RMZ-Infinity/Senior-Data-Scientist_R0120700-4"
  },
+ "workday:lseg:/job/IND-Bangalore-A-RMZ-Infinity/Senior-DevOps-Engineer_R0121081-1": {
+  "company": "lseg",
+  "first_seen": "2026-08-15T16:16:46+00:00",
+  "job_id": "/job/IND-Bangalore-A-RMZ-Infinity/Senior-DevOps-Engineer_R0121081-1",
+  "location": "IND-Bangalore-A, RMZ Infinity",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior DevOps Engineer",
+  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-Bangalore-A-RMZ-Infinity/Senior-DevOps-Engineer_R0121081-1"
+ },
  "workday:lseg:/job/IND-Bangalore-A-RMZ-Infinity/Senior-Engineer---C--NET--AWS-Cloud-_R0121158-1": {
   "company": "lseg",
   "first_seen": "2026-08-09T16:02:15+00:00",
@@ -169548,6 +169568,16 @@
   "source": "workday",
   "title": "Software Engineer II-2",
   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II-2_R-282788-1"
+ },
+ "workday:mastercard:/job/Pune-India/Software-Engineer-II-Java-Full-stack-Developer_R-281493": {
+  "company": "mastercard",
+  "first_seen": "2026-08-15T16:19:20+00:00",
+  "job_id": "/job/Pune-India/Software-Engineer-II-Java-Full-stack-Developer_R-281493",
+  "location": "Pune, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer II Java Full stack Developer",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II-Java-Full-stack-Developer_R-281493"
  },
  "workday:mastercard:/job/Pune-India/Software-Engineer-II_R-208485": {
   "company": "mastercard",
@@ -182318,6 +182348,16 @@
   "source": "workday",
   "title": "GM and Food (General Merchandise, Closing, Fulfillment, Inbound, Food and Beverage , Food Service, Starbucks) (T1913)",
   "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/8005-Calumet-Ave-MunsterIN-46321-1217/GM-and-Food--General-Merchandise--Closing--Fulfillment--Inbound--Food-and-Beverage---Food-Service--Starbucks---T1913-_R0000412796"
+ },
+ "workday:target:/job/8005-Calumet-Ave-MunsterIN-46321-1217/Guest-Advocate--Cashier-or-Front-of-Store-Attendant-Cart-Attendant---T1913-_R0000412797": {
+  "company": "target",
+  "first_seen": "2026-08-15T16:17:24+00:00",
+  "job_id": "/job/8005-Calumet-Ave-MunsterIN-46321-1217/Guest-Advocate--Cashier-or-Front-of-Store-Attendant-Cart-Attendant---T1913-_R0000412797",
+  "location": "8005 Calumet Ave, Munster,IN 46321-1217",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Guest Advocate (Cashier or Front of Store Attendant/Cart Attendant) (T1913)",
+  "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/8005-Calumet-Ave-MunsterIN-46321-1217/Guest-Advocate--Cashier-or-Front-of-Store-Attendant-Cart-Attendant---T1913-_R0000412797"
  },
  "workday:target:/job/8005-Calumet-Ave-MunsterIN-46321-1217/Human-Resources-Expert_R0000445484": {
   "company": "target",
