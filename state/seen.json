@@ -49099,6 +49099,16 @@
   "title": "Director Inventory Allocation and Control",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8108244"
  },
+ "greenhouse:coupang:8108270": {
+  "company": "coupang",
+  "first_seen": "2026-08-16T20:15:06+00:00",
+  "job_id": "8108270",
+  "location": "z-Test & Templates Only",
+  "posted_at": "2026-08-16T13:57:20-04:00",
+  "source": "greenhouse",
+  "title": "Staff Backend Engineer",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8108270"
+ },
  "greenhouse:coupang:8108324": {
   "company": "coupang",
   "first_seen": "2026-08-09T16:02:22+00:00",
@@ -167568,6 +167578,16 @@
   "source": "workday",
   "title": "Accountant",
   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Accountant_R-286201"
+ },
+ "workday:mastercard:/job/Pune-India/Analyst--Franchise-Services_R-287899": {
+  "company": "mastercard",
+  "first_seen": "2026-08-16T20:17:29+00:00",
+  "job_id": "/job/Pune-India/Analyst--Franchise-Services_R-287899",
+  "location": "Pune, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Analyst, Franchise Services",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Analyst--Franchise-Services_R-287899"
  },
  "workday:mastercard:/job/Pune-India/Analyst--Risk-Management_R-286181": {
   "company": "mastercard",
