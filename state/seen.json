@@ -73569,6 +73569,16 @@
   "title": "Manager, Customer Success Managers, EMEA",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8613199002"
  },
+ "greenhouse:gitlab:8615268002": {
+  "company": "gitlab",
+  "first_seen": "2026-08-16T16:18:11+00:00",
+  "job_id": "8615268002",
+  "location": "Bangalore, India",
+  "posted_at": "2026-08-16T09:04:52-04:00",
+  "source": "greenhouse",
+  "title": "Staff Backend Engineer - Monitoring and Anomaly Detection (Monetization)",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615268002"
+ },
  "greenhouse:gitlab:8615319002": {
   "company": "gitlab",
   "first_seen": "2026-08-09T16:03:13+00:00",
@@ -132249,6 +132259,16 @@
   "title": "Software Engineering Technical Leader- Networking",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Milpitas-California-US/Software-Engineering-Technical-Leader--Networking_2019851-1"
  },
+ "workday:cisco:/job/Minato-Japan/Leader--Solutions-Engineer_2016249": {
+  "company": "cisco",
+  "first_seen": "2026-08-16T16:16:44+00:00",
+  "job_id": "/job/Minato-Japan/Leader--Solutions-Engineer_2016249",
+  "location": "3 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Leader, Solutions Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Minato-Japan/Leader--Solutions-Engineer_2016249"
+ },
  "workday:cisco:/job/Mumbai-India/Account-Executive---Portfolio_2018781": {
   "company": "cisco",
   "first_seen": "2026-08-09T16:01:41+00:00",
@@ -155189,6 +155209,16 @@
   "title": "Metals & Mining Research Analyst - Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sydney-New-South-Wales-Australia/Research-Analyst---Vice-President_26974010"
  },
+ "workday:citi:/job/Sydney-New-South-Wales-Australia/Senior-Lead-Counsel---Product---Senior-Vice-President_26985095": {
+  "company": "citi",
+  "first_seen": "2026-08-16T16:19:36+00:00",
+  "job_id": "/job/Sydney-New-South-Wales-Australia/Senior-Lead-Counsel---Product---Senior-Vice-President_26985095",
+  "location": "Sydney New South Wales Australia",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Lead Counsel - Product - Senior Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sydney-New-South-Wales-Australia/Senior-Lead-Counsel---Product---Senior-Vice-President_26985095"
+ },
  "workday:citi:/job/Sydney-New-South-Wales-Australia/Senior-Product-Development-Manager--Complex-Assets--SVP---SYDNEY_26980935": {
   "company": "citi",
   "first_seen": "2026-08-09T16:04:42+00:00",
@@ -169319,6 +169349,16 @@
   "title": "Senior Software Engineer",
   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-287152-1"
  },
+ "workday:mastercard:/job/Pune-India/Senior-Software-Engineer_R-287893": {
+  "company": "mastercard",
+  "first_seen": "2026-08-16T16:19:49+00:00",
+  "job_id": "/job/Pune-India/Senior-Software-Engineer_R-287893",
+  "location": "Pune, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Software Engineer",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-287893"
+ },
  "workday:mastercard:/job/Pune-India/Senior-Software-Engineer_R-288230": {
   "company": "mastercard",
   "first_seen": "2026-08-11T08:50:12+00:00",
@@ -172819,6 +172859,16 @@
   "title": "Quality Inspector",
   "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303A---ATSSDMOD-India/Quality-Inspector_JR104377"
  },
+ "workday:micron:/job/Sanand---303A---ATSSDMOD-India/Senior-Energy-and-Decarbonization-Engineer_JR107831": {
+  "company": "micron",
+  "first_seen": "2026-08-16T16:19:59+00:00",
+  "job_id": "/job/Sanand---303A---ATSSDMOD-India/Senior-Energy-and-Decarbonization-Engineer_JR107831",
+  "location": "Sanand - 303A - AT/SSD/MOD, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Energy and Decarbonization Engineer",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303A---ATSSDMOD-India/Senior-Energy-and-Decarbonization-Engineer_JR107831"
+ },
  "workday:micron:/job/Sanand---303A---ATSSDMOD-India/Senior-Manager--Workforce-Development_JR100426": {
   "company": "micron",
   "first_seen": "2026-08-09T16:05:04+00:00",
@@ -172978,6 +173028,16 @@
   "source": "workday",
   "title": "Staff Engineer, STPG PE",
   "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303A---ATSSDMOD-India/Staff-Engineer--STPG-PE_JR103818"
+ },
+ "workday:micron:/job/Sanand---303A---ATSSDMOD-India/Sustainability-Engineer_JR104718": {
+  "company": "micron",
+  "first_seen": "2026-08-16T16:19:59+00:00",
+  "job_id": "/job/Sanand---303A---ATSSDMOD-India/Sustainability-Engineer_JR104718",
+  "location": "Sanand - 303A - AT/SSD/MOD, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sustainability Engineer",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303A---ATSSDMOD-India/Sustainability-Engineer_JR104718"
  },
  "workday:micron:/job/Sanand---303A---ATSSDMOD-India/TSE-TE-OPS-Engineer_JR105806": {
   "company": "micron",
@@ -178068,6 +178128,16 @@
   "source": "workday",
   "title": "Portfolio Leader (Builder People Lead)",
   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Senior-Director--Builder-SE_JR350005"
+ },
+ "workday:salesforce:/job/India---Bangalore/Senior-Director--Renewals_JR327643": {
+  "company": "salesforce",
+  "first_seen": "2026-08-16T16:16:35+00:00",
+  "job_id": "/job/India---Bangalore/Senior-Director--Renewals_JR327643",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Renewals",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Senior-Director--Renewals_JR327643"
  },
  "workday:salesforce:/job/India---Bangalore/Senior-Manager---Technical-Program-Management_JR345975-1": {
   "company": "salesforce",
