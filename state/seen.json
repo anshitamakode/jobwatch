@@ -1339,6 +1339,16 @@
   "title": "Manager, Startup Sales",
   "url": "https://jobs.ashbyhq.com/baseten/b1b5ab31-f90c-41f9-b9f2-13408b1c072b"
  },
+ "ashby:baseten:b6a7e52e-be85-4f49-953d-d00e2a2f6143": {
+  "company": "baseten",
+  "first_seen": "2026-08-17T00:56:58+00:00",
+  "job_id": "b6a7e52e-be85-4f49-953d-d00e2a2f6143",
+  "location": "San Francisco",
+  "posted_at": "2026-08-17T00:00:18.349+00:00",
+  "source": "ashby",
+  "title": "Procurement Lead",
+  "url": "https://jobs.ashbyhq.com/baseten/b6a7e52e-be85-4f49-953d-d00e2a2f6143"
+ },
  "ashby:baseten:b85e4b1d-6531-46b5-bc8a-238f3761a50e": {
   "company": "baseten",
   "first_seen": "2026-08-09T16:06:47+00:00",
@@ -73329,6 +73339,16 @@
   "title": "Engineering Manager, Data Foundations",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8592950002"
  },
+ "greenhouse:gitlab:8595154002": {
+  "company": "gitlab",
+  "first_seen": "2026-08-17T00:53:53+00:00",
+  "job_id": "8595154002",
+  "location": "Remote, Japan",
+  "posted_at": "2026-06-24T03:49:17-04:00",
+  "source": "greenhouse",
+  "title": "Commercial Account Executive - Japan",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8595154002"
+ },
  "greenhouse:gitlab:8596778002": {
   "company": "gitlab",
   "first_seen": "2026-08-09T16:03:13+00:00",
@@ -122458,6 +122478,16 @@
   "source": "oraclecloud",
   "title": "Senior AI Engineer I - Global Dining",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012702"
+ },
+ "oraclecloud:amex:26012706": {
+  "company": "amex",
+  "first_seen": "2026-08-17T00:56:48+00:00",
+  "job_id": "26012706",
+  "location": "Sydney, NSW, Australia",
+  "posted_at": "2026-08-16",
+  "source": "oraclecloud",
+  "title": "Senior Manager, Merchant Pricing Services",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012706"
  },
  "ripplingats:rippling:003584df-dcc8-4958-8788-5160c6262c68": {
   "company": "rippling",
