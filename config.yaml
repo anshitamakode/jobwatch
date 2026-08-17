@@ -12,19 +12,28 @@ filters:
   # Punctuation normalises to single spaces, so "Remote - India",
   # "Remote, India" and "Remote (India)" all collapse to "remote india".
   location_any:
+    # --- Bangalore only -------------------------------------------------
+    # Both spellings, since boards are inconsistent about which they use.
+    # Deliberately NOT the bare term "india": that would pull in Hyderabad,
+    # Pune, Gurugram and the rest. Add a city here if you want it.
     - bangalore
     - bengaluru
-    # India-remote, both word orders
-    - remote india
-    - india remote
-    - remote in india
-    # regional postings that include India
+
+    # --- Remote, anywhere -----------------------------------------------
+    # One bare term covers every phrasing: "Remote", "Remote - United
+    # States", "United States (Remote)", "Remote, EMEA". It supersedes the
+    # old remote india / remote global / global remote entries, which were
+    # narrower spellings of this.
+    #
+    # CAVEAT: this now lets US- and EU-remote roles through, and most of
+    # them still require work authorisation in that country. Filter those
+    # by reading the alert, not by tightening this list -- narrowing it
+    # again is what was hiding India-remote postings in the first place.
+    - remote
+
+    # --- regional postings that include India ---------------------------
     - apac
     - asia pacific
-    # genuinely global remote -- verify work authorisation before applying,
-    # many of these still require a US/EU entity
-    - remote global
-    - global remote
     - worldwide
     - anywhere
 
