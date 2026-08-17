@@ -327,3 +327,33 @@ https://ats.rippling.com/rippling/jobs/x
 # Self-hosted portals — generic JSON-LD scraper (most return 0; SPAs)  (1)
 # ======================================================================
 https://zeptonow.com/careers
+
+# ======================================================================
+# From the LinkedIn "past 24 hours" digest, 2026-08-17  (9)
+#
+# Companies that showed up in that digest and were watched by nothing here.
+# The ATS host for each is an educated guess -- `add` verifies before it
+# writes anything, so a wrong guess costs one failed request and no more.
+# Prune whatever bootstrap reports as skipped.
+# ======================================================================
+https://job-boards.greenhouse.io/brex
+https://job-boards.greenhouse.io/seatgeek
+https://job-boards.greenhouse.io/hackerone
+https://job-boards.greenhouse.io/relativity
+https://job-boards.greenhouse.io/optiver
+https://pearson.wd3.myworkdayjobs.com/External
+https://omnissa.wd1.myworkdayjobs.com/Careers
+https://gen.wd1.myworkdayjobs.com/External          # Gen Digital, posts the MoneyLion roles
+https://jobs.ashbyhq.com/giga
+
+# Also in that digest, deliberately NOT seeded -- no readable feed exists:
+#   Microsoft / Microsoft AI  jobs.careers.microsoft.com is a JS-rendered
+#                             portal on no supported ATS. LinkedIn alert only.
+#   Temu                      careers.temu.com is an SPA; the digest routed
+#                             its applies through LinkedIn Easy Apply.
+#   Genius AI                 Easy Apply only, responses managed on LinkedIn,
+#                             so there is no external board to poll.
+#
+# Already seeded above but still absent from companies.yaml -- bootstrap
+# never got them through: deepgram, perplexityai, expedia, walmart.
+# Re-running ./bootstrap.sh retries them; `add` skips anything already known.
