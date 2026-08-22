@@ -62199,6 +62199,16 @@
   "title": "Sr. Staff, Technical Program Management",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8661359002"
  },
+ "greenhouse:databricks:8661524002": {
+  "company": "databricks",
+  "first_seen": "2026-08-22T20:16:14+00:00",
+  "job_id": "8661524002",
+  "location": "Sydney, Australia",
+  "posted_at": "2026-08-22T12:40:27-04:00",
+  "source": "greenhouse",
+  "title": "Staff Designated Support Engineer",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8661524002"
+ },
  "greenhouse:databricks:8661528002": {
   "company": "databricks",
   "first_seen": "2026-08-09T16:02:18+00:00",
@@ -62918,6 +62928,16 @@
   "source": "greenhouse",
   "title": "Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure)",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739507002"
+ },
+ "greenhouse:databricks:8740680002": {
+  "company": "databricks",
+  "first_seen": "2026-08-22T20:16:14+00:00",
+  "job_id": "8740680002",
+  "location": "Sydney, Australia",
+  "posted_at": "2026-08-22T12:47:59-04:00",
+  "source": "greenhouse",
+  "title": "Senior Designated Support Engineer",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8740680002"
  },
  "greenhouse:datadog:1497543": {
   "company": "datadog",
@@ -144818,6 +144838,16 @@
   "source": "workday",
   "title": "Software Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer_2014641-1"
+ },
+ "workday:cisco:/job/Bangalore-India/Software-Engineer_2014912": {
+  "company": "cisco",
+  "first_seen": "2026-08-22T20:15:41+00:00",
+  "job_id": "/job/Bangalore-India/Software-Engineer_2014912",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer_2014912"
  },
  "workday:cisco:/job/Bangalore-India/Software-Engineer_2014951-1": {
   "company": "cisco",
