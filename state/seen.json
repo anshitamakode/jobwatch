@@ -10199,6 +10199,16 @@
   "title": "EMEA Deal Strategy & Operations Manager",
   "url": "https://jobs.ashbyhq.com/langchain/1683a053-1bca-4a54-9889-bc32259df4e1"
  },
+ "ashby:langchain:1b125fc4-be24-422f-a180-30b7431fc6cf": {
+  "company": "langchain",
+  "first_seen": "2026-08-22T04:30:04+00:00",
+  "job_id": "1b125fc4-be24-422f-a180-30b7431fc6cf",
+  "location": "San Francisco, CA",
+  "posted_at": "2026-08-22T02:01:29.778+00:00",
+  "source": "ashby",
+  "title": "Senior Frontend Platform Engineer, Design Systems",
+  "url": "https://jobs.ashbyhq.com/langchain/1b125fc4-be24-422f-a180-30b7431fc6cf"
+ },
  "ashby:langchain:210e41b4-342e-4d82-9b8f-49fbbb0e076e": {
   "company": "langchain",
   "first_seen": "2026-08-09T16:06:00+00:00",
@@ -52349,6 +52359,16 @@
   "title": "[\ucfe0\ud321] \ucfe0\ud321 Ads \uad11\uace0\ub300\ud589\uc0ac \ud30c\ud2b8\ub108\uc2ed \ub2f4\ub2f9\uc790 (\uacbd\ub825)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8104759"
  },
+ "greenhouse:coupang:8104761": {
+  "company": "coupang",
+  "first_seen": "2026-08-22T04:26:30+00:00",
+  "job_id": "8104761",
+  "location": "Taipei, Taiwan",
+  "posted_at": "2026-08-21T23:20:30-04:00",
+  "source": "greenhouse",
+  "title": "Director, Category Growth Marketing",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8104761"
+ },
  "greenhouse:coupang:8104773": {
   "company": "coupang",
   "first_seen": "2026-08-09T16:02:22+00:00",
@@ -62848,6 +62868,26 @@
   "source": "greenhouse",
   "title": "Sr. Forward Deployed Engineer",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739484002"
+ },
+ "greenhouse:databricks:8739506002": {
+  "company": "databricks",
+  "first_seen": "2026-08-22T04:26:27+00:00",
+  "job_id": "8739506002",
+  "location": "United States",
+  "posted_at": "2026-08-21T20:59:33-04:00",
+  "source": "greenhouse",
+  "title": "Specialist Solutions Architect - Cloud Infrastructure & Platform (AWS)",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739506002"
+ },
+ "greenhouse:databricks:8739507002": {
+  "company": "databricks",
+  "first_seen": "2026-08-22T04:26:27+00:00",
+  "job_id": "8739507002",
+  "location": "United States",
+  "posted_at": "2026-08-21T20:59:35-04:00",
+  "source": "greenhouse",
+  "title": "Specialist Solutions Architect - Cloud Infrastructure & Platform (Azure)",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739507002"
  },
  "greenhouse:datadog:1497543": {
   "company": "datadog",
@@ -144339,6 +144379,16 @@
   "title": "Software Engineer - C , Embedded, Multithreading , Netconf 4 - 8 years",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer---C---Embedded--Multithreading---Netconf-4---8-years_2018322-1"
  },
+ "workday:cisco:/job/Bangalore-India/Software-Engineer---Cisco-IQ---Bangalore_2023390-1": {
+  "company": "cisco",
+  "first_seen": "2026-08-22T04:25:52+00:00",
+  "job_id": "/job/Bangalore-India/Software-Engineer---Cisco-IQ---Bangalore_2023390-1",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer \u2013 Cisco IQ | Bangalore",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer---Cisco-IQ---Bangalore_2023390-1"
+ },
  "workday:cisco:/job/Bangalore-India/Software-Engineer---Customer-Experience---SDK---L2-L3_2015830": {
   "company": "cisco",
   "first_seen": "2026-08-09T16:01:42+00:00",
@@ -146498,6 +146548,16 @@
   "source": "workday",
   "title": "Banker, Vice President - U.S. Federal Government Sector",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1101-PENNSYLVANIA-AVE-NW--WASHINGTON/Banker--Vice-President---US-Federal-Government-Sector_26981918"
+ },
+ "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/AVP---Data-Governance-Foundation-Sr-Analyst_26985355-1": {
+  "company": "citi",
+  "first_seen": "2026-08-22T04:28:45+00:00",
+  "job_id": "/job/1124-SHIVAJI-GARDENS-MOONLI/AVP---Data-Governance-Foundation-Sr-Analyst_26985355-1",
+  "location": "1/124, SHIVAJI GARDENS, MOONLI",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "AVP - Data Governance Foundation Sr Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/AVP---Data-Governance-Foundation-Sr-Analyst_26985355-1"
  },
  "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/AVP---Data-Governance-Foundation-Sr-Analyst_26985375-1": {
   "company": "citi",
@@ -164278,6 +164338,16 @@
   "source": "workday",
   "title": "Strategic Supply Chain Sourcing Manager Technology-Senior Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Strategic-Supply-Chain-Sourcing-Manager-Technology-Senior-Vice-President_26985660"
+ },
+ "workday:citi:/job/Mississauga-Ontario-Canada/Technology-Product-Management-Lead-Analyst---C13---MISSISSAUGA_26989284": {
+  "company": "citi",
+  "first_seen": "2026-08-22T04:28:45+00:00",
+  "job_id": "/job/Mississauga-Ontario-Canada/Technology-Product-Management-Lead-Analyst---C13---MISSISSAUGA_26989284",
+  "location": "Mississauga Ontario Canada",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Technology Product Management Lead Analyst - C13 - MISSISSAUGA",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Technology-Product-Management-Lead-Analyst---C13---MISSISSAUGA_26989284"
  },
  "workday:citi:/job/Mississauga-Ontario-Canada/Technology-Product-Management-Lead-Analyst_26986067": {
   "company": "citi",
@@ -212969,6 +213039,16 @@
   "title": "Infrastructure & Digital Employee Experience, Principal Program Manager",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Infrastructure---Digital-Employee-Experience--Principal-Program-Manager_JR-0108718-1"
  },
+ "workday:workday:/job/USA-GA-Atlanta/Manager--North-America-Payroll_JR-0109371": {
+  "company": "workday",
+  "first_seen": "2026-08-22T04:29:48+00:00",
+  "job_id": "/job/USA-GA-Atlanta/Manager--North-America-Payroll_JR-0109371",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, North America Payroll",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Manager--North-America-Payroll_JR-0109371"
+ },
  "workday:workday:/job/USA-GA-Atlanta/Manager--Sales-Development_JR-0108419": {
   "company": "workday",
   "first_seen": "2026-08-20T20:25:08+00:00",
@@ -214079,6 +214159,16 @@
   "title": "Regional Sales Director - Federal Systems Integrators, DOD and IC",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Regional-Sales-Director---Federal-Systems-Integrators--DOD-and-IC_JR-0105160"
  },
+ "workday:workday:/job/USAVAReston/Senior-Cloud-Engineer---US-Federal_JR-0108207": {
+  "company": "workday",
+  "first_seen": "2026-08-22T04:29:48+00:00",
+  "job_id": "/job/USAVAReston/Senior-Cloud-Engineer---US-Federal_JR-0108207",
+  "location": "USA.VA.Reston",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Cloud Engineer - US Federal",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Senior-Cloud-Engineer---US-Federal_JR-0108207"
+ },
  "workday:workday:/job/USAVAReston/Senior-Cybersecurity-Data-Engineer---AI-ML-SME_JR-0107814": {
   "company": "workday",
   "first_seen": "2026-08-12T01:23:45+00:00",
@@ -214329,6 +214419,16 @@
   "title": "Software Development Engineer - US Federal",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer---US-Federal--Evergreen-_JR-0105759"
  },
+ "workday:workday:/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0108025": {
+  "company": "workday",
+  "first_seen": "2026-08-22T04:29:48+00:00",
+  "job_id": "/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0108025",
+  "location": "USA.VA.Reston",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Development Engineer - US Federal",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0108025"
+ },
  "workday:workday:/job/USAVAReston/Software-Development-Engineer---US-Federal_JR-0108664": {
   "company": "workday",
   "first_seen": "2026-08-21T20:22:38+00:00",
@@ -214409,6 +214509,16 @@
   "title": "Software Development Engineer - Integration Platform (US Federal)",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105089"
  },
+ "workday:workday:/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105420": {
+  "company": "workday",
+  "first_seen": "2026-08-22T04:29:48+00:00",
+  "job_id": "/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105420",
+  "location": "USA.VA.Reston",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Development Engineer (US Federal)",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105420"
+ },
  "workday:workday:/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105421": {
   "company": "workday",
   "first_seen": "2026-08-09T16:05:41+00:00",
@@ -214418,6 +214528,16 @@
   "source": "workday",
   "title": "Software Development Engineer (US Federal)",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105421"
+ },
+ "workday:workday:/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105439": {
+  "company": "workday",
+  "first_seen": "2026-08-22T04:29:48+00:00",
+  "job_id": "/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105439",
+  "location": "USA.VA.Reston",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Development Engineer (US Federal)",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105439"
  },
  "workday:workday:/job/USAVAReston/Software-Development-Engineer--US-Federal-_JR-0105503": {
   "company": "workday",
