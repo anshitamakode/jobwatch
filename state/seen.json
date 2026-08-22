@@ -30129,6 +30129,16 @@
   "title": "Senior Software Engineer - Data Engineering",
   "url": "https://jobs.ashbyhq.com/tekion/7ffad32a-a714-49fc-b147-c1d2d291ab11"
  },
+ "ashby:tekion:81a6c511-64f1-435e-9a5c-3ec2cf868e30": {
+  "company": "tekion",
+  "first_seen": "2026-08-22T08:25:23+00:00",
+  "job_id": "81a6c511-64f1-435e-9a5c-3ec2cf868e30",
+  "location": "Bangalore HQ",
+  "posted_at": "2026-08-22T06:14:20.762+00:00",
+  "source": "ashby",
+  "title": "Manager / Sr. Manager AI",
+  "url": "https://jobs.ashbyhq.com/tekion/81a6c511-64f1-435e-9a5c-3ec2cf868e30"
+ },
  "ashby:tekion:833fc43c-afae-4a2c-8b76-8af2c86ff50f": {
   "company": "tekion",
   "first_seen": "2026-08-14T09:07:07+00:00",
@@ -30488,6 +30498,16 @@
   "source": "ashby",
   "title": "Director, Inside Sales ",
   "url": "https://jobs.ashbyhq.com/tekion/e7d99989-1c2d-4892-9733-a19c699c70cc"
+ },
+ "ashby:tekion:ece16d87-d2c8-46a3-9d16-5b0c609d53ce": {
+  "company": "tekion",
+  "first_seen": "2026-08-22T08:25:23+00:00",
+  "job_id": "ece16d87-d2c8-46a3-9d16-5b0c609d53ce",
+  "location": "Bangalore HQ",
+  "posted_at": "2026-08-22T06:18:06.644+00:00",
+  "source": "ashby",
+  "title": "Staff Software Engineer",
+  "url": "https://jobs.ashbyhq.com/tekion/ece16d87-d2c8-46a3-9d16-5b0c609d53ce"
  },
  "ashby:tekion:ede115c3-5920-4d76-90a5-b4ba60624f55": {
   "company": "tekion",
@@ -54538,6 +54558,16 @@
   "source": "greenhouse",
   "title": "Enterprise Account Executive - Media",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7841080002"
+ },
+ "greenhouse:databricks:7841782002": {
+  "company": "databricks",
+  "first_seen": "2026-08-22T08:21:25+00:00",
+  "job_id": "7841782002",
+  "location": "Bengaluru, India",
+  "posted_at": "2025-01-31T11:22:50-05:00",
+  "source": "greenhouse",
+  "title": "Senior Software Engineer - Search",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7841782002"
  },
  "greenhouse:databricks:7845320002": {
   "company": "databricks",
@@ -179419,6 +179449,16 @@
   "title": "Branch Manager Safe Act Palisades/ Washington D.C, Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Washington-District-Of-Columbia-United-States/Branch-Manager-Safe-Act-Palisades--Washington-DC--Assistant-Vice-President_26984225"
  },
+ "workday:citi:/job/Washington-District-Of-Columbia-United-States/Citi-Commercial-Bank---Business-Development-Specialist--Vice-President_26980294": {
+  "company": "citi",
+  "first_seen": "2026-08-22T08:23:47+00:00",
+  "job_id": "/job/Washington-District-Of-Columbia-United-States/Citi-Commercial-Bank---Business-Development-Specialist--Vice-President_26980294",
+  "location": "Washington District Of Columbia United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Citi Commercial Bank - Business Development Specialist, Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Washington-District-Of-Columbia-United-States/Citi-Commercial-Bank---Business-Development-Specialist--Vice-President_26980294"
+ },
  "workday:citi:/job/Washington-District-Of-Columbia-United-States/Citi-Private-Bank---UHNW-Banker---Director_26972327": {
   "company": "citi",
   "first_seen": "2026-08-13T16:53:05+00:00",
@@ -209949,6 +209989,16 @@
   "title": "",
   "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers"
  },
+ "workday:target:R0000445796": {
+  "company": "target",
+  "first_seen": "2026-08-22T08:21:59+00:00",
+  "job_id": "R0000445796",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers"
+ },
  "workday:target:R0000448005": {
   "company": "target",
   "first_seen": "2026-08-17T20:20:19+00:00",
@@ -214308,6 +214358,26 @@
   "source": "workday",
   "title": "Senior Software Development Engineer - US Federal",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Senior-Software-Development-Engineer---US-Federal_JR-0109350"
+ },
+ "workday:workday:/job/USAVAReston/Senior-Software-Development-Engineer--US-Federal-_JR-0105389": {
+  "company": "workday",
+  "first_seen": "2026-08-22T08:25:01+00:00",
+  "job_id": "/job/USAVAReston/Senior-Software-Development-Engineer--US-Federal-_JR-0105389",
+  "location": "USA.VA.Reston",
+  "posted_at": "Posted Yesterday",
+  "source": "workday",
+  "title": "Senior Software Development Engineer (US Federal)",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Senior-Software-Development-Engineer--US-Federal-_JR-0105389"
+ },
+ "workday:workday:/job/USAVAReston/Senior-Software-Development-Engineer--US-Federal-_JR-0105401": {
+  "company": "workday",
+  "first_seen": "2026-08-22T08:25:01+00:00",
+  "job_id": "/job/USAVAReston/Senior-Software-Development-Engineer--US-Federal-_JR-0105401",
+  "location": "USA.VA.Reston",
+  "posted_at": "Posted Yesterday",
+  "source": "workday",
+  "title": "Senior Software Development Engineer (US Federal)",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Senior-Software-Development-Engineer--US-Federal-_JR-0105401"
  },
  "workday:workday:/job/USAVAReston/Senior-Software-Development-Engineer_JR-0104081": {
   "company": "workday",
