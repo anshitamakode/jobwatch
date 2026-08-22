@@ -329,24 +329,34 @@ https://ats.rippling.com/rippling/jobs/x
 https://zeptonow.com/careers
 
 # ======================================================================
-# From the LinkedIn "past 24 hours" digest, 2026-08-17  (9)
+# From the LinkedIn "past 24 hours" digest, 2026-08-17  (3 live)
 #
-# Companies that showed up in that digest and were watched by nothing here.
-# The ATS host for each is an educated guess -- `add` verifies before it
-# writes anything, so a wrong guess costs one failed request and no more.
-# Prune whatever bootstrap reports as skipped.
+# Companies from that digest that nothing here was watching. All nine
+# guesses were run against the live feeds; these three responded and are
+# in companies.yaml now.
 # ======================================================================
-https://job-boards.greenhouse.io/brex
-https://job-boards.greenhouse.io/seatgeek
-https://job-boards.greenhouse.io/hackerone
-https://job-boards.greenhouse.io/relativity
-https://job-boards.greenhouse.io/optiver
-https://pearson.wd3.myworkdayjobs.com/External
-https://omnissa.wd1.myworkdayjobs.com/Careers
-https://gen.wd1.myworkdayjobs.com/External          # Gen Digital, posts the MoneyLion roles
-https://jobs.ashbyhq.com/giga
+https://job-boards.greenhouse.io/brex                # 293 postings
+https://job-boards.greenhouse.io/seatgeek            # 25 postings
+https://job-boards.greenhouse.io/relativity          # 362 postings -- see note below
 
-# Also in that digest, deliberately NOT seeded -- no readable feed exists:
+# Relativity: this board is Relativity SPACE (aerospace, Long Beach) --
+# its listings are additive manufacturing and planetary science. If the
+# digest meant Relativity the legal-tech company, this is the wrong board
+# and should be swapped for their own.
+
+# The other six guesses failed verification. Kept here with what the feed
+# actually said, so a second attempt starts ahead rather than from scratch.
+# A 422 from Workday means the tenant is real but the site name is wrong,
+# so those two are close -- open a live posting and copy the URL.
+#
+#   https://job-boards.greenhouse.io/hackerone     404 -- not on this board
+#   https://job-boards.greenhouse.io/optiver       responded, 0 postings
+#   https://pearson.wd3.myworkdayjobs.com/External 422 -- wrong site name
+#   https://omnissa.wd1.myworkdayjobs.com/Careers  422 -- wrong site name
+#   https://gen.wd1.myworkdayjobs.com/External     404 -- wrong tenant/wd
+#   https://jobs.ashbyhq.com/giga                  404 -- not on this board
+
+# Also in that digest, never seeded -- no readable feed exists:
 #   Microsoft / Microsoft AI  jobs.careers.microsoft.com is a JS-rendered
 #                             portal on no supported ATS. LinkedIn alert only.
 #   Temu                      careers.temu.com is an SPA; the digest routed
