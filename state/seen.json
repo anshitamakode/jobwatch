@@ -1219,6 +1219,16 @@
   "title": "Software Engineer - Observability",
   "url": "https://jobs.ashbyhq.com/baseten/3e925ab1-2089-4a79-989e-50479b546eda"
  },
+ "ashby:baseten:40bce839-10ad-4274-a988-7cee8e0f795e": {
+  "company": "baseten",
+  "first_seen": "2026-08-29T22:15:15+00:00",
+  "job_id": "40bce839-10ad-4274-a988-7cee8e0f795e",
+  "location": "San Francisco",
+  "posted_at": "2026-08-29T17:04:48.113+00:00",
+  "source": "ashby",
+  "title": "Technical Program Manager, Model Performance",
+  "url": "https://jobs.ashbyhq.com/baseten/40bce839-10ad-4274-a988-7cee8e0f795e"
+ },
  "ashby:baseten:43b6c299-d5df-4cf4-a816-142ba3014a9d": {
   "company": "baseten",
   "first_seen": "2026-08-15T04:27:45+00:00",
@@ -66688,6 +66698,16 @@
   "source": "greenhouse",
   "title": "SAP Functional SME",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8688851002"
+ },
+ "greenhouse:databricks:8688875002": {
+  "company": "databricks",
+  "first_seen": "2026-08-29T22:11:18+00:00",
+  "job_id": "8688875002",
+  "location": "Bengaluru, India",
+  "posted_at": "2026-08-29T14:25:05-04:00",
+  "source": "greenhouse",
+  "title": "SAP Consolidations Manager, International Accounting",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8688875002"
  },
  "greenhouse:databricks:8691490002": {
   "company": "databricks",
@@ -158379,6 +158399,16 @@
   "title": "Solutions Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Solutions-Engineer_2021146"
  },
+ "workday:cisco:/job/Bangalore-India/Solutions-Engineer_2022880": {
+  "company": "cisco",
+  "first_seen": "2026-08-29T22:10:43+00:00",
+  "job_id": "/job/Bangalore-India/Solutions-Engineer_2022880",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Solutions Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Solutions-Engineer_2022880"
+ },
  "workday:cisco:/job/Bangalore-India/Strategy---Planning-Manager_2021406-1": {
   "company": "cisco",
   "first_seen": "2026-08-09T16:01:42+00:00",
@@ -158628,6 +158658,16 @@
   "source": "workday",
   "title": "Solutions Engineer (Delhi/Gurgaon)",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Gurgaon-India/Solutions-Engineer--Delhi-Gurgaon-_2022416"
+ },
+ "workday:cisco:/job/Gurgaon-India/Solutions-Engineer_2020453": {
+  "company": "cisco",
+  "first_seen": "2026-08-29T22:10:43+00:00",
+  "job_id": "/job/Gurgaon-India/Solutions-Engineer_2020453",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Solutions Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Gurgaon-India/Solutions-Engineer_2020453"
  },
  "workday:cisco:/job/Hyderabad-India/Data-Engineer---Oracle-PLSQL--Data-Analytics--Geo-Postal-Data-Maintenance_2018638-1": {
   "company": "cisco",
