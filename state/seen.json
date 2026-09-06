@@ -21629,6 +21629,16 @@
   "title": "Developer Marketing Lead, APAC",
   "url": "https://jobs.ashbyhq.com/openai/98eec6be-1d69-406d-88ba-3cb43f3fcbd7"
  },
+ "ashby:openai:98f65aa5-0f19-4942-9296-63382883dc55": {
+  "company": "openai",
+  "first_seen": "2026-09-06T17:56:48+00:00",
+  "job_id": "98f65aa5-0f19-4942-9296-63382883dc55",
+  "location": "San Francisco",
+  "posted_at": "2026-09-06T16:51:56.219+00:00",
+  "source": "ashby",
+  "title": "Site Selection Lead",
+  "url": "https://jobs.ashbyhq.com/openai/98f65aa5-0f19-4942-9296-63382883dc55"
+ },
  "ashby:openai:990397de-c00c-4577-b093-d8c82b4e9145": {
   "company": "openai",
   "first_seen": "2026-08-21T20:18:55+00:00",
@@ -126318,6 +126328,16 @@
   "source": "greenhouse",
   "title": "Software Engineer - Jarvis",
   "url": "https://www.rubrik.com/company/careers/departments/job.7315060?gh_jid=7315060"
+ },
+ "greenhouse:rubrik:7339086": {
+  "company": "rubrik",
+  "first_seen": "2026-09-06T17:57:34+00:00",
+  "job_id": "7339086",
+  "location": "Mumbai",
+  "posted_at": "2025-10-24T00:52:56-04:00",
+  "source": "greenhouse",
+  "title": "Enterprise Account Executive (New Logo/Hunting) - Large Enterrprise",
+  "url": "https://www.rubrik.com/company/careers/departments/job.7339086?gh_jid=7339086"
  },
  "greenhouse:rubrik:7353766": {
   "company": "rubrik",
@@ -245668,6 +245688,16 @@
   "source": "workday",
   "title": "Mechanical Product Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Vietnam-Remote/Mechanical-Product-Engineer_JR2018369-1"
+ },
+ "workday:nvidia:JR1998203": {
+  "company": "nvidia",
+  "first_seen": "2026-09-06T17:55:48+00:00",
+  "job_id": "JR1998203",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite"
  },
  "workday:nvidia:JR2020254": {
   "company": "nvidia",
