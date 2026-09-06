@@ -31159,6 +31159,16 @@
   "title": "Enterprise Sales Director - Majors, Retail",
   "url": "https://jobs.ashbyhq.com/sierra/82d714bd-4908-4648-b72e-3322ad4211b6"
  },
+ "ashby:sierra:837a134f-6ab3-485f-9cf7-a957cc1b8992": {
+  "company": "sierra",
+  "first_seen": "2026-09-06T14:49:28+00:00",
+  "job_id": "837a134f-6ab3-485f-9cf7-a957cc1b8992",
+  "location": "London",
+  "posted_at": "2026-09-06T14:01:27.493+00:00",
+  "source": "ashby",
+  "title": "Strategist, Agent Development (Norwegian speaking)",
+  "url": "https://jobs.ashbyhq.com/sierra/837a134f-6ab3-485f-9cf7-a957cc1b8992"
+ },
  "ashby:sierra:83a88812-d488-4a24-bb39-e1b0aa6dd240": {
   "company": "sierra",
   "first_seen": "2026-08-09T16:06:50+00:00",
@@ -31418,6 +31428,16 @@
   "source": "ashby",
   "title": "Security GRC Manager: Customer Trust Enablement",
   "url": "https://jobs.ashbyhq.com/sierra/9cb28fb8-dd38-480b-81eb-ca8034b298b6"
+ },
+ "ashby:sierra:9d54f016-7919-457b-a298-17a536ab8c5c": {
+  "company": "sierra",
+  "first_seen": "2026-09-06T14:49:28+00:00",
+  "job_id": "9d54f016-7919-457b-a298-17a536ab8c5c",
+  "location": "London",
+  "posted_at": "2026-09-06T13:59:16.510+00:00",
+  "source": "ashby",
+  "title": "Strategist, Agent Development (Flemish speaking)",
+  "url": "https://jobs.ashbyhq.com/sierra/9d54f016-7919-457b-a298-17a536ab8c5c"
  },
  "ashby:sierra:9d9e7d4a-2a27-4f64-9b1f-d79c5d3f129a": {
   "company": "sierra",
@@ -32078,6 +32098,16 @@
   "source": "ashby",
   "title": "Product Manager, Agent Development",
   "url": "https://jobs.ashbyhq.com/sierra/dc443fd1-14bd-493c-9397-c3713c78321c"
+ },
+ "ashby:sierra:dcd50512-6575-46e5-8c28-b2bcd6acf81f": {
+  "company": "sierra",
+  "first_seen": "2026-09-06T14:49:28+00:00",
+  "job_id": "dcd50512-6575-46e5-8c28-b2bcd6acf81f",
+  "location": "London",
+  "posted_at": "2026-09-06T14:00:05.671+00:00",
+  "source": "ashby",
+  "title": "Strategist, Agent Development (Swedish speaking)",
+  "url": "https://jobs.ashbyhq.com/sierra/dcd50512-6575-46e5-8c28-b2bcd6acf81f"
  },
  "ashby:sierra:df431e56-56f5-42ed-bc62-7d6f7041bd27": {
   "company": "sierra",
@@ -110799,6 +110829,16 @@
   "title": "Software Engineer - Aura, Instances",
   "url": "https://boards.greenhouse.io/neo4j/jobs/4711176006?gh_jid=4711176006"
  },
+ "greenhouse:neo4j:4711183006": {
+  "company": "neo4j",
+  "first_seen": "2026-09-06T14:48:57+00:00",
+  "job_id": "4711183006",
+  "location": "San Mateo, CA",
+  "posted_at": "2026-09-06T04:24:42-04:00",
+  "source": "greenhouse",
+  "title": "Director, Field Engineering Strategy & Execution",
+  "url": "https://boards.greenhouse.io/neo4j/jobs/4711183006?gh_jid=4711183006"
+ },
  "greenhouse:netlify:4224129002": {
   "company": "netlify",
   "first_seen": "2026-08-09T16:06:42+00:00",
@@ -128028,6 +128068,36 @@
   "source": "greenhouse",
   "title": "Engineering Manager Polaris Platform",
   "url": "https://www.rubrik.com/company/careers/departments/job.8161018?gh_jid=8161018"
+ },
+ "greenhouse:rubrik:8166514": {
+  "company": "rubrik",
+  "first_seen": "2026-09-06T14:46:16+00:00",
+  "job_id": "8166514",
+  "location": "Bangalore",
+  "posted_at": "2026-09-06T08:41:48-04:00",
+  "source": "greenhouse",
+  "title": "ENG Project/ Program - Intern",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8166514?gh_jid=8166514"
+ },
+ "greenhouse:rubrik:8166523": {
+  "company": "rubrik",
+  "first_seen": "2026-09-06T14:46:16+00:00",
+  "job_id": "8166523",
+  "location": "Bangalore",
+  "posted_at": "2026-09-06T08:42:59-04:00",
+  "source": "greenhouse",
+  "title": "Software Engineer - Winter Intern",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8166523?gh_jid=8166523"
+ },
+ "greenhouse:rubrik:8166537": {
+  "company": "rubrik",
+  "first_seen": "2026-09-06T14:46:16+00:00",
+  "job_id": "8166537",
+  "location": "Pune",
+  "posted_at": "2026-09-06T08:47:22-04:00",
+  "source": "greenhouse",
+  "title": "Software Engineer (CPD) - Winter Intern (Pune)",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8166537?gh_jid=8166537"
  },
  "greenhouse:rubrik:8168820": {
   "company": "rubrik",
@@ -168218,6 +168288,16 @@
   "source": "workday",
   "title": "Data Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Data-Engineer_2021621"
+ },
+ "workday:cisco:/job/Bangalore-India/Data-Engineer_2021625": {
+  "company": "cisco",
+  "first_seen": "2026-09-06T14:44:53+00:00",
+  "job_id": "/job/Bangalore-India/Data-Engineer_2021625",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Data Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Data-Engineer_2021625"
  },
  "workday:cisco:/job/Bangalore-India/Data-Engineer_2021631": {
   "company": "cisco",
