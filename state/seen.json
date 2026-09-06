@@ -6929,6 +6929,16 @@
   "title": "Sales Development Representative (German Speaking)",
   "url": "https://jobs.ashbyhq.com/harvey/3adf9734-7339-4b21-b361-96288a9a6224"
  },
+ "ashby:harvey:3ae2aecf-16c4-4e6e-a8fd-0db33ebeb16c": {
+  "company": "harvey",
+  "first_seen": "2026-09-06T21:58:16+00:00",
+  "job_id": "3ae2aecf-16c4-4e6e-a8fd-0db33ebeb16c",
+  "location": "San Francisco",
+  "posted_at": "2026-09-06T21:50:17.241+00:00",
+  "source": "ashby",
+  "title": "Staff Software Engineer, Model Infrastructure",
+  "url": "https://jobs.ashbyhq.com/harvey/3ae2aecf-16c4-4e6e-a8fd-0db33ebeb16c"
+ },
  "ashby:harvey:3d5dbc06-0e94-4b6d-ab6f-18cb691e03a7": {
   "company": "harvey",
   "first_seen": "2026-08-09T16:06:00+00:00",
@@ -9448,6 +9458,16 @@
   "source": "ashby",
   "title": "Senior Software Engineer, Core Infrastructure",
   "url": "https://jobs.ashbyhq.com/harvey/b8a48279-6b24-45c2-b101-3ae322ba5fb5"
+ },
+ "ashby:harvey:b9c5964f-40ef-46c5-a1db-58dbdd2c314e": {
+  "company": "harvey",
+  "first_seen": "2026-09-06T21:58:16+00:00",
+  "job_id": "b9c5964f-40ef-46c5-a1db-58dbdd2c314e",
+  "location": "San Francisco",
+  "posted_at": "2026-09-06T21:40:28.062+00:00",
+  "source": "ashby",
+  "title": "Senior Software Engineer, Model Infrastructure",
+  "url": "https://jobs.ashbyhq.com/harvey/b9c5964f-40ef-46c5-a1db-58dbdd2c314e"
  },
  "ashby:harvey:ba1dd03d-f8fa-4097-8aa1-757fe17b2166": {
   "company": "harvey",
@@ -12458,6 +12478,16 @@
   "source": "ashby",
   "title": "Senior Platform Engineer, Ingestion",
   "url": "https://jobs.ashbyhq.com/langchain/ea3df015-477b-4197-a53f-c44029632a7d"
+ },
+ "ashby:langchain:eadd2a71-47fc-483b-948f-4b2384f7f93f": {
+  "company": "langchain",
+  "first_seen": "2026-09-06T21:58:16+00:00",
+  "job_id": "eadd2a71-47fc-483b-948f-4b2384f7f93f",
+  "location": "San Francisco, CA",
+  "posted_at": "2026-09-06T20:19:37.283+00:00",
+  "source": "ashby",
+  "title": "Agent Reliability Engineer, GTM",
+  "url": "https://jobs.ashbyhq.com/langchain/eadd2a71-47fc-483b-948f-4b2384f7f93f"
  },
  "ashby:langchain:f07bfbad-6daf-4b11-b5bb-2c3bbc47c53c": {
   "company": "langchain",
@@ -240239,6 +240269,16 @@
   "title": "Senior Layout Designer",
   "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/Senior-Layout-Designer_JR106326"
  },
+ "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Senior-Layout-Designer_JR110734": {
+  "company": "micron",
+  "first_seen": "2026-09-06T21:57:19+00:00",
+  "job_id": "/job/Hyderabad---Phoenix-Aquila-India/Senior-Layout-Designer_JR110734",
+  "location": "Hyderabad - Phoenix Aquila, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Layout Designer",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/Senior-Layout-Designer_JR110734"
+ },
  "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Senior-Layout-Engineer---DPG-Layout_JR101985": {
   "company": "micron",
   "first_seen": "2026-08-09T16:05:04+00:00",
@@ -253769,6 +253809,16 @@
   "title": "GM and Food (General Merchandise, Closing, Fulfillment, Inbound, Food and Beverage , Starbucks) (T2068)",
   "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1125-Veterans-Pkwy-ClarksvilleIN-47129-2664/GM-and-Food--General-Merchandise--Closing--Fulfillment--Inbound--Food-and-Beverage---Starbucks---T2068-_R0000413346"
  },
+ "workday:target:/job/1125-Veterans-Pkwy-ClarksvilleIN-47129-2664/General-Merchandise-Team-Leader_R0000452147": {
+  "company": "target",
+  "first_seen": "2026-09-06T21:55:13+00:00",
+  "job_id": "/job/1125-Veterans-Pkwy-ClarksvilleIN-47129-2664/General-Merchandise-Team-Leader_R0000452147",
+  "location": "1125 Veterans Pkwy, Clarksville,IN 47129-2664",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "General Merchandise Team Leader",
+  "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1125-Veterans-Pkwy-ClarksvilleIN-47129-2664/General-Merchandise-Team-Leader_R0000452147"
+ },
  "workday:target:/job/1125-Veterans-Pkwy-ClarksvilleIN-47129-2664/Guest-Advocate--Cashier-or-Front-of-Store-Attendant-Cart-Attendant---T2068-_R0000413347": {
   "company": "target",
   "first_seen": "2026-08-09T16:02:55+00:00",
@@ -253798,6 +253848,16 @@
   "source": "workday",
   "title": "Specialty Sales (Style, Beauty/Beauty Studio or Tech) (T2068)",
   "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1125-Veterans-Pkwy-ClarksvilleIN-47129-2664/Specialty-Sales--Style--Tech--Beauty--Ulta-Beauty---T2068-_R0000413349"
+ },
+ "workday:target:/job/1125-Veterans-Pkwy-ClarksvilleIN-47129-2664/Specialty-Sales-Team-Leader_R0000452148": {
+  "company": "target",
+  "first_seen": "2026-09-06T21:55:13+00:00",
+  "job_id": "/job/1125-Veterans-Pkwy-ClarksvilleIN-47129-2664/Specialty-Sales-Team-Leader_R0000452148",
+  "location": "1125 Veterans Pkwy, Clarksville,IN 47129-2664",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Specialty Sales Team Leader",
+  "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1125-Veterans-Pkwy-ClarksvilleIN-47129-2664/Specialty-Sales-Team-Leader_R0000452148"
  },
  "workday:target:/job/1125-Veterans-Pkwy-ClarksvilleIN-47129-2664/Target-Security-Specialist_R0000440622": {
   "company": "target",
