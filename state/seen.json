@@ -10969,6 +10969,16 @@
   "title": "Enterprise Account Executive",
   "url": "https://jobs.ashbyhq.com/hex/2b2b56f7-1175-4302-a87c-944d7106c29e"
  },
+ "ashby:hex:2ea273bb-148a-4435-8764-31053fa1641e": {
+  "company": "hex",
+  "first_seen": "2026-09-07T02:22:39+00:00",
+  "job_id": "2ea273bb-148a-4435-8764-31053fa1641e",
+  "location": "San Francisco",
+  "posted_at": "2026-09-06T22:28:35.307+00:00",
+  "source": "ashby",
+  "title": "Recruiting Coordinator",
+  "url": "https://jobs.ashbyhq.com/hex/2ea273bb-148a-4435-8764-31053fa1641e"
+ },
  "ashby:hex:3477e108-195c-414a-a16b-23a6356d1b09": {
   "company": "hex",
   "first_seen": "2026-08-09T16:06:47+00:00",
@@ -19588,6 +19598,16 @@
   "source": "ashby",
   "title": "Full Stack Software Engineer, API Experience ",
   "url": "https://jobs.ashbyhq.com/openai/66288824-8b77-4774-bc57-6825d3e6221e"
+ },
+ "ashby:openai:6668417f-6878-4244-940f-9a99ae4ebcb0": {
+  "company": "openai",
+  "first_seen": "2026-09-07T02:18:37+00:00",
+  "job_id": "6668417f-6878-4244-940f-9a99ae4ebcb0",
+  "location": "Tokyo, Japan",
+  "posted_at": "2026-09-07T00:33:34.942+00:00",
+  "source": "ashby",
+  "title": "Applied AI Engineer, Codex | Tokyo",
+  "url": "https://jobs.ashbyhq.com/openai/6668417f-6878-4244-940f-9a99ae4ebcb0"
  },
  "ashby:openai:667c09e2-6efc-45dc-9714-078bedf17343": {
   "company": "openai",
@@ -31119,6 +31139,16 @@
   "title": "Software Engineer, Agent Data Platform",
   "url": "https://jobs.ashbyhq.com/sierra/78c5dce4-3670-4c9b-a666-98f435c56324"
  },
+ "ashby:sierra:79953d72-60d4-43e0-8c8c-6eccda422dce": {
+  "company": "sierra",
+  "first_seen": "2026-09-07T02:22:42+00:00",
+  "job_id": "79953d72-60d4-43e0-8c8c-6eccda422dce",
+  "location": "Singapore",
+  "posted_at": "2026-09-07T02:02:53.490+00:00",
+  "source": "ashby",
+  "title": "Software Engineer, Agent (New Grad 2027)",
+  "url": "https://jobs.ashbyhq.com/sierra/79953d72-60d4-43e0-8c8c-6eccda422dce"
+ },
  "ashby:sierra:7a61fa6e-322f-40a5-9df0-a2a7b306ada5": {
   "company": "sierra",
   "first_seen": "2026-08-09T16:06:50+00:00",
@@ -32258,6 +32288,16 @@
   "source": "ashby",
   "title": "Software Engineer, Agent - Healthcare",
   "url": "https://jobs.ashbyhq.com/sierra/eb3ee157-3d2a-412a-88a2-e2cfc5647a66"
+ },
+ "ashby:sierra:eb8e8b58-394b-43f0-b9bd-4f1407d9aa17": {
+  "company": "sierra",
+  "first_seen": "2026-09-07T02:22:42+00:00",
+  "job_id": "eb8e8b58-394b-43f0-b9bd-4f1407d9aa17",
+  "location": "Singapore",
+  "posted_at": "2026-09-07T01:56:26.806+00:00",
+  "source": "ashby",
+  "title": "Intern, Agent Development (Singapore Summer 2027)",
+  "url": "https://jobs.ashbyhq.com/sierra/eb8e8b58-394b-43f0-b9bd-4f1407d9aa17"
  },
  "ashby:sierra:ebe951fb-8e8d-4bff-a499-e19010018f3b": {
   "company": "sierra",
@@ -51389,6 +51429,16 @@
   "title": "Software Engineer - Platforms & Productivity",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8168623?gh_jid=8168623"
  },
+ "greenhouse:cloudflare:8168940": {
+  "company": "cloudflare",
+  "first_seen": "2026-09-07T02:22:03+00:00",
+  "job_id": "8168940",
+  "location": "Hybrid",
+  "posted_at": "2026-09-06T21:14:23-04:00",
+  "source": "greenhouse",
+  "title": "Territory Account Executive, Digital Native (Indonesia)",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8168940?gh_jid=8168940"
+ },
  "greenhouse:cloudflare:8169264": {
   "company": "cloudflare",
   "first_seen": "2026-09-04T15:39:20+00:00",
@@ -61749,6 +61799,16 @@
   "title": "[\ucfe0\ud321\uc774\uce20\uc11c\ube44\uc2a4] Business Automation Program Manager (Business & Operations)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8175796"
  },
+ "greenhouse:coupang:8175846": {
+  "company": "coupang",
+  "first_seen": "2026-09-07T02:18:36+00:00",
+  "job_id": "8175846",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-09-06T22:03:55-04:00",
+  "source": "greenhouse",
+  "title": "Staff Visual Designer (Coupang Eats)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8175846"
+ },
  "greenhouse:coupang:8175850": {
   "company": "coupang",
   "first_seen": "2026-09-03T08:28:17+00:00",
@@ -61848,6 +61908,16 @@
   "source": "greenhouse",
   "title": "[\ucfe0\ud321] Key Account Manager (\uc774\uce20, \uc804\ub7b5 \uc601\uc5c5)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8179384"
+ },
+ "greenhouse:coupang:8184196": {
+  "company": "coupang",
+  "first_seen": "2026-09-07T02:18:36+00:00",
+  "job_id": "8184196",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-09-06T22:00:01-04:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321] \ucfe0\ud321\uc774\uce20 \uce74\ud0c8\ub85c\uadf8 \uc6b4\uc601 \uc804\ub7b5 \ubc0f \uc815\ucc45 \uad00\ub9ac \ud300\uc7a5 (Catalog Growth & Excellence) (\uacbd\ub825 10\ub144\uc774\uc0c1)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8184196"
  },
  "greenhouse:databricks:4513122002": {
   "company": "databricks",
@@ -148589,6 +148659,16 @@
   "title": "Senior Analyst - Data Governance & Management",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009888"
  },
+ "oraclecloud:amex:26009905": {
+  "company": "amex",
+  "first_seen": "2026-09-07T02:22:28+00:00",
+  "job_id": "26009905",
+  "location": "AUCKLAND, New Zealand",
+  "posted_at": "2026-09-06",
+  "source": "oraclecloud",
+  "title": "Customer Marketing Lead, NZ",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009905"
+ },
  "oraclecloud:amex:26009923": {
   "company": "amex",
   "first_seen": "2026-08-31T23:38:09+00:00",
@@ -193098,6 +193178,16 @@
   "source": "workday",
   "title": "Banking, Corporate Banking, Summer Analyst, London \u2013 United Kingdom, 2027",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Corporate-Banking--Summer-Analyst--London---United-Kingdom--2027_26991689"
+ },
+ "workday:citi:/job/London--United-Kingdom/Banking--Financing--Full-Time-Analyst--London---United-Kingdom-2027--Applicable-for-2026-Citi-Summer-interns-only-_26991344": {
+  "company": "citi",
+  "first_seen": "2026-09-07T02:20:54+00:00",
+  "job_id": "/job/London--United-Kingdom/Banking--Financing--Full-Time-Analyst--London---United-Kingdom-2027--Applicable-for-2026-Citi-Summer-interns-only-_26991344",
+  "location": "London  United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banking, Financing, Full Time Analyst, London - United Kingdom 2027 (Applicable for 2026 Citi Summer interns only)",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Banking--Financing--Full-Time-Analyst--London---United-Kingdom-2027--Applicable-for-2026-Citi-Summer-interns-only-_26991344"
  },
  "workday:citi:/job/London--United-Kingdom/Banking--Investment-Banking--Full-Time-Analyst--London---United-Kingdom-2027----Applicable-for-2026-Citi-Summer-interns-only-_26992159": {
   "company": "citi",
@@ -248323,6 +248413,26 @@
   "company": "paypal",
   "first_seen": "2026-08-18T16:24:34+00:00",
   "job_id": "R0136847",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs"
+ },
+ "workday:paypal:R0137325": {
+  "company": "paypal",
+  "first_seen": "2026-09-07T02:19:14+00:00",
+  "job_id": "R0137325",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs"
+ },
+ "workday:paypal:R0137326": {
+  "company": "paypal",
+  "first_seen": "2026-09-07T02:19:14+00:00",
+  "job_id": "R0137326",
   "location": "",
   "posted_at": null,
   "source": "workday",
