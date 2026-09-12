@@ -34539,6 +34539,16 @@
   "title": "Partner Solution Architect (AWS)",
   "url": "https://jobs.ashbyhq.com/supabase/afd359ea-d37a-4bc4-b58d-7b851511988f"
  },
+ "ashby:supabase:b4a2f5e5-5c51-4c1a-abde-a89de27451c7": {
+  "company": "supabase",
+  "first_seen": "2026-09-12T14:52:12+00:00",
+  "job_id": "b4a2f5e5-5c51-4c1a-abde-a89de27451c7",
+  "location": "Remote, Global",
+  "posted_at": "2026-09-12T08:44:14.892+00:00",
+  "source": "ashby",
+  "title": "Engineering Manager, Billing",
+  "url": "https://jobs.ashbyhq.com/supabase/b4a2f5e5-5c51-4c1a-abde-a89de27451c7"
+ },
  "ashby:supabase:b566fbf8-2894-4314-9533-8fa920e80c19": {
   "company": "supabase",
   "first_seen": "2026-08-09T16:06:04+00:00",
@@ -99239,6 +99249,16 @@
   "title": "Strategic Account Executive, Poland",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8789017002"
  },
+ "greenhouse:gitlab:8789857002": {
+  "company": "gitlab",
+  "first_seen": "2026-09-12T14:49:15+00:00",
+  "job_id": "8789857002",
+  "location": "Remote, United Kingdom",
+  "posted_at": "2026-09-12T05:41:58-04:00",
+  "source": "greenhouse",
+  "title": "Professional Services - Technical Architect",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8789857002"
+ },
  "greenhouse:gitlab:8790102002": {
   "company": "gitlab",
   "first_seen": "2026-09-10T18:54:17+00:00",
@@ -121789,6 +121809,16 @@
   "title": "Senior Software Engineer",
   "url": "https://www.okta.com/company/careers/opportunity/8053679?gh_jid=8053679"
  },
+ "greenhouse:okta:8053763": {
+  "company": "okta",
+  "first_seen": "2026-09-12T14:52:25+00:00",
+  "job_id": "8053763",
+  "location": "Bengaluru, India",
+  "posted_at": "2026-09-12T05:33:33-04:00",
+  "source": "greenhouse",
+  "title": "Staff Software Engineer-Salesforce development",
+  "url": "https://www.okta.com/company/careers/opportunity/8053763?gh_jid=8053763"
+ },
  "greenhouse:okta:8054427": {
   "company": "okta",
   "first_seen": "2026-08-09T16:06:43+00:00",
@@ -123278,6 +123308,16 @@
   "source": "greenhouse",
   "title": "Staff Product Marketing Launch Operations Manager",
   "url": "https://www.okta.com/company/careers/opportunity/8131237?gh_jid=8131237"
+ },
+ "greenhouse:okta:8132163": {
+  "company": "okta",
+  "first_seen": "2026-09-12T14:52:25+00:00",
+  "job_id": "8132163",
+  "location": "Bengaluru, India",
+  "posted_at": "2026-09-12T05:32:56-04:00",
+  "source": "greenhouse",
+  "title": "Senior Data Engineer",
+  "url": "https://www.okta.com/company/careers/opportunity/8132163?gh_jid=8132163"
  },
  "greenhouse:okta:8132173": {
   "company": "okta",
@@ -179418,6 +179458,16 @@
   "source": "workday",
   "title": "Senior Counsel, Ethics & Compliance (APJC)",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Senior-Counsel--Ethics---Compliance--APJC-_2015927-1"
+ },
+ "workday:cisco:/job/Bangalore-India/Senior-Data-Engineer---Apache-Spark---Kafka---Flink---Trino---Iceberg---Big-Data---Streaming---Data-Platform-8-12-Years_2018748": {
+  "company": "cisco",
+  "first_seen": "2026-09-12T14:47:49+00:00",
+  "job_id": "/job/Bangalore-India/Senior-Data-Engineer---Apache-Spark---Kafka---Flink---Trino---Iceberg---Big-Data---Streaming---Data-Platform-8-12-Years_2018748",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Data Engineer \u2013 Apache Spark | Kafka | Flink | Trino | Iceberg | Big Data | Streaming | Data Platform 8\u201312 Years",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Senior-Data-Engineer---Apache-Spark---Kafka---Flink---Trino---Iceberg---Big-Data---Streaming---Data-Platform-8-12-Years_2018748"
  },
  "workday:cisco:/job/Bangalore-India/Senior-Data-Engineer---Big-Data---Streaming-Platforms---Java-Scala-or-Python---Spark--Kafka---Flink--Iceberg---Lakehouse--Trino---8-to-12-Years_2020953-1": {
   "company": "cisco",
@@ -253159,6 +253209,16 @@
   "title": "Lead Product Manager- Technical",
   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-289419"
  },
+ "workday:mastercard:/job/Pune-India/Lead-Product-Manager--Technical_R-289421": {
+  "company": "mastercard",
+  "first_seen": "2026-09-12T14:50:59+00:00",
+  "job_id": "/job/Pune-India/Lead-Product-Manager--Technical_R-289421",
+  "location": "Pune, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Lead Product Manager- Technical",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Product-Manager--Technical_R-289421"
+ },
  "workday:mastercard:/job/Pune-India/Lead-Product-Manager--Technical_R-289980": {
   "company": "mastercard",
   "first_seen": "2026-09-08T08:33:10+00:00",
@@ -284768,6 +284828,16 @@
   "source": "workday",
   "title": "Senior Technical Consultant, Integrations \u2013 State & Local Government",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-Remote/Senior-Technical-Consultant--Integrations---State---Local-Government_JR-0108797"
+ },
+ "workday:workday:/job/USA-Remote/Sr-Engagement--Project--Delivery--Manager---Higher-Education_JR-0108512": {
+  "company": "workday",
+  "first_seen": "2026-09-12T14:51:53+00:00",
+  "job_id": "/job/USA-Remote/Sr-Engagement--Project--Delivery--Manager---Higher-Education_JR-0108512",
+  "location": "USA Remote",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Engagement (Project, Delivery) Manager - Higher Education",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-Remote/Sr-Engagement--Project--Delivery--Manager---Higher-Education_JR-0108512"
  },
  "workday:workday:/job/USA-Remote/Sr-Integrations-Consultant-Financial----Workday-Success-Plans_JR-0109425": {
   "company": "workday",
