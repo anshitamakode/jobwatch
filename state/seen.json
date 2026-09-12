@@ -12519,6 +12519,16 @@
   "title": "Senior Frontend Engineer, AI Observability & Evals Platform ",
   "url": "https://jobs.ashbyhq.com/langchain/afb91b9b-46d5-4c9d-aa84-a4f1a3f74263"
  },
+ "ashby:langchain:b23ea9af-c6dc-40fa-86ce-75042b905173": {
+  "company": "langchain",
+  "first_seen": "2026-09-12T08:21:37+00:00",
+  "job_id": "b23ea9af-c6dc-40fa-86ce-75042b905173",
+  "location": "Boston, MA",
+  "posted_at": "2026-09-12T07:00:25.742+00:00",
+  "source": "ashby",
+  "title": "Senior Backend Software Engineer, AI Observability & Evals Platform (LangSmith)",
+  "url": "https://jobs.ashbyhq.com/langchain/b23ea9af-c6dc-40fa-86ce-75042b905173"
+ },
  "ashby:langchain:b47dbcea-222c-427d-bf4d-9e30a6b60d4a": {
   "company": "langchain",
   "first_seen": "2026-08-09T16:06:00+00:00",
@@ -12848,6 +12858,16 @@
   "source": "ashby",
   "title": "Lead Applied AI Engineer",
   "url": "https://jobs.ashbyhq.com/langchain/e67d79a1-cbeb-4dd2-8c81-00eb0969f911"
+ },
+ "ashby:langchain:e6d2bc1e-e0b9-4076-be01-ef8681863c01": {
+  "company": "langchain",
+  "first_seen": "2026-09-12T08:21:37+00:00",
+  "job_id": "e6d2bc1e-e0b9-4076-be01-ef8681863c01",
+  "location": "Boston, MA",
+  "posted_at": "2026-09-12T07:06:57.811+00:00",
+  "source": "ashby",
+  "title": "Senior Fullstack Engineer,  AI Observability & Evals Platform ",
+  "url": "https://jobs.ashbyhq.com/langchain/e6d2bc1e-e0b9-4076-be01-ef8681863c01"
  },
  "ashby:langchain:e725293d-c27b-4a79-959d-19f5618f2f8e": {
   "company": "langchain",
@@ -17598,6 +17618,16 @@
   "source": "ashby",
   "title": "Research Engineer",
   "url": "https://jobs.ashbyhq.com/openai/240d459b-696d-43eb-8497-fab3e56ecd9b"
+ },
+ "ashby:openai:241154df-ab1a-4dfa-8b18-66e087d1e636": {
+  "company": "openai",
+  "first_seen": "2026-09-12T08:17:57+00:00",
+  "job_id": "241154df-ab1a-4dfa-8b18-66e087d1e636",
+  "location": "San Francisco",
+  "posted_at": "2026-09-12T03:19:39.860+00:00",
+  "source": "ashby",
+  "title": "Engineering Manager, Cooperative Systems ",
+  "url": "https://jobs.ashbyhq.com/openai/241154df-ab1a-4dfa-8b18-66e087d1e636"
  },
  "ashby:openai:24ade569-b2eb-4879-b6d3-82407ac0efe7": {
   "company": "openai",
@@ -23698,6 +23728,16 @@
   "source": "ashby",
   "title": "Business Development Lead, Compute Strategy",
   "url": "https://jobs.ashbyhq.com/openai/b5ede8ec-8c71-4155-ace1-1a7be9b26f83"
+ },
+ "ashby:openai:b60d3040-38e4-4abe-8af8-881286b10d50": {
+  "company": "openai",
+  "first_seen": "2026-09-12T08:17:57+00:00",
+  "job_id": "b60d3040-38e4-4abe-8af8-881286b10d50",
+  "location": "San Francisco",
+  "posted_at": "2026-09-12T03:21:15.873+00:00",
+  "source": "ashby",
+  "title": "Researcher, Safety Training, National Security",
+  "url": "https://jobs.ashbyhq.com/openai/b60d3040-38e4-4abe-8af8-881286b10d50"
  },
  "ashby:openai:b621a08b-e8fa-4829-b248-525880390040": {
   "company": "openai",
@@ -76059,6 +76099,16 @@
   "title": "Sr. Solutions Architect",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785045002"
  },
+ "greenhouse:databricks:8785055002": {
+  "company": "databricks",
+  "first_seen": "2026-09-12T08:17:53+00:00",
+  "job_id": "8785055002",
+  "location": "Tokyo, Japan",
+  "posted_at": "2026-09-12T04:05:38-04:00",
+  "source": "greenhouse",
+  "title": "Specialist Solutions Architect (Security)",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8785055002"
+ },
  "greenhouse:databricks:8785057002": {
   "company": "databricks",
   "first_seen": "2026-09-10T08:34:49+00:00",
@@ -89009,6 +89059,16 @@
   "title": "Senior Software Engineer - Integrations 3P - Platform",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8173421&gh_jid=8173421"
  },
+ "greenhouse:elastic:8174098": {
+  "company": "elastic",
+  "first_seen": "2026-09-12T08:21:27+00:00",
+  "job_id": "8174098",
+  "location": "Greece",
+  "posted_at": "2026-09-12T00:41:23-04:00",
+  "source": "greenhouse",
+  "title": "Principal Software Engineer - Builder Experience - Platform Engineering Productivity",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8174098&gh_jid=8174098"
+ },
  "greenhouse:elastic:8174948": {
   "company": "elastic",
   "first_seen": "2026-09-02T22:19:31+00:00",
@@ -89348,6 +89408,36 @@
   "source": "greenhouse",
   "title": "Senior Information Security Infrastructure Engineer - Security Architecture - InfoSec",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8195967&gh_jid=8195967"
+ },
+ "greenhouse:elastic:8198517": {
+  "company": "elastic",
+  "first_seen": "2026-09-12T08:21:27+00:00",
+  "job_id": "8198517",
+  "location": "Spain",
+  "posted_at": "2026-09-12T00:41:25-04:00",
+  "source": "greenhouse",
+  "title": "Principal Software Engineer - Builder Experience - Platform Engineering Productivity",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8198517&gh_jid=8198517"
+ },
+ "greenhouse:elastic:8198518": {
+  "company": "elastic",
+  "first_seen": "2026-09-12T08:21:27+00:00",
+  "job_id": "8198518",
+  "location": "Portugal",
+  "posted_at": "2026-09-12T00:41:28-04:00",
+  "source": "greenhouse",
+  "title": "Principal Software Engineer - Builder Experience - Platform Engineering Productivity",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8198518&gh_jid=8198518"
+ },
+ "greenhouse:elastic:8198519": {
+  "company": "elastic",
+  "first_seen": "2026-09-12T08:21:27+00:00",
+  "job_id": "8198519",
+  "location": "Poland",
+  "posted_at": "2026-09-12T00:41:30-04:00",
+  "source": "greenhouse",
+  "title": "Principal Software Engineer - Builder Experience - Platform Engineering Productivity",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8198519&gh_jid=8198519"
  },
  "greenhouse:fastly:6873321": {
   "company": "fastly",
@@ -238573,6 +238663,16 @@
   "company": "citi",
   "first_seen": "2026-09-07T08:52:13+00:00",
   "job_id": "26991621",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2"
+ },
+ "workday:citi:26993586": {
+  "company": "citi",
+  "first_seen": "2026-09-12T08:20:14+00:00",
+  "job_id": "26993586",
   "location": "",
   "posted_at": null,
   "source": "workday",
