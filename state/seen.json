@@ -88059,6 +88059,16 @@
   "title": "Consulting Architect - Security (EMEA / Public Sector eligible ) ",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8153274&gh_jid=8153274"
  },
+ "greenhouse:elastic:8154426": {
+  "company": "elastic",
+  "first_seen": "2026-09-13T15:30:30+00:00",
+  "job_id": "8154426",
+  "location": "United States",
+  "posted_at": "2026-09-13T10:09:34-04:00",
+  "source": "greenhouse",
+  "title": "Software Engineer II - Builder Experience - Platform Engineering Productivity",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8154426&gh_jid=8154426"
+ },
  "greenhouse:elastic:8154995": {
   "company": "elastic",
   "first_seen": "2026-08-26T22:43:04+00:00",
@@ -167289,6 +167299,16 @@
   "title": "American Express - Centurion Lounge Ambassador",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013440"
  },
+ "oraclecloud:amex:26013449": {
+  "company": "amex",
+  "first_seen": "2026-09-13T15:30:55+00:00",
+  "job_id": "26013449",
+  "location": "Gurugram, HR, India, Chennai, TN, India",
+  "posted_at": "2026-09-13",
+  "source": "oraclecloud",
+  "title": "Associate-Digital Product Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013449"
+ },
  "oraclecloud:amex:26013450": {
   "company": "amex",
   "first_seen": "2026-09-04T22:05:23+00:00",
@@ -167328,6 +167348,16 @@
   "source": "oraclecloud",
   "title": "Manager - International Account Development (Virtual - East Coast/Midwest)",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013454"
+ },
+ "oraclecloud:amex:26013455": {
+  "company": "amex",
+  "first_seen": "2026-09-13T15:30:55+00:00",
+  "job_id": "26013455",
+  "location": "Phoenix, AZ, United States",
+  "posted_at": "2026-09-13",
+  "source": "oraclecloud",
+  "title": "Agentic AI Cybersecurity Engineer - Identity Access Lifecycle Managementgmt",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013455"
  },
  "oraclecloud:amex:26013457": {
   "company": "amex",
@@ -167568,6 +167598,16 @@
   "source": "oraclecloud",
   "title": "Merchant Support Specialist - German Speaker",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013529"
+ },
+ "oraclecloud:amex:26013533": {
+  "company": "amex",
+  "first_seen": "2026-09-13T15:30:55+00:00",
+  "job_id": "26013533",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-09-13",
+  "source": "oraclecloud",
+  "title": "Analyst-Data Science",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013533"
  },
  "oraclecloud:amex:26013537": {
   "company": "amex",
@@ -174478,6 +174518,16 @@
   "source": "workday",
   "title": "Product Designer II",
   "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Product-Designer-II_R170768"
+ },
+ "workday:adobe:/job/Bangalore/Product-Manager--Growth---B2B-Enterprise-_R171407": {
+  "company": "adobe",
+  "first_seen": "2026-09-13T15:27:10+00:00",
+  "job_id": "/job/Bangalore/Product-Manager--Growth---B2B-Enterprise-_R171407",
+  "location": "Bangalore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Product Manager (Growth - B2B Enterprise)",
+  "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Product-Manager--Growth---B2B-Enterprise-_R171407"
  },
  "workday:adobe:/job/Bangalore/Product-Marketing-Manager--Students---India_R171302": {
   "company": "adobe",
@@ -181628,6 +181678,16 @@
   "source": "workday",
   "title": "Software Technical Leader \u2013 Full Stack & AWS Cloud | Ruby, Go, Java & React",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Technical-Leader---Full-Stack---AWS-Cloud---Ruby--Go--Java---React_2022015"
+ },
+ "workday:cisco:/job/Bangalore-India/Software-Test-Automation-Engineer_2022074-1": {
+  "company": "cisco",
+  "first_seen": "2026-09-13T15:26:25+00:00",
+  "job_id": "/job/Bangalore-India/Software-Test-Automation-Engineer_2022074-1",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Test Automation Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Test-Automation-Engineer_2022074-1"
  },
  "workday:cisco:/job/Bangalore-India/Solution-Test-Engineer---Python-Java---Selenium-Playwright-Cypress---Rest-API-PyTest---Networking---AWS---7-to-10-years---Bangalore_2021622": {
   "company": "cisco",
@@ -266509,6 +266569,26 @@
   "title": "Manager, Large Enterprise Commercial",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/London-County-London-England-United-Kingdom/Manager--Large-Enterprise-Commercial_R0137344-1"
  },
+ "workday:paypal:/job/London-County-London-England-United-Kingdom/Manager--Large-Enterprise-Commercial_R0137426-1": {
+  "company": "paypal",
+  "first_seen": "2026-09-13T15:27:39+00:00",
+  "job_id": "/job/London-County-London-England-United-Kingdom/Manager--Large-Enterprise-Commercial_R0137426-1",
+  "location": "London, County London, England, United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Large Enterprise Commercial",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/London-County-London-England-United-Kingdom/Manager--Large-Enterprise-Commercial_R0137426-1"
+ },
+ "workday:paypal:/job/London-County-London-England-United-Kingdom/Manager--Large-Enterprise-Commercial_R0137427-1": {
+  "company": "paypal",
+  "first_seen": "2026-09-13T15:27:39+00:00",
+  "job_id": "/job/London-County-London-England-United-Kingdom/Manager--Large-Enterprise-Commercial_R0137427-1",
+  "location": "London, County London, England, United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Large Enterprise Commercial",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/London-County-London-England-United-Kingdom/Manager--Large-Enterprise-Commercial_R0137427-1"
+ },
  "workday:paypal:/job/London-County-London-England-United-Kingdom/Manager--Risk-Management_R0135050-1": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -266568,6 +266648,26 @@
   "source": "workday",
   "title": "Sr Account Representative, Large Enterprise Commercial",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/London-County-London-England-United-Kingdom/Sr-Account-Representative--Large-Enterprise-Commercial_R0137394-1"
+ },
+ "workday:paypal:/job/London-County-London-England-United-Kingdom/Sr-Account-Representative--Large-Enterprise-Commercial_R0137476-1": {
+  "company": "paypal",
+  "first_seen": "2026-09-13T15:27:39+00:00",
+  "job_id": "/job/London-County-London-England-United-Kingdom/Sr-Account-Representative--Large-Enterprise-Commercial_R0137476-1",
+  "location": "London, County London, England, United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Account Representative, Large Enterprise Commercial",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/London-County-London-England-United-Kingdom/Sr-Account-Representative--Large-Enterprise-Commercial_R0137476-1"
+ },
+ "workday:paypal:/job/London-County-London-England-United-Kingdom/Sr-Account-Representative--Large-Enterprise-Commercial_R0137477-1": {
+  "company": "paypal",
+  "first_seen": "2026-09-13T15:27:39+00:00",
+  "job_id": "/job/London-County-London-England-United-Kingdom/Sr-Account-Representative--Large-Enterprise-Commercial_R0137477-1",
+  "location": "London, County London, England, United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Account Representative, Large Enterprise Commercial",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/London-County-London-England-United-Kingdom/Sr-Account-Representative--Large-Enterprise-Commercial_R0137477-1"
  },
  "workday:paypal:/job/London-County-London-England-United-Kingdom/Sr-Data-Scientist_R0136824-1": {
   "company": "paypal",
