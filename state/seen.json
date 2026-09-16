@@ -4589,6 +4589,16 @@
   "title": "Contract Manager",
   "url": "https://jobs.ashbyhq.com/cohere/f57ae62a-791b-43d9-b59f-91f338ca61f4"
  },
+ "ashby:cohere:f6100cdd-94fc-4f4b-bac5-7efa5069cdd5": {
+  "company": "cohere",
+  "first_seen": "2026-09-16T02:52:38+00:00",
+  "job_id": "f6100cdd-94fc-4f4b-bac5-7efa5069cdd5",
+  "location": "United States",
+  "posted_at": "2026-09-15T22:50:52.521+00:00",
+  "source": "ashby",
+  "title": "Revenue Enablement Program Manager",
+  "url": "https://jobs.ashbyhq.com/cohere/f6100cdd-94fc-4f4b-bac5-7efa5069cdd5"
+ },
  "ashby:cohere:f722247c-291b-44ee-af67-5159b8d5d9b9": {
   "company": "cohere",
   "first_seen": "2026-08-09T16:05:59+00:00",
@@ -17479,6 +17489,16 @@
   "title": "Software Engineer, GTM Growth Engineering",
   "url": "https://jobs.ashbyhq.com/openai/1bb1f351-41a2-43a5-bac1-259859886cb3"
  },
+ "ashby:openai:1bec1791-b073-4f2a-9de6-34e36238c216": {
+  "company": "openai",
+  "first_seen": "2026-09-16T02:48:34+00:00",
+  "job_id": "1bec1791-b073-4f2a-9de6-34e36238c216",
+  "location": "San Francisco",
+  "posted_at": "2026-09-16T00:52:14.001+00:00",
+  "source": "ashby",
+  "title": "Staff PLM & Engineering Applications Engineer, Consumer Devices",
+  "url": "https://jobs.ashbyhq.com/openai/1bec1791-b073-4f2a-9de6-34e36238c216"
+ },
  "ashby:openai:1bec5fd1-9cf2-4678-a82d-2d06385718b2": {
   "company": "openai",
   "first_seen": "2026-08-09T16:02:24+00:00",
@@ -18939,6 +18959,16 @@
   "title": "Data Scientist, Real Estate & Workplace ",
   "url": "https://jobs.ashbyhq.com/openai/3ac187b2-dd75-4acd-b285-51ae6e603dbd"
  },
+ "ashby:openai:3b08148d-085e-4835-9934-1b7f60e0fdce": {
+  "company": "openai",
+  "first_seen": "2026-09-16T02:48:34+00:00",
+  "job_id": "3b08148d-085e-4835-9934-1b7f60e0fdce",
+  "location": "San Francisco",
+  "posted_at": "2026-09-16T00:30:26.055+00:00",
+  "source": "ashby",
+  "title": "Software Engineer, Manufacturing Infrastructure",
+  "url": "https://jobs.ashbyhq.com/openai/3b08148d-085e-4835-9934-1b7f60e0fdce"
+ },
  "ashby:openai:3b634f98-b639-4cfa-a151-43e13d99ce45": {
   "company": "openai",
   "first_seen": "2026-08-10T20:35:42+00:00",
@@ -20218,6 +20248,16 @@
   "source": "ashby",
   "title": "Software Engineer, Ads Manager",
   "url": "https://jobs.ashbyhq.com/openai/5a4eed17-29d5-41cb-856e-09bfdaffe017"
+ },
+ "ashby:openai:5a647e2b-5d6c-4c71-aeea-b16e3fda4b3f": {
+  "company": "openai",
+  "first_seen": "2026-09-16T02:48:34+00:00",
+  "job_id": "5a647e2b-5d6c-4c71-aeea-b16e3fda4b3f",
+  "location": "US - Remote",
+  "posted_at": "2026-09-15T23:04:01.451+00:00",
+  "source": "ashby",
+  "title": "Data Center Shell Planning Lead, Industrial Compute",
+  "url": "https://jobs.ashbyhq.com/openai/5a647e2b-5d6c-4c71-aeea-b16e3fda4b3f"
  },
  "ashby:openai:5a682b9f-ef1a-4e47-813a-72b23414d43e": {
   "company": "openai",
@@ -22918,6 +22958,16 @@
   "source": "ashby",
   "title": "Software Engineer, Infrastructure ",
   "url": "https://jobs.ashbyhq.com/openai/984da843-107f-4ff6-ad27-07a06700e338"
+ },
+ "ashby:openai:987c4eb8-819e-4258-a91c-f34ecfbcd5f1": {
+  "company": "openai",
+  "first_seen": "2026-09-16T02:48:34+00:00",
+  "job_id": "987c4eb8-819e-4258-a91c-f34ecfbcd5f1",
+  "location": "US - Remote",
+  "posted_at": "2026-09-15T23:12:57.180+00:00",
+  "source": "ashby",
+  "title": "Development Lead",
+  "url": "https://jobs.ashbyhq.com/openai/987c4eb8-819e-4258-a91c-f34ecfbcd5f1"
  },
  "ashby:openai:988016e1-de50-42be-925a-438b97291c5d": {
   "company": "openai",
@@ -40728,6 +40778,16 @@
   "source": "greenhouse",
   "title": "Software Engineer II - Insider Risk",
   "url": "https://abnormal.ai/careers/jobs/7992780003?gh_jid=7992780003"
+ },
+ "greenhouse:abnormalsecurity:7995027003": {
+  "company": "abnormalsecurity",
+  "first_seen": "2026-09-16T02:48:34+00:00",
+  "job_id": "7995027003",
+  "location": "Remote - UK",
+  "posted_at": "2026-09-15T20:28:42-04:00",
+  "source": "greenhouse",
+  "title": "Software Engineer - Backend - Behavioral Security Products",
+  "url": "https://abnormal.ai/careers/jobs/7995027003?gh_jid=7995027003"
  },
  "greenhouse:affirm:6922636003": {
   "company": "affirm",
@@ -60079,6 +60139,16 @@
   "title": "[\ucfe0\ud321\ud480\ud544\uba3c\ud2b8\uc11c\ube44\uc2a4] \ubb3c\ub958\uc13c\ud130 \uc790\ub3d9\ud654 \uc124\ube44 \ubcf4\uc804 \uad00\ub9ac\uc790 (\ubd80\ucc9c1\uc13c\ud130)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8044865"
  },
+ "greenhouse:coupang:8044876": {
+  "company": "coupang",
+  "first_seen": "2026-09-16T02:48:33+00:00",
+  "job_id": "8044876",
+  "location": "Taipei, Taiwan",
+  "posted_at": "2026-09-15T22:26:35-04:00",
+  "source": "greenhouse",
+  "title": "Senior Supply Chain Management Specialist",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8044876"
+ },
  "greenhouse:coupang:8044885": {
   "company": "coupang",
   "first_seen": "2026-08-09T16:02:22+00:00",
@@ -66638,6 +66708,16 @@
   "source": "greenhouse",
   "title": "Staff Machine Learning Engineer - Search Ranking",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8204842"
+ },
+ "greenhouse:coupang:8205756": {
+  "company": "coupang",
+  "first_seen": "2026-09-16T02:48:33+00:00",
+  "job_id": "8205756",
+  "location": "Bengaluru",
+  "posted_at": "2026-09-15T22:32:37-04:00",
+  "source": "greenhouse",
+  "title": "Senior Technical Program Manager",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8205756"
  },
  "greenhouse:databricks:4513122002": {
   "company": "databricks",
@@ -73859,6 +73939,16 @@
   "title": "Sr. Manager, Payroll",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604583002"
  },
+ "greenhouse:databricks:8604585002": {
+  "company": "databricks",
+  "first_seen": "2026-09-16T02:48:30+00:00",
+  "job_id": "8604585002",
+  "location": "Central - United States; West Coast - United States",
+  "posted_at": "2026-09-15T21:44:50-04:00",
+  "source": "greenhouse",
+  "title": "Director, Order to Revenue Compliance",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8604585002"
+ },
  "greenhouse:databricks:8604587002": {
   "company": "databricks",
   "first_seen": "2026-08-09T16:02:18+00:00",
@@ -77149,6 +77239,16 @@
   "title": "Manager, Field Engineering - Eastern Europe",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8755666002"
  },
+ "greenhouse:databricks:8756136002": {
+  "company": "databricks",
+  "first_seen": "2026-09-16T02:48:30+00:00",
+  "job_id": "8756136002",
+  "location": "Central - United States; West Coast - United States",
+  "posted_at": "2026-09-15T21:49:38-04:00",
+  "source": "greenhouse",
+  "title": "Sr. Manager, Order to Revenue IT Compliance",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8756136002"
+ },
  "greenhouse:databricks:8756138002": {
   "company": "databricks",
   "first_seen": "2026-08-31T18:36:01+00:00",
@@ -77178,6 +77278,16 @@
   "source": "greenhouse",
   "title": "Senior Revenue Accountant",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8756144002"
+ },
+ "greenhouse:databricks:8756150002": {
+  "company": "databricks",
+  "first_seen": "2026-09-16T02:48:30+00:00",
+  "job_id": "8756150002",
+  "location": "Central - United States; West Coast - United States",
+  "posted_at": "2026-09-15T21:54:01-04:00",
+  "source": "greenhouse",
+  "title": "Sr. Manager, Order to Revenue Process Compliance",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8756150002"
  },
  "greenhouse:databricks:8756203002": {
   "company": "databricks",
@@ -83829,6 +83939,16 @@
   "title": "Applied Science Intern",
   "url": "https://careers.datadoghq.com/detail/8181440/?gh_jid=8181440"
  },
+ "greenhouse:datadog:8184643": {
+  "company": "datadog",
+  "first_seen": "2026-09-16T02:52:22+00:00",
+  "job_id": "8184643",
+  "location": "Bangalore, India",
+  "posted_at": "2026-09-15T22:44:54-04:00",
+  "source": "greenhouse",
+  "title": "Strategic Account Executive",
+  "url": "https://careers.datadoghq.com/detail/8184643/?gh_jid=8184643"
+ },
  "greenhouse:datadog:8184867": {
   "company": "datadog",
   "first_seen": "2026-09-09T02:36:17+00:00",
@@ -85058,6 +85178,16 @@
   "source": "greenhouse",
   "title": "Senior Product Design Manager, Growth",
   "url": "https://job-boards.greenhouse.io/discord/jobs/8780263002"
+ },
+ "greenhouse:discord:8801465002": {
+  "company": "discord",
+  "first_seen": "2026-09-16T02:52:22+00:00",
+  "job_id": "8801465002",
+  "location": "San Francisco Bay Area ",
+  "posted_at": "2026-09-15T19:54:01-04:00",
+  "source": "greenhouse",
+  "title": "Marketing Program Manager",
+  "url": "https://job-boards.greenhouse.io/discord/jobs/8801465002"
  },
  "greenhouse:discord:8806163002": {
   "company": "discord",
@@ -91518,6 +91648,26 @@
   "source": "greenhouse",
   "title": "Senior Software Engineer - Prism - Security",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8204978&gh_jid=8204978"
+ },
+ "greenhouse:elastic:8206715": {
+  "company": "elastic",
+  "first_seen": "2026-09-16T02:52:24+00:00",
+  "job_id": "8206715",
+  "location": "Maryland, United States",
+  "posted_at": "2026-09-15T21:09:40-04:00",
+  "source": "greenhouse",
+  "title": "Senior Solutions Architect - Federal Civilian",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8206715&gh_jid=8206715"
+ },
+ "greenhouse:elastic:8206716": {
+  "company": "elastic",
+  "first_seen": "2026-09-16T02:52:24+00:00",
+  "job_id": "8206716",
+  "location": "Washington, DC, United States",
+  "posted_at": "2026-09-15T21:10:12-04:00",
+  "source": "greenhouse",
+  "title": "Senior Solutions Architect - Federal Civilian",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8206716&gh_jid=8206716"
  },
  "greenhouse:fastly:6873321": {
   "company": "fastly",
@@ -105239,6 +105389,16 @@
   "title": "Technical Accounting & Financial Reporting Manager | United States | Remote",
   "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6192062004"
  },
+ "greenhouse:grafanalabs:6193645004": {
+  "company": "grafanalabs",
+  "first_seen": "2026-09-16T02:52:54+00:00",
+  "job_id": "6193645004",
+  "location": "United States (Remote)",
+  "posted_at": "2026-09-15T19:59:23-04:00",
+  "source": "greenhouse",
+  "title": "Senior Commercial Counsel | United States | Remote",
+  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/6193645004"
+ },
  "greenhouse:groww:4528370101": {
   "company": "groww",
   "first_seen": "2026-09-09T15:45:47+00:00",
@@ -113338,6 +113498,26 @@
   "source": "greenhouse",
   "title": "Marketing Systems Engineer",
   "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8201470"
+ },
+ "greenhouse:mixpanel:8205685": {
+  "company": "mixpanel",
+  "first_seen": "2026-09-16T02:52:55+00:00",
+  "job_id": "8205685",
+  "location": "New York City, US (hyrbid)",
+  "posted_at": "2026-09-15T18:47:33-04:00",
+  "source": "greenhouse",
+  "title": "Senior Strategic Finance Associate - G&A",
+  "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8205685"
+ },
+ "greenhouse:mixpanel:8205689": {
+  "company": "mixpanel",
+  "first_seen": "2026-09-16T02:52:55+00:00",
+  "job_id": "8205689",
+  "location": "San Francisco, US (Hybrid) ",
+  "posted_at": "2026-09-15T18:48:03-04:00",
+  "source": "greenhouse",
+  "title": "Senior Strategic Finance Associate - G&A",
+  "url": "https://job-boards.greenhouse.io/mixpanel/jobs/8205689"
  },
  "greenhouse:mongodb:5050863": {
   "company": "mongodb",
@@ -126969,6 +127149,16 @@
   "title": "Senior Revenue Accountant ",
   "url": "https://www.okta.com/company/careers/opportunity/8195445?gh_jid=8195445"
  },
+ "greenhouse:okta:8196040": {
+  "company": "okta",
+  "first_seen": "2026-09-16T02:52:56+00:00",
+  "job_id": "8196040",
+  "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California",
+  "posted_at": "2026-09-15T19:54:13-04:00",
+  "source": "greenhouse",
+  "title": "Field GTM Lead, Sales Acceleration, Okta Secures AI",
+  "url": "https://www.okta.com/company/careers/opportunity/8196040?gh_jid=8196040"
+ },
  "greenhouse:okta:8197636": {
   "company": "okta",
   "first_seen": "2026-09-15T22:42:59+00:00",
@@ -131709,6 +131899,16 @@
   "title": "Sr. Client Account Manager - SEA",
   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8203802"
  },
+ "greenhouse:pinterest:8206769": {
+  "company": "pinterest",
+  "first_seen": "2026-09-16T02:52:29+00:00",
+  "job_id": "8206769",
+  "location": "US Remote",
+  "posted_at": "2026-09-15T21:46:01-04:00",
+  "source": "greenhouse",
+  "title": "Sr. Client Partner, Pinterest Spark",
+  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8206769"
+ },
  "greenhouse:planetscale:4009746009": {
   "company": "planetscale",
   "first_seen": "2026-08-09T16:06:43+00:00",
@@ -136289,6 +136489,16 @@
   "title": "Director, Revenue Strategy & Operations (Large Customer Sales)",
   "url": "https://job-boards.greenhouse.io/reddit/jobs/8195634"
  },
+ "greenhouse:reddit:8196302": {
+  "company": "reddit",
+  "first_seen": "2026-09-16T02:52:29+00:00",
+  "job_id": "8196302",
+  "location": "New York City, NY",
+  "posted_at": "2026-09-15T18:59:20-04:00",
+  "source": "greenhouse",
+  "title": "Lead Client Partner, Global Strategic Accounts (Tech)",
+  "url": "https://job-boards.greenhouse.io/reddit/jobs/8196302"
+ },
  "greenhouse:reddit:8196990": {
   "company": "reddit",
   "first_seen": "2026-09-14T22:58:58+00:00",
@@ -136358,6 +136568,16 @@
   "source": "greenhouse",
   "title": "Staff Software Engineer - Ingestion Platform ",
   "url": "https://job-boards.greenhouse.io/reddit/jobs/8205402"
+ },
+ "greenhouse:reddit:8205702": {
+  "company": "reddit",
+  "first_seen": "2026-09-16T02:52:29+00:00",
+  "job_id": "8205702",
+  "location": "Remote - United States",
+  "posted_at": "2026-09-15T19:41:34-04:00",
+  "source": "greenhouse",
+  "title": "Staff Software Engineer, Consumer Engineering",
+  "url": "https://job-boards.greenhouse.io/reddit/jobs/8205702"
  },
  "greenhouse:rubrik:2146030": {
   "company": "rubrik",
@@ -158219,6 +158439,16 @@
   "title": "Staff Technical Program Manager",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5225787007"
  },
+ "greenhouse:zscaler:5225789007": {
+  "company": "zscaler",
+  "first_seen": "2026-09-16T02:53:01+00:00",
+  "job_id": "5225789007",
+  "location": "Remote - USA; San Jose, California, USA",
+  "posted_at": "2026-09-15T19:16:54-04:00",
+  "source": "greenhouse",
+  "title": "Sr. Staff Technical Program Manager",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5225789007"
+ },
  "greenhouse:zscaler:5225793007": {
   "company": "zscaler",
   "first_seen": "2026-09-02T15:52:27+00:00",
@@ -170599,6 +170829,16 @@
   "title": "Project Analyst I",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013300"
  },
+ "oraclecloud:amex:26013301": {
+  "company": "amex",
+  "first_seen": "2026-09-16T02:52:51+00:00",
+  "job_id": "26013301",
+  "location": "Minato-Ku, Tokyo, Japan",
+  "posted_at": "2026-09-16",
+  "source": "oraclecloud",
+  "title": "Manager-Risk Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013301"
+ },
  "oraclecloud:amex:26013304": {
   "company": "amex",
   "first_seen": "2026-09-08T08:34:37+00:00",
@@ -172068,6 +172308,16 @@
   "source": "oraclecloud",
   "title": "Marketing, Brand and Social Lead",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013706"
+ },
+ "oraclecloud:amex:26013711": {
+  "company": "amex",
+  "first_seen": "2026-09-16T02:52:51+00:00",
+  "job_id": "26013711",
+  "location": "Sydney, NSW, Australia",
+  "posted_at": "2026-09-16",
+  "source": "oraclecloud",
+  "title": "Product Manager, Payments (12 Month Secondment / Fixed Term Contract)",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013711"
  },
  "oraclecloud:amex:26013720": {
   "company": "amex",
@@ -185909,6 +186159,16 @@
   "title": "Software Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer_2024560-1"
  },
+ "workday:cisco:/job/Bangalore-India/Software-Engineer_2025549-1": {
+  "company": "cisco",
+  "first_seen": "2026-09-16T02:47:53+00:00",
+  "job_id": "/job/Bangalore-India/Software-Engineer_2025549-1",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer_2025549-1"
+ },
  "workday:cisco:/job/Bangalore-India/Software-Engineering-Platform-Technical-Leader_2022086": {
   "company": "cisco",
   "first_seen": "2026-08-21T20:18:15+00:00",
@@ -196059,6 +196319,16 @@
   "title": "Assistant Vice President, Junior Corporate Access Specialist, Markets",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Assistant-Vice-President--Junior-Corporate-Access-Specialist--Markets_26983032"
  },
+ "workday:citi:/job/Chiyoda-ku-Tokyo-Japan/Assistant-Vice-President--Research-Analyst_26971835": {
+  "company": "citi",
+  "first_seen": "2026-09-16T02:51:10+00:00",
+  "job_id": "/job/Chiyoda-ku-Tokyo-Japan/Assistant-Vice-President--Research-Analyst_26971835",
+  "location": "Chiyoda-ku Tokyo Japan",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Assistant Vice President, Research Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Assistant-Vice-President--Research-Analyst_26971835"
+ },
  "workday:citi:/job/Chiyoda-ku-Tokyo-Japan/Associate--Corporate-Banker--Financial-Institutions--Corporate-Banking_26982680": {
   "company": "citi",
   "first_seen": "2026-08-09T16:04:42+00:00",
@@ -201348,6 +201618,16 @@
   "source": "workday",
   "title": "Senior Database Tech Lead - Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Senior-Database-Tech-Lead---Vice-President_26981075"
+ },
+ "workday:citi:/job/DLF-CYBERCITY-12B/Senior-DevOps-Engineer---Assistant-Vice-President_26994114": {
+  "company": "citi",
+  "first_seen": "2026-09-16T02:51:10+00:00",
+  "job_id": "/job/DLF-CYBERCITY-12B/Senior-DevOps-Engineer---Assistant-Vice-President_26994114",
+  "location": "DLF CYBERCITY 12B",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior DevOps Engineer - Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Senior-DevOps-Engineer---Assistant-Vice-President_26994114"
  },
  "workday:citi:/job/DLF-CYBERCITY-12B/Senior-GUI-Developer_26976496": {
   "company": "citi",
@@ -216619,6 +216899,16 @@
   "title": "Apps Dev Tech Lead Analyst",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Apps-Dev-Tech-Lead-Analyst_26985390"
  },
+ "workday:citi:/job/Mississauga-Ontario-Canada/Apps-Dev-Tech-Lead-Analyst_26994061-1": {
+  "company": "citi",
+  "first_seen": "2026-09-16T02:51:10+00:00",
+  "job_id": "/job/Mississauga-Ontario-Canada/Apps-Dev-Tech-Lead-Analyst_26994061-1",
+  "location": "Mississauga Ontario Canada",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Apps Dev Tech Lead Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Apps-Dev-Tech-Lead-Analyst_26994061-1"
+ },
  "workday:citi:/job/Mississauga-Ontario-Canada/Apps-Support-Group-Manager---Pega---AI_26978636": {
   "company": "citi",
   "first_seen": "2026-08-18T16:26:23+00:00",
@@ -219628,6 +219918,16 @@
   "source": "workday",
   "title": "Credit Product Strategy - Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Credit-Product-Strategy---Vice-President_26992418"
+ },
+ "workday:citi:/job/Mumbai-Maharashtra-India/Credit-Review-Senior-Analyst--AVP--Hybrid-_26994193": {
+  "company": "citi",
+  "first_seen": "2026-09-16T02:51:10+00:00",
+  "job_id": "/job/Mumbai-Maharashtra-India/Credit-Review-Senior-Analyst--AVP--Hybrid-_26994193",
+  "location": "Mumbai Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Credit Review Senior Analyst, AVP (Hybrid)",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Credit-Review-Senior-Analyst--AVP--Hybrid-_26994193"
  },
  "workday:citi:/job/Mumbai-Maharashtra-India/Credit-Review-Senior-Officer-I--SVP--Hybrid-_26988249": {
   "company": "citi",
@@ -228518,6 +228818,16 @@
   "source": "workday",
   "title": "Banamex - Banquero Patrimonial Sr. - PUERTO VALLARTA",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Puerto-Vallarta-Jalisco-Mexico/Banamex---Banquero-Patrimonial-Sr---PUERTO-VALLARTA_26994030"
+ },
+ "workday:citi:/job/Puerto-Vallarta-Jalisco-Mexico/Banamex-Banquero-Integral-en-Pto-Vallarta_26995323-1": {
+  "company": "citi",
+  "first_seen": "2026-09-16T02:51:10+00:00",
+  "job_id": "/job/Puerto-Vallarta-Jalisco-Mexico/Banamex-Banquero-Integral-en-Pto-Vallarta_26995323-1",
+  "location": "Puerto Vallarta Jalisco Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex Banquero Integral en Pto Vallarta",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Puerto-Vallarta-Jalisco-Mexico/Banamex-Banquero-Integral-en-Pto-Vallarta_26995323-1"
  },
  "workday:citi:/job/Puerto-Vallarta-Jalisco-Mexico/Banamex-SC-Asesor-de-Tarjetas-de-Crdito-CT-Vallarta_26985391": {
   "company": "citi",
@@ -237949,6 +238259,26 @@
   "title": "Credit Portfolio Sr Analyst - Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Credit-Portfolio-Sr-Analyst---Assistant-Vice-President_26977566"
  },
+ "workday:citi:/job/Singapore--Singapore/Digital-Software-Engineer-Senior-Analyst--Assistant-Vice-President_26991304-1": {
+  "company": "citi",
+  "first_seen": "2026-09-16T02:51:10+00:00",
+  "job_id": "/job/Singapore--Singapore/Digital-Software-Engineer-Senior-Analyst--Assistant-Vice-President_26991304-1",
+  "location": "Singapore  Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Digital Software Engineer Senior Analyst, Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Digital-Software-Engineer-Senior-Analyst--Assistant-Vice-President_26991304-1"
+ },
+ "workday:citi:/job/Singapore--Singapore/Digital-Software-Engineer-Senior-Analyst--Assistant-Vice-President_26991312-1": {
+  "company": "citi",
+  "first_seen": "2026-09-16T02:51:10+00:00",
+  "job_id": "/job/Singapore--Singapore/Digital-Software-Engineer-Senior-Analyst--Assistant-Vice-President_26991312-1",
+  "location": "Singapore  Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Digital Software Engineer Senior Analyst, Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Digital-Software-Engineer-Senior-Analyst--Assistant-Vice-President_26991312-1"
+ },
  "workday:citi:/job/Singapore--Singapore/Digital-Software-Engineer-Senior-Manager--Vice-President-_26989450": {
   "company": "citi",
   "first_seen": "2026-08-27T18:46:11+00:00",
@@ -241529,6 +241859,26 @@
   "title": "GSO System Administration Senior Analyst, AVP",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/GSO-System-Administration-Senior-Analyst--AVP_26984875"
  },
+ "workday:citi:/job/Tampa-Florida-United-States/Gen-AI---Python-Developer---Assistant-Vice-President_26991736": {
+  "company": "citi",
+  "first_seen": "2026-09-16T02:51:10+00:00",
+  "job_id": "/job/Tampa-Florida-United-States/Gen-AI---Python-Developer---Assistant-Vice-President_26991736",
+  "location": "Tampa Florida United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Gen AI - Python Developer - Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Gen-AI---Python-Developer---Assistant-Vice-President_26991736"
+ },
+ "workday:citi:/job/Tampa-Florida-United-States/Gen-AI---Python-Engineer---Assistant-Vice-President_26992340": {
+  "company": "citi",
+  "first_seen": "2026-09-16T02:51:10+00:00",
+  "job_id": "/job/Tampa-Florida-United-States/Gen-AI---Python-Engineer---Assistant-Vice-President_26992340",
+  "location": "Tampa Florida United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Gen AI - Python Engineer - Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Gen-AI---Python-Engineer---Assistant-Vice-President_26992340"
+ },
  "workday:citi:/job/Tampa-Florida-United-States/Gen-AI-Engineer---Python---Vice-President_26991539-1": {
   "company": "citi",
   "first_seen": "2026-09-15T22:40:54+00:00",
@@ -242208,6 +242558,16 @@
   "source": "workday",
   "title": "Senior Technical Lead, Full-Stack Engineering \u2013 Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Senior-Technical-Lead--Full-Stack-Engineering---Vice-President_26978083"
+ },
+ "workday:citi:/job/Tampa-Florida-United-States/Sr-AI-Python-Engineer_26994454": {
+  "company": "citi",
+  "first_seen": "2026-09-16T02:51:10+00:00",
+  "job_id": "/job/Tampa-Florida-United-States/Sr-AI-Python-Engineer_26994454",
+  "location": "Tampa Florida United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. AI/Python Engineer",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Sr-AI-Python-Engineer_26994454"
  },
  "workday:citi:/job/Tampa-Florida-United-States/Technical-Recovery-and-Crisis-Management-Manager_26983289-1": {
   "company": "citi",
@@ -246133,6 +246493,16 @@
   "company": "citi",
   "first_seen": "2026-09-08T08:32:54+00:00",
   "job_id": "26989964",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2"
+ },
+ "workday:citi:26990023": {
+  "company": "citi",
+  "first_seen": "2026-09-16T02:51:10+00:00",
+  "job_id": "26990023",
   "location": "",
   "posted_at": null,
   "source": "workday",
@@ -273419,6 +273789,16 @@
   "title": "",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite"
  },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Director--PBP-M-A_R0137780": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Director--PBP-M-A_R0137780",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, PBP M&A",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Director--PBP-M-A_R0137780"
+ },
  "workday:paypal:/job/Austin-Texas-United-States-of-America/Director--Product-Management_R0134820-1": {
   "company": "paypal",
   "first_seen": "2026-09-04T15:36:20+00:00",
@@ -273429,6 +273809,36 @@
   "title": "Director, Product Management",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Director--Product-Management_R0134820-1"
  },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Director--Product-Management_R0138046": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Director--Product-Management_R0138046",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Product Management",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Director--Product-Management_R0138046"
+ },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Insurance-Risk-Manager_R0137795": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Insurance-Risk-Manager_R0137795",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Insurance Risk Manager",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Insurance-Risk-Manager_R0137795"
+ },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Insurance-Risk-Sr-Analyst_R0137944": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Insurance-Risk-Sr-Analyst_R0137944",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Insurance Risk Sr Analyst",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Insurance-Risk-Sr-Analyst_R0137944"
+ },
  "workday:paypal:/job/Austin-Texas-United-States-of-America/Manager--Global-Mobility---Immigration-Ops_R0136403-1": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -273438,6 +273848,16 @@
   "source": "workday",
   "title": "Manager, Global Mobility Tax",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Manager--Global-Mobility---Immigration-Ops_R0136403-1"
+ },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Manager--Global-Mobility_R0137964": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Manager--Global-Mobility_R0137964",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Global Mobility",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Manager--Global-Mobility_R0137964"
  },
  "workday:paypal:/job/Austin-Texas-United-States-of-America/Principal-Experience-Designer--Customer-Resolution_R0136945-1": {
   "company": "paypal",
@@ -273459,6 +273879,16 @@
   "title": "Senior Software Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Senior-Software-Engineer_R0137728"
  },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Senior-Staff-Experience-Researcher_R0138010": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Senior-Staff-Experience-Researcher_R0138010",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Staff Experience Researcher",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Senior-Staff-Experience-Researcher_R0138010"
+ },
  "workday:paypal:/job/Austin-Texas-United-States-of-America/Software-Engineer_R0137216": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -273479,6 +273909,16 @@
   "title": "Software Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Software-Engineer_R0137244"
  },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Software-Engineer_R0137975": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Software-Engineer_R0137975",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Software-Engineer_R0137975"
+ },
  "workday:paypal:/job/Austin-Texas-United-States-of-America/Software-Engineer_R0138151": {
   "company": "paypal",
   "first_seen": "2026-09-15T22:39:16+00:00",
@@ -273488,6 +273928,16 @@
   "source": "workday",
   "title": "Software Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Software-Engineer_R0138151"
+ },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Sr-Cyber-Security-Engineer_R0137891": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Sr-Cyber-Security-Engineer_R0137891",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Cyber Security Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Cyber-Security-Engineer_R0137891"
  },
  "workday:paypal:/job/Austin-Texas-United-States-of-America/Sr-Cybersecurity-Engineer_R0137313-1": {
   "company": "paypal",
@@ -273499,6 +273949,16 @@
   "title": "Sr. Cybersecurity Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Cybersecurity-Engineer_R0137313-1"
  },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Sr-Cybersecurity-Engineer_R0137865": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Sr-Cybersecurity-Engineer_R0137865",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Cybersecurity Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Cybersecurity-Engineer_R0137865"
+ },
  "workday:paypal:/job/Austin-Texas-United-States-of-America/Sr-Data-Scientist_R0135928-1": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -273509,6 +273969,46 @@
   "title": "Sr Data Scientist, Fraud Risk Oversight",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Data-Scientist_R0135928-1"
  },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Sr-Legal-Counsel---Vendor-People---Places_R0138002": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Sr-Legal-Counsel---Vendor-People---Places_R0138002",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Legal Counsel - Vendor People & Places",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Legal-Counsel---Vendor-People---Places_R0138002"
+ },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Sr-Manager--AI-Governance_R0137867": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Sr-Manager--AI-Governance_R0137867",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Manager, AI Governance",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Manager--AI-Governance_R0137867"
+ },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Sr-Manager--Audit_R0137951": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Sr-Manager--Audit_R0137951",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, Audit",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Manager--Audit_R0137951"
+ },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Sr-Manager--Benefits-Strategy_R0137779": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Sr-Manager--Benefits-Strategy_R0137779",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Manager, Benefits Strategy",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Manager--Benefits-Strategy_R0137779"
+ },
  "workday:paypal:/job/Austin-Texas-United-States-of-America/Sr-Manager--Cybersecurity-Threat-Analysis_R0137353-1": {
   "company": "paypal",
   "first_seen": "2026-09-08T19:12:51+00:00",
@@ -273518,6 +274018,16 @@
   "source": "workday",
   "title": "Sr. Manager, Cybersecurity Threat Analysis",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Manager--Cybersecurity-Threat-Analysis_R0137353-1"
+ },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Sr-Manager-Content-Design--Platforms---Tools---E2E-Servicing_R0137971": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Sr-Manager-Content-Design--Platforms---Tools---E2E-Servicing_R0137971",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager Content Design, Platforms & Tools - E2E Servicing",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Manager-Content-Design--Platforms---Tools---E2E-Servicing_R0137971"
  },
  "workday:paypal:/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer---Cloud-Infrastructure-and-Devops_R0136772-1": {
   "company": "paypal",
@@ -273619,6 +274129,26 @@
   "title": "Sr Software Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137733"
  },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137973": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137973",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137973"
+ },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137976": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137976",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137976"
+ },
  "workday:paypal:/job/Austin-Texas-United-States-of-America/Sr-Staff-Content-Designer--Platforms---Tools---E2E-Servicing_R0136521": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -273648,6 +274178,16 @@
   "source": "workday",
   "title": "Staff Experience Designer, Servicing",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Staff-Experience-Designer--Servicing_R0136954-1"
+ },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Staff-Experience-Researcher_R0137822": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Staff-Experience-Researcher_R0137822",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Experience Researcher",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Staff-Experience-Researcher_R0137822"
  },
  "workday:paypal:/job/Austin-Texas-United-States-of-America/Staff-Product-Security-AI-Engineer_R0137563": {
   "company": "paypal",
@@ -273699,6 +274239,56 @@
   "title": "Staff Software Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer_R0137727"
  },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer_R0137920": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer_R0137920",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer_R0137920"
+ },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer_R0137922": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer_R0137922",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer_R0137922"
+ },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer_R0137923": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer_R0137923",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer_R0137923"
+ },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer_R0137939": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer_R0137939",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Staff-Software-Engineer_R0137939"
+ },
+ "workday:paypal:/job/Austin-Texas-United-States-of-America/Staff-Softwrae-Engineer_R0137921": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Austin-Texas-United-States-of-America/Staff-Softwrae-Engineer_R0137921",
+  "location": "Austin, Texas, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Softwrae Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Staff-Softwrae-Engineer_R0137921"
+ },
  "workday:paypal:/job/Bangalore-Karnataka-India/Accountant-Accounts-Payable_R0137499": {
   "company": "paypal",
   "first_seen": "2026-09-07T17:02:23+00:00",
@@ -273718,6 +274308,16 @@
   "source": "workday",
   "title": "Accountant",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Accountant_R0137350"
+ },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Analyst--Global-Travel_R0137993": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Analyst--Global-Travel_R0137993",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Analyst, Global Travel",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Analyst--Global-Travel_R0137993"
  },
  "workday:paypal:/job/Bangalore-Karnataka-India/Analyst--Procure-to-Pay_R0137342": {
   "company": "paypal",
@@ -273749,6 +274349,66 @@
   "title": "Analyst, Tax",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Analyst--Tax_R0137044"
  },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Analyst--Tax_R0137990": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Analyst--Tax_R0137990",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Analyst, Tax",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Analyst--Tax_R0137990"
+ },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Analyst--Tax_R0137991": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Analyst--Tax_R0137991",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Analyst, Tax",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Analyst--Tax_R0137991"
+ },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Cybersecurity-Engineer_R0137864": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Cybersecurity-Engineer_R0137864",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Cybersecurity Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Cybersecurity-Engineer_R0137864"
+ },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Manager--Customer-Care_R0137849": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Manager--Customer-Care_R0137849",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Customer Care",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Manager--Customer-Care_R0137849"
+ },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Manager--FP-A_R0137794": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Manager--FP-A_R0137794",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, FP&A",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Manager--FP-A_R0137794"
+ },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Marketing-Ops--PMO_R0137809": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Marketing-Ops--PMO_R0137809",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Marketing Ops, PMO",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Marketing-Ops--PMO_R0137809"
+ },
  "workday:paypal:/job/Bangalore-Karnataka-India/Payroll-Accountant_R0135908": {
   "company": "paypal",
   "first_seen": "2026-09-07T17:02:23+00:00",
@@ -273779,6 +274439,26 @@
   "title": "Product Manager",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Product-Manager_R0137467"
  },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Product-Manager_R0137766": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Product-Manager_R0137766",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Product Manager",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Product-Manager_R0137766"
+ },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Regulatory-Reporting-Manager_R0137997": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Regulatory-Reporting-Manager_R0137997",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Regulatory Reporting Manager",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Regulatory-Reporting-Manager_R0137997"
+ },
  "workday:paypal:/job/Bangalore-Karnataka-India/Senior-Product-Manager_R0137397": {
   "company": "paypal",
   "first_seen": "2026-09-03T02:29:30+00:00",
@@ -273798,6 +274478,26 @@
   "source": "workday",
   "title": "Senior Software Engineer-FullStack",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Senior-Software-Engineer-FullStack_R0137267"
+ },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Software-Engineer_R0137887": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Software-Engineer_R0137887",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer_R0137887"
+ },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Software-Engineer_R0137893": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Software-Engineer_R0137893",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Software-Engineer_R0137893"
  },
  "workday:paypal:/job/Bangalore-Karnataka-India/Sr-Accountant---Intercompany---Daily-Close_R0137456": {
   "company": "paypal",
@@ -273869,6 +274569,46 @@
   "title": "Sr Accountant",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Accountant_R0137475"
  },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Sr-Accountant_R0137981": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Sr-Accountant_R0137981",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Accountant",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Accountant_R0137981"
+ },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Sr-Accountant_R0137983": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Sr-Accountant_R0137983",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Accountant",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Accountant_R0137983"
+ },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Sr-Analyst--RGR-COE_R0137998": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Sr-Analyst--RGR-COE_R0137998",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Analyst, RGR COE",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Analyst--RGR-COE_R0137998"
+ },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Sr-Analyst--RGR_R0137999": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Sr-Analyst--RGR_R0137999",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Analyst, RGR",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Analyst--RGR_R0137999"
+ },
  "workday:paypal:/job/Bangalore-Karnataka-India/Sr-Analyst--Tax_R0136984-1": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -273879,6 +274619,16 @@
   "title": "Sr Analyst, Tax",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Analyst--Tax_R0136984-1"
  },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Sr-Analyst--Tax_R0137992": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Sr-Analyst--Tax_R0137992",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Analyst, Tax",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Analyst--Tax_R0137992"
+ },
  "workday:paypal:/job/Bangalore-Karnataka-India/Sr-Manager--Procurement_R0137341": {
   "company": "paypal",
   "first_seen": "2026-09-03T02:29:30+00:00",
@@ -273888,6 +274638,36 @@
   "source": "workday",
   "title": "Sr Manager, Procurement",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Manager--Procurement_R0137341"
+ },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Sr-Manager--Technical-Programs_R0137860": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Sr-Manager--Technical-Programs_R0137860",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Manager, Technical Programs",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Manager--Technical-Programs_R0137860"
+ },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Sr-Software-Engineer_R0137884": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Sr-Software-Engineer_R0137884",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Software-Engineer_R0137884"
+ },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Sr-Software-engineer_R0137888": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Sr-Software-engineer_R0137888",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Software-engineer_R0137888"
  },
  "workday:paypal:/job/Bangalore-Karnataka-India/Staff-Security-Engineer--AI-Security_R0137314-1": {
   "company": "paypal",
@@ -273908,6 +274688,46 @@
   "source": "workday",
   "title": "Staff Security Engineer, API Security",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Staff-Security-Engineer--API-Security_R0137315"
+ },
+ "workday:paypal:/job/Beijing-China/Director--Business-Development-China_R0137830": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Beijing-China/Director--Business-Development-China_R0137830",
+  "location": "Beijing, China",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Business Development China",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Beijing-China/Director--Business-Development-China_R0137830"
+ },
+ "workday:paypal:/job/Beijing-China/Manager--Business-Development-China_R0137829": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Beijing-China/Manager--Business-Development-China_R0137829",
+  "location": "Beijing, China",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Business Development China",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Beijing-China/Manager--Business-Development-China_R0137829"
+ },
+ "workday:paypal:/job/Beijing-China/Program-Manager_R0137831": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Beijing-China/Program-Manager_R0137831",
+  "location": "Beijing, China",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Program Manager",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Beijing-China/Program-Manager_R0137831"
+ },
+ "workday:paypal:/job/Beijing-China/Sr-Manager--China-MLRO_R0137940": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Beijing-China/Sr-Manager--China-MLRO_R0137940",
+  "location": "Beijing, China",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, China MLRO",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Beijing-China/Sr-Manager--China-MLRO_R0137940"
  },
  "workday:paypal:/job/Berlin-Berlin-Germany/Manager--Loyalty-Partnerships--Germany-_R0137053-1": {
   "company": "paypal",
@@ -274079,6 +274899,26 @@
   "title": "CBT",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/CBT_R0137383"
  },
+ "workday:paypal:/job/Central-Singapore-Singapore/Large-Enterprise-Back-Book-rep_R0137835": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Central-Singapore-Singapore/Large-Enterprise-Back-Book-rep_R0137835",
+  "location": "Central Singapore, Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Large Enterprise Back Book rep",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Large-Enterprise-Back-Book-rep_R0137835"
+ },
+ "workday:paypal:/job/Central-Singapore-Singapore/Large-Enterprise-FB-rep_R0137836": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Central-Singapore-Singapore/Large-Enterprise-FB-rep_R0137836",
+  "location": "Central Singapore, Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Large Enterprise FB rep",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Large-Enterprise-FB-rep_R0137836"
+ },
  "workday:paypal:/job/Central-Singapore-Singapore/Manager--Global-Strategic-Accounts_R0137471": {
   "company": "paypal",
   "first_seen": "2026-09-03T02:29:30+00:00",
@@ -274088,6 +274928,26 @@
   "source": "workday",
   "title": "Manager, Global Strategic Accounts",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Manager--Global-Strategic-Accounts_R0137471"
+ },
+ "workday:paypal:/job/Central-Singapore-Singapore/Principal-Software-Engineer_R0137875": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Central-Singapore-Singapore/Principal-Software-Engineer_R0137875",
+  "location": "Central Singapore, Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Principal Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Principal-Software-Engineer_R0137875"
+ },
+ "workday:paypal:/job/Central-Singapore-Singapore/Product-Marketing-Manager--Singapore_R0138008": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Central-Singapore-Singapore/Product-Marketing-Manager--Singapore_R0138008",
+  "location": "Central Singapore, Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Product Marketing Manager, Singapore",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Product-Marketing-Manager--Singapore_R0138008"
  },
  "workday:paypal:/job/Central-Singapore-Singapore/Senior-Cybersecurity-Threat-Analyst_R0135904-1": {
   "company": "paypal",
@@ -274119,6 +274979,56 @@
   "title": "Small and Medium Business  Commercial Senior Manager",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Small-and-Medium-Business--Commercial-Senior-Manager_R0137458"
  },
+ "workday:paypal:/job/Central-Singapore-Singapore/Software-Engineer_R0137858": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Central-Singapore-Singapore/Software-Engineer_R0137858",
+  "location": "Central Singapore, Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Software-Engineer_R0137858"
+ },
+ "workday:paypal:/job/Central-Singapore-Singapore/Software-Engineer_R0137859": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Central-Singapore-Singapore/Software-Engineer_R0137859",
+  "location": "Central Singapore, Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Software-Engineer_R0137859"
+ },
+ "workday:paypal:/job/Central-Singapore-Singapore/Software-Engineer_R0137876": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Central-Singapore-Singapore/Software-Engineer_R0137876",
+  "location": "Central Singapore, Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Software-Engineer_R0137876"
+ },
+ "workday:paypal:/job/Central-Singapore-Singapore/Sr-Analyst--Data-Analytics_R0137840": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Central-Singapore-Singapore/Sr-Analyst--Data-Analytics_R0137840",
+  "location": "Central Singapore, Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Analyst, Data Analytics",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Sr-Analyst--Data-Analytics_R0137840"
+ },
+ "workday:paypal:/job/Central-Singapore-Singapore/Sr-Manager--Employee-Relations--Singapore_R0137946": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Central-Singapore-Singapore/Sr-Manager--Employee-Relations--Singapore_R0137946",
+  "location": "Central Singapore, Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Manager, Employee Relations, Singapore",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Sr-Manager--Employee-Relations--Singapore_R0137946"
+ },
  "workday:paypal:/job/Central-Singapore-Singapore/Sr-Manager--Employee-Relations_R0135857-1": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -274139,6 +275049,26 @@
   "title": "Sr Manager, Global Strategic Accounts",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Sr-Manager--Global-Strategic-Accounts_R0137345"
  },
+ "workday:paypal:/job/Central-Singapore-Singapore/Sr-Manager-Integrated-Marketing----Global-CBT_R0138009": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Central-Singapore-Singapore/Sr-Manager-Integrated-Marketing----Global-CBT_R0138009",
+  "location": "Central Singapore, Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Manager Integrated Marketing -\u00a0 Global CBT",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Sr-Manager-Integrated-Marketing----Global-CBT_R0138009"
+ },
+ "workday:paypal:/job/Central-Singapore-Singapore/Sr-Sales-Trainer_R0137843": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Central-Singapore-Singapore/Sr-Sales-Trainer_R0137843",
+  "location": "Central Singapore, Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Sales Trainer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Sr-Sales-Trainer_R0137843"
+ },
  "workday:paypal:/job/Central-Singapore-Singapore/Sr-Specialist--Solutions-Partner_R0137309": {
   "company": "paypal",
   "first_seen": "2026-09-03T02:29:30+00:00",
@@ -274148,6 +275078,36 @@
   "source": "workday",
   "title": "Sr Specialist, Solutions Partner",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Sr-Specialist--Solutions-Partner_R0137309"
+ },
+ "workday:paypal:/job/Central-Singapore-Singapore/Staff-Cybersecurity-Threat-Analyst_R0137949": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Central-Singapore-Singapore/Staff-Cybersecurity-Threat-Analyst_R0137949",
+  "location": "Central Singapore, Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Cybersecurity Threat Analyst",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Staff-Cybersecurity-Threat-Analyst_R0137949"
+ },
+ "workday:paypal:/job/Central-Singapore-Singapore/Staff-Software-Engineer_R0137877": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Central-Singapore-Singapore/Staff-Software-Engineer_R0137877",
+  "location": "Central Singapore, Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Staff-Software-Engineer_R0137877"
+ },
+ "workday:paypal:/job/Chennai-Tamil-Nadu-India/Manager--Corporate-Strategy_R0137790": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Chennai-Tamil-Nadu-India/Manager--Corporate-Strategy_R0137790",
+  "location": "Chennai, Tamil Nadu, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Corporate Strategy",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chennai-Tamil-Nadu-India/Manager--Corporate-Strategy_R0137790"
  },
  "workday:paypal:/job/Chennai-Tamil-Nadu-India/Senior-Software-Engineer---Backend--Java-_R0137269": {
   "company": "paypal",
@@ -274179,6 +275139,36 @@
   "title": "Senior Software Engineer - Salesforce",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chennai-Tamil-Nadu-India/Senior-Software-Engineer---Salesforce_R0137271"
  },
+ "workday:paypal:/job/Chennai-Tamil-Nadu-India/Software-Engineer_R0137988": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Chennai-Tamil-Nadu-India/Software-Engineer_R0137988",
+  "location": "Chennai, Tamil Nadu, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chennai-Tamil-Nadu-India/Software-Engineer_R0137988"
+ },
+ "workday:paypal:/job/Chennai-Tamil-Nadu-India/Software-Engineer_R0137989": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Chennai-Tamil-Nadu-India/Software-Engineer_R0137989",
+  "location": "Chennai, Tamil Nadu, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chennai-Tamil-Nadu-India/Software-Engineer_R0137989"
+ },
+ "workday:paypal:/job/Chennai-Tamil-Nadu-India/Sr--Software-Engineer_R0137885": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Chennai-Tamil-Nadu-India/Sr--Software-Engineer_R0137885",
+  "location": "Chennai, Tamil Nadu, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr  Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chennai-Tamil-Nadu-India/Sr--Software-Engineer_R0137885"
+ },
  "workday:paypal:/job/Chennai-Tamil-Nadu-India/Sr-Site-Reliability-Engineer_R0137470-1": {
   "company": "paypal",
   "first_seen": "2026-09-11T08:29:55+00:00",
@@ -274188,6 +275178,26 @@
   "source": "workday",
   "title": "Sr. Site Reliability Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chennai-Tamil-Nadu-India/Sr-Site-Reliability-Engineer_R0137470-1"
+ },
+ "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Analyst--Cybersecurity-Risk_R0137869": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Chicago-Illinois-United-States-of-America/Analyst--Cybersecurity-Risk_R0137869",
+  "location": "Chicago, Illinois, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Analyst, Cybersecurity Risk",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Analyst--Cybersecurity-Risk_R0137869"
+ },
+ "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Analyst--Cybersecurity-Risk_R0137870": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Chicago-Illinois-United-States-of-America/Analyst--Cybersecurity-Risk_R0137870",
+  "location": "Chicago, Illinois, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Analyst, Cybersecurity Risk",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Analyst--Cybersecurity-Risk_R0137870"
  },
  "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Corporate-Insurance-Analyst_R0135809-1": {
   "company": "paypal",
@@ -274199,6 +275209,16 @@
   "title": "Corporate Insurance Analyst",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Corporate-Insurance-Analyst_R0135809-1"
  },
+ "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-Analytics_R0138042": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Chicago-Illinois-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-Analytics_R0138042",
+  "location": "Chicago, Illinois, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Data Scientist - Payments Risk Management & Data Analytics",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-Analytics_R0138042"
+ },
  "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Data-Scientist_R0137204": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -274208,6 +275228,46 @@
   "source": "workday",
   "title": "Data Scientist",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Data-Scientist_R0137204"
+ },
+ "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Manager--Technical-Programs_R0137861": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Chicago-Illinois-United-States-of-America/Manager--Technical-Programs_R0137861",
+  "location": "Chicago, Illinois, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Technical Programs",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Manager--Technical-Programs_R0137861"
+ },
+ "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Senior-Manager--Campaign-Marketing_R0137808": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Chicago-Illinois-United-States-of-America/Senior-Manager--Campaign-Marketing_R0137808",
+  "location": "Chicago, Illinois, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Manager, Campaign Marketing",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Senior-Manager--Campaign-Marketing_R0137808"
+ },
+ "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Senior-Manager--Operations_R0137771": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Chicago-Illinois-United-States-of-America/Senior-Manager--Operations_R0137771",
+  "location": "Chicago, Illinois, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Manager, Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Senior-Manager--Operations_R0137771"
+ },
+ "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Senior-Manager--PMM---Commerce_R0137814": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Chicago-Illinois-United-States-of-America/Senior-Manager--PMM---Commerce_R0137814",
+  "location": "Chicago, Illinois, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Manager, PMM - Commerce",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Senior-Manager--PMM---Commerce_R0137814"
  },
  "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Sr-Data-Scientist_R0134097-1": {
   "company": "paypal",
@@ -274259,6 +275319,16 @@
   "title": "Sr Data Scientist",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Data-Scientist_R0137246"
  },
+ "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Sr-Executive-Assistant-Business-Partner_R0137805": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Chicago-Illinois-United-States-of-America/Sr-Executive-Assistant-Business-Partner_R0137805",
+  "location": "Chicago, Illinois, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Executive Assistant Business Partner",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Executive-Assistant-Business-Partner_R0137805"
+ },
  "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Sr-Legal-Counsel--US-Employment_R0137528-1": {
   "company": "paypal",
   "first_seen": "2026-09-11T18:56:50+00:00",
@@ -274279,6 +275349,16 @@
   "title": "Manager, Audit (Bilingual - Spanish)",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Manager--Audit_R0135958-1"
  },
+ "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Sr-Manager--Risk-Management_R0138044": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Chicago-Illinois-United-States-of-America/Sr-Manager--Risk-Management_R0138044",
+  "location": "Chicago, Illinois, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, Risk Management",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Manager--Risk-Management_R0138044"
+ },
  "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Sr-Manager--Sales-Incentive-Compensation_R0135855-1": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -274288,6 +275368,16 @@
   "source": "workday",
   "title": "Sr Manager, Sales Incentive Compensation",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Manager--Sales-Incentive-Compensation_R0135855-1"
+ },
+ "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Sr-Manager--Sales-Incentive-Compensation_R0137945": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Chicago-Illinois-United-States-of-America/Sr-Manager--Sales-Incentive-Compensation_R0137945",
+  "location": "Chicago, Illinois, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, Sales Incentive Compensation",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Manager--Sales-Incentive-Compensation_R0137945"
  },
  "workday:paypal:/job/Chicago-Illinois-United-States-of-America/Sr-Mgr--Integrated-Marketing-Lead_R0137401": {
   "company": "paypal",
@@ -274579,6 +275669,26 @@
   "title": "Manager, Large Enterprise Commercial",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/London-County-London-England-United-Kingdom/Manager--Large-Enterprise-Commercial_R0137427-1"
  },
+ "workday:paypal:/job/London-County-London-England-United-Kingdom/Manager--Partnership-Marketing-LN_R0137959": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/London-County-London-England-United-Kingdom/Manager--Partnership-Marketing-LN_R0137959",
+  "location": "London, County London, England, United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Partnership Marketing LN",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/London-County-London-England-United-Kingdom/Manager--Partnership-Marketing-LN_R0137959"
+ },
+ "workday:paypal:/job/London-County-London-England-United-Kingdom/Manager--Partnership-Marketing-LN_R0137960": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/London-County-London-England-United-Kingdom/Manager--Partnership-Marketing-LN_R0137960",
+  "location": "London, County London, England, United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Partnership Marketing LN",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/London-County-London-England-United-Kingdom/Manager--Partnership-Marketing-LN_R0137960"
+ },
  "workday:paypal:/job/London-County-London-England-United-Kingdom/Manager--Risk-Management_R0135050-1": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -274829,6 +275939,26 @@
   "title": "Director, Legal Counsel - LATAM & Canada",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Mexico-City-Ciudad-de-Mexico-Mexico/Director--Legal-Counsel---LATAM---Canada_R0137079"
  },
+ "workday:paypal:/job/Mexico-City-Ciudad-de-Mexico-Mexico/Executive-Assistant_R0137828": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Mexico-City-Ciudad-de-Mexico-Mexico/Executive-Assistant_R0137828",
+  "location": "Mexico City, Ciudad de Mexico, Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Executive Assistant",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Mexico-City-Ciudad-de-Mexico-Mexico/Executive-Assistant_R0137828"
+ },
+ "workday:paypal:/job/Mexico-City-Ciudad-de-Mexico-Mexico/Manager-Cross-Border-Trade_R0137832": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Mexico-City-Ciudad-de-Mexico-Mexico/Manager-Cross-Border-Trade_R0137832",
+  "location": "Mexico City, Ciudad de Mexico, Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager Cross Border Trade",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Mexico-City-Ciudad-de-Mexico-Mexico/Manager-Cross-Border-Trade_R0137832"
+ },
  "workday:paypal:/job/Mexico-City-Ciudad-de-Mexico-Mexico/Regulatory-Reporting-Manager_R0135053-1": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -274849,6 +275979,26 @@
   "title": "SPEI Operator, Sr Analyst",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Mexico-City-Ciudad-de-Mexico-Mexico/SPEI-Operator--Sr-Analyst_R0135402-1"
  },
+ "workday:paypal:/job/Mexico-City-Ciudad-de-Mexico-Mexico/SPEI-Operator--Sr-Analyst_R0137942": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Mexico-City-Ciudad-de-Mexico-Mexico/SPEI-Operator--Sr-Analyst_R0137942",
+  "location": "Mexico City, Ciudad de Mexico, Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "SPEI Operator, Sr Analyst",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Mexico-City-Ciudad-de-Mexico-Mexico/SPEI-Operator--Sr-Analyst_R0137942"
+ },
+ "workday:paypal:/job/Mexico-City-Ciudad-de-Mexico-Mexico/Sr-Audit-Manager_R0137953": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Mexico-City-Ciudad-de-Mexico-Mexico/Sr-Audit-Manager_R0137953",
+  "location": "Mexico City, Ciudad de Mexico, Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Audit Manager",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Mexico-City-Ciudad-de-Mexico-Mexico/Sr-Audit-Manager_R0137953"
+ },
  "workday:paypal:/job/Mexico-City-Ciudad-de-Mexico-Mexico/Sr-Manager--Audit_R0135984-1": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -274858,6 +276008,16 @@
   "source": "workday",
   "title": "Sr Manager, Audit (Bilingual - English)",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Mexico-City-Ciudad-de-Mexico-Mexico/Sr-Manager--Audit_R0135984-1"
+ },
+ "workday:paypal:/job/Mexico-City-Ciudad-de-Mexico-Mexico/Sr-Specialist--Safety---Security_R0137928": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Mexico-City-Ciudad-de-Mexico-Mexico/Sr-Specialist--Safety---Security_R0137928",
+  "location": "Mexico City, Ciudad de Mexico, Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Specialist, Safety & Security",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Mexico-City-Ciudad-de-Mexico-Mexico/Sr-Specialist--Safety---Security_R0137928"
  },
  "workday:paypal:/job/Milan-Milano-Italy/Account-Manager--Large-Enterprise-Commercial_R0137468-1": {
   "company": "paypal",
@@ -274888,6 +276048,16 @@
   "source": "workday",
   "title": "Developer/Agency Commercial Lead",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Milan-Milano-Italy/Developer-Agency-Commercial-Lead_R0137382"
+ },
+ "workday:paypal:/job/Milan-Milano-Italy/Manager--Partnership-Marketing-IT_R0137961": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Milan-Milano-Italy/Manager--Partnership-Marketing-IT_R0137961",
+  "location": "Milan, Milano, Italy",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Partnership Marketing IT",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Milan-Milano-Italy/Manager--Partnership-Marketing-IT_R0137961"
  },
  "workday:paypal:/job/Milan-Milano-Italy/Senior-Account-Manager--SMB_R0137463": {
   "company": "paypal",
@@ -275059,6 +276229,46 @@
   "title": "Investigator, Video CIP Checker",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Mumbai-Maharashtra-India/Investigator--Video-CIP-Checker_R0137305"
  },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Account-Executive--Ad-Sales_R0137777": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Account-Executive--Ad-Sales_R0137777",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Account Executive, Ad Sales",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Account-Executive--Ad-Sales_R0137777"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Analyst--FP-A_R0137935": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Analyst--FP-A_R0137935",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Analyst, FP&A",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Analyst--FP-A_R0137935"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Dir--Comm-al-GTM-Venmo_R0138040": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Dir--Comm-al-GTM-Venmo_R0138040",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Dir, Comm'al GTM Venmo",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Dir--Comm-al-GTM-Venmo_R0138040"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Director---Legal--Capital-Markets_R0137789": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Director---Legal--Capital-Markets_R0137789",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director - Legal, Capital Markets",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Director---Legal--Capital-Markets_R0137789"
+ },
  "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Director--Cost-Governance_R0137455": {
   "company": "paypal",
   "first_seen": "2026-09-03T08:28:57+00:00",
@@ -275078,6 +276288,36 @@
   "source": "workday",
   "title": "Director, Data Analytics",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Director--Data-Analytics_R0137485"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Director--Enterprise-Quality-team_R0137774": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Director--Enterprise-Quality-team_R0137774",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Enterprise Quality team",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Director--Enterprise-Quality-team_R0137774"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Director--Enterprise-Quality-team_R0137899": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Director--Enterprise-Quality-team_R0137899",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Enterprise Quality team",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Director--Enterprise-Quality-team_R0137899"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Director--Experience-Design_R0137765": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Director--Experience-Design_R0137765",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Experience Design",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Director--Experience-Design_R0137765"
  },
  "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Director--Legal-Counsel-Capital-Markets_R0137141-1": {
   "company": "paypal",
@@ -275128,6 +276368,16 @@
   "source": "workday",
   "title": "Director of Design Operations & Strategic Programs",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Director-of-Design-Operations---Strategic-Programs_R0137352"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Manager--Accounting_R0137987": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Manager--Accounting_R0137987",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Accounting",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Manager--Accounting_R0137987"
  },
  "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Manager--Ads_R0137354": {
   "company": "paypal",
@@ -275209,6 +276459,36 @@
   "title": "Manager, Affiliates",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Manager--Affiliates_R0137331"
  },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Manager--Analytics_R0137819": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Manager--Analytics_R0137819",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Analytics",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Manager--Analytics_R0137819"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Manager--Analytics_R0137820": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Manager--Analytics_R0137820",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Analytics",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Manager--Analytics_R0137820"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Manager--Analytics_R0138007": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Manager--Analytics_R0138007",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Analytics",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Manager--Analytics_R0138007"
+ },
  "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Manager--Employee-Relations_R0131520": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -275218,6 +276498,76 @@
   "source": "workday",
   "title": "Manager, Employee Relations",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Manager--Employee-Relations_R0131520"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Manager--Enterprise-Quality-team_R0137902": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Manager--Enterprise-Quality-team_R0137902",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Enterprise Quality team",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Manager--Enterprise-Quality-team_R0137902"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Manager--Enterprise-Quality_R0137901": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Manager--Enterprise-Quality_R0137901",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Enterprise Quality",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Manager--Enterprise-Quality_R0137901"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Manager--Localization_R0137811": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Manager--Localization_R0137811",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Localization",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Manager--Localization_R0137811"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Manager--Merchant-Localization_R0137810": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Manager--Merchant-Localization_R0137810",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Merchant Localization",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Manager--Merchant-Localization_R0137810"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Manager--Staff---Operations_R0137817": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Manager--Staff---Operations_R0137817",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Staff & Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Manager--Staff---Operations_R0137817"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Product-Manager_R0137804": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Product-Manager_R0137804",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Product Manager",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Product-Manager_R0137804"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Product-Manager_R0138013": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Product-Manager_R0138013",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Product Manager",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Product-Manager_R0138013"
  },
  "workday:paypal:/job/New-York-City-New-York-United-States-of-America/SVP--Chief-Service-Experience-Officer_R0137082-1": {
   "company": "paypal",
@@ -275259,6 +276609,36 @@
   "title": "Senior Manager, Ads",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Senior-Manager--Ads_R0137363"
  },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Senior-Manager--Canada-Consumer_R0137773": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Senior-Manager--Canada-Consumer_R0137773",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Manager, Canada Consumer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Senior-Manager--Canada-Consumer_R0137773"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Senior-Manager--Enterprise-Quality_R0137775": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Senior-Manager--Enterprise-Quality_R0137775",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Manager, Enterprise Quality",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Senior-Manager--Enterprise-Quality_R0137775"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Senior-Manager--Enterprise-Quality_R0137900": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Senior-Manager--Enterprise-Quality_R0137900",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Manager, Enterprise Quality",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Senior-Manager--Enterprise-Quality_R0137900"
+ },
  "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Senior-Manager--Loyalty-Economics_R0137425": {
   "company": "paypal",
   "first_seen": "2026-09-03T08:28:58+00:00",
@@ -275278,6 +276658,16 @@
   "source": "workday",
   "title": "Senior Manager, People Business Partner",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Senior-Manager--People-Business-Partner_R0134141-1"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Senior-Manager_R0137760": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Senior-Manager_R0137760",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Manager",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Senior-Manager_R0137760"
  },
  "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Software-Engineer_R0137225": {
   "company": "paypal",
@@ -275339,6 +276729,16 @@
   "title": "Sr. Director, US Regulatory Legal",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Director--US-Regulatory-Legal_R0137037-1"
  },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Sr-Executive-Assistant_R0138012": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Sr-Executive-Assistant_R0138012",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Executive Assistant",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Executive-Assistant_R0138012"
+ },
  "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Sr-Lead--Product-Specialist---XO_R0137400": {
   "company": "paypal",
   "first_seen": "2026-09-03T08:28:58+00:00",
@@ -275379,6 +276779,26 @@
   "title": "Sr Manager, Business Operations",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Business-Operations_R0137483"
  },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Business-Operations_R0138033": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Business-Operations_R0138033",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, Business Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Business-Operations_R0138033"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Business-Operations_R0138034": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Business-Operations_R0138034",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, Business Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Business-Operations_R0138034"
+ },
  "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Product-Management_R0137479": {
   "company": "paypal",
   "first_seen": "2026-09-03T08:28:58+00:00",
@@ -275388,6 +276808,76 @@
   "source": "workday",
   "title": "Sr. Manager, Product Management",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Product-Management_R0137479"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Product-Management_R0137803": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Product-Management_R0137803",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Manager, Product Management",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Product-Management_R0137803"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Product-Marketing_R0137821": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Product-Marketing_R0137821",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, Product Marketing",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Manager--Product-Marketing_R0137821"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Sr-Product-Manager_R0137894": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Sr-Product-Manager_R0137894",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Product Manager",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Product-Manager_R0137894"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Sr-Specialist--Experience-Research_R0137813": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Sr-Specialist--Experience-Research_R0137813",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Specialist, Experience Research",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Specialist--Experience-Research_R0137813"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Sr-Specialist--Marketing--Venmo-Social_R0137807": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Sr-Specialist--Marketing--Venmo-Social_R0137807",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Specialist, Marketing, Venmo Social",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Specialist--Marketing--Venmo-Social_R0137807"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/SrManager--Product-Sales_R0138024": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/SrManager--Product-Sales_R0138024",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr.Manager, Product Sales",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/SrManager--Product-Sales_R0138024"
+ },
+ "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Staff-Experience-Researcher_R0137815": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/New-York-City-New-York-United-States-of-America/Staff-Experience-Researcher_R0137815",
+  "location": "New York City, New York, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Experience Researcher",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Staff-Experience-Researcher_R0137815"
  },
  "workday:paypal:/job/New-York-City-New-York-United-States-of-America/Staff-Software-Engineer_R0137245": {
   "company": "paypal",
@@ -275559,6 +277049,16 @@
   "title": "Sr Account Representative, New Logos",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Paris-France/Sr-Account-Representative--New-Logos_R0137532-1"
  },
+ "workday:paypal:/job/Pennsylvania-United-States-of-America-Virtual/Analyst--Business-Operations_R0138041": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Pennsylvania-United-States-of-America-Virtual/Analyst--Business-Operations_R0138041",
+  "location": "Pennsylvania, United States of America (Virtual)",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Analyst, Business Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Pennsylvania-United-States-of-America-Virtual/Analyst--Business-Operations_R0138041"
+ },
  "workday:paypal:/job/Pennsylvania-United-States-of-America-Virtual/Director--FS-Cross-Sell---Global-Reporting_R0137388": {
   "company": "paypal",
   "first_seen": "2026-09-03T08:28:57+00:00",
@@ -275568,6 +277068,36 @@
   "source": "workday",
   "title": "Director, FS Cross Sell & Global Reporting",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Pennsylvania-United-States-of-America-Virtual/Director--FS-Cross-Sell---Global-Reporting_R0137388"
+ },
+ "workday:paypal:/job/Pennsylvania-United-States-of-America-Virtual/Manager--Customer-Success-Management_R0137839": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Pennsylvania-United-States-of-America-Virtual/Manager--Customer-Success-Management_R0137839",
+  "location": "Pennsylvania, United States of America (Virtual)",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Customer Success Management",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Pennsylvania-United-States-of-America-Virtual/Manager--Customer-Success-Management_R0137839"
+ },
+ "workday:paypal:/job/Pennsylvania-United-States-of-America-Virtual/Sr-Manager-Benefits-Engagement_R0137778": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Pennsylvania-United-States-of-America-Virtual/Sr-Manager-Benefits-Engagement_R0137778",
+  "location": "Pennsylvania, United States of America (Virtual)",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Manager Benefits Engagement",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Pennsylvania-United-States-of-America-Virtual/Sr-Manager-Benefits-Engagement_R0137778"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Account-Representative--SMB-Outbound-Sales_R0138030": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Account-Representative--SMB-Outbound-Sales_R0138030",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Account Representative, SMB Outbound Sales",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Account-Representative--SMB-Outbound-Sales_R0138030"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Cybersecurity-Engineer---Recent-Graduate_R0137283": {
   "company": "paypal",
@@ -275589,6 +277119,16 @@
   "title": "DIrector, Control Testing",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/DIrector--Control-Testing_R0137489"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-analytics_R0138043": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-analytics_R0138043",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Data Scientist - Payments Risk Management & Data analytics",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist---Payments-Risk-Management---Data-analytics_R0138043"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Data-Scientist_R0137282": {
   "company": "paypal",
   "first_seen": "2026-09-04T18:46:52+00:00",
@@ -275598,6 +277138,46 @@
   "source": "workday",
   "title": "Data Scientist",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist_R0137282"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Data-Scientist_R0137881": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Data-Scientist_R0137881",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Data Scientist",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist_R0137881"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Director--AI-Enablement_R0137954": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Director--AI-Enablement_R0137954",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, AI Enablement",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Director--AI-Enablement_R0137954"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Director--AI-Strategy-and-Product-Management_R0137424-1": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Director--AI-Strategy-and-Product-Management_R0137424-1",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, AI Strategy and Product Management",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Director--AI-Strategy-and-Product-Management_R0137424-1"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Director--Accounting-Transformation_R0137798": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Director--Accounting-Transformation_R0137798",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Accounting Transformation",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Director--Accounting-Transformation_R0137798"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Director--Chief-of-Staff_R0137487": {
   "company": "paypal",
@@ -275609,6 +277189,36 @@
   "title": "Director, Chief of Staff",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Director--Chief-of-Staff_R0137487"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Director--Large-Enterprise-Commercial_R0138018": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Director--Large-Enterprise-Commercial_R0138018",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Large Enterprise Commercial",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Director--Large-Enterprise-Commercial_R0138018"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Director--Large-Enterprise_R0138017": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Director--Large-Enterprise_R0138017",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Large Enterprise",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Director--Large-Enterprise_R0138017"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Director--Legal-Counsel---Ads-Honey_R0138004": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Director--Legal-Counsel---Ads-Honey_R0138004",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Legal Counsel - Ads/Honey",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Director--Legal-Counsel---Ads-Honey_R0138004"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Director--Merchant-Network_R0137336": {
   "company": "paypal",
   "first_seen": "2026-09-03T08:28:57+00:00",
@@ -275618,6 +277228,26 @@
   "source": "workday",
   "title": "Director, Merchant Network",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Director--Merchant-Network_R0137336"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Director--PSP---FI-Partnerships_R0138039": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Director--PSP---FI-Partnerships_R0138039",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, PSP & FI Partnerships",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Director--PSP---FI-Partnerships_R0138039"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Director--Patnerships_R0138032": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Director--Patnerships_R0138032",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Patnerships",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Director--Patnerships_R0138032"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Director--People-Business-Partner_R0133622-1": {
   "company": "paypal",
@@ -275639,6 +277269,26 @@
   "title": "Director, Pilot",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Director--Pilot_R0137274"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Director--Revenue-Operations_R0138035": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Director--Revenue-Operations_R0138035",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Revenue Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Director--Revenue-Operations_R0138035"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Director--TE-FP-A_R0138003": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Director--TE-FP-A_R0138003",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, TE FP&A",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Director--TE-FP-A_R0138003"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Director-of-Cost-Transformation_R0137329": {
   "company": "paypal",
   "first_seen": "2026-09-11T22:10:30+00:00",
@@ -275649,6 +277299,26 @@
   "title": "Senior Manager, Financial Planning & Analysis",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Director-of-Cost-Transformation_R0137329"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Engineering-Manager_R0137919": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Engineering-Manager_R0137919",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Engineering Manager",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Engineering-Manager_R0137919"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Global-Strategic-Account-Manager_R0138021": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Global-Strategic-Account-Manager_R0138021",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Global Strategic Account Manager",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Global-Strategic-Account-Manager_R0138021"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Lead-Product-Manager_R0137208": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -275658,6 +277328,16 @@
   "source": "workday",
   "title": "Lead Product Manager",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Lead-Product-Manager_R0137208"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Legal-Counsel--XO---PayPal_R0138005": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Legal-Counsel--XO---PayPal_R0138005",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Legal Counsel, XO & PayPal",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Legal-Counsel--XO---PayPal_R0138005"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer_R0137221": {
   "company": "paypal",
@@ -275689,6 +277369,96 @@
   "title": "Manager, Business Process",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--Business-Process_R0136221-1"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Manager--Corporate-Strategy_R0137882": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Manager--Corporate-Strategy_R0137882",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Corporate Strategy",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--Corporate-Strategy_R0137882"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Manager--FP-A_R0137792": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Manager--FP-A_R0137792",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, FP&A",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--FP-A_R0137792"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Manager--Global-Treasury-Quants_R0137948": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Manager--Global-Treasury-Quants_R0137948",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Global Treasury Quants",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--Global-Treasury-Quants_R0137948"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Manager--Inbound-Sales_R0138028": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Manager--Inbound-Sales_R0138028",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Inbound Sales",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--Inbound-Sales_R0138028"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Manager--Partnerships_R0138031": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Manager--Partnerships_R0138031",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Partnerships",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--Partnerships_R0138031"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Manager--Product-Sales_R0138027": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Manager--Product-Sales_R0138027",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Product Sales",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--Product-Sales_R0138027"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Manager--Revenue-Operations_R0137841": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Manager--Revenue-Operations_R0137841",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Revenue Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--Revenue-Operations_R0137841"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Manager--Revenue-Operations_R0137844": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Manager--Revenue-Operations_R0137844",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Revenue Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--Revenue-Operations_R0137844"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Manager--Revenue-Operations_R0137845": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Manager--Revenue-Operations_R0137845",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Revenue Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--Revenue-Operations_R0137845"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Manager--Software-Engineering_R0137183": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -275708,6 +277478,36 @@
   "source": "workday",
   "title": "Manager, Software Engineering",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--Software-Engineering_R0137186"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Manager--Software-Engineering_R0137872": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Manager--Software-Engineering_R0137872",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Software Engineering",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--Software-Engineering_R0137872"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Manager--System---Cloud-Engineering_R0137967": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Manager--System---Cloud-Engineering_R0137967",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, System & Cloud Engineering",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Manager--System---Cloud-Engineering_R0137967"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Principal-Agentic-Engineer_R0137880": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Principal-Agentic-Engineer_R0137880",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Principal Agentic Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Principal-Agentic-Engineer_R0137880"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Principal-Engineer---Machine-Learning_R0136785": {
   "company": "paypal",
@@ -275749,6 +277549,16 @@
   "title": "Principal Experience Designer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Principal-Experience-Designer_R0132580-1"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Principal-Software-Engineer_R0137979": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Principal-Software-Engineer_R0137979",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Principal Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Principal-Software-Engineer_R0137979"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Senior-DevOps-Engineer---Data-Infra_R0134311-1": {
   "company": "paypal",
   "first_seen": "2026-09-02T22:16:17+00:00",
@@ -275758,6 +277568,26 @@
   "source": "workday",
   "title": "Senior DevOps Engineer - Kafka Specialist",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Senior-DevOps-Engineer---Data-Infra_R0134311-1"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Senior-Lead-Product-Manager_R0138047": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Senior-Lead-Product-Manager_R0138047",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Lead Product Manager",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Senior-Lead-Product-Manager_R0138047"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Senior-Manager--Consumer-Operations_R0137772": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Senior-Manager--Consumer-Operations_R0137772",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Manager, Consumer Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Senior-Manager--Consumer-Operations_R0137772"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Senior-Software-Engineer---Python_R0134448-1": {
   "company": "paypal",
@@ -275919,6 +277749,116 @@
   "title": "Software Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137731"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137890": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137890",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137890"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137986": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137986",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137986"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Software-Engineer_R0138006": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Software-Engineer_R0138006",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0138006"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr--Analyst---Revenue-Operations_R0138036": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr--Analyst---Revenue-Operations_R0138036",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr, Analyst - Revenue Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr--Analyst---Revenue-Operations_R0138036"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Account-Manager--Large-Enterprise-Commercial_R0138019": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Account-Manager--Large-Enterprise-Commercial_R0138019",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Account Manager, Large Enterprise Commercial",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Account-Manager--Large-Enterprise-Commercial_R0138019"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Account-Manager--Large-Enterprise_R0138016": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Account-Manager--Large-Enterprise_R0138016",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Account Manager, Large Enterprise",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Account-Manager--Large-Enterprise_R0138016"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Account-Manager_R0138014": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Account-Manager_R0138014",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Account Manager",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Account-Manager_R0138014"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Account-Manager_R0138015": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Account-Manager_R0138015",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Account Manager",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Account-Manager_R0138015"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Account-Representative--Small---Medium-Business_R0138020": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Account-Representative--Small---Medium-Business_R0138020",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Account Representative, Small & Medium Business",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Account-Representative--Small---Medium-Business_R0138020"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Account-Representative--Small---Medium-Business_R0138029": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Account-Representative--Small---Medium-Business_R0138029",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Account Representative, Small & Medium Business",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Account-Representative--Small---Medium-Business_R0138029"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Analyst--Business-Operations_R0137883": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Analyst--Business-Operations_R0137883",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Analyst, Business Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--Business-Operations_R0137883"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Analyst--Business-Process_R0137235": {
   "company": "paypal",
   "first_seen": "2026-08-13T01:22:01+00:00",
@@ -275928,6 +277868,46 @@
   "source": "workday",
   "title": "Sr Analyst, Business Process",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--Business-Process_R0137235"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Analyst--FP-A_R0137793": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Analyst--FP-A_R0137793",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Analyst, FP&A",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--FP-A_R0137793"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Analyst--Revenue-Operations_R0137842": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Analyst--Revenue-Operations_R0137842",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Analyst, Revenue Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--Revenue-Operations_R0137842"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Analyst--Revenue-Operations_R0138037": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Analyst--Revenue-Operations_R0138037",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Analyst, Revenue Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--Revenue-Operations_R0138037"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Analyst--Revenue-Operations_R0138038": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Analyst--Revenue-Operations_R0138038",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Analyst, Revenue Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Analyst--Revenue-Operations_R0138038"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Analyst--Systems-Analysis_R0137729": {
   "company": "paypal",
@@ -275949,6 +277929,16 @@
   "title": "Sr Data Scientist",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Data-Scientist_R0137213"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-DevOps-Engineer_R0137925": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-DevOps-Engineer_R0137925",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. DevOps Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-DevOps-Engineer_R0137925"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Director-of-Design--Identity---Trust_R0132609-1": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -275958,6 +277948,16 @@
   "source": "workday",
   "title": "Sr. Director of Design, Identity & Trust",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Director-of-Design--Identity---Trust_R0132609-1"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Lead-Executive-Assistant-Business-Partner_R0137895": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Lead-Executive-Assistant-Business-Partner_R0137895",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Lead Executive Assistant Business Partner",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Lead-Executive-Assistant-Business-Partner_R0137895"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager---ML-Foundation-Models_R0136942": {
   "company": "paypal",
@@ -275979,6 +277979,26 @@
   "title": "Sr Lead Product Manager - Risk Decisioning Platform",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager---Risk-Decisioning-Platform_R0136825"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager--Enterprise-AI-Accelerations_R0137369-1": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager--Enterprise-AI-Accelerations_R0137369-1",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Lead Product Manager, Enterprise AI Accelerations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager--Enterprise-AI-Accelerations_R0137369-1"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager--Enterprise-AI-Accelerations_R0137371-1": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager--Enterprise-AI-Accelerations_R0137371-1",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Lead Product Manager, Enterprise AI Accelerations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager--Enterprise-AI-Accelerations_R0137371-1"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager_R0135990-1": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -275988,6 +278008,36 @@
   "source": "workday",
   "title": "Sr Lead Product Manager",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager_R0135990-1"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager_R0138045": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager_R0138045",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Lead Product Manager",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Lead-Product-Manager_R0138045"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Legal-Counsel---GSA_R0138001": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Legal-Counsel---GSA_R0138001",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Legal Counsel - GSA",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Legal-Counsel---GSA_R0138001"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Legal-Counsel--Privacy_R0138000": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Legal-Counsel--Privacy_R0138000",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Legal Counsel, Privacy",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Legal-Counsel--Privacy_R0138000"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0136787": {
   "company": "paypal",
@@ -276019,6 +278069,16 @@
   "title": "Sr Machine Learning Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0137279"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Manager--Ads-Privacy_R0138048": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Manager--Ads-Privacy_R0138048",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, Ads Privacy",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager--Ads-Privacy_R0138048"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Manager--Audit_R0135958-1": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -276029,6 +278089,26 @@
   "title": "Sr Manager, Audit (Bilingual - Spanish)",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager--Audit_R0135958-1"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Manager--Corporate-Strategy_R0137898": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Manager--Corporate-Strategy_R0137898",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, Corporate Strategy",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager--Corporate-Strategy_R0137898"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Manager--FP-A_R0137972": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Manager--FP-A_R0137972",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, FP&A",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager--FP-A_R0137972"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Manager--Financial-Planning---Analysis_R0136531-1": {
   "company": "paypal",
   "first_seen": "2026-09-04T22:01:54+00:00",
@@ -276038,6 +278118,16 @@
   "source": "workday",
   "title": "Sr Manager, Financial Planning & Analysis",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager--Financial-Planning---Analysis_R0136531-1"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Manager--Global-Accounts_R0138022": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Manager--Global-Accounts_R0138022",
+  "location": "6 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, Global Accounts",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager--Global-Accounts_R0138022"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Manager--Investment-Management_R0137377": {
   "company": "paypal",
@@ -276058,6 +278148,16 @@
   "source": "workday",
   "title": "Sr Manager, Network Compliance & Payment Partner Oversight",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager--Network-Compliance---Payment-Partner-Oversight_R0135018-1"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Manager--Partnerships_R0137837": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Manager--Partnerships_R0137837",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, Partnerships",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager--Partnerships_R0137837"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Manager--People-Business-Partner_R0133624-1": {
   "company": "paypal",
@@ -276088,6 +278188,36 @@
   "source": "workday",
   "title": "Sr Manager, Product Sales",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager--Product-Sales_R0137482"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Manager--Revenue-Operations_R0137846": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Manager--Revenue-Operations_R0137846",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Manager, Revenue Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager--Revenue-Operations_R0137846"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Manager--Software-Engineering_R0137874": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Manager--Software-Engineering_R0137874",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, Software Engineering",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager--Software-Engineering_R0137874"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Manager-Product-Management_R0137761": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Manager-Product-Management_R0137761",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager Product Management",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Manager-Product-Management_R0137761"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Product-Manager--Venmo-Commerce_R0134032-1": {
   "company": "paypal",
@@ -276158,6 +278288,16 @@
   "source": "workday",
   "title": "Sr. Software Engineer- Cloud Infrastructure and DevOps",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer--Cloud-Infrastructure-and-DevOps_R0136773-1"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer-PFiT_R0137889": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer-PFiT_R0137889",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer PFiT",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer-PFiT_R0137889"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137188": {
   "company": "paypal",
@@ -276319,6 +278459,136 @@
   "title": "Sr Software Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137730"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137924": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137924",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137924"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137926": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137926",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137926"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137927": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137927",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137927"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137933": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137933",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137933"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137934": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137934",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137934"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137936": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137936",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137936"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137952": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137952",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137952"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137955": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137955",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137955"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137974": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137974",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137974"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137977": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137977",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137977"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137984": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137984",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137984"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137985": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137985",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137985"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Specialist--Agency---Partner-Management_R0137818": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Specialist--Agency---Partner-Management_R0137818",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Specialist, Agency & Partner Management",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Specialist--Agency---Partner-Management_R0137818"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Staff-Software-Engineer--BE-Python_R0136939-1": {
   "company": "paypal",
   "first_seen": "2026-09-08T22:17:27+00:00",
@@ -276339,6 +278609,46 @@
   "title": "Sr Staff Software Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Staff-Software-Engineer_R0136383-1"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Staff-Software-Engineer_R0137873": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Staff-Software-Engineer_R0137873",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Staff-Software-Engineer_R0137873"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Staff-Software-Engineer_R0137937": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Staff-Software-Engineer_R0137937",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Staff-Software-Engineer_R0137937"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Staff-Software-Engineer_R0137963": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Staff-Software-Engineer_R0137963",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Staff-Software-Engineer_R0137963"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Staff-Software-Engineer_R0137982": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Sr-Staff-Software-Engineer_R0137982",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Staff-Software-Engineer_R0137982"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Sr-Technical-Product-Manager_R0137349": {
   "company": "paypal",
   "first_seen": "2026-09-03T08:28:58+00:00",
@@ -276349,6 +278659,36 @@
   "title": "Sr Technical Product Manager",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Technical-Product-Manager_R0137349"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/SrManager--Product-Sales_R0138023": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/SrManager--Product-Sales_R0138023",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr.Manager, Product Sales",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/SrManager--Product-Sales_R0138023"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/SrManager--Product-Sales_R0138025": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/SrManager--Product-Sales_R0138025",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr.Manager, Product Sales",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/SrManager--Product-Sales_R0138025"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/SrManager--Product-Sales_R0138026": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/SrManager--Product-Sales_R0138026",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr.Manager, Product Sales",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/SrManager--Product-Sales_R0138026"
+ },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Staff-Database-Engineer_R0136811-1": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -276358,6 +278698,16 @@
   "source": "workday",
   "title": "Staff Database Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Database-Engineer_R0136811-1"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Staff-Database-Engineer_R0137978": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Staff-Database-Engineer_R0137978",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Database Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Database-Engineer_R0137978"
  },
  "workday:paypal:/job/San-Jose-California-United-States-of-America/Staff-Experience-Designer--Risk-Intelligence-Platform_R0132102-1": {
   "company": "paypal",
@@ -276539,6 +278889,146 @@
   "title": "Staff Software Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137248"
  },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137916": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137916",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137916"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137917": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137917",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137917"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137918": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137918",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137918"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137929": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137929",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137929"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137930": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137930",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137930"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137931": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137931",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137931"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137932": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137932",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137932"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137938": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137938",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Staff-Software-Engineer_R0137938"
+ },
+ "workday:paypal:/job/San-Jose-California-United-States-of-America/Technical-Product-Manager-Lead_R0137862": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/San-Jose-California-United-States-of-America/Technical-Product-Manager-Lead_R0137862",
+  "location": "San Jose, California, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Technical Product Manager Lead",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Technical-Product-Manager-Lead_R0137862"
+ },
+ "workday:paypal:/job/Sao-Paulo-Brazil/Sr-Account-Manager--Large-Enterprise-Commercial_R0137827": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Sao-Paulo-Brazil/Sr-Account-Manager--Large-Enterprise-Commercial_R0137827",
+  "location": "Sao Paulo, Brazil",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Account Manager, Large Enterprise Commercial",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Sao-Paulo-Brazil/Sr-Account-Manager--Large-Enterprise-Commercial_R0137827"
+ },
+ "workday:paypal:/job/Sao-Paulo-Brazil/Sr-Manager--LATAM-Controller_R0137797": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Sao-Paulo-Brazil/Sr-Manager--LATAM-Controller_R0137797",
+  "location": "Sao Paulo, Brazil",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, LATAM Controller",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Sao-Paulo-Brazil/Sr-Manager--LATAM-Controller_R0137797"
+ },
+ "workday:paypal:/job/Scottsdale-Arizona-United-States-of-America/Analyst--Cybersecurity-Threat_R0137892": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Scottsdale-Arizona-United-States-of-America/Analyst--Cybersecurity-Threat_R0137892",
+  "location": "Scottsdale, Arizona, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Analyst, Cybersecurity Threat",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Scottsdale-Arizona-United-States-of-America/Analyst--Cybersecurity-Threat_R0137892"
+ },
+ "workday:paypal:/job/Scottsdale-Arizona-United-States-of-America/Cybersecurity-Engineer_R0137868": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Scottsdale-Arizona-United-States-of-America/Cybersecurity-Engineer_R0137868",
+  "location": "Scottsdale, Arizona, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Cybersecurity Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Scottsdale-Arizona-United-States-of-America/Cybersecurity-Engineer_R0137868"
+ },
+ "workday:paypal:/job/Scottsdale-Arizona-United-States-of-America/Director--Cybersecurity-Engineering_R0137863": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Scottsdale-Arizona-United-States-of-America/Director--Cybersecurity-Engineering_R0137863",
+  "location": "Scottsdale, Arizona, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Cybersecurity Engineering",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Scottsdale-Arizona-United-States-of-America/Director--Cybersecurity-Engineering_R0137863"
+ },
  "workday:paypal:/job/Scottsdale-Arizona-United-States-of-America/PCR-Security-Reviewer_R0137422-1": {
   "company": "paypal",
   "first_seen": "2026-09-08T19:12:51+00:00",
@@ -276569,6 +279059,16 @@
   "title": "Software Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Scottsdale-Arizona-United-States-of-America/Software-Engineer_R0137226"
  },
+ "workday:paypal:/job/Scottsdale-Arizona-United-States-of-America/Sr-Analyst--Operations_R0137783": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Scottsdale-Arizona-United-States-of-America/Sr-Analyst--Operations_R0137783",
+  "location": "Scottsdale, Arizona, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Analyst, Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Scottsdale-Arizona-United-States-of-America/Sr-Analyst--Operations_R0137783"
+ },
  "workday:paypal:/job/Scottsdale-Arizona-United-States-of-America/Sr-Database-Engineer_R0137319": {
   "company": "paypal",
   "first_seen": "2026-09-09T02:33:23+00:00",
@@ -276578,6 +279078,36 @@
   "source": "workday",
   "title": "Sr. Database Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Scottsdale-Arizona-United-States-of-America/Sr-Database-Engineer_R0137319"
+ },
+ "workday:paypal:/job/Scottsdale-Arizona-United-States-of-America/Sr-Staff--Cybersecurity-Engineering_R0137866": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Scottsdale-Arizona-United-States-of-America/Sr-Staff--Cybersecurity-Engineering_R0137866",
+  "location": "Scottsdale, Arizona, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Staff, Cybersecurity Engineering",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Scottsdale-Arizona-United-States-of-America/Sr-Staff--Cybersecurity-Engineering_R0137866"
+ },
+ "workday:paypal:/job/Scottsdale-Arizona-United-States-of-America/Staff-systems---Cloud-Engineer_R0137886": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Scottsdale-Arizona-United-States-of-America/Staff-systems---Cloud-Engineer_R0137886",
+  "location": "Scottsdale, Arizona, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff systems & Cloud Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Scottsdale-Arizona-United-States-of-America/Staff-systems---Cloud-Engineer_R0137886"
+ },
+ "workday:paypal:/job/Shanghai-China/Facilities-Manager-China_R0137782": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Shanghai-China/Facilities-Manager-China_R0137782",
+  "location": "Shanghai, China",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Facilities Manager China",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Shanghai-China/Facilities-Manager-China_R0137782"
  },
  "workday:paypal:/job/Sydney-New-South-Wales-Australia/Director--SME-DCC_R0137311": {
   "company": "paypal",
@@ -276658,6 +279188,16 @@
   "source": "workday",
   "title": "Accountant",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Accountant_R0137014"
+ },
+ "workday:paypal:/job/Tokyo-Tokyo-Prefecture-Japan/Accountant_R0137995": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Tokyo-Tokyo-Prefecture-Japan/Accountant_R0137995",
+  "location": "Tokyo, Tokyo Prefecture, Japan",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Accountant",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Accountant_R0137995"
  },
  "workday:paypal:/job/Tokyo-Tokyo-Prefecture-Japan/Cloud-Security-Engineer_R0137326": {
   "company": "paypal",
@@ -276749,6 +279289,16 @@
   "title": "InfoSec Compliance Analyst",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tokyo-Tokyo-Prefecture-Japan/InfoSec-Compliance-Analyst_R0137323"
  },
+ "workday:paypal:/job/Tokyo-Tokyo-Prefecture-Japan/Large-Enterprise-BB-rep_R0137834": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Tokyo-Tokyo-Prefecture-Japan/Large-Enterprise-BB-rep_R0137834",
+  "location": "Tokyo, Tokyo Prefecture, Japan",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Large Enterprise BB rep",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Large-Enterprise-BB-rep_R0137834"
+ },
  "workday:paypal:/job/Tokyo-Tokyo-Prefecture-Japan/Manager--Accounting_R0137308": {
   "company": "paypal",
   "first_seen": "2026-09-03T02:29:30+00:00",
@@ -276819,6 +279369,46 @@
   "title": "Senior Data Scientist (Credit Risk)",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Senior-Data-Scientist--Credit-Risk-_R0137021"
  },
+ "workday:paypal:/job/Tokyo-Tokyo-Prefecture-Japan/Sr-Manager--Accounting_R0137796": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Tokyo-Tokyo-Prefecture-Japan/Sr-Manager--Accounting_R0137796",
+  "location": "Tokyo, Tokyo Prefecture, Japan",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, Accounting",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Sr-Manager--Accounting_R0137796"
+ },
+ "workday:paypal:/job/Tokyo-Tokyo-Prefecture-Japan/Sr-Software-Engineer_R0137968": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Tokyo-Tokyo-Prefecture-Japan/Sr-Software-Engineer_R0137968",
+  "location": "Tokyo, Tokyo Prefecture, Japan",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Sr-Software-Engineer_R0137968"
+ },
+ "workday:paypal:/job/Tokyo-Tokyo-Prefecture-Japan/Sr-Software-Engineer_R0137994": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Tokyo-Tokyo-Prefecture-Japan/Sr-Software-Engineer_R0137994",
+  "location": "Tokyo, Tokyo Prefecture, Japan",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Sr-Software-Engineer_R0137994"
+ },
+ "workday:paypal:/job/Tokyo-Tokyo-Prefecture-Japan/Staff-Software-Engineer_R0137969": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Tokyo-Tokyo-Prefecture-Japan/Staff-Software-Engineer_R0137969",
+  "location": "Tokyo, Tokyo Prefecture, Japan",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Software Engineer",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Staff-Software-Engineer_R0137969"
+ },
  "workday:paypal:/job/Tokyo-Tokyo-Prefecture-Japan/Systems-Engineer_R0137490": {
   "company": "paypal",
   "first_seen": "2026-09-03T02:29:30+00:00",
@@ -276828,6 +279418,46 @@
   "source": "workday",
   "title": "Systems Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Systems-Engineer_R0137490"
+ },
+ "workday:paypal:/job/Toronto-Ontario-Canada/Director--Canada-Chief-Compliance-Officer-MLRO_R0137851": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Toronto-Ontario-Canada/Director--Canada-Chief-Compliance-Officer-MLRO_R0137851",
+  "location": "Toronto, Ontario, Canada",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Canada Chief Compliance Officer/MLRO",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Toronto-Ontario-Canada/Director--Canada-Chief-Compliance-Officer-MLRO_R0137851"
+ },
+ "workday:paypal:/job/Toronto-Ontario-Canada/Manager--Product-Management_R0137910": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:29+00:00",
+  "job_id": "/job/Toronto-Ontario-Canada/Manager--Product-Management_R0137910",
+  "location": "Toronto, Ontario, Canada",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Manager, Product Management",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Toronto-Ontario-Canada/Manager--Product-Management_R0137910"
+ },
+ "workday:paypal:/job/Utah-United-States-of-America-Virtual/Sr-Manager--Bank-Audit_R0137950": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Utah-United-States-of-America-Virtual/Sr-Manager--Bank-Audit_R0137950",
+  "location": "Utah, United States of America (Virtual)",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Manager, Bank Audit",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Utah-United-States-of-America-Virtual/Sr-Manager--Bank-Audit_R0137950"
+ },
+ "workday:paypal:/job/Washington-DC-District-of-Columbia-United-States-of-America/Legal-Counsel--Credit_R0137786": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "/job/Washington-DC-District-of-Columbia-United-States-of-America/Legal-Counsel--Credit_R0137786",
+  "location": "Washington DC, District of Columbia, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Legal Counsel, Credit",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Washington-DC-District-of-Columbia-United-States-of-America/Legal-Counsel--Credit_R0137786"
  },
  "workday:paypal:R0135990": {
   "company": "paypal",
@@ -276913,6 +279543,56 @@
   "company": "paypal",
   "first_seen": "2026-09-14T09:29:09+00:00",
   "job_id": "R0137449",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs"
+ },
+ "workday:paypal:R0137762": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "R0137762",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs"
+ },
+ "workday:paypal:R0137763": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "R0137763",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs"
+ },
+ "workday:paypal:R0137764": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "R0137764",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs"
+ },
+ "workday:paypal:R0137769": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "R0137769",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs"
+ },
+ "workday:paypal:R0137770": {
+  "company": "paypal",
+  "first_seen": "2026-09-16T02:49:30+00:00",
+  "job_id": "R0137770",
   "location": "",
   "posted_at": null,
   "source": "workday",
