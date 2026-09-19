@@ -239,6 +239,16 @@
   "title": "Senior Product Designer",
   "url": "https://jobs.ashbyhq.com/abridge/6aab826b-a60a-434e-889d-e4648f289305"
  },
+ "ashby:abridge:6cc498cb-7235-4300-a3a9-4b2f178678cb": {
+  "company": "abridge",
+  "first_seen": "2026-09-19T02:42:11+00:00",
+  "job_id": "6cc498cb-7235-4300-a3a9-4b2f178678cb",
+  "location": "NYC Office",
+  "posted_at": "2026-09-18T23:05:46.897+00:00",
+  "source": "ashby",
+  "title": "Engineering Leadership, NY Site Lead",
+  "url": "https://jobs.ashbyhq.com/abridge/6cc498cb-7235-4300-a3a9-4b2f178678cb"
+ },
  "ashby:abridge:6cc4eee0-cf33-493b-8d83-5cece0baf976": {
   "company": "abridge",
   "first_seen": "2026-08-09T16:06:46+00:00",
@@ -1328,6 +1338,16 @@
   "source": "ashby",
   "title": "Engineering Manager, Forward Deployed Engineering (LLM)",
   "url": "https://jobs.ashbyhq.com/baseten/1b6fc00e-f3fa-440b-9e4e-3013f7a5010e"
+ },
+ "ashby:baseten:1c5adf20-fe51-4fb6-9e45-569523e3e8bf": {
+  "company": "baseten",
+  "first_seen": "2026-09-19T02:42:12+00:00",
+  "job_id": "1c5adf20-fe51-4fb6-9e45-569523e3e8bf",
+  "location": "San Francisco",
+  "posted_at": "2026-09-18T22:17:45.220+00:00",
+  "source": "ashby",
+  "title": "Product Marketing Manager, Dedicated",
+  "url": "https://jobs.ashbyhq.com/baseten/1c5adf20-fe51-4fb6-9e45-569523e3e8bf"
  },
  "ashby:baseten:1f7d7fda-5540-4205-890b-cdbf774f0814": {
   "company": "baseten",
@@ -5998,6 +6018,16 @@
   "source": "ashby",
   "title": "Conversation Designer",
   "url": "https://jobs.ashbyhq.com/decagon/ad6db669-0ff9-41c6-b86b-8e567ad7fbbd"
+ },
+ "ashby:decagon:aed35522-81dd-466f-aa98-6dbe8fda413a": {
+  "company": "decagon",
+  "first_seen": "2026-09-19T02:39:11+00:00",
+  "job_id": "aed35522-81dd-466f-aa98-6dbe8fda413a",
+  "location": "San Francisco",
+  "posted_at": "2026-09-18T23:04:59.602+00:00",
+  "source": "ashby",
+  "title": "Business Operations, Growth",
+  "url": "https://jobs.ashbyhq.com/decagon/aed35522-81dd-466f-aa98-6dbe8fda413a"
  },
  "ashby:decagon:b0ef58e4-c1aa-49f2-a803-a1c8d92fe0fc": {
   "company": "decagon",
@@ -40538,6 +40568,16 @@
   "source": "ashby",
   "title": "Developer Marketing Manager",
   "url": "https://jobs.ashbyhq.com/weaviate/9f1dc66e-6c7a-4e3c-97ac-76910b8df08f"
+ },
+ "ashby:weaviate:b8115139-e487-446c-96f5-fde81a6b0fc7": {
+  "company": "weaviate",
+  "first_seen": "2026-09-19T02:42:16+00:00",
+  "job_id": "b8115139-e487-446c-96f5-fde81a6b0fc7",
+  "location": "Netherlands",
+  "posted_at": "2026-09-18T22:14:45.890+00:00",
+  "source": "ashby",
+  "title": "Finance Intern",
+  "url": "https://jobs.ashbyhq.com/weaviate/b8115139-e487-446c-96f5-fde81a6b0fc7"
  },
  "greenhouse:abnormalsecurity:7481102003": {
   "company": "abnormalsecurity",
@@ -80469,6 +80509,16 @@
   "title": "Enterprise Account Executive - Federal",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8819012002"
  },
+ "greenhouse:databricks:8823880002": {
+  "company": "databricks",
+  "first_seen": "2026-09-19T02:38:10+00:00",
+  "job_id": "8823880002",
+  "location": "Mountain View, California; San Francisco, California",
+  "posted_at": "2026-09-18T20:08:49-04:00",
+  "source": "greenhouse",
+  "title": "Staff Product Operations Lead, Marketplace Operations",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8823880002"
+ },
  "greenhouse:datadog:1497543": {
   "company": "datadog",
   "first_seen": "2026-08-09T16:05:45+00:00",
@@ -112409,6 +112459,36 @@
   "title": "B2B Event Marketing Manager (6-Month Contract)",
   "url": "https://instacart.careers/job/?gh_jid=8212434"
  },
+ "greenhouse:instacart:8214732": {
+  "company": "instacart",
+  "first_seen": "2026-09-19T02:41:47+00:00",
+  "job_id": "8214732",
+  "location": "United States - Remote",
+  "posted_at": "2026-09-18T18:15:35-04:00",
+  "source": "greenhouse",
+  "title": "HR Business Partner",
+  "url": "https://instacart.careers/job/?gh_jid=8214732"
+ },
+ "greenhouse:instacart:8214827": {
+  "company": "instacart",
+  "first_seen": "2026-09-19T02:41:47+00:00",
+  "job_id": "8214827",
+  "location": "United States - Remote",
+  "posted_at": "2026-09-18T18:35:36-04:00",
+  "source": "greenhouse",
+  "title": "Senior Product Marketing Manager, Instacart+",
+  "url": "https://instacart.careers/job/?gh_jid=8214827"
+ },
+ "greenhouse:instacart:8214859": {
+  "company": "instacart",
+  "first_seen": "2026-09-19T02:41:47+00:00",
+  "job_id": "8214859",
+  "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+  "posted_at": "2026-09-18T18:35:38-04:00",
+  "source": "greenhouse",
+  "title": "Senior Product Marketing Manager, Instacart+",
+  "url": "https://instacart.careers/job/?gh_jid=8214859"
+ },
  "greenhouse:launchdarkly:7588897003": {
   "company": "launchdarkly",
   "first_seen": "2026-08-09T16:06:41+00:00",
@@ -113188,6 +113268,16 @@
   "source": "greenhouse",
   "title": "Senior Enterprise Account Executive - Singapore",
   "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7999676003"
+ },
+ "greenhouse:launchdarkly:7999776003": {
+  "company": "launchdarkly",
+  "first_seen": "2026-09-19T02:42:06+00:00",
+  "job_id": "7999776003",
+  "location": "Remote - US",
+  "posted_at": "2026-09-18T18:18:56-04:00",
+  "source": "greenhouse",
+  "title": "Enterprise Acquisition Account Executive",
+  "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7999776003"
  },
  "greenhouse:lyft:8289497002": {
   "company": "lyft",
@@ -115968,6 +116058,26 @@
   "source": "greenhouse",
   "title": "Software Engineer, Identity",
   "url": "https://app.careerpuck.com/job-board/lyft/job/8806552002?gh_jid=8806552002"
+ },
+ "greenhouse:lyft:8806560002": {
+  "company": "lyft",
+  "first_seen": "2026-09-19T02:41:48+00:00",
+  "job_id": "8806560002",
+  "location": "Mexico City, Mexico",
+  "posted_at": "2026-09-18T18:40:18-04:00",
+  "source": "greenhouse",
+  "title": "Backend Software Engineer, Airports",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8806560002?gh_jid=8806560002"
+ },
+ "greenhouse:lyft:8806570002": {
+  "company": "lyft",
+  "first_seen": "2026-09-19T02:41:48+00:00",
+  "job_id": "8806570002",
+  "location": "San Francisco, CA",
+  "posted_at": "2026-09-18T18:40:33-04:00",
+  "source": "greenhouse",
+  "title": "Backend Software Engineer, Airports",
+  "url": "https://app.careerpuck.com/job-board/lyft/job/8806570002?gh_jid=8806570002"
  },
  "greenhouse:lyft:8806580002": {
   "company": "lyft",
@@ -124069,6 +124179,16 @@
   "title": "Senior Financial Analyst",
   "url": "https://job-boards.greenhouse.io/netlify/jobs/8686733002"
  },
+ "greenhouse:netlify:8823513002": {
+  "company": "netlify",
+  "first_seen": "2026-09-19T02:42:07+00:00",
+  "job_id": "8823513002",
+  "location": "Remote",
+  "posted_at": "2026-09-18T19:10:40-04:00",
+  "source": "greenhouse",
+  "title": "Finance Manager (Corporate Finance)",
+  "url": "https://job-boards.greenhouse.io/netlify/jobs/8823513002"
+ },
  "greenhouse:netradyne:4658762005": {
   "company": "netradyne",
   "first_seen": "2026-08-09T16:05:51+00:00",
@@ -125658,6 +125778,16 @@
   "source": "greenhouse",
   "title": "Senior Revenue Operations Manager - GTM Systems and Automation",
   "url": "https://job-boards.greenhouse.io/newrelic/jobs/5426078008"
+ },
+ "greenhouse:newrelic:5429159008": {
+  "company": "newrelic",
+  "first_seen": "2026-09-19T02:41:49+00:00",
+  "job_id": "5429159008",
+  "location": "Atlanta, Georgia, USA; Boston, Massachusetts, USA; New York City, New York, USA",
+  "posted_at": "2026-09-18T18:22:22-04:00",
+  "source": "greenhouse",
+  "title": "Account Executive - Mid-Enterprise Sales",
+  "url": "https://job-boards.greenhouse.io/newrelic/jobs/5429159008"
  },
  "greenhouse:newrelic:5429208008": {
   "company": "newrelic",
@@ -131669,6 +131799,16 @@
   "title": "Corporate New Business Account Executive",
   "url": "https://www.okta.com/company/careers/opportunity/8213721?gh_jid=8213721"
  },
+ "greenhouse:okta:8214882": {
+  "company": "okta",
+  "first_seen": "2026-09-19T02:42:08+00:00",
+  "job_id": "8214882",
+  "location": "Bellevue, Washington; Chicago, Illinois; San Francisco, California; Toronto, Ontario, Canada",
+  "posted_at": "2026-09-18T20:27:49-04:00",
+  "source": "greenhouse",
+  "title": "Director of Engineering, AI Takeoff Team",
+  "url": "https://www.okta.com/company/careers/opportunity/8214882?gh_jid=8214882"
+ },
  "greenhouse:pagerduty:5707881004": {
   "company": "pagerduty",
   "first_seen": "2026-08-09T16:06:43+00:00",
@@ -136479,6 +136619,16 @@
   "title": "Sr. IT Project & Program Manager, Asset Management ",
   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8209845"
  },
+ "greenhouse:pinterest:8213988": {
+  "company": "pinterest",
+  "first_seen": "2026-09-19T02:41:50+00:00",
+  "job_id": "8213988",
+  "location": "San Francisco, CA, US; Remote, US",
+  "posted_at": "2026-09-18T20:32:32-04:00",
+  "source": "greenhouse",
+  "title": "Software Engineer II, Data Analytics & Engineering",
+  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8213988"
+ },
  "greenhouse:planetscale:4009746009": {
   "company": "planetscale",
   "first_seen": "2026-08-09T16:06:43+00:00",
@@ -141248,6 +141398,16 @@
   "source": "greenhouse",
   "title": "Senior Product Manager, Go-To-Market Systems ",
   "url": "https://job-boards.greenhouse.io/reddit/jobs/8212175"
+ },
+ "greenhouse:reddit:8214910": {
+  "company": "reddit",
+  "first_seen": "2026-09-19T02:41:50+00:00",
+  "job_id": "8214910",
+  "location": "Remote - United States",
+  "posted_at": "2026-09-18T19:35:09-04:00",
+  "source": "greenhouse",
+  "title": "Software Engineer, Ingestion Platform",
+  "url": "https://job-boards.greenhouse.io/reddit/jobs/8214910"
  },
  "greenhouse:rubrik:2146030": {
   "company": "rubrik",
@@ -147078,6 +147238,16 @@
   "source": "greenhouse",
   "title": "Sales Engineer - Mid Market - West",
   "url": "https://www.samsara.com/company/careers/roles/8148328?gh_jid=8148328"
+ },
+ "greenhouse:samsara:8148638": {
+  "company": "samsara",
+  "first_seen": "2026-09-19T02:41:51+00:00",
+  "job_id": "8148638",
+  "location": "Remote - SF Bay Area",
+  "posted_at": "2026-09-18T20:22:37-04:00",
+  "source": "greenhouse",
+  "title": "Manager II, Software Engineering, Infrastructure",
+  "url": "https://www.samsara.com/company/careers/roles/8148638?gh_jid=8148638"
  },
  "greenhouse:samsara:8152984": {
   "company": "samsara",
@@ -183809,6 +183979,16 @@
   "title": "Channel Marketing Manager, Private Equity",
   "url": "https://ats.rippling.com/rippling/jobs/c54eee63-f1dc-4861-a0e3-4f1c1d6d9074"
  },
+ "ripplingats:rippling:c5e31a2b-ae00-4389-9c80-a6e4f61dc603": {
+  "company": "rippling",
+  "first_seen": "2026-09-19T02:42:17+00:00",
+  "job_id": "c5e31a2b-ae00-4389-9c80-a6e4f61dc603",
+  "location": "New York, NY",
+  "posted_at": null,
+  "source": "ripplingats",
+  "title": "Staff Software Engineer, Payroll Calculation",
+  "url": "https://ats.rippling.com/rippling/jobs/c5e31a2b-ae00-4389-9c80-a6e4f61dc603"
+ },
  "ripplingats:rippling:c6081fd6-f501-4d76-86b9-ffc41f3aab5a": {
   "company": "rippling",
   "first_seen": "2026-08-09T16:06:53+00:00",
@@ -196569,6 +196749,16 @@
   "title": "Risk Management Country Group Manager",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/121-MENACHEM-BEGIN-STREET/Risk-Management-Country-Group-Manager_26988579-1"
  },
+ "workday:citi:/job/1501-MCGILL-COLLEGE-AVENUE--MONTREAL/Citi-Commercial-Bank---Commercial-Associate--AVP--French-English-Bilingual----Citi-Commercial-Bank---Associ-en-services-bancaires-commerciaux--vice-prsidence-adjointe--bilingue-franais-anglais-_26974524": {
+  "company": "citi",
+  "first_seen": "2026-09-19T02:40:35+00:00",
+  "job_id": "/job/1501-MCGILL-COLLEGE-AVENUE--MONTREAL/Citi-Commercial-Bank---Commercial-Associate--AVP--French-English-Bilingual----Citi-Commercial-Bank---Associ-en-services-bancaires-commerciaux--vice-prsidence-adjointe--bilingue-franais-anglais-_26974524",
+  "location": "1501 MCGILL COLLEGE AVENUE  MONTREAL",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Citi Commercial Bank \u2013 Associ\u00e9 en services bancaires commerciaux, vice-pr\u00e9sidence adjointe (bilingue fran\u00e7ais-anglais) / Citi Commercial Bank \u2013 Commercial Associate, AVP (French/English Bilingual)",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1501-MCGILL-COLLEGE-AVENUE--MONTREAL/Citi-Commercial-Bank---Commercial-Associate--AVP--French-English-Bilingual----Citi-Commercial-Bank---Associ-en-services-bancaires-commerciaux--vice-prsidence-adjointe--bilingue-franais-anglais-_26974524"
+ },
  "workday:citi:/job/1675-EAST-PALM-CANYON-DRIVE--PALM-SPRINGS/Wealth-Relationship-Manager--Torrance--CA_26930124": {
   "company": "citi",
   "first_seen": "2026-08-18T16:26:23+00:00",
@@ -201899,6 +202089,16 @@
   "title": "BANAMEX AF CENTRO Asesor Previsional",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/COSTERA-MIGUEL-ALEMAN-NO--364-ACAPULCO-DE-JUAREZ-CENTRO-ACAPULCO/BANAMEX-AF-CENTRO-Asesor-Previsional_26990241"
  },
+ "workday:citi:/job/COSTERA-MIGUEL-ALEMAN-NO--364-ACAPULCO-DE-JUAREZ-CENTRO-ACAPULCO/BANAMEX-AF-CENTRO-Asesor-Previsional_26996158": {
+  "company": "citi",
+  "first_seen": "2026-09-19T02:40:35+00:00",
+  "job_id": "/job/COSTERA-MIGUEL-ALEMAN-NO--364-ACAPULCO-DE-JUAREZ-CENTRO-ACAPULCO/BANAMEX-AF-CENTRO-Asesor-Previsional_26996158",
+  "location": "COSTERA MIGUEL ALEMAN NO.  364 ACAPULCO DE JUAREZ CENTRO ACAPULCO",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "BANAMEX AF CENTRO Asesor Previsional",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/COSTERA-MIGUEL-ALEMAN-NO--364-ACAPULCO-DE-JUAREZ-CENTRO-ACAPULCO/BANAMEX-AF-CENTRO-Asesor-Previsional_26996158"
+ },
  "workday:citi:/job/Cabo-San-Lucas-Baja-California-Sur-Mexico/BANAMEX-OPERADOR-CAJERO-CABO-SAN-LUCAS-Y-SAN-JOSE-DEL-CABO_26976007": {
   "company": "citi",
   "first_seen": "2026-09-02T19:12:50+00:00",
@@ -204689,6 +204889,66 @@
   "title": "BANAMEX - Workplace Technology Engineer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX---Workplace-Technology-Engineer_26978842"
  },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--ANALISTA-DE-POLITICAS_26996195": {
+  "company": "citi",
+  "first_seen": "2026-09-19T02:40:35+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--ANALISTA-DE-POLITICAS_26996195",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "BANAMEX- ANALISTA DE POLITICAS",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--ANALISTA-DE-POLITICAS_26996195"
+ },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-CRO_26996175": {
+  "company": "citi",
+  "first_seen": "2026-09-19T02:40:35+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-CRO_26996175",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "BANAMEX- Analista CRO",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-CRO_26996175"
+ },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-Copy_26996186": {
+  "company": "citi",
+  "first_seen": "2026-09-19T02:40:35+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-Copy_26996186",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "BANAMEX- Analista Copy",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-Copy_26996186"
+ },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-SEO_26996188-1": {
+  "company": "citi",
+  "first_seen": "2026-09-19T02:40:35+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-SEO_26996188-1",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "BANAMEX- Analista SEO",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-SEO_26996188-1"
+ },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-UX_26996184": {
+  "company": "citi",
+  "first_seen": "2026-09-19T02:40:35+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-UX_26996184",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "BANAMEX- Analista UX",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-UX_26996184"
+ },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-Ventas--reporting-_26996199": {
+  "company": "citi",
+  "first_seen": "2026-09-19T02:40:35+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-Ventas--reporting-_26996199",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "BANAMEX- Analista Ventas (reporting)",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Analista-Ventas--reporting-_26996199"
+ },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Data-Governance-Operations---Financial-Analyst_26979656": {
   "company": "citi",
   "first_seen": "2026-08-09T16:04:42+00:00",
@@ -204698,6 +204958,26 @@
   "source": "workday",
   "title": "BANAMEX -Data Governance Operations & Financial Analyst",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Data-Governance-Operations---Financial-Analyst_26979656"
+ },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Desarrollador-AEM_26996177": {
+  "company": "citi",
+  "first_seen": "2026-09-19T02:40:35+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Desarrollador-AEM_26996177",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "BANAMEX- Desarrollador AEM",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Desarrollador-AEM_26996177"
+ },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Desarrollador-Junior-AEM_26996180": {
+  "company": "citi",
+  "first_seen": "2026-09-19T02:40:35+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Desarrollador-Junior-AEM_26996180",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "BANAMEX- Desarrollador Junior AEM",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Desarrollador-Junior-AEM_26996180"
  },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX--Gerente-de-Sourcing--Compras-Tecnologa_26987723": {
   "company": "citi",
@@ -215639,6 +215919,16 @@
   "title": "Assistant Vice President - Risk Management Country Sr. Analyst - Hybrid",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Assistant-Vice-President---Risk-Management-Country-Sr-Analyst---Hybrid_26987803"
  },
+ "workday:citi:/job/Irving-Texas-United-States/Backend-Engineering-Lead-Java--Microservices---DevOps----Assistant-Vice-President_26992930-1": {
+  "company": "citi",
+  "first_seen": "2026-09-19T02:40:35+00:00",
+  "job_id": "/job/Irving-Texas-United-States/Backend-Engineering-Lead-Java--Microservices---DevOps----Assistant-Vice-President_26992930-1",
+  "location": "Irving Texas United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Backend Engineering Lead(Java, Microservices & DevOps) - Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Backend-Engineering-Lead-Java--Microservices---DevOps----Assistant-Vice-President_26992930-1"
+ },
  "workday:citi:/job/Irving-Texas-United-States/Backend-Java-Developer--Officer_26990034": {
   "company": "citi",
   "first_seen": "2026-09-04T15:38:06+00:00",
@@ -218188,6 +218478,16 @@
   "source": "workday",
   "title": "Wealth Solutions Advisor SAFE Act",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Wealth-Solutions-Advisor-SAFE-Act_26984497"
+ },
+ "workday:citi:/job/Jacona-Michoacan-Mexico/Banamex---Cajero-Integral---Jacona--Michoacn_26996187": {
+  "company": "citi",
+  "first_seen": "2026-09-19T02:40:35+00:00",
+  "job_id": "/job/Jacona-Michoacan-Mexico/Banamex---Cajero-Integral---Jacona--Michoacn_26996187",
+  "location": "Jacona Michoacan Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex | Cajero Integral | Jacona, Michoac\u00e1n",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacona-Michoacan-Mexico/Banamex---Cajero-Integral---Jacona--Michoacn_26996187"
  },
  "workday:citi:/job/Jakarta--Indonesia/CSG-Relationship-Manager_26991708": {
   "company": "citi",
@@ -231089,6 +231389,16 @@
   "title": "CSIS Intelligence Lead Analyst - Advanced Analytics and Cyber OSINT",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/NC-CHARLOTTE-BALLANTYNE/CSIS-Intelligence-Lead-Analyst---Advanced-Analytics-and-Cyber-OSINT_26989594"
  },
+ "workday:citi:/job/NC-CHARLOTTE-BALLANTYNE/Citi-Commercial-Bank---Mid-Corp-Relationship-Manager--Food--Beverage----Agribusiness---Senior-Vice-President_26945181": {
+  "company": "citi",
+  "first_seen": "2026-09-19T02:40:35+00:00",
+  "job_id": "/job/NC-CHARLOTTE-BALLANTYNE/Citi-Commercial-Bank---Mid-Corp-Relationship-Manager--Food--Beverage----Agribusiness---Senior-Vice-President_26945181",
+  "location": "NC-CHARLOTTE (BALLANTYNE)",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Citi Commercial Bank - Mid-Corp Relationship Manager - Senior Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/NC-CHARLOTTE-BALLANTYNE/Citi-Commercial-Bank---Mid-Corp-Relationship-Manager--Food--Beverage----Agribusiness---Senior-Vice-President_26945181"
+ },
  "workday:citi:/job/NC-CHARLOTTE-BALLANTYNE/Compliance-Prod-Director---Head--Conduct-Risk_26988641": {
   "company": "citi",
   "first_seen": "2026-08-19T20:22:55+00:00",
@@ -234608,6 +234918,16 @@
   "source": "workday",
   "title": "Investor Relations, Strategy, & M&A Senior Executive Assistant",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Investor-Relations--Strategy----M-A-Senior-Executive-Assistant_26980053"
+ },
+ "workday:citi:/job/New-York-New-York-United-States/Java-Algo-Developer--Fixed-Income-Trading--Vice-President_25927678": {
+  "company": "citi",
+  "first_seen": "2026-09-19T02:40:35+00:00",
+  "job_id": "/job/New-York-New-York-United-States/Java-Algo-Developer--Fixed-Income-Trading--Vice-President_25927678",
+  "location": "3 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Java Algo Developer, Fixed Income Trading, Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Java-Algo-Developer--Fixed-Income-Trading--Vice-President_25927678"
  },
  "workday:citi:/job/New-York-New-York-United-States/Java-Apps-Developer-Lead-Analyst---Vice-President_26943351": {
   "company": "citi",
@@ -245388,6 +245708,16 @@
   "source": "workday",
   "title": "BANAMEX- Asesor Previsional Afore",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/SUC-RIVIERA-MAYA-REU---PLAYA-DEL-CARMEN/BANAMEX--Asesor-Previsional-Afore_26992029"
+ },
+ "workday:citi:/job/Salina-Cruz-Oaxaca-Mexico/Banamex-Banquero-Integral-suc-182-SALINA-CRUZ--Oax_26996194": {
+  "company": "citi",
+  "first_seen": "2026-09-19T02:40:35+00:00",
+  "job_id": "/job/Salina-Cruz-Oaxaca-Mexico/Banamex-Banquero-Integral-suc-182-SALINA-CRUZ--Oax_26996194",
+  "location": "Salina Cruz Oaxaca Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex Banquero Integral suc 182 SALINA CRUZ, Oax.",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Salina-Cruz-Oaxaca-Mexico/Banamex-Banquero-Integral-suc-182-SALINA-CRUZ--Oax_26996194"
  },
  "workday:citi:/job/Salina-Cruz-Oaxaca-Mexico/Banamex-Banquero-SEC-Salina-Cruz-Oaxaca_26971015-1": {
   "company": "citi",
