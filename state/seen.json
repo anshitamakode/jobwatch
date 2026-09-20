@@ -3539,6 +3539,16 @@
   "title": "Senior Technical Program Manager, Machine Learning Infrastructure",
   "url": "https://jobs.ashbyhq.com/cohere/582c4a60-14a2-49d5-b4d3-24c4ec50508d"
  },
+ "ashby:cohere:595a2d50-46a5-4ff9-af1c-d58cea9d8e68": {
+  "company": "cohere",
+  "first_seen": "2026-09-20T18:29:58+00:00",
+  "job_id": "595a2d50-46a5-4ff9-af1c-d58cea9d8e68",
+  "location": "Europe",
+  "posted_at": "2026-09-20T16:46:49.814+00:00",
+  "source": "ashby",
+  "title": "Revenue Enablement Program Manager - EMEA",
+  "url": "https://jobs.ashbyhq.com/cohere/595a2d50-46a5-4ff9-af1c-d58cea9d8e68"
+ },
  "ashby:cohere:597e18f5-c33c-4350-8bcd-05a751cece3a": {
   "company": "cohere",
   "first_seen": "2026-08-20T00:56:55+00:00",
@@ -67229,6 +67239,16 @@
   "title": "[\ucfe0\ud321\ud480\ud544\uba3c\ud2b8\uc11c\ube44\uc2a4] \ubb3c\ub958\uc13c\ud130 \uc548\uc804\uad00\ub9ac\uc790 (\uc6a9\uc778 \uc591\uc9c0 5\uc13c\ud130)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8168808"
  },
+ "greenhouse:coupang:8168825": {
+  "company": "coupang",
+  "first_seen": "2026-09-20T18:26:15+00:00",
+  "job_id": "8168825",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-09-20T14:11:33-04:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321] \uc2dc\ub2c8\uc5b4 \ub514\uc790\uc774\ub108 (7\ub144 \uc774\uc0c1)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8168825"
+ },
  "greenhouse:coupang:8168844": {
   "company": "coupang",
   "first_seen": "2026-09-02T08:18:55+00:00",
@@ -68388,6 +68408,16 @@
   "source": "greenhouse",
   "title": "[\ucfe0\ud321\ub85c\uc9c0\uc2a4\ud2f1\uc2a4\uc11c\ube44\uc2a4] Principal, Legal Counsel",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8200331"
+ },
+ "greenhouse:coupang:8200352": {
+  "company": "coupang",
+  "first_seen": "2026-09-20T18:26:15+00:00",
+  "job_id": "8200352",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-09-20T13:22:07-04:00",
+  "source": "greenhouse",
+  "title": "[Coupang] Sr. Manager, Program Management (Rocket Growth Sales)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8200352"
  },
  "greenhouse:coupang:8200377": {
   "company": "coupang",
@@ -162629,6 +162659,16 @@
   "title": "Technical Success Manager",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5204095007"
  },
+ "greenhouse:zscaler:5204157007": {
+  "company": "zscaler",
+  "first_seen": "2026-09-20T18:30:31+00:00",
+  "job_id": "5204157007",
+  "location": "Remote - United Arab Emirates",
+  "posted_at": "2026-09-20T14:10:48-04:00",
+  "source": "greenhouse",
+  "title": "Commercial Account Executive ",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5204157007"
+ },
  "greenhouse:zscaler:5204227007": {
   "company": "zscaler",
   "first_seen": "2026-08-11T12:53:36+00:00",
@@ -219428,6 +219468,16 @@
   "source": "workday",
   "title": "Senior Applied AI Full-Stack Engineer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Senior-Applied-AI-Full-Stack-Engineer_26984694"
+ },
+ "workday:citi:/job/Jersey-City-New-Jersey-United-States/Senior-Back-end-Java-Developer---Trading-Platforms--VP_26990397": {
+  "company": "citi",
+  "first_seen": "2026-09-20T18:28:36+00:00",
+  "job_id": "/job/Jersey-City-New-Jersey-United-States/Senior-Back-end-Java-Developer---Trading-Platforms--VP_26990397",
+  "location": "Jersey City New Jersey United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Back-end Java Developer - Trading Platforms, VP",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Senior-Back-end-Java-Developer---Trading-Platforms--VP_26990397"
  },
  "workday:citi:/job/Jersey-City-New-Jersey-United-States/Senior-Full-stack-Java-Engineer---Futures---Derivatives-Clearing-Technology--VP_26977796": {
   "company": "citi",
@@ -286443,6 +286493,46 @@
   "company": "nvidia",
   "first_seen": "2026-09-06T17:55:48+00:00",
   "job_id": "JR1998203",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite"
+ },
+ "workday:nvidia:JR2017178": {
+  "company": "nvidia",
+  "first_seen": "2026-09-20T18:25:17+00:00",
+  "job_id": "JR2017178",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite"
+ },
+ "workday:nvidia:JR2019559": {
+  "company": "nvidia",
+  "first_seen": "2026-09-20T18:25:17+00:00",
+  "job_id": "JR2019559",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite"
+ },
+ "workday:nvidia:JR2019560": {
+  "company": "nvidia",
+  "first_seen": "2026-09-20T18:25:17+00:00",
+  "job_id": "JR2019560",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite"
+ },
+ "workday:nvidia:JR2019597": {
+  "company": "nvidia",
+  "first_seen": "2026-09-20T18:25:17+00:00",
+  "job_id": "JR2019597",
   "location": "",
   "posted_at": null,
   "source": "workday",
