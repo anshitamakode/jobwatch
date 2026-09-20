@@ -68879,6 +68879,16 @@
   "title": "[Coupang Pay] Sr. Back-end Engineer (Pay Test Operations)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8212748"
  },
+ "greenhouse:coupang:8212896": {
+  "company": "coupang",
+  "first_seen": "2026-09-20T15:15:00+00:00",
+  "job_id": "8212896",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-09-20T06:14:17-04:00",
+  "source": "greenhouse",
+  "title": "Director, Supply Chain Management (Global SCM)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8212896"
+ },
  "greenhouse:coupang:8212948": {
   "company": "coupang",
   "first_seen": "2026-09-18T15:37:19+00:00",
@@ -86448,6 +86458,16 @@
   "source": "greenhouse",
   "title": "Sales Engineer 2 (Customer Success) - Denver",
   "url": "https://careers.datadoghq.com/detail/8185903/?gh_jid=8185903"
+ },
+ "greenhouse:datadog:8186274": {
+  "company": "datadog",
+  "first_seen": "2026-09-20T15:18:39+00:00",
+  "job_id": "8186274",
+  "location": "Boston, Massachusetts, USA",
+  "posted_at": "2026-09-20T08:21:13-04:00",
+  "source": "greenhouse",
+  "title": "Manager, Customer Success (Spanish Speaking)",
+  "url": "https://careers.datadoghq.com/detail/8186274/?gh_jid=8186274"
  },
  "greenhouse:datadog:8186361": {
   "company": "datadog",
@@ -283569,6 +283589,16 @@
   "title": "Senior Circuit Design Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Circuit-Design-Engineer_JR2021805"
  },
+ "workday:nvidia:/job/India-Bengaluru/Senior-Compute-System-Software-Engineer_JR2025832-1": {
+  "company": "nvidia",
+  "first_seen": "2026-09-20T15:13:58+00:00",
+  "job_id": "/job/India-Bengaluru/Senior-Compute-System-Software-Engineer_JR2025832-1",
+  "location": "India, Bengaluru",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Compute System Software Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Compute-System-Software-Engineer_JR2025832-1"
+ },
  "workday:nvidia:/job/India-Bengaluru/Senior-Custom-SOC-IP-Verification-Engineer_JR2011519": {
   "company": "nvidia",
   "first_seen": "2026-08-09T16:01:22+00:00",
@@ -284199,6 +284229,16 @@
   "title": "Senior Silicon Power Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Silicon-Power-Engineer_JR2021637"
  },
+ "workday:nvidia:/job/India-Bengaluru/Senior-Site-Reliability-Engineer--Production-Engineering_JR2026070": {
+  "company": "nvidia",
+  "first_seen": "2026-09-20T15:13:58+00:00",
+  "job_id": "/job/India-Bengaluru/Senior-Site-Reliability-Engineer--Production-Engineering_JR2026070",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Site Reliability Engineer, Production Engineering",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Site-Reliability-Engineer--Production-Engineering_JR2026070"
+ },
  "workday:nvidia:/job/India-Bengaluru/Senior-Site-Reliability-Engineering---Storage_JR2024297": {
   "company": "nvidia",
   "first_seen": "2026-08-26T12:38:07+00:00",
@@ -284258,6 +284298,16 @@
   "source": "workday",
   "title": "Senior Software Engineer \u2013 Distributed Test Platform",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Software-Engineer---Distributed-Test-Platform_JR2016175"
+ },
+ "workday:nvidia:/job/India-Bengaluru/Senior-Software-Engineer---NVEX_JR2025965": {
+  "company": "nvidia",
+  "first_seen": "2026-09-20T15:13:58+00:00",
+  "job_id": "/job/India-Bengaluru/Senior-Software-Engineer---NVEX_JR2025965",
+  "location": "India, Bengaluru",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Software Engineer - NVEX",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Software-Engineer---NVEX_JR2025965"
  },
  "workday:nvidia:/job/India-Bengaluru/Senior-Software-Engineer--Cloud-Platform_JR2010936": {
   "company": "nvidia",
