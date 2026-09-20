@@ -156909,6 +156909,16 @@
   "title": "Sr. Marketing Strategy and Analytics Manager",
   "url": "https://job-boards.greenhouse.io/twilio/jobs/8189769"
  },
+ "greenhouse:twilio:8190887": {
+  "company": "twilio",
+  "first_seen": "2026-09-20T22:10:41+00:00",
+  "job_id": "8190887",
+  "location": "Remote - India",
+  "posted_at": "2026-09-16T15:21:27-04:00",
+  "source": "greenhouse",
+  "title": "Software Engineer Intern (January 12th start, 23 weeks) ",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8190887"
+ },
  "greenhouse:twilio:8190889": {
   "company": "twilio",
   "first_seen": "2026-09-16T19:21:53+00:00",
@@ -164368,6 +164378,16 @@
   "source": "greenhouse",
   "title": "Senior Manager, Learning and Experience Design",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5231928007"
+ },
+ "greenhouse:zscaler:5231974007": {
+  "company": "zscaler",
+  "first_seen": "2026-09-20T22:11:04+00:00",
+  "job_id": "5231974007",
+  "location": "Remote - Belgium",
+  "posted_at": "2026-09-20T15:38:07-04:00",
+  "source": "greenhouse",
+  "title": "Sales Account Executive, Majors",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5231974007"
  },
  "greenhouse:zscaler:5232012007": {
   "company": "zscaler",
@@ -188179,6 +188199,16 @@
   "title": "Senior Cloud & AI FinOps Analyst",
   "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/AMER---United-States---Michigan---Novi/Senior-Cloud---AI-FinOps-Analyst_26WD99820-1"
  },
+ "workday:autodesk:/job/APAC---India---Bengaluru---Sunriver/Senior-Manager--Fusion-Sales--India_26WD100965": {
+  "company": "autodesk",
+  "first_seen": "2026-09-20T22:07:43+00:00",
+  "job_id": "/job/APAC---India---Bengaluru---Sunriver/Senior-Manager--Fusion-Sales--India_26WD100965",
+  "location": "APAC - India - Bengaluru - Sunriver",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Manager, Fusion Sales- India",
+  "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/APAC---India---Bengaluru---Sunriver/Senior-Manager--Fusion-Sales--India_26WD100965"
+ },
  "workday:autodesk:/job/APAC---India---Bengaluru---Sunriver/Technical-Success-Manager--Construction_26WD99527-1": {
   "company": "autodesk",
   "first_seen": "2026-08-09T16:03:11+00:00",
@@ -208679,6 +208709,16 @@
   "title": "Assistant Vice President - Data Analytics",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Assistant-Vice-President---Data-Analytics_26987443"
  },
+ "workday:citi:/job/DLF-CYBERCITY-12B/Assistant-Vice-President---Data-Analytics_26993862": {
+  "company": "citi",
+  "first_seen": "2026-09-20T22:09:14+00:00",
+  "job_id": "/job/DLF-CYBERCITY-12B/Assistant-Vice-President---Data-Analytics_26993862",
+  "location": "DLF CYBERCITY 12B",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Assistant Vice President - Data Analytics",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Assistant-Vice-President---Data-Analytics_26993862"
+ },
  "workday:citi:/job/DLF-CYBERCITY-12B/BI-and-ETL-Lead-Analyst---Finance--Vice-President_26986641": {
   "company": "citi",
   "first_seen": "2026-08-20T16:30:10+00:00",
@@ -229178,6 +229218,16 @@
   "source": "workday",
   "title": "Commercial Banking - Mid-Corp Relationship Manager:- Senior Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Commercial-Banking---Mid-Corp-Relationship-Manager---Senior-Vice-President_26983706"
+ },
+ "workday:citi:/job/Mumbai-Maharashtra-India/Commercial-Banking--Cash-Management-Sales-Officer---Assistant-Vice-President_26995652": {
+  "company": "citi",
+  "first_seen": "2026-09-20T22:09:14+00:00",
+  "job_id": "/job/Mumbai-Maharashtra-India/Commercial-Banking--Cash-Management-Sales-Officer---Assistant-Vice-President_26995652",
+  "location": "Mumbai Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Commercial Banking: Cash Management Sales Officer - Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Commercial-Banking--Cash-Management-Sales-Officer---Assistant-Vice-President_26995652"
  },
  "workday:citi:/job/Mumbai-Maharashtra-India/Commercial-Banking--Product-Sales-Manager---Cash-Management-Sales-Officer----Vice-President_26963688": {
   "company": "citi",
@@ -283638,6 +283688,16 @@
   "source": "workday",
   "title": "Senior Circuit Design Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Circuit-Design-Engineer_JR2021805"
+ },
+ "workday:nvidia:/job/India-Bengaluru/Senior-Compute-System-Software-Engineer_JR2025828": {
+  "company": "nvidia",
+  "first_seen": "2026-09-20T22:05:51+00:00",
+  "job_id": "/job/India-Bengaluru/Senior-Compute-System-Software-Engineer_JR2025828",
+  "location": "India, Bengaluru",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Compute System Software Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Compute-System-Software-Engineer_JR2025828"
  },
  "workday:nvidia:/job/India-Bengaluru/Senior-Compute-System-Software-Engineer_JR2025832-1": {
   "company": "nvidia",
