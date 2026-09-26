@@ -18139,6 +18139,16 @@
   "title": "Software Engineer, Payments",
   "url": "https://jobs.ashbyhq.com/openai/0da75470-7e1e-44c3-90df-6f93cf90b968"
  },
+ "ashby:openai:0dc7f3f1-0f8c-4d71-8264-ae0f208efeb1": {
+  "company": "openai",
+  "first_seen": "2026-09-26T02:58:45+00:00",
+  "job_id": "0dc7f3f1-0f8c-4d71-8264-ae0f208efeb1",
+  "location": "San Francisco",
+  "posted_at": "2026-09-26T00:34:50.203+00:00",
+  "source": "ashby",
+  "title": "Technical Recruiter",
+  "url": "https://jobs.ashbyhq.com/openai/0dc7f3f1-0f8c-4d71-8264-ae0f208efeb1"
+ },
  "ashby:openai:0e078d07-fb0b-4893-b90a-f50e413f3e13": {
   "company": "openai",
   "first_seen": "2026-08-09T16:02:23+00:00",
@@ -92019,6 +92029,16 @@
   "title": "Senior Software Engineer - Safety Experience",
   "url": "https://job-boards.greenhouse.io/discord/jobs/8817776002"
  },
+ "greenhouse:discord:8821508002": {
+  "company": "discord",
+  "first_seen": "2026-09-26T03:02:29+00:00",
+  "job_id": "8821508002",
+  "location": "San Francisco Bay Area",
+  "posted_at": "2026-09-25T19:12:29-04:00",
+  "source": "greenhouse",
+  "title": "Senior Data Science Manager, Developer Platform",
+  "url": "https://job-boards.greenhouse.io/discord/jobs/8821508002"
+ },
  "greenhouse:discord:8822683002": {
   "company": "discord",
   "first_seen": "2026-09-22T22:41:45+00:00",
@@ -100188,6 +100208,16 @@
   "source": "greenhouse",
   "title": "Senior Engineer - Production Cloud and Container Services",
   "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8226276"
+ },
+ "greenhouse:fastly:8231947": {
+  "company": "fastly",
+  "first_seen": "2026-09-26T03:02:31+00:00",
+  "job_id": "8231947",
+  "location": "Denver, CO; New York City, NY; San Francisco, CA",
+  "posted_at": "2026-09-25T19:36:40-04:00",
+  "source": "greenhouse",
+  "title": "Senior Security Technical Account Manager",
+  "url": "https://www.fastly.com/about/jobs/apply?gh_jid=8231947"
  },
  "greenhouse:figma:5220003004": {
   "company": "figma",
@@ -118348,6 +118378,46 @@
   "source": "greenhouse",
   "title": "Senior Software Engineer II - Ads Quality ",
   "url": "https://instacart.careers/job/?gh_jid=8234282"
+ },
+ "greenhouse:instacart:8234578": {
+  "company": "instacart",
+  "first_seen": "2026-09-26T03:02:32+00:00",
+  "job_id": "8234578",
+  "location": "United States - Remote",
+  "posted_at": "2026-09-25T21:05:57-04:00",
+  "source": "greenhouse",
+  "title": "Legislative Counsel",
+  "url": "https://instacart.careers/job/?gh_jid=8234578"
+ },
+ "greenhouse:instacart:8234595": {
+  "company": "instacart",
+  "first_seen": "2026-09-26T03:02:32+00:00",
+  "job_id": "8234595",
+  "location": "United States - Remote",
+  "posted_at": "2026-09-25T21:05:37-04:00",
+  "source": "greenhouse",
+  "title": "Privacy Counsel",
+  "url": "https://instacart.careers/job/?gh_jid=8234595"
+ },
+ "greenhouse:instacart:8234662": {
+  "company": "instacart",
+  "first_seen": "2026-09-26T03:02:32+00:00",
+  "job_id": "8234662",
+  "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+  "posted_at": "2026-09-25T21:06:00-04:00",
+  "source": "greenhouse",
+  "title": "Legislative Counsel",
+  "url": "https://instacart.careers/job/?gh_jid=8234662"
+ },
+ "greenhouse:instacart:8234667": {
+  "company": "instacart",
+  "first_seen": "2026-09-26T03:02:32+00:00",
+  "job_id": "8234667",
+  "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+  "posted_at": "2026-09-25T21:05:39-04:00",
+  "source": "greenhouse",
+  "title": "Privacy Counsel",
+  "url": "https://instacart.careers/job/?gh_jid=8234667"
  },
  "greenhouse:launchdarkly:7588897003": {
   "company": "launchdarkly",
@@ -173649,6 +173719,16 @@
   "title": "Commercial Account Executive 2",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5244295007"
  },
+ "greenhouse:zscaler:5244299007": {
+  "company": "zscaler",
+  "first_seen": "2026-09-26T03:03:03+00:00",
+  "job_id": "5244299007",
+  "location": "Remote - Minnesota, USA",
+  "posted_at": "2026-09-25T21:16:04-04:00",
+  "source": "greenhouse",
+  "title": "Senior Sales Engineer, Enterprise - Minnesota",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5244299007"
+ },
  "greenhouse:zscaler:5244734007": {
   "company": "zscaler",
   "first_seen": "2026-09-23T16:01:08+00:00",
@@ -188608,6 +188688,16 @@
   "source": "oraclecloud",
   "title": "Director - Technology Vendor Management",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013933"
+ },
+ "oraclecloud:amex:26013935": {
+  "company": "amex",
+  "first_seen": "2026-09-26T03:02:55+00:00",
+  "job_id": "26013935",
+  "location": "New York, NY, United States, Phoenix, AZ, United States, Charlotte, NC, United States",
+  "posted_at": "2026-09-26",
+  "source": "oraclecloud",
+  "title": "Director - Financial Crimes Investigation Data",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013935"
  },
  "oraclecloud:amex:26013936": {
   "company": "amex",
@@ -229928,6 +230018,16 @@
   "source": "workday",
   "title": "BANAMEX // Distrito Irapuato // Ejecutivo de Cuenta PyME",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irapuato-Guanajuato-Mexico/BANAMEX----Distrito-Irapuato----Ejecutivo-de-Cuenta-PyME_26995841-1"
+ },
+ "workday:citi:/job/Irapuato-Guanajuato-Mexico/Banamex-Coordinador-de-Seguros-y-Atencin-a-Sucursales_26997859": {
+  "company": "citi",
+  "first_seen": "2026-09-26T03:01:17+00:00",
+  "job_id": "/job/Irapuato-Guanajuato-Mexico/Banamex-Coordinador-de-Seguros-y-Atencin-a-Sucursales_26997859",
+  "location": "Irapuato Guanajuato Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex Coordinador de Seguros y Atenci\u00f3n a Sucursales",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irapuato-Guanajuato-Mexico/Banamex-Coordinador-de-Seguros-y-Atencin-a-Sucursales_26997859"
  },
  "workday:citi:/job/Irvine-California-United-States/Business-Relationship-Manager-South-Orange-County-CA--Assistant-Vice-President_26971384": {
   "company": "citi",
@@ -273128,6 +273228,16 @@
   "source": "workday",
   "title": "Banamex Asesor de Tarjetas de Cr\u00e9dito CT SAN LUIS POTOSI",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/VENUSTIANO-CARRANZA-NO--2240-POLANCO-SAN-LUIS-POTOSI/Banamex-Asesor-de-Tarjetas-de-Crdito-CT-SAN-LUIS-POTOSI_26987684"
+ },
+ "workday:citi:/job/VENUSTIANO-CARRANZA-NO--2240-POLANCO-SAN-LUIS-POTOSI/Banamex-SC-Asesor-Tarjetas-de-Crdito-F2F-San-Remo-5296_26996182": {
+  "company": "citi",
+  "first_seen": "2026-09-26T03:01:17+00:00",
+  "job_id": "/job/VENUSTIANO-CARRANZA-NO--2240-POLANCO-SAN-LUIS-POTOSI/Banamex-SC-Asesor-Tarjetas-de-Crdito-F2F-San-Remo-5296_26996182",
+  "location": "VENUSTIANO CARRANZA NO.  2240 POLANCO SAN LUIS POTOSI",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex SC Asesor Tarjetas de Cr\u00e9dito F2F San Remo 5296.",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/VENUSTIANO-CARRANZA-NO--2240-POLANCO-SAN-LUIS-POTOSI/Banamex-SC-Asesor-Tarjetas-de-Crdito-F2F-San-Remo-5296_26996182"
  },
  "workday:citi:/job/Van-Nuys-California-United-States/Head-Universal-Banker--Van-Nuys-Branch_26989767": {
   "company": "citi",
@@ -336178,6 +336288,16 @@
   "source": "workday",
   "title": "Sr Software Application Engineer (US Federal)",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Sr-Software-Application-Engineer--US-Federal-_JR-0107994"
+ },
+ "workday:workday:/job/USAVAReston/Sr-Software-Development-Engineer--SRE--US-Federal-_JR-0110489": {
+  "company": "workday",
+  "first_seen": "2026-09-26T03:02:26+00:00",
+  "job_id": "/job/USAVAReston/Sr-Software-Development-Engineer--SRE--US-Federal-_JR-0110489",
+  "location": "USA.VA.Reston",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Software Development Engineer, SRE (US Federal)",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Sr-Software-Development-Engineer--SRE--US-Federal-_JR-0110489"
  },
  "workday:workday:/job/USAVAReston/Sr-Software-Development-Engineer--US-Federal-_JR-0102024": {
   "company": "workday",
