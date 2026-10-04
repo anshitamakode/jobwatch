@@ -103569,6 +103569,16 @@
   "title": "Mid Market Account Executive",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8227630&gh_jid=8227630"
  },
+ "greenhouse:elastic:8229992": {
+  "company": "elastic",
+  "first_seen": "2026-10-04T22:44:02+00:00",
+  "job_id": "8229992",
+  "location": "Spain",
+  "posted_at": "2026-10-04T14:18:41-04:00",
+  "source": "greenhouse",
+  "title": "Senior Software Engineer - Streams - Observability",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8229992&gh_jid=8229992"
+ },
  "greenhouse:elastic:8232032": {
   "company": "elastic",
   "first_seen": "2026-09-25T02:59:20+00:00",
@@ -103878,6 +103888,36 @@
   "source": "greenhouse",
   "title": "Senior Software Engineer - Security Integrations - Prompt Engineering",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8249192&gh_jid=8249192"
+ },
+ "greenhouse:elastic:8255435": {
+  "company": "elastic",
+  "first_seen": "2026-10-04T22:44:02+00:00",
+  "job_id": "8255435",
+  "location": "Greece",
+  "posted_at": "2026-10-04T14:18:43-04:00",
+  "source": "greenhouse",
+  "title": "Senior Software Engineer - Streams - Observability",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8255435&gh_jid=8255435"
+ },
+ "greenhouse:elastic:8255436": {
+  "company": "elastic",
+  "first_seen": "2026-10-04T22:44:02+00:00",
+  "job_id": "8255436",
+  "location": "Portugal",
+  "posted_at": "2026-10-04T14:18:45-04:00",
+  "source": "greenhouse",
+  "title": "Senior Software Engineer - Streams - Observability",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8255436&gh_jid=8255436"
+ },
+ "greenhouse:elastic:8255438": {
+  "company": "elastic",
+  "first_seen": "2026-10-04T22:44:02+00:00",
+  "job_id": "8255438",
+  "location": "Poland",
+  "posted_at": "2026-10-04T14:18:47-04:00",
+  "source": "greenhouse",
+  "title": "Senior Software Engineer - Streams - Observability",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8255438&gh_jid=8255438"
  },
  "greenhouse:fastly:6873321": {
   "company": "fastly",
@@ -217149,6 +217189,16 @@
   "title": "Software Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Hyderabad-India/Software-Engineer_2021115-1"
  },
+ "workday:cisco:/job/Hyderabad-India/Software-Engineer_2025113-1": {
+  "company": "cisco",
+  "first_seen": "2026-10-04T22:39:48+00:00",
+  "job_id": "/job/Hyderabad-India/Software-Engineer_2025113-1",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Hyderabad-India/Software-Engineer_2025113-1"
+ },
  "workday:cisco:/job/Hyderabad-India/Software-Engineering-Architect--6-9-years-of-proven-experience-as-a-Salesforce-Developer-with-a-strong-understanding-of-Salesforce-architecture-and-best-practices--Work-Location--Hyderabad-_2018605": {
   "company": "cisco",
   "first_seen": "2026-08-16T08:21:03+00:00",
@@ -231308,6 +231358,16 @@
   "source": "workday",
   "title": "BANAMEX MONITOR ATM\u00b4S",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-MONITOR-ATM-S_26978836"
+ },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-OPERADOR-CAJERO-DISTRITO-SANTA-FE_26999962": {
+  "company": "citi",
+  "first_seen": "2026-10-04T22:42:49+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-OPERADOR-CAJERO-DISTRITO-SANTA-FE_26999962",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "BANAMEX OPERADOR CAJERO DISTRITO SANTA FE",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-OPERADOR-CAJERO-DISTRITO-SANTA-FE_26999962"
  },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Quality-Assurance--Monitoring---Testing-Analyst_26984326-1": {
   "company": "citi",
@@ -248079,6 +248139,16 @@
   "title": "Senior AI Engineer, Banking Technology",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Senior-AI-Engineer--Banking-Technology_26984693"
  },
+ "workday:citi:/job/Jersey-City-New-Jersey-United-States/Senior-AI-Engineer--Banking-Technology_26997248": {
+  "company": "citi",
+  "first_seen": "2026-10-04T22:42:49+00:00",
+  "job_id": "/job/Jersey-City-New-Jersey-United-States/Senior-AI-Engineer--Banking-Technology_26997248",
+  "location": "Jersey City New Jersey United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior AI Engineer, Banking Technology",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Senior-AI-Engineer--Banking-Technology_26997248"
+ },
  "workday:citi:/job/Jersey-City-New-Jersey-United-States/Senior-Applied-AI-Full-Stack-Engineer_26984694": {
   "company": "citi",
   "first_seen": "2026-08-11T16:55:44+00:00",
@@ -257159,6 +257229,16 @@
   "title": "Lead Software Engineer \u2014 Enterprise Applications",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Lead-Software-Engineer---Enterprise-Applications_26985686"
  },
+ "workday:citi:/job/Mississauga-Ontario-Canada/Lead-Software-Engineer---Enterprise-Applications_26997349": {
+  "company": "citi",
+  "first_seen": "2026-10-04T22:42:49+00:00",
+  "job_id": "/job/Mississauga-Ontario-Canada/Lead-Software-Engineer---Enterprise-Applications_26997349",
+  "location": "Mississauga Ontario Canada",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Lead Software Engineer \u2014 Enterprise Applications",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Lead-Software-Engineer---Enterprise-Applications_26997349"
+ },
  "workday:citi:/job/Mississauga-Ontario-Canada/Lead-Software-Engineer--Agentic-AI---Full-Stack----Vice-President_26988303": {
   "company": "citi",
   "first_seen": "2026-09-02T15:50:38+00:00",
@@ -263038,6 +263118,16 @@
   "source": "workday",
   "title": "Wealth Relationship Manager - NAPERVILLE, IL",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Naperville-Illinois-United-States/Wealth-Relationship-Manager---NAPERVILLE--IL_26974852"
+ },
+ "workday:citi:/job/Naucalpan-Estado-De-Mexico-Mexico/BANAMEX-OPERADOR-CAJERO-DISTRITO-NAUCALPAN_26999963": {
+  "company": "citi",
+  "first_seen": "2026-10-04T22:42:49+00:00",
+  "job_id": "/job/Naucalpan-Estado-De-Mexico-Mexico/BANAMEX-OPERADOR-CAJERO-DISTRITO-NAUCALPAN_26999963",
+  "location": "Naucalpan Estado De Mexico Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "BANAMEX OPERADOR CAJERO DISTRITO NAUCALPAN",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Naucalpan-Estado-De-Mexico-Mexico/BANAMEX-OPERADOR-CAJERO-DISTRITO-NAUCALPAN_26999963"
  },
  "workday:citi:/job/Naucalpan-Estado-De-Mexico-Mexico/Banamex---Credit-Analyst-1-Naucalpan_26993623": {
   "company": "citi",
@@ -321069,6 +321159,16 @@
   "title": "Staff Engineer, IT",
   "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Engineer--IT--AI-Enablement_JR87323"
  },
+ "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Staff-Engineer--Physical-Design_JR113773": {
+  "company": "micron",
+  "first_seen": "2026-10-04T22:43:16+00:00",
+  "job_id": "/job/Hyderabad---Phoenix-Aquila-India/Staff-Engineer--Physical-Design_JR113773",
+  "location": "Hyderabad - Phoenix Aquila, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Engineer, Physical Design",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/Staff-Engineer--Physical-Design_JR113773"
+ },
  "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Staff-Engineer--SSD-Validation_JR85569": {
   "company": "micron",
   "first_seen": "2026-08-09T16:05:04+00:00",
@@ -323089,6 +323189,16 @@
   "title": "ASIC Verification Engineer - Clocks",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Verification-Engineer---Clocks_JR2024826"
  },
+ "workday:nvidia:/job/India-Bengaluru/ASIC-Verification-Engineer---Clocks_JR2026417": {
+  "company": "nvidia",
+  "first_seen": "2026-10-04T22:39:28+00:00",
+  "job_id": "/job/India-Bengaluru/ASIC-Verification-Engineer---Clocks_JR2026417",
+  "location": "India, Bengaluru",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "ASIC Verification Engineer - Clocks",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Verification-Engineer---Clocks_JR2026417"
+ },
  "workday:nvidia:/job/India-Bengaluru/ASIC-Verification-Engineer_JR2018695": {
   "company": "nvidia",
   "first_seen": "2026-08-09T16:01:22+00:00",
@@ -323949,6 +324059,16 @@
   "title": "Senior Design Engineer - Memory Subsystem",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Design-Engineer---Memory-Subsystem_JR2020816"
  },
+ "workday:nvidia:/job/India-Bengaluru/Senior-Design-Engineer---Memory-Subsystem_JR2026759": {
+  "company": "nvidia",
+  "first_seen": "2026-10-04T22:39:28+00:00",
+  "job_id": "/job/India-Bengaluru/Senior-Design-Engineer---Memory-Subsystem_JR2026759",
+  "location": "India, Bengaluru",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Design Engineer - Memory Subsystem",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Design-Engineer---Memory-Subsystem_JR2026759"
+ },
  "workday:nvidia:/job/India-Bengaluru/Senior-Design-Verification-Engineer_JR2021993": {
   "company": "nvidia",
   "first_seen": "2026-08-09T16:01:22+00:00",
@@ -324058,6 +324178,16 @@
   "source": "workday",
   "title": "Senior Formal Verification Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Formal-Verification-Engineer_JR2023406-1"
+ },
+ "workday:nvidia:/job/India-Bengaluru/Senior-Forward-Deployed-Architect--Generative-AI_JR2026694-1": {
+  "company": "nvidia",
+  "first_seen": "2026-10-04T22:39:28+00:00",
+  "job_id": "/job/India-Bengaluru/Senior-Forward-Deployed-Architect--Generative-AI_JR2026694-1",
+  "location": "India, Bengaluru",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Forward Deployed Architect, Generative AI",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Forward-Deployed-Architect--Generative-AI_JR2026694-1"
  },
  "workday:nvidia:/job/India-Bengaluru/Senior-GPU-Compiler-Development-Engineer_JR2026886": {
   "company": "nvidia",
@@ -325538,6 +325668,16 @@
   "source": "workday",
   "title": "Verification Engineer, PCIE",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer--PCIE_JR2024943"
+ },
+ "workday:nvidia:/job/India-Bengaluru/Verification-Engineer--PCIE_JR2025159": {
+  "company": "nvidia",
+  "first_seen": "2026-10-04T22:39:28+00:00",
+  "job_id": "/job/India-Bengaluru/Verification-Engineer--PCIE_JR2025159",
+  "location": "India, Bengaluru",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Verification Engineer, PCIE",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Verification-Engineer--PCIE_JR2025159"
  },
  "workday:nvidia:/job/India-Bengaluru/Verification-Engineer--Performance_JR2014531": {
   "company": "nvidia",
