@@ -200009,6 +200009,16 @@
   "title": "Representative-Ins Claims",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014470"
  },
+ "oraclecloud:amex:26014484": {
+  "company": "amex",
+  "first_seen": "2026-10-04T16:21:37+00:00",
+  "job_id": "26014484",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-10-04",
+  "source": "oraclecloud",
+  "title": "Analyst-Control Managment",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014484"
+ },
  "oraclecloud:amex:26014487": {
   "company": "amex",
   "first_seen": "2026-09-30T03:31:49+00:00",
@@ -213188,6 +213198,16 @@
   "source": "workday",
   "title": "Information Security Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Information-Security-Engineer_2014031-1"
+ },
+ "workday:cisco:/job/Bangalore-India/Information-Security-Engineer_2021333-1": {
+  "company": "cisco",
+  "first_seen": "2026-10-04T16:16:54+00:00",
+  "job_id": "/job/Bangalore-India/Information-Security-Engineer_2021333-1",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Information Security Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Information-Security-Engineer_2021333-1"
  },
  "workday:cisco:/job/Bangalore-India/Inside-Account-Executive_2020999": {
   "company": "cisco",
