@@ -87839,6 +87839,16 @@
   "title": "Staff Product Manager, US Public Sector",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8831555002"
  },
+ "greenhouse:databricks:8839016002": {
+  "company": "databricks",
+  "first_seen": "2026-10-05T03:29:50+00:00",
+  "job_id": "8839016002",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-10-04T20:23:34-04:00",
+  "source": "greenhouse",
+  "title": "Sr. Manager, Sales Development",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8839016002"
+ },
  "greenhouse:databricks:8842226002": {
   "company": "databricks",
   "first_seen": "2026-09-25T16:18:27+00:00",
@@ -136069,6 +136079,16 @@
   "title": "Senior Analyst, Sales Strategy and Planning",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8231579"
  },
+ "greenhouse:mongodb:8234338": {
+  "company": "mongodb",
+  "first_seen": "2026-10-05T03:30:47+00:00",
+  "job_id": "8234338",
+  "location": "New York City",
+  "posted_at": "2026-10-04T19:52:00-04:00",
+  "source": "greenhouse",
+  "title": "Corporate Legal Director - Securities, M&A",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8234338"
+ },
  "greenhouse:mongodb:8238617": {
   "company": "mongodb",
   "first_seen": "2026-09-30T17:26:17+00:00",
@@ -145808,6 +145828,16 @@
   "source": "greenhouse",
   "title": "Staff Software Engineer-FullStack",
   "url": "https://www.okta.com/company/careers/opportunity/8242227?gh_jid=8242227"
+ },
+ "greenhouse:okta:8242557": {
+  "company": "okta",
+  "first_seen": "2026-10-05T03:34:05+00:00",
+  "job_id": "8242557",
+  "location": "Bengaluru, India",
+  "posted_at": "2026-10-04T22:58:50-04:00",
+  "source": "greenhouse",
+  "title": "Senior Software engineer - Advanced Threat Protection",
+  "url": "https://www.okta.com/company/careers/opportunity/8242557?gh_jid=8242557"
  },
  "greenhouse:okta:8242975": {
   "company": "okta",
@@ -229159,6 +229189,16 @@
   "title": "Analyst, Coverage Banker, Investment Banking",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Analyst--Coverage-Banker--Investment-Banking_26995937"
  },
+ "workday:citi:/job/Chiyoda-ku-Tokyo-Japan/Applications-Development-Programmer-Analyst--Assistant-Vice-President_26999687": {
+  "company": "citi",
+  "first_seen": "2026-10-05T03:32:18+00:00",
+  "job_id": "/job/Chiyoda-ku-Tokyo-Japan/Applications-Development-Programmer-Analyst--Assistant-Vice-President_26999687",
+  "location": "Chiyoda-ku Tokyo Japan",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Applications Development Programmer Analyst, Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Applications-Development-Programmer-Analyst--Assistant-Vice-President_26999687"
+ },
  "workday:citi:/job/Chiyoda-ku-Tokyo-Japan/Assistant-Operations-Manager--Global-Hospitality-Services_26977085-1": {
   "company": "citi",
   "first_seen": "2026-08-12T09:09:13+00:00",
@@ -255788,6 +255828,16 @@
   "source": "workday",
   "title": "Applications Development Sr Programmer Analyst",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Applications-Development-Sr-Programmer-Analyst_26987292"
+ },
+ "workday:citi:/job/Mississauga-Ontario-Canada/Applications-Development-Sr-Programmer-Analyst_26994848": {
+  "company": "citi",
+  "first_seen": "2026-10-05T03:32:18+00:00",
+  "job_id": "/job/Mississauga-Ontario-Canada/Applications-Development-Sr-Programmer-Analyst_26994848",
+  "location": "Mississauga Ontario Canada",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Applications Development Sr Programmer Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Applications-Development-Sr-Programmer-Analyst_26994848"
  },
  "workday:citi:/job/Mississauga-Ontario-Canada/Applications-Development-Tech-Lead-Analyst---VP_26982063": {
   "company": "citi",
@@ -293693,6 +293743,16 @@
   "company": "citi",
   "first_seen": "2026-09-23T19:27:11+00:00",
   "job_id": "26962072",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2"
+ },
+ "workday:citi:26963529": {
+  "company": "citi",
+  "first_seen": "2026-10-05T03:32:18+00:00",
+  "job_id": "26963529",
   "location": "",
   "posted_at": null,
   "source": "workday",
