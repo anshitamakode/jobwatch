@@ -111579,6 +111579,16 @@
   "title": "Immigration Program Manager",
   "url": "https://boards.greenhouse.io/figma/jobs/6173031004?gh_jid=6173031004"
  },
+ "greenhouse:figma:6174190004": {
+  "company": "figma",
+  "first_seen": "2026-10-11T23:26:06+00:00",
+  "job_id": "6174190004",
+  "location": "San Francisco, CA \u2022 New York, NY",
+  "posted_at": "2026-10-11T15:54:43-04:00",
+  "source": "greenhouse",
+  "title": "Early Career, Inside Sales Representative (2027)",
+  "url": "https://boards.greenhouse.io/figma/jobs/6174190004?gh_jid=6174190004"
+ },
  "greenhouse:figma:6176134004": {
   "company": "figma",
   "first_seen": "2026-09-01T22:21:46+00:00",
@@ -209149,6 +209159,16 @@
   "title": "Legal Operations Specialist",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014435"
  },
+ "oraclecloud:amex:26014437": {
+  "company": "amex",
+  "first_seen": "2026-10-11T23:26:29+00:00",
+  "job_id": "26014437",
+  "location": "LONDON, LONDON, United Kingdom, BRIGHTON, EAST SUSSEX, United Kingdom",
+  "posted_at": "2026-10-11",
+  "source": "oraclecloud",
+  "title": "Analyst, UK Chief Risk Officer, Ops Risk",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014437"
+ },
  "oraclecloud:amex:26014438": {
   "company": "amex",
   "first_seen": "2026-09-30T17:29:41+00:00",
@@ -210448,6 +210468,16 @@
   "source": "oraclecloud",
   "title": "Senior Java/ AI Engineer- Cybersecurity Engineer",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014819"
+ },
+ "oraclecloud:amex:26014821": {
+  "company": "amex",
+  "first_seen": "2026-10-11T23:26:29+00:00",
+  "job_id": "26014821",
+  "location": "Sydney, NSW, Australia",
+  "posted_at": "2026-10-11",
+  "source": "oraclecloud",
+  "title": "Marketing Coordinator, Paid Social & Content",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014821"
  },
  "oraclecloud:amex:26014826": {
   "company": "amex",
@@ -338199,6 +338229,16 @@
   "title": "Package Health Analyst",
   "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/Package-Health-Analyst_JR94013"
  },
+ "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Photolithography-Engineer_JR114481": {
+  "company": "micron",
+  "first_seen": "2026-10-11T23:25:19+00:00",
+  "job_id": "/job/Hyderabad---Phoenix-Aquila-India/Photolithography-Engineer_JR114481",
+  "location": "Hyderabad - Phoenix Aquila, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Photolithography Engineer",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/Photolithography-Engineer_JR114481"
+ },
  "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Postdoc---Advanced-Modeling-and-AI-Solutions_JR101206": {
   "company": "micron",
   "first_seen": "2026-08-09T16:05:04+00:00",
@@ -338288,6 +338328,16 @@
   "source": "workday",
   "title": "Principal Engineer \u2013 ASIC SoC Design",
   "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/Principal-Engineer---ASIC-SoC-Design_JR114305"
+ },
+ "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Principal-Engineer---ASIC-SoC-Design_JR114306": {
+  "company": "micron",
+  "first_seen": "2026-10-11T23:25:19+00:00",
+  "job_id": "/job/Hyderabad---Phoenix-Aquila-India/Principal-Engineer---ASIC-SoC-Design_JR114306",
+  "location": "Hyderabad - Phoenix Aquila, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Principal Engineer \u2013 ASIC SoC Design",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/Principal-Engineer---ASIC-SoC-Design_JR114306"
  },
  "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Principal-Engineer---Memory-Circuit-Design-Verification_JR100737": {
   "company": "micron",
@@ -342149,6 +342199,16 @@
   "title": "ASIC CAD Engineer, Clocks Methodology",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-CAD-Engineer--Clocks-Methodology_JR2025033"
  },
+ "workday:nvidia:/job/India-Bengaluru/ASIC-Design-Engineer---Performance-Monitoring_JR2027619": {
+  "company": "nvidia",
+  "first_seen": "2026-10-11T23:21:31+00:00",
+  "job_id": "/job/India-Bengaluru/ASIC-Design-Engineer---Performance-Monitoring_JR2027619",
+  "location": "India, Bengaluru",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "ASIC Design Engineer - Performance Monitoring",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/ASIC-Design-Engineer---Performance-Monitoring_JR2027619"
+ },
  "workday:nvidia:/job/India-Bengaluru/ASIC-Design-Engineer---RTL-and-Circuits_JR2023989": {
   "company": "nvidia",
   "first_seen": "2026-08-24T04:38:07+00:00",
@@ -342788,6 +342848,16 @@
   "source": "workday",
   "title": "Power Architecture Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Power-Architecture-Engineer_JR2025546"
+ },
+ "workday:nvidia:/job/India-Bengaluru/Power-Architecture-Engineer_JR2027560": {
+  "company": "nvidia",
+  "first_seen": "2026-10-11T23:21:31+00:00",
+  "job_id": "/job/India-Bengaluru/Power-Architecture-Engineer_JR2027560",
+  "location": "India, Bengaluru",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Power Architecture Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Power-Architecture-Engineer_JR2027560"
  },
  "workday:nvidia:/job/India-Bengaluru/SOC-Design-Engineer_JR2022433": {
   "company": "nvidia",
@@ -343859,6 +343929,16 @@
   "title": "Senior Software Engineer \u2013 Distributed Test Platform",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Software-Engineer---Distributed-Test-Platform_JR2016175"
  },
+ "workday:nvidia:/job/India-Bengaluru/Senior-Software-Engineer---IT-Infrastructure_JR2027113": {
+  "company": "nvidia",
+  "first_seen": "2026-10-11T23:21:31+00:00",
+  "job_id": "/job/India-Bengaluru/Senior-Software-Engineer---IT-Infrastructure_JR2027113",
+  "location": "India, Bengaluru",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Software Engineer - IT Infrastructure",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Software-Engineer---IT-Infrastructure_JR2027113"
+ },
  "workday:nvidia:/job/India-Bengaluru/Senior-Software-Engineer---NVEX_JR2025965": {
   "company": "nvidia",
   "first_seen": "2026-09-20T15:13:58+00:00",
@@ -344328,6 +344408,16 @@
   "source": "workday",
   "title": "Senior System Software Safety Engineer -  Halos Core and Robotics Platform",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-System-Software-Safety-Engineer----Halos-Core-and-Robotics-Platform_JR2023363-1"
+ },
+ "workday:nvidia:/job/India-Bengaluru/Senior-Systems-Software-Engineer--CUDA-Driver_JR2027290": {
+  "company": "nvidia",
+  "first_seen": "2026-10-11T23:21:31+00:00",
+  "job_id": "/job/India-Bengaluru/Senior-Systems-Software-Engineer--CUDA-Driver_JR2027290",
+  "location": "India, Bengaluru",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Systems Software Engineer, CUDA Driver",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Senior-Systems-Software-Engineer--CUDA-Driver_JR2027290"
  },
  "workday:nvidia:/job/India-Bengaluru/Senior-Technical-Program-Release-Manager_JR2021123": {
   "company": "nvidia",
@@ -345208,6 +345298,16 @@
   "source": "workday",
   "title": "Senior Solutions Architect Networking",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Mumbai/Senior-Solutions-Architect-Networking_JR2017796"
+ },
+ "workday:nvidia:/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1": {
+  "company": "nvidia",
+  "first_seen": "2026-10-11T23:21:31+00:00",
+  "job_id": "/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "CPU Compiler Intern - 2027",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/CPU-Compiler-Intern---2027_JR2027260-1"
  },
  "workday:nvidia:/job/India-Pune/Global-Trade-Compliance-Systems-Analyst_JR2015546-1": {
   "company": "nvidia",
