@@ -58109,6 +58109,16 @@
   "title": "Enterprise Account Executive",
   "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4738490005"
  },
+ "greenhouse:assemblyai:4743063005": {
+  "company": "assemblyai",
+  "first_seen": "2026-10-17T22:00:36+00:00",
+  "job_id": "4743063005",
+  "location": "San Francisco ",
+  "posted_at": "2026-10-17T15:31:42-04:00",
+  "source": "greenhouse",
+  "title": "Digital Native AI Account Executive",
+  "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4743063005"
+ },
  "greenhouse:assemblyai:4743504005": {
   "company": "assemblyai",
   "first_seen": "2026-10-15T22:55:18+00:00",
@@ -58148,6 +58158,16 @@
   "source": "greenhouse",
   "title": "Software Engineer, Agent Experience",
   "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4744387005"
+ },
+ "greenhouse:assemblyai:4744900005": {
+  "company": "assemblyai",
+  "first_seen": "2026-10-17T22:00:36+00:00",
+  "job_id": "4744900005",
+  "location": "New York",
+  "posted_at": "2026-10-17T15:36:48-04:00",
+  "source": "greenhouse",
+  "title": "Digital Native AI Account Executive",
+  "url": "https://job-boards.greenhouse.io/assemblyai/jobs/4744900005"
  },
  "greenhouse:atomicwork:4143684008": {
   "company": "atomicwork",
@@ -348258,6 +348278,16 @@
   "source": "workday",
   "title": "Specialist, Product Management",
   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Gurgaon-India/Specialist--Product-Management_R-289494"
+ },
+ "workday:mastercard:/job/Gurgaon-India/Specialist--Talent-Acquisition_R-292291": {
+  "company": "mastercard",
+  "first_seen": "2026-10-17T21:59:08+00:00",
+  "job_id": "/job/Gurgaon-India/Specialist--Talent-Acquisition_R-292291",
+  "location": "Gurgaon, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Specialist, Talent Acquisition",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Gurgaon-India/Specialist--Talent-Acquisition_R-292291"
  },
  "workday:mastercard:/job/Gurgaon-India/Specialist-Product-Management_R-280875": {
   "company": "mastercard",
