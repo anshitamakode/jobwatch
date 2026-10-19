@@ -14229,6 +14229,16 @@
   "title": "Legal Ops",
   "url": "https://jobs.ashbyhq.com/hex/214de87d-cc9b-406a-8a39-0ff441959c1d"
  },
+ "ashby:hex:25b3a855-0ab2-493b-aa5f-d4f266784cde": {
+  "company": "hex",
+  "first_seen": "2026-10-19T02:50:39+00:00",
+  "job_id": "25b3a855-0ab2-493b-aa5f-d4f266784cde",
+  "location": "Remote - US",
+  "posted_at": "2026-10-19T02:04:03.252+00:00",
+  "source": "ashby",
+  "title": "Revenue Operations Director",
+  "url": "https://jobs.ashbyhq.com/hex/25b3a855-0ab2-493b-aa5f-d4f266784cde"
+ },
  "ashby:hex:2a8b2c67-053a-4178-bd96-07deba8b7b9f": {
   "company": "hex",
   "first_seen": "2026-08-09T16:06:47+00:00",
@@ -18818,6 +18828,16 @@
   "source": "ashby",
   "title": "Software Engineer, AI Capture",
   "url": "https://jobs.ashbyhq.com/notion/b31ce253-4238-4ed6-a5a2-73b63cbf1709"
+ },
+ "ashby:notion:b393c25a-2ce7-458d-800a-bf9e75ed070b": {
+  "company": "notion",
+  "first_seen": "2026-10-19T02:50:16+00:00",
+  "job_id": "b393c25a-2ce7-458d-800a-bf9e75ed070b",
+  "location": "Tokyo, Japan ",
+  "posted_at": "2026-10-19T02:21:21.108+00:00",
+  "source": "ashby",
+  "title": "Sales Strategy & Operations Manager, APAC",
+  "url": "https://jobs.ashbyhq.com/notion/b393c25a-2ce7-458d-800a-bf9e75ed070b"
  },
  "ashby:notion:b49d4c15-d716-4a52-8858-1a89319f3191": {
   "company": "notion",
@@ -67709,6 +67729,16 @@
   "title": "Senior Forward Deployed Engineer",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8265704?gh_jid=8265704"
  },
+ "greenhouse:cloudflare:8266408": {
+  "company": "cloudflare",
+  "first_seen": "2026-10-19T02:50:01+00:00",
+  "job_id": "8266408",
+  "location": "Hybrid",
+  "posted_at": "2026-10-18T21:59:44-04:00",
+  "source": "greenhouse",
+  "title": "Partner Account Manager, Japan (Based in Tokyo)",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8266408?gh_jid=8266408"
+ },
  "greenhouse:cloudflare:8267396": {
   "company": "cloudflare",
   "first_seen": "2026-10-12T20:47:58+00:00",
@@ -81639,6 +81669,16 @@
   "title": "Staff Data Scientist (Selection)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8273297"
  },
+ "greenhouse:coupang:8273318": {
+  "company": "coupang",
+  "first_seen": "2026-10-19T02:46:12+00:00",
+  "job_id": "8273318",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-10-18T20:28:11-04:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321] Senior Manager, Logistics Security & Loss Prevention (West)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8273318"
+ },
  "greenhouse:coupang:8273414": {
   "company": "coupang",
   "first_seen": "2026-10-13T04:57:01+00:00",
@@ -81868,6 +81908,16 @@
   "source": "greenhouse",
   "title": "[Coupang] Senior Program Manager (Catalog Quality & Analytics)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8275940"
+ },
+ "greenhouse:coupang:8276002": {
+  "company": "coupang",
+  "first_seen": "2026-10-19T02:46:12+00:00",
+  "job_id": "8276002",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-10-18T20:09:21-04:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321] \uace0\uac1d \uc11c\ube44\uc2a4 \uc804\ubb38\uac00 (\ucfe0\ub2c8)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8276002"
  },
  "greenhouse:coupang:8276015": {
   "company": "coupang",
@@ -82099,6 +82149,16 @@
   "title": "[\ucfe0\ud321] \ub85c\ucf13\ubc30\uc1a1 \ub808\uc800/\uc2a4\ud3ec\uce20/\ucea0\ud551 \uc9c1\ub9e4\uc785MD,BM \ucc44\uc6a9 (\uacbd\ub825)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8288384"
  },
+ "greenhouse:coupang:8288472": {
+  "company": "coupang",
+  "first_seen": "2026-10-19T02:46:12+00:00",
+  "job_id": "8288472",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-10-18T20:54:32-04:00",
+  "source": "greenhouse",
+  "title": "Senior IT Internal Auditor",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8288472"
+ },
  "greenhouse:coupang:8288680": {
   "company": "coupang",
   "first_seen": "2026-10-16T15:55:19+00:00",
@@ -82128,6 +82188,26 @@
   "source": "greenhouse",
   "title": "Inventory Planning Manager (Retail/Home)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8299436"
+ },
+ "greenhouse:coupang:8299827": {
+  "company": "coupang",
+  "first_seen": "2026-10-19T02:46:12+00:00",
+  "job_id": "8299827",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-10-18T20:54:37-04:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321\ud480\ud544\uba3c\ud2b8\uc11c\ube44\uc2a4] \uc784\uc6d0 \ube44\uc11c (\uacc4\uc57d\uc9c1)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8299827"
+ },
+ "greenhouse:coupang:8299854": {
+  "company": "coupang",
+  "first_seen": "2026-10-19T02:46:12+00:00",
+  "job_id": "8299854",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-10-18T21:25:06-04:00",
+  "source": "greenhouse",
+  "title": "Inventory Planning Manager (Retail/Home)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8299854"
  },
  "greenhouse:databricks:4513122002": {
   "company": "databricks",
@@ -103148,6 +103228,16 @@
   "source": "greenhouse",
   "title": "Senior Manager, Product Design - Security",
   "url": "https://careers.datadoghq.com/detail/8281102/?gh_jid=8281102"
+ },
+ "greenhouse:datadog:8281450": {
+  "company": "datadog",
+  "first_seen": "2026-10-19T02:50:03+00:00",
+  "job_id": "8281450",
+  "location": "Singapore, Singapore",
+  "posted_at": "2026-10-18T21:32:38-04:00",
+  "source": "greenhouse",
+  "title": "Senior Payroll Specialist",
+  "url": "https://careers.datadoghq.com/detail/8281450/?gh_jid=8281450"
  },
  "greenhouse:datadog:8281751": {
   "company": "datadog",
@@ -125398,6 +125488,16 @@
   "source": "greenhouse",
   "title": "Regional Sales Director, National Security Group",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8858174002"
+ },
+ "greenhouse:gitlab:8858197002": {
+  "company": "gitlab",
+  "first_seen": "2026-10-19T02:47:14+00:00",
+  "job_id": "8858197002",
+  "location": "Remote, United States",
+  "posted_at": "2026-10-18T21:32:46-04:00",
+  "source": "greenhouse",
+  "title": "Strategic Account Executive, Northeast",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8858197002"
  },
  "greenhouse:gitlab:8859063002": {
   "company": "gitlab",
@@ -159829,6 +159929,26 @@
   "title": "Commercial Account Executive",
   "url": "https://www.okta.com/company/careers/opportunity/8288348?gh_jid=8288348"
  },
+ "greenhouse:okta:8288480": {
+  "company": "okta",
+  "first_seen": "2026-10-19T02:50:34+00:00",
+  "job_id": "8288480",
+  "location": "Tokyo, Japan",
+  "posted_at": "2026-10-18T19:19:38-04:00",
+  "source": "greenhouse",
+  "title": "Enterprise Account Executive, Auth0",
+  "url": "https://www.okta.com/company/careers/opportunity/8288480?gh_jid=8288480"
+ },
+ "greenhouse:okta:8288482": {
+  "company": "okta",
+  "first_seen": "2026-10-19T02:50:34+00:00",
+  "job_id": "8288482",
+  "location": "Tokyo, Japan",
+  "posted_at": "2026-10-18T19:22:07-04:00",
+  "source": "greenhouse",
+  "title": "Enterprise Account Executive, Auth0",
+  "url": "https://www.okta.com/company/careers/opportunity/8288482?gh_jid=8288482"
+ },
  "greenhouse:okta:8289109": {
   "company": "okta",
   "first_seen": "2026-10-16T22:28:59+00:00",
@@ -171389,6 +171509,16 @@
   "title": "Staff Android Engineer, Android Platform",
   "url": "https://job-boards.greenhouse.io/reddit/jobs/8275143"
  },
+ "greenhouse:reddit:8275745": {
+  "company": "reddit",
+  "first_seen": "2026-10-19T02:50:09+00:00",
+  "job_id": "8275745",
+  "location": "Remote - United States",
+  "posted_at": "2026-10-18T21:44:46-04:00",
+  "source": "greenhouse",
+  "title": "Software Engineer, Agent Optimization & Evaluation",
+  "url": "https://job-boards.greenhouse.io/reddit/jobs/8275745"
+ },
  "greenhouse:reddit:8275952": {
   "company": "reddit",
   "first_seen": "2026-10-13T15:34:42+00:00",
@@ -171448,6 +171578,16 @@
   "source": "greenhouse",
   "title": "Senior Software Engineer, ML Platform",
   "url": "https://job-boards.greenhouse.io/reddit/jobs/8283770"
+ },
+ "greenhouse:reddit:8299781": {
+  "company": "reddit",
+  "first_seen": "2026-10-19T02:50:09+00:00",
+  "job_id": "8299781",
+  "location": "Remote - United States",
+  "posted_at": "2026-10-18T19:58:34-04:00",
+  "source": "greenhouse",
+  "title": "Machine Learning Engineer, Answers Relevance",
+  "url": "https://job-boards.greenhouse.io/reddit/jobs/8299781"
  },
  "greenhouse:rubrik:2146030": {
   "company": "rubrik",
@@ -319089,6 +319229,16 @@
   "title": "Trader - Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sydney-New-South-Wales-Australia/Trader---Vice-President_26957404"
  },
+ "workday:citi:/job/Sydney-New-South-Wales-Australia/XMLNAME-2027-Australia-Coop-Placement_261000751": {
+  "company": "citi",
+  "first_seen": "2026-10-19T02:48:43+00:00",
+  "job_id": "/job/Sydney-New-South-Wales-Australia/XMLNAME-2027-Australia-Coop-Placement_261000751",
+  "location": "Sydney New South Wales Australia",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "2027 Australia Coop Placement",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Sydney-New-South-Wales-Australia/XMLNAME-2027-Australia-Coop-Placement_261000751"
+ },
  "workday:citi:/job/Syosset-New-York-United-States/Part-Time-Universal-Banker--20-Hours----Syosset-Branch_26986056-1": {
   "company": "citi",
   "first_seen": "2026-08-11T16:55:44+00:00",
@@ -320648,6 +320798,16 @@
   "source": "workday",
   "title": "TTLC Relationship Associate",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taguig--Philippines/TTLC-Relationship-Associate_26985228"
+ },
+ "workday:citi:/job/Taguig--Philippines/Technology---Infrastructure--Summer-Analyst--Internship---Philippines--2027_261002885": {
+  "company": "citi",
+  "first_seen": "2026-10-19T02:48:43+00:00",
+  "job_id": "/job/Taguig--Philippines/Technology---Infrastructure--Summer-Analyst--Internship---Philippines--2027_261002885",
+  "location": "Taguig  Philippines",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Technology - Infrastructure, Summer Analyst (Internship), Philippines, 2027",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taguig--Philippines/Technology---Infrastructure--Summer-Analyst--Internship---Philippines--2027_261002885"
  },
  "workday:citi:/job/Taguig--Philippines/VP-Liquidity-Product-Head--Services_26989829": {
   "company": "citi",
@@ -329183,6 +329343,16 @@
   "company": "citi",
   "first_seen": "2026-09-23T19:27:11+00:00",
   "job_id": "26985603",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2"
+ },
+ "workday:citi:26985652": {
+  "company": "citi",
+  "first_seen": "2026-10-19T02:48:43+00:00",
+  "job_id": "26985652",
   "location": "",
   "posted_at": null,
   "source": "workday",
@@ -341858,6 +342028,16 @@
   "source": "workday",
   "title": "Senior Manager, Financial Control",
   "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Colombo-Sri-Lanka/Senior-Manager--Financial-Control_R0122043-1"
+ },
+ "workday:lseg:/job/Colombo-Sri-Lanka/Team-Leader--KYC-Operations_R0123222-1": {
+  "company": "lseg",
+  "first_seen": "2026-10-19T02:46:07+00:00",
+  "job_id": "/job/Colombo-Sri-Lanka/Team-Leader--KYC-Operations_R0123222-1",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Team Leader, KYC Operations",
+  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/Colombo-Sri-Lanka/Team-Leader--KYC-Operations_R0123222-1"
  },
  "workday:lseg:/job/GBR-London-10-Paternoster-Square/Academia-Strategy-Senior-Manager_R0115297-1": {
   "company": "lseg",
@@ -360948,6 +361128,16 @@
   "source": "workday",
   "title": "Sr. Engineer, Mechanical & HVAC",
   "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303C---FacilitiesConstruction-India/Sr-Engineer--Mechanical---HVAC_JR111947"
+ },
+ "workday:micron:/job/Sanand---303C---FacilitiesConstruction-India/Staff-Engineer--Projects-Mechanical_JR113756": {
+  "company": "micron",
+  "first_seen": "2026-10-19T02:49:13+00:00",
+  "job_id": "/job/Sanand---303C---FacilitiesConstruction-India/Staff-Engineer--Projects-Mechanical_JR113756",
+  "location": "Sanand - 303C - Facilities/Construction, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Engineer, Projects Mechanical",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303C---FacilitiesConstruction-India/Staff-Engineer--Projects-Mechanical_JR113756"
  },
  "workday:micron:/job/Sanand---303C---FacilitiesConstruction-India/Staff-Engineer-Electrical-Design_JR106798": {
   "company": "micron",
@@ -384549,6 +384739,16 @@
   "title": "Service & Engagement Team Leader - Evansville, IN",
   "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/4000-1st-Ave-EvansvilleIN-47710-3614/Service---Engagement-Team-Leader---Evansville--IN_R0000447853"
  },
+ "workday:target:/job/4000-1st-Ave-EvansvilleIN-47710-3614/Service---Engagement-Team-Leader_R0000477843": {
+  "company": "target",
+  "first_seen": "2026-10-19T02:46:44+00:00",
+  "job_id": "/job/4000-1st-Ave-EvansvilleIN-47710-3614/Service---Engagement-Team-Leader_R0000477843",
+  "location": "4000 1st Ave, Evansville,IN 47710-3614",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Service & Engagement Team Leader",
+  "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/4000-1st-Ave-EvansvilleIN-47710-3614/Service---Engagement-Team-Leader_R0000477843"
+ },
  "workday:target:/job/4000-1st-Ave-EvansvilleIN-47710-3614/Specialty-Sales--Style--Tech--Beauty---T0108-_R0000406774": {
   "company": "target",
   "first_seen": "2026-08-09T16:02:55+00:00",
@@ -390468,6 +390668,16 @@
   "source": "workday",
   "title": "Sr Partner Account Manager",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Australia-NSW-North-Sydney/Sr-Partner-Account-Manager_JR-0107420-1"
+ },
+ "workday:workday:/job/Australia-NSW-North-Sydney/Sr-Solution-Consultant_JR-0110890": {
+  "company": "workday",
+  "first_seen": "2026-10-19T02:50:00+00:00",
+  "job_id": "/job/Australia-NSW-North-Sydney/Sr-Solution-Consultant_JR-0110890",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Solution Consultant",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Australia-NSW-North-Sydney/Sr-Solution-Consultant_JR-0110890"
  },
  "workday:workday:/job/Australia-NSW-North-Sydney/Sr-Technical-Consultant---Paradox_JR-0109595": {
   "company": "workday",
