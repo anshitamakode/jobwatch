@@ -44539,6 +44539,16 @@
   "title": "Platform Engineer, Managed Postgres",
   "url": "https://jobs.ashbyhq.com/supabase/9073c0cd-2545-473a-b2ac-63e4615c69b5"
  },
+ "ashby:supabase:950e8ffc-79a5-4626-b1dd-115fcbcddad0": {
+  "company": "supabase",
+  "first_seen": "2026-10-24T18:35:58+00:00",
+  "job_id": "950e8ffc-79a5-4626-b1dd-115fcbcddad0",
+  "location": "Remote, Global",
+  "posted_at": "2026-10-24T16:04:20.762+00:00",
+  "source": "ashby",
+  "title": "Data API Engineer",
+  "url": "https://jobs.ashbyhq.com/supabase/950e8ffc-79a5-4626-b1dd-115fcbcddad0"
+ },
  "ashby:supabase:9773ea1b-e25b-437c-bdbd-3fce0c69101e": {
   "company": "supabase",
   "first_seen": "2026-08-21T12:37:58+00:00",
@@ -44608,6 +44618,16 @@
   "source": "ashby",
   "title": "Head of AI Native Operations",
   "url": "https://jobs.ashbyhq.com/supabase/9c04bc60-78a1-4529-950d-4704ab475764"
+ },
+ "ashby:supabase:9f2ba0b2-6d3b-43ea-990f-5b4bf3930520": {
+  "company": "supabase",
+  "first_seen": "2026-10-24T18:35:58+00:00",
+  "job_id": "9f2ba0b2-6d3b-43ea-990f-5b4bf3930520",
+  "location": "Remote, Global",
+  "posted_at": "2026-10-24T16:13:28.579+00:00",
+  "source": "ashby",
+  "title": "Software Engineer - Storage",
+  "url": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520"
  },
  "ashby:supabase:a069c886-1107-408e-88b4-e1aa8d33d4bc": {
   "company": "supabase",
@@ -60408,6 +60428,16 @@
   "source": "greenhouse",
   "title": "Business Value Consultant",
   "url": "https://www.asana.com/jobs/apply/8282374?gh_jid=8282374"
+ },
+ "greenhouse:asana:8282522": {
+  "company": "asana",
+  "first_seen": "2026-10-24T18:35:40+00:00",
+  "job_id": "8282522",
+  "location": "San Francisco",
+  "posted_at": "2026-10-24T12:11:49-04:00",
+  "source": "greenhouse",
+  "title": "Corporate and Strategic Finance, FP&A",
+  "url": "https://www.asana.com/jobs/apply/8282522?gh_jid=8282522"
  },
  "greenhouse:asana:8282574": {
   "company": "asana",
@@ -179519,6 +179549,16 @@
   "title": "Manager, EMEA Community (Contract)",
   "url": "https://job-boards.greenhouse.io/reddit/jobs/8318010"
  },
+ "greenhouse:reddit:8319655": {
+  "company": "reddit",
+  "first_seen": "2026-10-24T18:35:48+00:00",
+  "job_id": "8319655",
+  "location": "Remote - United States",
+  "posted_at": "2026-10-24T12:34:49-04:00",
+  "source": "greenhouse",
+  "title": "Software Engineer, Ad Signals",
+  "url": "https://job-boards.greenhouse.io/reddit/jobs/8319655"
+ },
  "greenhouse:rubrik:2146030": {
   "company": "rubrik",
   "first_seen": "2026-08-09T16:03:14+00:00",
@@ -196438,6 +196478,16 @@
   "source": "greenhouse",
   "title": "Vice President, Business Development, Financial Services (BFSI)",
   "url": "https://job-boards.greenhouse.io/turing/jobs/6233037004"
+ },
+ "greenhouse:turing:6234003004": {
+  "company": "turing",
+  "first_seen": "2026-10-24T18:35:51+00:00",
+  "job_id": "6234003004",
+  "location": "Dallas, Texas, United States",
+  "posted_at": "2026-10-24T12:18:40-04:00",
+  "source": "greenhouse",
+  "title": "Enterprise AI - Account Director - Consumer Packaged Goods",
+  "url": "https://job-boards.greenhouse.io/turing/jobs/6234003004"
  },
  "greenhouse:twilio:6372770": {
   "company": "twilio",
@@ -319249,6 +319299,16 @@
   "title": "Angular Developer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Angular-Developer_26977063"
  },
+ "workday:citi:/job/Pune-Maharashtra-India/Angular-Full-Stack-Developer_261000266": {
+  "company": "citi",
+  "first_seen": "2026-10-24T18:34:24+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Angular-Full-Stack-Developer_261000266",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Angular Full Stack Developer",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Angular-Full-Stack-Developer_261000266"
+ },
  "workday:citi:/job/Pune-Maharashtra-India/Angular-Java-Fullstack-Expert-Assistant-Vice-President_26989445": {
   "company": "citi",
   "first_seen": "2026-09-03T08:30:42+00:00",
@@ -417418,6 +417478,16 @@
   "source": "workday",
   "title": "Senior Software Engineer(Distributed Systems)",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Software-Engineer-Distributed-Systems-_JR-0109643"
+ },
+ "workday:workday:/job/USA-CA-Pleasanton/Senior-Software-Engineer-Distributed-Systems-_JR-0110618": {
+  "company": "workday",
+  "first_seen": "2026-10-24T18:35:39+00:00",
+  "job_id": "/job/USA-CA-Pleasanton/Senior-Software-Engineer-Distributed-Systems-_JR-0110618",
+  "location": "USA, CA, Pleasanton",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Software Engineer(Distributed Systems)",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Software-Engineer-Distributed-Systems-_JR-0110618"
  },
  "workday:workday:/job/USA-CA-Pleasanton/Senior-Software-Engineer-Software-Engineer-III--Data-Engineering-_JR-0106163": {
   "company": "workday",
