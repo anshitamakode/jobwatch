@@ -222869,6 +222869,16 @@
   "title": "Team Assistant",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013308"
  },
+ "oraclecloud:amex:26013312": {
+  "company": "amex",
+  "first_seen": "2026-10-24T08:38:25+00:00",
+  "job_id": "26013312",
+  "location": "Chennai, TN, India",
+  "posted_at": "2026-10-24",
+  "source": "oraclecloud",
+  "title": "Senior Site Reliability Engineer I",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013312"
+ },
  "oraclecloud:amex:26013314": {
   "company": "amex",
   "first_seen": "2026-09-02T08:22:50+00:00",
@@ -272789,6 +272799,16 @@
   "title": "CITI Product Control Analyst II - C10",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/CITI-Product-Control-Analyst-II---C10_26990143"
  },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/CRIU-Analyst---C10---Ciudad-De-Mexico_261002148": {
+  "company": "citi",
+  "first_seen": "2026-10-24T08:36:42+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/CRIU-Analyst---C10---Ciudad-De-Mexico_261002148",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Yesterday",
+  "source": "workday",
+  "title": "CRIU Analyst - C10 - Ciudad De Mexico",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/CRIU-Analyst---C10---Ciudad-De-Mexico_261002148"
+ },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/CSIS-Security-Manager--Physical-Security-_26995254": {
   "company": "citi",
   "first_seen": "2026-09-22T22:40:28+00:00",
@@ -318938,6 +318958,16 @@
   "source": "workday",
   "title": "Banamex Volante For\u00e1neo Distrito Yucat\u00e1n sede Progreso",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Progreso-Yucatan-Mexico/Banamex-Volante-Forneo-Distrito-Yucatn-sede-Progreso_26988452-1"
+ },
+ "workday:citi:/job/Puebla-Puebla-Mexico/BANAMEX-Analista-de-Prevencin-de-Lavado-de-Dinero_261001913": {
+  "company": "citi",
+  "first_seen": "2026-10-24T08:36:42+00:00",
+  "job_id": "/job/Puebla-Puebla-Mexico/BANAMEX-Analista-de-Prevencin-de-Lavado-de-Dinero_261001913",
+  "location": "Puebla Puebla Mexico",
+  "posted_at": "Posted Yesterday",
+  "source": "workday",
+  "title": "BANAMEX Analista de Prevenci\u00f3n de Lavado de Dinero",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Puebla-Puebla-Mexico/BANAMEX-Analista-de-Prevencin-de-Lavado-de-Dinero_261001913"
  },
  "workday:citi:/job/Puebla-Puebla-Mexico/BANAMEX-OPERADOR-CAJERO-PUEBLA-LAS-FUENTES_26993091": {
   "company": "citi",
@@ -411118,6 +411148,16 @@
   "source": "workday",
   "title": "",
   "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers"
+ },
+ "workday:workday:/job/Associate-General-Counsel--Global-Legal-Services_JR-0110527": {
+  "company": "workday",
+  "first_seen": "2026-10-24T08:37:58+00:00",
+  "job_id": "/job/Associate-General-Counsel--Global-Legal-Services_JR-0110527",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/Associate-General-Counsel--Global-Legal-Services_JR-0110527"
  },
  "workday:workday:/job/Australia-NSW-North-Sydney/Business-Development-Representative---Supporting-ANZ_JR-0104274": {
   "company": "workday",
