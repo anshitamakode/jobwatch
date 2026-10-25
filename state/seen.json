@@ -122009,6 +122009,16 @@
   "title": "Account Executive, Federal - State & Local",
   "url": "https://boards.greenhouse.io/figma/jobs/6230952004?gh_jid=6230952004"
  },
+ "greenhouse:figma:6233207004": {
+  "company": "figma",
+  "first_seen": "2026-10-25T22:18:39+00:00",
+  "job_id": "6233207004",
+  "location": "Singapore",
+  "posted_at": "2026-10-25T17:43:33-04:00",
+  "source": "greenhouse",
+  "title": "Technical Quality Specialist - Figma Weave (Singapore) ",
+  "url": "https://boards.greenhouse.io/figma/jobs/6233207004?gh_jid=6233207004"
+ },
  "greenhouse:fivetran:4289730003": {
   "company": "fivetran",
   "first_seen": "2026-08-09T16:05:49+00:00",
@@ -350409,6 +350419,16 @@
   "title": "Manager- Technical Support",
   "url": "https://forcepoint.wd1.myworkdayjobs.com/en-US/external-careers/job/Flex---Helsinki/Manager--Technical-Support_JR467657"
  },
+ "workday:forcepoint:/job/Flex---Helsinki/Principal-Software-Development-Engineer_JR467734-1": {
+  "company": "forcepoint",
+  "first_seen": "2026-10-25T22:14:30+00:00",
+  "job_id": "/job/Flex---Helsinki/Principal-Software-Development-Engineer_JR467734-1",
+  "location": "Flex - Helsinki",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Principal Software Development Engineer",
+  "url": "https://forcepoint.wd1.myworkdayjobs.com/en-US/external-careers/job/Flex---Helsinki/Principal-Software-Development-Engineer_JR467734-1"
+ },
  "workday:forcepoint:/job/Flex---Helsinki/Principal-Software-Engineer_JR467701-1": {
   "company": "forcepoint",
   "first_seen": "2026-09-23T15:55:41+00:00",
@@ -359168,6 +359188,16 @@
   "source": "workday",
   "title": "Senior Cloud Developer",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Hyderabad-Andhra-Pradesh/Senior-Cloud-Developer_1204922-3"
+ },
+ "workday:hpe:/job/Hyderabad-Telangana-India/Cloud-Developer---Golang_1217254-2": {
+  "company": "hpe",
+  "first_seen": "2026-10-25T22:14:16+00:00",
+  "job_id": "/job/Hyderabad-Telangana-India/Cloud-Developer---Golang_1217254-2",
+  "location": "Hyderabad, Telangana, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Cloud Developer - Golang",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Hyderabad-Telangana-India/Cloud-Developer---Golang_1217254-2"
  },
  "workday:hpe:/job/Hyderabad-Telangana-India/Cloud-Developer-III_1216970-2": {
   "company": "hpe",
@@ -377059,6 +377089,16 @@
   "title": "Principal Solution Architect \u2013 Agentic AI",
   "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/Principal-Solution-Architect---Agentic-AI_JR111256"
  },
+ "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Process-Control-System-Engineer_JR105476-1": {
+  "company": "micron",
+  "first_seen": "2026-10-25T22:17:33+00:00",
+  "job_id": "/job/Hyderabad---Phoenix-Aquila-India/Process-Control-System-Engineer_JR105476-1",
+  "location": "Hyderabad - Phoenix Aquila, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Process Control System Engineer",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/Process-Control-System-Engineer_JR105476-1"
+ },
  "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Procurement-SAP-S4-Hana-Analyst_JR89030-1": {
   "company": "micron",
   "first_seen": "2026-08-09T16:05:04+00:00",
@@ -384928,6 +384968,16 @@
   "source": "workday",
   "title": "Senior System Software Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Senior-System-Software-Engineer_JR2026404"
+ },
+ "workday:nvidia:/job/India-Pune/Senior-System-Software-Engineer_JR2028521": {
+  "company": "nvidia",
+  "first_seen": "2026-10-25T22:13:31+00:00",
+  "job_id": "/job/India-Pune/Senior-System-Software-Engineer_JR2028521",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior System Software Engineer",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Senior-System-Software-Engineer_JR2028521"
  },
  "workday:nvidia:/job/India-Pune/Senior-Systems-Software-Engineer--Developer-Productivity-and-Cloud-Automation---GeForce-NOW_JR2021957": {
   "company": "nvidia",
