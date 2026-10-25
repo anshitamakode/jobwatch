@@ -85319,6 +85319,16 @@
   "title": "[\ucfe0\ud321] \uad6c\ub9e4 \uc804\ubb38\uac00 (HR & Employee Benefits)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8284702"
  },
+ "greenhouse:coupang:8287891": {
+  "company": "coupang",
+  "first_seen": "2026-10-25T08:53:21+00:00",
+  "job_id": "8287891",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-10-25T03:25:14-04:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321] \ubb3c\ub958\ubd80\ub3d9\uc0b0 \uac1c\ubc1c \ubc0f \ud22c\uc790 \uc804\ubb38\uac00 \ucc44\uc6a9",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8287891"
+ },
  "greenhouse:coupang:8287908": {
   "company": "coupang",
   "first_seen": "2026-10-19T09:30:44+00:00",
@@ -99198,6 +99208,16 @@
   "source": "greenhouse",
   "title": "Solutions Architect - Digital Native Business, Named Accounts",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8877968002"
+ },
+ "greenhouse:databricks:8878066002": {
+  "company": "databricks",
+  "first_seen": "2026-10-25T08:53:19+00:00",
+  "job_id": "8878066002",
+  "location": "Singapore",
+  "posted_at": "2026-10-25T01:39:28-04:00",
+  "source": "greenhouse",
+  "title": "Hunter Account Executive - Indonesia",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8878066002"
  },
  "greenhouse:databricks:8878095002": {
   "company": "databricks",
@@ -251269,6 +251289,16 @@
   "title": "Software Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer_2027065"
  },
+ "workday:cisco:/job/Bangalore-India/Software-Engineer_2027271-1": {
+  "company": "cisco",
+  "first_seen": "2026-10-25T08:52:42+00:00",
+  "job_id": "/job/Bangalore-India/Software-Engineer_2027271-1",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer_2027271-1"
+ },
  "workday:cisco:/job/Bangalore-India/Software-Engineer_2027309-1": {
   "company": "cisco",
   "first_seen": "2026-10-13T15:29:23+00:00",
@@ -251308,6 +251338,16 @@
   "source": "workday",
   "title": "Software Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer_2028048-1"
+ },
+ "workday:cisco:/job/Bangalore-India/Software-Engineer_2028667-1": {
+  "company": "cisco",
+  "first_seen": "2026-10-25T08:52:42+00:00",
+  "job_id": "/job/Bangalore-India/Software-Engineer_2028667-1",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer_2028667-1"
  },
  "workday:cisco:/job/Bangalore-India/Software-Engineering-Platform-Technical-Leader_2022086": {
   "company": "cisco",
