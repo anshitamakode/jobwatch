@@ -499,6 +499,16 @@
   "title": "Director of Strategic Sales",
   "url": "https://jobs.ashbyhq.com/abridge/9f8b30d1-e88a-4b44-9b45-3ceced4d39a7"
  },
+ "ashby:abridge:9fca445b-16e9-4a49-986f-f107a29b56ae": {
+  "company": "abridge",
+  "first_seen": "2026-10-28T03:34:56+00:00",
+  "job_id": "9fca445b-16e9-4a49-986f-f107a29b56ae",
+  "location": "SF Office",
+  "posted_at": "2026-10-28T00:19:12.466+00:00",
+  "source": "ashby",
+  "title": "Manager of Physical Security",
+  "url": "https://jobs.ashbyhq.com/abridge/9fca445b-16e9-4a49-986f-f107a29b56ae"
+ },
  "ashby:abridge:a07ba724-2044-482e-b817-eecde7ef85ae": {
   "company": "abridge",
   "first_seen": "2026-08-09T16:06:46+00:00",
@@ -4508,6 +4518,16 @@
   "source": "ashby",
   "title": "Data Annotation Specialist, Software Engineering",
   "url": "https://jobs.ashbyhq.com/cohere/5d31ba60-683a-4d59-8059-3f728b772a9e"
+ },
+ "ashby:cohere:5da754e4-d83a-4d91-b6fe-a128227ae609": {
+  "company": "cohere",
+  "first_seen": "2026-10-28T03:34:35+00:00",
+  "job_id": "5da754e4-d83a-4d91-b6fe-a128227ae609",
+  "location": "Toronto",
+  "posted_at": "2026-10-28T02:52:40.421+00:00",
+  "source": "ashby",
+  "title": "Talent Sourcer, Tech",
+  "url": "https://jobs.ashbyhq.com/cohere/5da754e4-d83a-4d91-b6fe-a128227ae609"
  },
  "ashby:cohere:60de50e9-aba7-4a3a-8cdb-955a456749aa": {
   "company": "cohere",
@@ -8729,6 +8749,16 @@
   "title": "Account Executive, SMB (Portuguese Speaking)",
   "url": "https://jobs.ashbyhq.com/harvey/214e8a77-88c5-42da-b142-74bb7a890063"
  },
+ "ashby:harvey:21e7d9f0-4d47-435e-8acf-c220b6bd720c": {
+  "company": "harvey",
+  "first_seen": "2026-10-28T03:34:35+00:00",
+  "job_id": "21e7d9f0-4d47-435e-8acf-c220b6bd720c",
+  "location": "Singapore",
+  "posted_at": "2026-10-28T01:53:23.706+00:00",
+  "source": "ashby",
+  "title": "Executive Assistant, APAC",
+  "url": "https://jobs.ashbyhq.com/harvey/21e7d9f0-4d47-435e-8acf-c220b6bd720c"
+ },
  "ashby:harvey:22635945-1052-45e7-9b13-f94aabce8e9b": {
   "company": "harvey",
   "first_seen": "2026-08-09T16:06:00+00:00",
@@ -9508,6 +9538,16 @@
   "source": "ashby",
   "title": "Senior Designer",
   "url": "https://jobs.ashbyhq.com/harvey/3feed577-6157-4fb4-b416-d4f493e1eb5c"
+ },
+ "ashby:harvey:400a2ac7-4e79-492b-b742-a0c3315b0c16": {
+  "company": "harvey",
+  "first_seen": "2026-10-28T03:34:35+00:00",
+  "job_id": "400a2ac7-4e79-492b-b742-a0c3315b0c16",
+  "location": "London",
+  "posted_at": "2026-10-28T00:07:40.706+00:00",
+  "source": "ashby",
+  "title": "Transformation Advisory Lead, Strategy & Economics, EMEA",
+  "url": "https://jobs.ashbyhq.com/harvey/400a2ac7-4e79-492b-b742-a0c3315b0c16"
  },
  "ashby:harvey:40239019-ff5f-40eb-bace-15370134d647": {
   "company": "harvey",
@@ -23749,6 +23789,16 @@
   "title": "Product Reliability Engineer ",
   "url": "https://jobs.ashbyhq.com/openai/30a1d941-f12c-4589-a7a0-dad116b9aa33"
  },
+ "ashby:openai:30b0a80b-8421-4847-a670-5bd09920c4ce": {
+  "company": "openai",
+  "first_seen": "2026-10-28T03:30:32+00:00",
+  "job_id": "30b0a80b-8421-4847-a670-5bd09920c4ce",
+  "location": "San Francisco",
+  "posted_at": "2026-10-28T00:18:51.154+00:00",
+  "source": "ashby",
+  "title": "Motion Designer",
+  "url": "https://jobs.ashbyhq.com/openai/30b0a80b-8421-4847-a670-5bd09920c4ce"
+ },
  "ashby:openai:30c99158-616b-4c48-ac01-c46300116c64": {
   "company": "openai",
   "first_seen": "2026-10-09T14:53:12+00:00",
@@ -33148,6 +33198,16 @@
   "source": "ashby",
   "title": "Software Engineer, Observability",
   "url": "https://jobs.ashbyhq.com/openai/d4dcd344-40cf-44d6-a7dd-172118eb0842"
+ },
+ "ashby:openai:d4fed8a0-cf2a-49b1-b216-80d710827e16": {
+  "company": "openai",
+  "first_seen": "2026-10-28T03:30:32+00:00",
+  "job_id": "d4fed8a0-cf2a-49b1-b216-80d710827e16",
+  "location": "Singapore",
+  "posted_at": "2026-10-27T23:57:45.847+00:00",
+  "source": "ashby",
+  "title": "Support Vendor Manager, APAC",
+  "url": "https://jobs.ashbyhq.com/openai/d4fed8a0-cf2a-49b1-b216-80d710827e16"
  },
  "ashby:openai:d5331989-2a73-446c-be86-ca5379f27563": {
   "company": "openai",
@@ -86969,6 +87029,16 @@
   "title": "Senior Principal, Legal Counsel (Technology)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8300097"
  },
+ "greenhouse:coupang:8300309": {
+  "company": "coupang",
+  "first_seen": "2026-10-28T03:30:30+00:00",
+  "job_id": "8300309",
+  "location": "Taipei, Taiwan",
+  "posted_at": "2026-10-27T19:36:47-04:00",
+  "source": "greenhouse",
+  "title": "Director, Security Engineering, Taiwan",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8300309"
+ },
  "greenhouse:coupang:8302443": {
   "company": "coupang",
   "first_seen": "2026-10-20T09:04:14+00:00",
@@ -87239,6 +87309,16 @@
   "title": "[\ucfe0\ud321\ub85c\uc9c0\uc2a4\ud2f1\uc2a4\uc11c\ube44\uc2a4] \ubcf4\uac74\uad00\ub9ac\uc790 (\uc548\uc0b01 / \uacc4\uc57d\uc9c1)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317520"
  },
+ "greenhouse:coupang:8317549": {
+  "company": "coupang",
+  "first_seen": "2026-10-28T03:30:30+00:00",
+  "job_id": "8317549",
+  "location": "Taipei, Taiwan",
+  "posted_at": "2026-10-27T22:22:27-04:00",
+  "source": "greenhouse",
+  "title": "Dynamic CS Training Leader - Senior Manager",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8317549"
+ },
  "greenhouse:coupang:8317653": {
   "company": "coupang",
   "first_seen": "2026-10-23T16:15:59+00:00",
@@ -87368,6 +87448,16 @@
   "source": "greenhouse",
   "title": "[\ucfe0\ud321] \ubcf8\uc0ac \uace0\uac1d \ubbfc\uc6d0 \uc804\ub2f4 \uc0c1\ub2f4\uc0ac (\uc7ac\ud0dd\uadfc\ubb34)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8326697"
+ },
+ "greenhouse:coupang:8329714": {
+  "company": "coupang",
+  "first_seen": "2026-10-28T03:30:30+00:00",
+  "job_id": "8329714",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-10-27T21:27:43-04:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321\ud50c\ub808\uc774] TVOD (\uac1c\ubcc4\uad6c\ub9e4) \ucf58\ud150\uce20 \uc6b4\uc601 \ub9e4\ub2c8\uc800 (\uacc4\uc57d\uc9c1/1\ub144)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8329714"
  },
  "greenhouse:databricks:4513122002": {
   "company": "databricks",
@@ -185329,6 +185419,16 @@
   "title": "Cloud Architect, Product Management",
   "url": "https://www.rubrik.com/company/careers/departments/job.8314327?gh_jid=8314327"
  },
+ "greenhouse:rubrik:8317294": {
+  "company": "rubrik",
+  "first_seen": "2026-10-28T03:31:29+00:00",
+  "job_id": "8317294",
+  "location": "Bangalore",
+  "posted_at": "2026-10-27T20:39:41-04:00",
+  "source": "greenhouse",
+  "title": "Senior Renewals Operations Analyst ",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8317294?gh_jid=8317294"
+ },
  "greenhouse:rubrik:8324419": {
   "company": "rubrik",
   "first_seen": "2026-10-27T23:27:01+00:00",
@@ -234889,6 +234989,16 @@
   "title": "Sr.Analyst-Data Science",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015110"
  },
+ "oraclecloud:amex:26015112": {
+  "company": "amex",
+  "first_seen": "2026-10-28T03:34:48+00:00",
+  "job_id": "26015112",
+  "location": "Sydney, NSW, Australia",
+  "posted_at": "2026-10-28",
+  "source": "oraclecloud",
+  "title": "Director, Complaint Operations ANZ",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015112"
+ },
  "oraclecloud:amex:26015114": {
   "company": "amex",
   "first_seen": "2026-10-09T14:57:54+00:00",
@@ -236599,6 +236709,16 @@
   "title": "Senior Manager, Product Commercialization",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015559"
  },
+ "oraclecloud:amex:26015560": {
+  "company": "amex",
+  "first_seen": "2026-10-28T03:34:48+00:00",
+  "job_id": "26015560",
+  "location": "Taguig City, Manila, Philippines",
+  "posted_at": "2026-10-28",
+  "source": "oraclecloud",
+  "title": "Travel Counselor",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015560"
+ },
  "oraclecloud:amex:26015562": {
   "company": "amex",
   "first_seen": "2026-10-27T09:36:04+00:00",
@@ -236709,6 +236829,16 @@
   "title": "Manager - Software Engineering",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015605"
  },
+ "oraclecloud:amex:26015612": {
+  "company": "amex",
+  "first_seen": "2026-10-28T03:34:48+00:00",
+  "job_id": "26015612",
+  "location": "Taguig City, Manila, Philippines",
+  "posted_at": "2026-10-28",
+  "source": "oraclecloud",
+  "title": "Technology Associate",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015612"
+ },
  "oraclecloud:amex:26015614": {
   "company": "amex",
   "first_seen": "2026-10-27T17:17:34+00:00",
@@ -236799,6 +236929,16 @@
   "title": "Analyst - Control Management (International Operational Resilience)",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015666"
  },
+ "oraclecloud:amex:26015683": {
+  "company": "amex",
+  "first_seen": "2026-10-28T03:34:48+00:00",
+  "job_id": "26015683",
+  "location": "Taguig City, Manila, Philippines",
+  "posted_at": "2026-10-28",
+  "source": "oraclecloud",
+  "title": "Talent Acquisition Partner",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015683"
+ },
  "oraclecloud:amex:26015688": {
   "company": "amex",
   "first_seen": "2026-10-23T22:54:27+00:00",
@@ -236878,6 +237018,16 @@
   "source": "oraclecloud",
   "title": "Senior Analyst - Control Management (International Operational Resilience)",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015736"
+ },
+ "oraclecloud:amex:26015752": {
+  "company": "amex",
+  "first_seen": "2026-10-28T03:34:48+00:00",
+  "job_id": "26015752",
+  "location": "Sunnyvale, CA, United States, New York, NY, United States, Sunrise, FL, United States, Phoenix, AZ, United States",
+  "posted_at": "2026-10-28",
+  "source": "oraclecloud",
+  "title": "Director-Digital Product Management - Enterprise AI Platforms",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015752"
  },
  "oraclecloud:amex:26015776": {
   "company": "amex",
@@ -258219,6 +258369,16 @@
   "title": "Technical Systems Engineer (Pune) - Splunk",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Pune-India/Technical-Systems-Engineer--Pune----Splunk_2021295-1"
  },
+ "workday:cisco:/job/Pune-India/XMLNAME-2013158-ASIC-Engineering-Analog-Design-Leader---high-speed-optical-transceiver-circuits--modulator-drivers--TIAs--CDRs--PLLs--ADC-DAC----10--years_2025120-1": {
+  "company": "cisco",
+  "first_seen": "2026-10-28T03:29:45+00:00",
+  "job_id": "/job/Pune-India/XMLNAME-2013158-ASIC-Engineering-Analog-Design-Leader---high-speed-optical-transceiver-circuits--modulator-drivers--TIAs--CDRs--PLLs--ADC-DAC----10--years_2025120-1",
+  "location": "Pune, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "ASIC Engineering Analog Design Leader | high-speed optical transceiver circuits (modulator drivers, TIAs, CDRs, PLLs, ADC/DAC) | 10+ years",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Pune-India/XMLNAME-2013158-ASIC-Engineering-Analog-Design-Leader---high-speed-optical-transceiver-circuits--modulator-drivers--TIAs--CDRs--PLLs--ADC-DAC----10--years_2025120-1"
+ },
  "workday:cisco:/job/RTP-North-Carolina-US/Salesforce-Operations-Manager_2018743": {
   "company": "cisco",
   "first_seen": "2026-08-09T16:01:42+00:00",
@@ -278659,6 +278819,16 @@
   "title": "Senior Applications Support Analyst",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Senior-Applications-Support-Analyst_26992683"
  },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Senior-Executive-Assistant---CDMX_261004309": {
+  "company": "citi",
+  "first_seen": "2026-10-28T03:33:04+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Senior-Executive-Assistant---CDMX_261004309",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Executive Assistant - CDMX",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Senior-Executive-Assistant---CDMX_261004309"
+ },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Senior-Project-Manager_26988434": {
   "company": "citi",
   "first_seen": "2026-09-08T22:19:10+00:00",
@@ -289418,6 +289588,16 @@
   "source": "workday",
   "title": "Assistant Vice President, Debt Capital Markets Middle Office",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Assistant-Vice-President--Debt-Capital-Markets-Middle-Office_26988815"
+ },
+ "workday:citi:/job/Hong-Kong--Hong-Kong/Associate--Corporate-Finance-team--Investment-Banking_261004613": {
+  "company": "citi",
+  "first_seen": "2026-10-28T03:33:04+00:00",
+  "job_id": "/job/Hong-Kong--Hong-Kong/Associate--Corporate-Finance-team--Investment-Banking_261004613",
+  "location": "Hong Kong  Hong Kong",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Associate, Corporate Finance team, Investment Banking",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Associate--Corporate-Finance-team--Investment-Banking_261004613"
  },
  "workday:citi:/job/Hong-Kong--Hong-Kong/Associate--Global-Shipping--Logistics-and-offshore--Corporate-Banking_26981617": {
   "company": "citi",
@@ -345229,6 +345409,16 @@
   "title": "Global Client Executive, Treasury and Trade Solutions, VP \u2013 Taiwan",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taipei-Taipei-City-Taiwan/Global-Client-Executive--Treasury-and-Trade-Solutions--VP---Taiwan_261004521"
  },
+ "workday:citi:/job/Taipei-Taipei-City-Taiwan/KYC-Operations-Analyst-2_261005877": {
+  "company": "citi",
+  "first_seen": "2026-10-28T03:33:04+00:00",
+  "job_id": "/job/Taipei-Taipei-City-Taiwan/KYC-Operations-Analyst-2_261005877",
+  "location": "Taipei Taipei City Taiwan",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "KYC Operations Analyst 2",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taipei-Taipei-City-Taiwan/KYC-Operations-Analyst-2_261005877"
+ },
  "workday:citi:/job/Taipei-Taipei-City-Taiwan/KYC-Operations-Analyst_26971492": {
   "company": "citi",
   "first_seen": "2026-08-09T16:04:42+00:00",
@@ -345238,6 +345428,16 @@
   "source": "workday",
   "title": "KYC Operations Analyst",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taipei-Taipei-City-Taiwan/KYC-Operations-Analyst_26971492"
+ },
+ "workday:citi:/job/Taipei-Taipei-City-Taiwan/KYC-Operations-Intermediate-Analyst_261005879": {
+  "company": "citi",
+  "first_seen": "2026-10-28T03:33:04+00:00",
+  "job_id": "/job/Taipei-Taipei-City-Taiwan/KYC-Operations-Intermediate-Analyst_261005879",
+  "location": "Taipei Taipei City Taiwan",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "KYC Operations Intermediate Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taipei-Taipei-City-Taiwan/KYC-Operations-Intermediate-Analyst_261005879"
  },
  "workday:citi:/job/Taipei-Taipei-City-Taiwan/Mid-Corp-Relationship-Manager---C14---TAIPEI_26997451": {
   "company": "citi",
@@ -349238,6 +349438,16 @@
   "source": "workday",
   "title": "BANAMEX INCLUYENDO + TALENTO CON DISCAPACIDAD - TIJUANA- BAJA CALIFORNIA",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tijuana-Baja-California-Mexico/BANAMEX-INCLUYENDO---TALENTO-CON-DISCAPACIDAD---TIJUANA--BAJA-CALIFORNIA_261001368"
+ },
+ "workday:citi:/job/Tijuana-Baja-California-Mexico/BANAMEX-OPERADOR-CAJERO_261005420-1": {
+  "company": "citi",
+  "first_seen": "2026-10-28T03:33:04+00:00",
+  "job_id": "/job/Tijuana-Baja-California-Mexico/BANAMEX-OPERADOR-CAJERO_261005420-1",
+  "location": "5 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "BANAMEX OPERADOR CAJERO",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tijuana-Baja-California-Mexico/BANAMEX-OPERADOR-CAJERO_261005420-1"
  },
  "workday:citi:/job/Tijuana-Baja-California-Mexico/BANAMEX-OPERADOR-CAJERO_26984753": {
   "company": "citi",
@@ -358168,6 +358378,16 @@
   "source": "workday",
   "title": "Commercial Account Manager IV, Networking",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/All-Florida-United-States-of-America/Commercial-Account-Manager-IV--Networking_1215757-1"
+ },
+ "workday:hpe:/job/All-Idaho-United-States-of-America/Commercial-Account-Manager---Networking_1216100-2": {
+  "company": "hpe",
+  "first_seen": "2026-10-28T03:30:10+00:00",
+  "job_id": "/job/All-Idaho-United-States-of-America/Commercial-Account-Manager---Networking_1216100-2",
+  "location": "All, Idaho, United States of America",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Commercial Account Manager,  Networking",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/All-Idaho-United-States-of-America/Commercial-Account-Manager---Networking_1216100-2"
  },
  "workday:hpe:/job/All-Illinois-United-States-of-America/Cloud-Networking-Sales-Specialist_1214803-2": {
   "company": "hpe",
@@ -395049,6 +395269,16 @@
   "title": "Regulatory Reporting Specialist",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Regulatory-Reporting-Specialist_R0137740"
  },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Senior-Manager--Operational-Excellence---AI-Operations_R0138595": {
+  "company": "paypal",
+  "first_seen": "2026-10-28T03:31:20+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Senior-Manager--Operational-Excellence---AI-Operations_R0138595",
+  "location": "Bangalore, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Manager, Operational Excellence & AI Operations",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Senior-Manager--Operational-Excellence---AI-Operations_R0138595"
+ },
  "workday:paypal:/job/Bangalore-Karnataka-India/Senior-Manager--Program-Mgmt--Strategy---AI-Enabled-Delivery_R0138594": {
   "company": "paypal",
   "first_seen": "2026-10-27T23:26:52+00:00",
@@ -409799,6 +410029,26 @@
   "title": "Senior Manager, Software Engineering",
   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Senior-Manager--Software-Engineering_JR362926"
  },
+ "workday:salesforce:/job/Texas---Dallas/Software-Engineering-MTS_JR363327": {
+  "company": "salesforce",
+  "first_seen": "2026-10-28T03:29:33+00:00",
+  "job_id": "/job/Texas---Dallas/Software-Engineering-MTS_JR363327",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineering MTS",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Software-Engineering-MTS_JR363327"
+ },
+ "workday:salesforce:/job/Texas---Dallas/Software-Engineering-SMTS_JR363326": {
+  "company": "salesforce",
+  "first_seen": "2026-10-28T03:29:33+00:00",
+  "job_id": "/job/Texas---Dallas/Software-Engineering-SMTS_JR363326",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineering SMTS",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Software-Engineering-SMTS_JR363326"
+ },
  "workday:salesforce:/job/Texas---Dallas/Systems-Engineer_JR363166": {
   "company": "salesforce",
   "first_seen": "2026-10-26T18:03:28+00:00",
@@ -409808,6 +410058,16 @@
   "source": "workday",
   "title": "Systems Engineer",
   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Systems-Engineer_JR363166"
+ },
+ "workday:salesforce:/job/Texas---Dallas/Systems-Engineering-Senior-Associate_JR363332": {
+  "company": "salesforce",
+  "first_seen": "2026-10-28T03:29:33+00:00",
+  "job_id": "/job/Texas---Dallas/Systems-Engineering-Senior-Associate_JR363332",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Systems Engineering Senior Associate",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Systems-Engineering-Senior-Associate_JR363332"
  },
  "workday:salesforce:/job/Texas---Dallas/Technology-Auditor--Internal-Audit_JR362345": {
   "company": "salesforce",
@@ -430658,6 +430918,16 @@
   "source": "workday",
   "title": "Sr. IAM Cybersecurity Engineer,  Enterprise Identity",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Sr-IAM-Cybersecurity-Engineer---Enterprise-Identity_JR-0109950"
+ },
+ "workday:workday:/job/USAVAReston/Sr-IAM-Cybersecurity-Engineer--Enterprise-Identity_JR-0111070": {
+  "company": "workday",
+  "first_seen": "2026-10-28T03:34:20+00:00",
+  "job_id": "/job/USAVAReston/Sr-IAM-Cybersecurity-Engineer--Enterprise-Identity_JR-0111070",
+  "location": "3 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. IAM Cybersecurity Engineer, Enterprise Identity",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Sr-IAM-Cybersecurity-Engineer--Enterprise-Identity_JR-0111070"
  },
  "workday:workday:/job/USAVAReston/Sr-Principal-Program-Manager--US-Federal-_JR-0111069": {
   "company": "workday",
