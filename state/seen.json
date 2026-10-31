@@ -45469,6 +45469,16 @@
   "title": "IT Support Specialist",
   "url": "https://jobs.ashbyhq.com/sierra/ef6ee85e-597e-49cd-b2fb-c304b8f3cda7"
  },
+ "ashby:sierra:ef896ee9-e903-4a1f-84c2-537373cb9081": {
+  "company": "sierra",
+  "first_seen": "2026-10-31T10:11:29+00:00",
+  "job_id": "ef896ee9-e903-4a1f-84c2-537373cb9081",
+  "location": "San Francisco, CA",
+  "posted_at": "2026-10-31T04:30:38.046+00:00",
+  "source": "ashby",
+  "title": "Research Intern",
+  "url": "https://jobs.ashbyhq.com/sierra/ef896ee9-e903-4a1f-84c2-537373cb9081"
+ },
  "ashby:sierra:effd7cd2-8a28-4bae-a3b8-40720ba09717": {
   "company": "sierra",
   "first_seen": "2026-08-09T16:06:50+00:00",
@@ -46938,6 +46948,16 @@
   "source": "ashby",
   "title": "FinOps Engineer ",
   "url": "https://jobs.ashbyhq.com/supabase/fab1525f-3d89-4d1c-9094-84d21647415e"
+ },
+ "ashby:supabase:fb0b563a-e541-43fd-8555-9eb6473aaa11": {
+  "company": "supabase",
+  "first_seen": "2026-10-31T10:11:08+00:00",
+  "job_id": "fb0b563a-e541-43fd-8555-9eb6473aaa11",
+  "location": "Remote, Global",
+  "posted_at": "2026-10-31T08:47:34.051+00:00",
+  "source": "ashby",
+  "title": "Software Engineer - AI Tooling Infrastructure",
+  "url": "https://jobs.ashbyhq.com/supabase/fb0b563a-e541-43fd-8555-9eb6473aaa11"
  },
  "ashby:tekion:004771c0-90cc-45c0-bee1-cbd9adfd1453": {
   "company": "tekion",
@@ -257349,6 +257369,16 @@
   "title": "Director, Engineering | Silicon One Software Customer Enginering Team",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Director--Engineering--Silicon-One-Software_2015005-1"
  },
+ "workday:cisco:/job/Bangalore-India/Director--Hardware-Engineering---Datacenter--Switching---Industrial-Networking_2029313": {
+  "company": "cisco",
+  "first_seen": "2026-10-31T10:06:29+00:00",
+  "job_id": "/job/Bangalore-India/Director--Hardware-Engineering---Datacenter--Switching---Industrial-Networking_2029313",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Director, Hardware Engineering | Hardware design & development (enterprise & datacenter switching)",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Director--Hardware-Engineering---Datacenter--Switching---Industrial-Networking_2029313"
+ },
  "workday:cisco:/job/Bangalore-India/Director--People-and-Communities_2010928": {
   "company": "cisco",
   "first_seen": "2026-08-09T16:01:42+00:00",
@@ -265703,6 +265733,16 @@
   "company": "cisco",
   "first_seen": "2026-10-15T08:45:04+00:00",
   "job_id": "2024220",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers"
+ },
+ "workday:cisco:2024367": {
+  "company": "cisco",
+  "first_seen": "2026-10-31T10:06:29+00:00",
+  "job_id": "2024367",
   "location": "",
   "posted_at": null,
   "source": "workday",
