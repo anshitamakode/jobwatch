@@ -39539,6 +39539,16 @@
   "title": "Startup Marketing",
   "url": "https://jobs.ashbyhq.com/render/503569c8-f629-44fa-9d69-72e2c6c532f1"
  },
+ "ashby:render:5498e2c2-44d7-4a4b-9bb9-20c0eca92440": {
+  "company": "render",
+  "first_seen": "2026-10-31T03:43:25+00:00",
+  "job_id": "5498e2c2-44d7-4a4b-9bb9-20c0eca92440",
+  "location": "Remote: United States",
+  "posted_at": "2026-10-30T23:37:05.304+00:00",
+  "source": "ashby",
+  "title": "Staff Developer Relations Engineer ",
+  "url": "https://jobs.ashbyhq.com/render/5498e2c2-44d7-4a4b-9bb9-20c0eca92440"
+ },
  "ashby:render:54aaceee-1aa8-4f47-a77c-9f9597a99903": {
   "company": "render",
   "first_seen": "2026-09-02T22:19:47+00:00",
@@ -122999,6 +123009,26 @@
   "title": "Senior Solutions Architect - Federal Civilian",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8337797&gh_jid=8337797"
  },
+ "greenhouse:elastic:8338301": {
+  "company": "elastic",
+  "first_seen": "2026-10-31T03:43:12+00:00",
+  "job_id": "8338301",
+  "location": "United States",
+  "posted_at": "2026-10-30T19:58:05-04:00",
+  "source": "greenhouse",
+  "title": "Senior Recruiter, G&A + Marketing",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8338301&gh_jid=8338301"
+ },
+ "greenhouse:elastic:8338305": {
+  "company": "elastic",
+  "first_seen": "2026-10-31T03:43:12+00:00",
+  "job_id": "8338305",
+  "location": "Costa Rica",
+  "posted_at": "2026-10-30T19:58:08-04:00",
+  "source": "greenhouse",
+  "title": "Senior Recruiter, G&A + Marketing",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8338305&gh_jid=8338305"
+ },
  "greenhouse:fastly:6873321": {
   "company": "fastly",
   "first_seen": "2026-08-09T16:05:48+00:00",
@@ -194918,6 +194948,16 @@
   "source": "greenhouse",
   "title": "Account Development Representative - DACH",
   "url": "https://www.samsara.com/company/careers/roles/8260850?gh_jid=8260850"
+ },
+ "greenhouse:samsara:8261007": {
+  "company": "samsara",
+  "first_seen": "2026-10-31T03:43:18+00:00",
+  "job_id": "8261007",
+  "location": "Remote - US",
+  "posted_at": "2026-10-30T20:37:27-04:00",
+  "source": "greenhouse",
+  "title": "Director, GTM AI Engineering",
+  "url": "https://www.samsara.com/company/careers/roles/8261007?gh_jid=8261007"
  },
  "greenhouse:samsara:8261809": {
   "company": "samsara",
@@ -282649,6 +282689,16 @@
   "title": "Banamex - Analista de Documentaci\u00f3n y Procesamiento de Pr\u00e9stamos",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Analista-de-Documentacin-y-Procesamiento-de-Prstamos_26986911-1"
  },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Analista-de-Informacin-y-Operaciones-de-Tarjeta_261003092": {
+  "company": "citi",
+  "first_seen": "2026-10-31T03:41:46+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Analista-de-Informacin-y-Operaciones-de-Tarjeta_261003092",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex - Analista de Informaci\u00f3n y Operaciones de Tarjeta",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Analista-de-Informacin-y-Operaciones-de-Tarjeta_261003092"
+ },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Analista-de-Investigacin-y-Validacin-de-Antecedentes_26943428": {
   "company": "citi",
   "first_seen": "2026-08-26T04:36:41+00:00",
@@ -282838,6 +282888,16 @@
   "source": "workday",
   "title": "Banamex - Banquero de Relaci\u00f3n Empresarial Sr",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Banquero-de-Relacin-Empresarial-Sr_26986935"
+ },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Business-Control-Management-VP-CIB_261006896": {
+  "company": "citi",
+  "first_seen": "2026-10-31T03:41:46+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Business-Control-Management-VP-CIB_261006896",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex - Business Control Management VP CIB",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Business-Control-Management-VP-CIB_261006896"
  },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Business-Strategy---Credit-Management-VP---CIB_261006901": {
   "company": "citi",
@@ -283289,6 +283349,16 @@
   "title": "Banamex - Spec Analytics Analyst - C09",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Spec-Analytics-Analyst---C09_26983590"
  },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Spec-Analytics-Analyst---C10_26998838": {
+  "company": "citi",
+  "first_seen": "2026-10-31T03:41:46+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Spec-Analytics-Analyst---C10_26998838",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex - Spec Analytics Analyst - C10",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Spec-Analytics-Analyst---C10_26998838"
+ },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Subdirector-Markets-Model-Governance---CIUDAD-DE-MEXICO_261001926-1": {
   "company": "citi",
   "first_seen": "2026-10-16T02:42:08+00:00",
@@ -283298,6 +283368,16 @@
   "source": "workday",
   "title": "Banamex - Subdirector Markets Model Governance - CIUDAD DE MEXICO",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Subdirector-Markets-Model-Governance---CIUDAD-DE-MEXICO_261001926-1"
+ },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Validador-de-Expedientes-PyME_261003311": {
+  "company": "citi",
+  "first_seen": "2026-10-31T03:41:46+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Validador-de-Expedientes-PyME_261003311",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex - Validador de Expedientes PyME",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Validador-de-Expedientes-PyME_261003311"
  },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Validador-de-Expedientes-PyME_26981854": {
   "company": "citi",
@@ -283438,6 +283518,16 @@
   "source": "workday",
   "title": "Banamex- Credit Risk Senior Analyst",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Credit-Risk-Senior-Analyst_26983014"
+ },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Data-Science-Intmd-Analyst---C11_26999330": {
+  "company": "citi",
+  "first_seen": "2026-10-31T03:41:46+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Data-Science-Intmd-Analyst---C11_26999330",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Banamex- Data Science Intmd Analyst - C11",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Data-Science-Intmd-Analyst---C11_26999330"
  },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--Data-Science-Senior-Analyst_26979431": {
   "company": "citi",
@@ -285478,6 +285568,16 @@
   "source": "workday",
   "title": "Data/Information Mgt Analyst 2",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Data-Information-Mgt-Analyst-2_26988654-1"
+ },
+ "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Data-Quality-Intermediate-Analyst---C11---CIUDAD-DE-MEXICO_261001573": {
+  "company": "citi",
+  "first_seen": "2026-10-31T03:41:46+00:00",
+  "job_id": "/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Data-Quality-Intermediate-Analyst---C11---CIUDAD-DE-MEXICO_261001573",
+  "location": "Ciudad De Mexico Distrito Federal Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "BANAMEX Data Quality Intermediate Analyst - C11 - CIUDAD DE MEXICO",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Data-Quality-Intermediate-Analyst---C11---CIUDAD-DE-MEXICO_261001573"
  },
  "workday:citi:/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Design-System-Developer---Angular_26983612": {
   "company": "citi",
@@ -300349,6 +300449,16 @@
   "title": "Foreign Exchange (FX) Applications Support Sr Analyst - AVP",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Foreign-Exchange--FX--Applications-Support-Sr-Analyst---AVP_26993702"
  },
+ "workday:citi:/job/Irving-Texas-United-States/Forward-Deployed-Engineer--AI-Transformation--Senior-Vice-President_261003704": {
+  "company": "citi",
+  "first_seen": "2026-10-31T03:41:46+00:00",
+  "job_id": "/job/Irving-Texas-United-States/Forward-Deployed-Engineer--AI-Transformation--Senior-Vice-President_261003704",
+  "location": "Irving Texas United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Forward Deployed Engineer, AI Transformation -Senior Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Forward-Deployed-Engineer--AI-Transformation--Senior-Vice-President_261003704"
+ },
  "workday:citi:/job/Irving-Texas-United-States/Forward-Deployed-Engineer--AI-Transformation--Senior-Vice-President_261003706": {
   "company": "citi",
   "first_seen": "2026-10-22T16:29:41+00:00",
@@ -307418,6 +307528,16 @@
   "source": "workday",
   "title": "Universal Banker Part-Time (20 Hours) - Larchmont Branch",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Larchmont-New-York-United-States/Universal-Banker-Part-Time--20-Hours----Larchmont-Branch_26998442"
+ },
+ "workday:citi:/job/Las-Vegas-Nevada-United-States/Branch-Manager-Maryland-Parkway--Las-Vegas-NV--Assistant-Vice-President_261005302-1": {
+  "company": "citi",
+  "first_seen": "2026-10-31T03:41:46+00:00",
+  "job_id": "/job/Las-Vegas-Nevada-United-States/Branch-Manager-Maryland-Parkway--Las-Vegas-NV--Assistant-Vice-President_261005302-1",
+  "location": "Las Vegas Nevada United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Branch Manager Maryland Parkway/ Las Vegas NV, Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Las-Vegas-Nevada-United-States/Branch-Manager-Maryland-Parkway--Las-Vegas-NV--Assistant-Vice-President_261005302-1"
  },
  "workday:citi:/job/Las-Vegas-Nevada-United-States/Business-Banking-Relationship-Manager---Las-Vegas-Area--Assistant-Vice-President_26992343-1": {
   "company": "citi",
@@ -316969,6 +317089,16 @@
   "title": "Senior Engineering Manager",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Senior-Engineering-Manager_26996124"
  },
+ "workday:citi:/job/Mississauga-Ontario-Canada/Senior-Engineering-and-Delivery-Lead_261002707": {
+  "company": "citi",
+  "first_seen": "2026-10-31T03:41:46+00:00",
+  "job_id": "/job/Mississauga-Ontario-Canada/Senior-Engineering-and-Delivery-Lead_261002707",
+  "location": "Mississauga Ontario Canada",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Engineering and Delivery Lead",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mississauga-Ontario-Canada/Senior-Engineering-and-Delivery-Lead_261002707"
+ },
  "workday:citi:/job/Mississauga-Ontario-Canada/Senior-Full-Stack-Developer---Inventory-Management--Vice-President_26995236": {
   "company": "citi",
   "first_seen": "2026-09-25T23:03:41+00:00",
@@ -325888,6 +326018,16 @@
   "source": "workday",
   "title": "Client Experience Associate SAFE ACT - C12 - NEW YORK",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Client-Experience-Associate-SAFE-ACT---C12---NEW-YORK_26984136"
+ },
+ "workday:citi:/job/New-York-New-York-United-States/Client-Experience-Associate-SAFE-ACT--Assistant-Vice-President_26961381-1": {
+  "company": "citi",
+  "first_seen": "2026-10-31T03:41:46+00:00",
+  "job_id": "/job/New-York-New-York-United-States/Client-Experience-Associate-SAFE-ACT--Assistant-Vice-President_26961381-1",
+  "location": "New York New York United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Client Experience Associate SAFE ACT, Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Client-Experience-Associate-SAFE-ACT--Assistant-Vice-President_26961381-1"
  },
  "workday:citi:/job/New-York-New-York-United-States/Client-Manager-Hybrid_26970540": {
   "company": "citi",
@@ -356439,6 +356579,16 @@
   "title": "Lead Java and Data Engineer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Apps-Dev-Tech-Lead-Analyst_26964073"
  },
+ "workday:citi:/job/Tampa-Florida-United-States/Apps-Development-Group-Manager---Senior-Vice-President_261006210": {
+  "company": "citi",
+  "first_seen": "2026-10-31T03:41:46+00:00",
+  "job_id": "/job/Tampa-Florida-United-States/Apps-Development-Group-Manager---Senior-Vice-President_261006210",
+  "location": "Tampa Florida United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Apps Development Group Manager - Senior Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Apps-Development-Group-Manager---Senior-Vice-President_261006210"
+ },
  "workday:citi:/job/Tampa-Florida-United-States/Apps-Development-Group-Manager---Sr-Vice-President_26986520": {
   "company": "citi",
   "first_seen": "2026-08-21T00:58:22+00:00",
@@ -357068,6 +357218,16 @@
   "source": "workday",
   "title": "Forward Deployed Engineer, AI Transformation - Senior Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Forward-Deployed-Engineer--AI-Transformation---Senior-Vice-President_26985076"
+ },
+ "workday:citi:/job/Tampa-Florida-United-States/Forward-Deployed-Engineer--AI-Transformation--Senior-Vice-President_261003838": {
+  "company": "citi",
+  "first_seen": "2026-10-31T03:41:46+00:00",
+  "job_id": "/job/Tampa-Florida-United-States/Forward-Deployed-Engineer--AI-Transformation--Senior-Vice-President_261003838",
+  "location": "Tampa Florida United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Forward Deployed Engineer, AI Transformation -Senior Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Forward-Deployed-Engineer--AI-Transformation--Senior-Vice-President_261003838"
  },
  "workday:citi:/job/Tampa-Florida-United-States/Full-Stack-Engineering-Team-Lead---Senior-Vice-President_26986212": {
   "company": "citi",
@@ -359648,6 +359808,16 @@
   "source": "workday",
   "title": "Asistente Operativo",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tijuana-Baja-California-Mexico/Asistente-Operativo_26977426"
+ },
+ "workday:citi:/job/Tijuana-Baja-California-Mexico/BANAMEX-BANQUERO-INTEGRAL-DISTRITO-TIJUANA_261001325-1": {
+  "company": "citi",
+  "first_seen": "2026-10-31T03:41:46+00:00",
+  "job_id": "/job/Tijuana-Baja-California-Mexico/BANAMEX-BANQUERO-INTEGRAL-DISTRITO-TIJUANA_261001325-1",
+  "location": "Tijuana Baja California Mexico",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "BANAMEX BANQUERO INTEGRAL DISTRITO TIJUANA",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tijuana-Baja-California-Mexico/BANAMEX-BANQUERO-INTEGRAL-DISTRITO-TIJUANA_261001325-1"
  },
  "workday:citi:/job/Tijuana-Baja-California-Mexico/BANAMEX-BANQUERO-INTEGRAL-DISTRITO-TIJUANA_261001543": {
   "company": "citi",
