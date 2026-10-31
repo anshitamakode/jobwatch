@@ -2429,6 +2429,16 @@
   "title": "Software Engineer - Identity & Authorization",
   "url": "https://jobs.ashbyhq.com/baseten/86331c05-a6b0-4a9f-991d-b46091b696b5"
  },
+ "ashby:baseten:88fe7cb5-3e97-4548-a2d1-c97d40c51110": {
+  "company": "baseten",
+  "first_seen": "2026-10-31T23:03:13+00:00",
+  "job_id": "88fe7cb5-3e97-4548-a2d1-c97d40c51110",
+  "location": "San Francisco",
+  "posted_at": "2026-10-31T21:50:36.926+00:00",
+  "source": "ashby",
+  "title": "Recruiting Operations Specialist",
+  "url": "https://jobs.ashbyhq.com/baseten/88fe7cb5-3e97-4548-a2d1-c97d40c51110"
+ },
  "ashby:baseten:8ac0d29a-caa2-49b0-9abb-75073df32c7f": {
   "company": "baseten",
   "first_seen": "2026-10-13T21:02:17+00:00",
@@ -37278,6 +37288,16 @@
   "source": "ashby",
   "title": "Senior Corporate Paralegal",
   "url": "https://jobs.ashbyhq.com/ramp/314d4881-e8f2-4e61-a102-3469f9566759"
+ },
+ "ashby:ramp:318e7138-151e-4ed2-8b85-a017d234ef12": {
+  "company": "ramp",
+  "first_seen": "2026-10-31T23:02:43+00:00",
+  "job_id": "318e7138-151e-4ed2-8b85-a017d234ef12",
+  "location": "New York, NY (HQ)",
+  "posted_at": "2026-10-31T19:31:59.653+00:00",
+  "source": "ashby",
+  "title": "Manager, Mid-Market Solutions Consulting",
+  "url": "https://jobs.ashbyhq.com/ramp/318e7138-151e-4ed2-8b85-a017d234ef12"
  },
  "ashby:ramp:32fb4396-1976-45de-8137-79e6eecf40b3": {
   "company": "ramp",
@@ -258999,6 +259019,16 @@
   "title": "Platform Test Engineer - L2/L3 Protocols| Routing| Python Automation (8-12 yrs)",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Platform-Test-Engineer---L2-L3-Protocols--Routing--Python-Automation--8-12-yrs-_2011915"
  },
+ "workday:cisco:/job/Bangalore-India/Portfolio-Account-Executive---SP_2028287": {
+  "company": "cisco",
+  "first_seen": "2026-10-31T22:58:13+00:00",
+  "job_id": "/job/Bangalore-India/Portfolio-Account-Executive---SP_2028287",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Portfolio Account Executive - SP",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Portfolio-Account-Executive---SP_2028287"
+ },
  "workday:cisco:/job/Bangalore-India/Principal-Engineer---AI-and-Security----13--years_2017151": {
   "company": "cisco",
   "first_seen": "2026-08-09T16:01:42+00:00",
@@ -369559,6 +369589,16 @@
   "title": "Senior Cloud Developer",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bangalore-Karnataka/Senior-Cloud-Developer_1204922-3"
  },
+ "workday:hpe:/job/Bengaluru-Karnataka-India/Compliance-Officer---APJ_1217397-2": {
+  "company": "hpe",
+  "first_seen": "2026-10-31T22:58:35+00:00",
+  "job_id": "/job/Bengaluru-Karnataka-India/Compliance-Officer---APJ_1217397-2",
+  "location": "Bengaluru, Karnataka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Compliance Officer - APJ",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karnataka-India/Compliance-Officer---APJ_1217397-2"
+ },
  "workday:hpe:/job/Bengaluru-Karnataka-India/Financial-Analyst---Controllership_1206038-2": {
   "company": "hpe",
   "first_seen": "2026-08-09T16:02:02+00:00",
@@ -374219,6 +374259,16 @@
   "title": "Senior Devops Engineer",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/Senior-Devops-Engineer_1216492-3"
  },
+ "workday:hpe:/job/Bengaluru-Karntaka-India/Senior-Digital-Platform-Architect_1216499-3": {
+  "company": "hpe",
+  "first_seen": "2026-10-31T22:58:35+00:00",
+  "job_id": "/job/Bengaluru-Karntaka-India/Senior-Digital-Platform-Architect_1216499-3",
+  "location": "Bengaluru, Karn\u0101taka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Digital Platform Architect",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/Senior-Digital-Platform-Architect_1216499-3"
+ },
  "workday:hpe:/job/Bengaluru-Karntaka-India/Senior-Embedded-Software-Developer_1208460-3": {
   "company": "hpe",
   "first_seen": "2026-08-09T16:02:02+00:00",
@@ -377409,6 +377459,16 @@
   "title": "QuickSpecs Publication Administrator",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Chennai-Tamil-Nadu-India/QuickSpecs-Publication-Administrator_1210382-2"
  },
+ "workday:hpe:/job/Chennai-Tamil-Nadu-India/Renewal-Sales-Account-Manager-II_1217524-2": {
+  "company": "hpe",
+  "first_seen": "2026-10-31T22:58:35+00:00",
+  "job_id": "/job/Chennai-Tamil-Nadu-India/Renewal-Sales-Account-Manager-II_1217524-2",
+  "location": "Chennai, Tamil Nadu, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Renewal Sales Account Manager II",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Chennai-Tamil-Nadu-India/Renewal-Sales-Account-Manager-II_1217524-2"
+ },
  "workday:hpe:/job/Chennai-Tamil-Nadu-India/SOP-Sales-Processing_1209769-2": {
   "company": "hpe",
   "first_seen": "2026-09-08T19:11:52+00:00",
@@ -380448,6 +380508,16 @@
   "source": "workday",
   "title": "Content Analyst",
   "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Content-Analyst_R0124275"
+ },
+ "workday:lseg:/job/IND-BLR-Divyasree-Technopolis/Content-Analyst_R0124300": {
+  "company": "lseg",
+  "first_seen": "2026-10-31T22:58:48+00:00",
+  "job_id": "/job/IND-BLR-Divyasree-Technopolis/Content-Analyst_R0124300",
+  "location": "IND-BLR-Divyasree Technopolis",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Content Analyst",
+  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Content-Analyst_R0124300"
  },
  "workday:lseg:/job/IND-BLR-Divyasree-Technopolis/Content-Analyst_R0124317": {
   "company": "lseg",
@@ -395219,6 +395289,16 @@
   "title": "STAFF, ASIC TECHNICAL PROGRAM MANAGEMENT",
   "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Bengaluru-India/STAFF--ASIC-TECHNICAL-PROGRAM-MANAGEMENT_JR105994"
  },
+ "workday:micron:/job/Bengaluru-India/STAFF-ENGINEER--ASIC-LAYOUT_JR113185": {
+  "company": "micron",
+  "first_seen": "2026-10-31T23:01:39+00:00",
+  "job_id": "/job/Bengaluru-India/STAFF-ENGINEER--ASIC-LAYOUT_JR113185",
+  "location": "Bengaluru, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "STAFF ENGINEER, ASIC LAYOUT",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Bengaluru-India/STAFF-ENGINEER--ASIC-LAYOUT_JR113185"
+ },
  "workday:micron:/job/Bengaluru-India/STAFF-Engineer--DEG-Layout_JR102177": {
   "company": "micron",
   "first_seen": "2026-08-09T16:05:04+00:00",
@@ -395378,6 +395458,16 @@
   "source": "workday",
   "title": "Staff ENGINEER, HIG HBM-ARCHITECTURE",
   "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Bengaluru-India/Staff-ENGINEER--HIG-HBM-ARCHITECTURE_JR113291"
+ },
+ "workday:micron:/job/Bengaluru-India/Staff-Engineer---ASIC-Layout_JR113187": {
+  "company": "micron",
+  "first_seen": "2026-10-31T23:01:39+00:00",
+  "job_id": "/job/Bengaluru-India/Staff-Engineer---ASIC-Layout_JR113187",
+  "location": "Bengaluru, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Engineer - ASIC Layout",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Bengaluru-India/Staff-Engineer---ASIC-Layout_JR113187"
  },
  "workday:micron:/job/Bengaluru-India/Staff-Engineer---Analog-Design_JR102833": {
   "company": "micron",
