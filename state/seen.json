@@ -64219,6 +64219,16 @@
   "title": "Software Engineer",
   "url": "http://www.circleci.com/careers/jobs/8510404002/?gh_jid=8510404002"
  },
+ "greenhouse:circleci:8560754002": {
+  "company": "circleci",
+  "first_seen": "2026-11-01T17:34:39+00:00",
+  "job_id": "8560754002",
+  "location": "San Francisco",
+  "posted_at": "2026-05-26T15:10:40-04:00",
+  "source": "greenhouse",
+  "title": "Senior Product Designer",
+  "url": "http://www.circleci.com/careers/jobs/8560754002/?gh_jid=8560754002"
+ },
  "greenhouse:circleci:8580027002": {
   "company": "circleci",
   "first_seen": "2026-08-09T16:06:13+00:00",
@@ -103269,6 +103279,16 @@
   "title": "Solutions Architect - Telco",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880391002"
  },
+ "greenhouse:databricks:8880398002": {
+  "company": "databricks",
+  "first_seen": "2026-11-01T17:30:23+00:00",
+  "job_id": "8880398002",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-01T10:09:56-05:00",
+  "source": "greenhouse",
+  "title": "Account Executive - Digital Native",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880398002"
+ },
  "greenhouse:databricks:8880400002": {
   "company": "databricks",
   "first_seen": "2026-10-12T03:44:22+00:00",
@@ -103278,6 +103298,16 @@
   "source": "greenhouse",
   "title": "Strategic Hunter Account Executive",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880400002"
+ },
+ "greenhouse:databricks:8880402002": {
+  "company": "databricks",
+  "first_seen": "2026-11-01T17:30:23+00:00",
+  "job_id": "8880402002",
+  "location": "United States",
+  "posted_at": "2026-11-01T10:26:33-05:00",
+  "source": "greenhouse",
+  "title": "Account Executive - Strategic Core ",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8880402002"
  },
  "greenhouse:databricks:8880406002": {
   "company": "databricks",
@@ -104039,6 +104069,16 @@
   "title": "Solutions Architect",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910860002"
  },
+ "greenhouse:databricks:8910864002": {
+  "company": "databricks",
+  "first_seen": "2026-11-01T17:30:23+00:00",
+  "job_id": "8910864002",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-01T10:37:37-05:00",
+  "source": "greenhouse",
+  "title": "Enterprise Account Executive - Hunter (New Logo)",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8910864002"
+ },
  "greenhouse:databricks:8910988002": {
   "company": "databricks",
   "first_seen": "2026-10-23T22:50:04+00:00",
@@ -104218,6 +104258,16 @@
   "source": "greenhouse",
   "title": "Sr. Collections Analyst",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922730002"
+ },
+ "greenhouse:databricks:8922941002": {
+  "company": "databricks",
+  "first_seen": "2026-11-01T17:30:23+00:00",
+  "job_id": "8922941002",
+  "location": "Singapore",
+  "posted_at": "2026-11-01T09:46:37-05:00",
+  "source": "greenhouse",
+  "title": "Sr. Forward Deployment Strategist",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8922941002"
  },
  "greenhouse:databricks:8923269002": {
   "company": "databricks",
@@ -242569,6 +242619,16 @@
   "title": "Analyst - Control Management (International Operational Resilience)",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015666"
  },
+ "oraclecloud:amex:26015667": {
+  "company": "amex",
+  "first_seen": "2026-11-01T17:34:37+00:00",
+  "job_id": "26015667",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-01",
+  "source": "oraclecloud",
+  "title": "Senior Marketing Analyst-Risk Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015667"
+ },
  "oraclecloud:amex:26015683": {
   "company": "amex",
   "first_seen": "2026-10-28T03:34:48+00:00",
@@ -258029,6 +258089,16 @@
   "title": "Finance Analyst-Techno-Functional Financial Analyst \u2013 Finance, AI & Advanced Analytics - 6+yrs exp",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Finance-Analyst-Techno-Functional-Financial-Analyst---Finance--AI---Advanced-Analytics---6-yrs-exp_2025845"
  },
+ "workday:cisco:/job/Bangalore-India/Finance-Analyst_2028517-1": {
+  "company": "cisco",
+  "first_seen": "2026-11-01T17:29:42+00:00",
+  "job_id": "/job/Bangalore-India/Finance-Analyst_2028517-1",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Finance Analyst",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Finance-Analyst_2028517-1"
+ },
  "workday:cisco:/job/Bangalore-India/Finance-Manager_2014306-1": {
   "company": "cisco",
   "first_seen": "2026-08-09T16:01:42+00:00",
@@ -263288,6 +263358,16 @@
   "source": "workday",
   "title": "Strategy & Planning Manager",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Strategy---Planning-Manager_2026495"
+ },
+ "workday:cisco:/job/Bangalore-India/Supply-Chain-Product-FP-A-Analyst_2025450-1": {
+  "company": "cisco",
+  "first_seen": "2026-11-01T17:29:42+00:00",
+  "job_id": "/job/Bangalore-India/Supply-Chain-Product-FP-A-Analyst_2025450-1",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Supply Chain Product FP&A Analyst",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Supply-Chain-Product-FP-A-Analyst_2025450-1"
  },
  "workday:cisco:/job/Bangalore-India/Talent-Sourcing-Senior-Specialist_2024079": {
   "company": "cisco",
