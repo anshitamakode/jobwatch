@@ -49239,6 +49239,16 @@
   "title": "Business Development Intern (Fall 2026)",
   "url": "https://jobs.ashbyhq.com/temporal/70cee4cb-ce31-43b7-89a1-c7067822317a"
  },
+ "ashby:temporal:722643dc-6e1f-44e1-8a68-96c00d03ea11": {
+  "company": "temporal",
+  "first_seen": "2026-11-01T23:22:30+00:00",
+  "job_id": "722643dc-6e1f-44e1-8a68-96c00d03ea11",
+  "location": "London, England",
+  "posted_at": "2026-11-01T18:23:59.876+00:00",
+  "source": "ashby",
+  "title": " Sales Director, Commercial ",
+  "url": "https://jobs.ashbyhq.com/temporal/722643dc-6e1f-44e1-8a68-96c00d03ea11"
+ },
  "ashby:temporal:73279908-77f8-4488-8151-4c40f49a230d": {
   "company": "temporal",
   "first_seen": "2026-09-17T02:57:16+00:00",
@@ -243079,6 +243089,16 @@
   "title": "ICCO Customer Care Professional",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015942"
  },
+ "oraclecloud:amex:26015954": {
+  "company": "amex",
+  "first_seen": "2026-11-01T23:22:17+00:00",
+  "job_id": "26015954",
+  "location": "Frankfurt a. Main, Hessen, Germany",
+  "posted_at": "2026-11-01",
+  "source": "oraclecloud",
+  "title": "Campus - Frankfurt School of Finance - Future Talent - 2027",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015954"
+ },
  "oraclecloud:amex:26015967": {
   "company": "amex",
   "first_seen": "2026-10-30T17:41:30+00:00",
@@ -340609,6 +340629,26 @@
   "title": "Java Full Stack Lead Developer - Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Full-Stack-Lead-Developer---Vice-President_26987526"
  },
+ "workday:citi:/job/Pune-Maharashtra-India/Java-Full-Stack-Software-Engineer---Vice-President_261005413-1": {
+  "company": "citi",
+  "first_seen": "2026-11-01T23:20:41+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Java-Full-Stack-Software-Engineer---Vice-President_261005413-1",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Java Full Stack Software Engineer - Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Full-Stack-Software-Engineer---Vice-President_261005413-1"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/Java-Full-Stack-Software-Engineer---Vice-President_261005415": {
+  "company": "citi",
+  "first_seen": "2026-11-01T23:20:41+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Java-Full-Stack-Software-Engineer---Vice-President_261005415",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Java Full Stack Software Engineer - Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Full-Stack-Software-Engineer---Vice-President_261005415"
+ },
  "workday:citi:/job/Pune-Maharashtra-India/Java-Full-Stack-Technical-Lead---Vice-President_26987641": {
   "company": "citi",
   "first_seen": "2026-08-27T18:46:11+00:00",
@@ -421658,6 +421698,16 @@
   "source": "workday",
   "title": "Manager/Senior Manager, Strategy & Innovation",
   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Senior-Manager--Global-Incentive-Compensation_JR336464"
+ },
+ "workday:salesforce:/job/Indiana---Indianapolis/Senior-Manager--Product---Pricing-Operations_JR365427": {
+  "company": "salesforce",
+  "first_seen": "2026-11-01T23:17:17+00:00",
+  "job_id": "/job/Indiana---Indianapolis/Senior-Manager--Product---Pricing-Operations_JR365427",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Manager, Product & Pricing Operations",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Senior-Manager--Product---Pricing-Operations_JR365427"
  },
  "workday:salesforce:/job/Indiana---Indianapolis/Senior-Manager--Revenue_JR338135": {
   "company": "salesforce",
