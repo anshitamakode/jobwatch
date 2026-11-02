@@ -5319,6 +5319,16 @@
   "title": "Technical Program Manager, AI Delivery",
   "url": "https://jobs.ashbyhq.com/cohere/aa041da3-6aad-4758-9c9e-4a5fab69b694"
  },
+ "ashby:cohere:ab45a550-14a2-4a74-abfb-83688d4508c1": {
+  "company": "cohere",
+  "first_seen": "2026-11-02T03:54:42+00:00",
+  "job_id": "ab45a550-14a2-4a74-abfb-83688d4508c1",
+  "location": "Saudi Arabia, Eastern Province",
+  "posted_at": "2026-11-02T03:43:52.907+00:00",
+  "source": "ashby",
+  "title": "Technical Program Manager, AI Delivery (Dammam)",
+  "url": "https://jobs.ashbyhq.com/cohere/ab45a550-14a2-4a74-abfb-83688d4508c1"
+ },
  "ashby:cohere:abd68512-a6e1-4221-bc60-dec83623408a": {
   "company": "cohere",
   "first_seen": "2026-08-20T00:56:55+00:00",
@@ -27019,6 +27029,16 @@
   "title": "Corporate Security GSOC Operator",
   "url": "https://jobs.ashbyhq.com/openai/5d37e9c8-f9f0-46b6-ba6d-ee6e6ead8d17"
  },
+ "ashby:openai:5d40f698-176e-455f-a4fd-de2d8cfec044": {
+  "company": "openai",
+  "first_seen": "2026-11-02T03:50:56+00:00",
+  "job_id": "5d40f698-176e-455f-a4fd-de2d8cfec044",
+  "location": "US - Remote",
+  "posted_at": "2026-11-02T01:09:41.817+00:00",
+  "source": "ashby",
+  "title": "Controls Engineer: Power Generation",
+  "url": "https://jobs.ashbyhq.com/openai/5d40f698-176e-455f-a4fd-de2d8cfec044"
+ },
  "ashby:openai:5d5a4116-b409-4676-b357-7094ad87d15d": {
   "company": "openai",
   "first_seen": "2026-10-06T04:17:10+00:00",
@@ -31228,6 +31248,16 @@
   "source": "ashby",
   "title": " Demo Studio Lead",
   "url": "https://jobs.ashbyhq.com/openai/a452882b-bb56-4a99-83e6-b8b5d21db3ee"
+ },
+ "ashby:openai:a46ffc60-39c6-4b1e-bd0f-9c33a8b06703": {
+  "company": "openai",
+  "first_seen": "2026-11-02T03:50:56+00:00",
+  "job_id": "a46ffc60-39c6-4b1e-bd0f-9c33a8b06703",
+  "location": "San Francisco",
+  "posted_at": "2026-11-02T01:05:15.969+00:00",
+  "source": "ashby",
+  "title": "Data Center Controls Engineer (BMS / EPMS)",
+  "url": "https://jobs.ashbyhq.com/openai/a46ffc60-39c6-4b1e-bd0f-9c33a8b06703"
  },
  "ashby:openai:a4787fb2-94d7-4b8e-b82c-093663e4ee85": {
   "company": "openai",
@@ -74099,6 +74129,16 @@
   "title": "Hardware Systems Engineer",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8325821?gh_jid=8325821"
  },
+ "greenhouse:cloudflare:8326749": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-02T03:54:29+00:00",
+  "job_id": "8326749",
+  "location": "Hybrid",
+  "posted_at": "2026-11-01T20:15:00-05:00",
+  "source": "greenhouse",
+  "title": "Sales Manager, Thailand & IndoChina",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8326749?gh_jid=8326749"
+ },
  "greenhouse:cloudflare:8327153": {
   "company": "cloudflare",
   "first_seen": "2026-10-27T17:16:58+00:00",
@@ -74238,6 +74278,56 @@
   "source": "greenhouse",
   "title": "Client Executive, SLED",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8332361?gh_jid=8332361"
+ },
+ "greenhouse:cloudflare:8332951": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-02T03:54:29+00:00",
+  "job_id": "8332951",
+  "location": "Hybrid",
+  "posted_at": "2026-11-01T20:29:41-05:00",
+  "source": "greenhouse",
+  "title": "Named Account Executive, Vietnam",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8332951?gh_jid=8332951"
+ },
+ "greenhouse:cloudflare:8332956": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-02T03:54:29+00:00",
+  "job_id": "8332956",
+  "location": "Hybrid",
+  "posted_at": "2026-11-01T20:30:03-05:00",
+  "source": "greenhouse",
+  "title": "Named Account Executive, Philippines",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8332956?gh_jid=8332956"
+ },
+ "greenhouse:cloudflare:8332958": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-02T03:54:29+00:00",
+  "job_id": "8332958",
+  "location": "Hybrid",
+  "posted_at": "2026-11-01T20:30:04-05:00",
+  "source": "greenhouse",
+  "title": "Enterprise Account Executive, Philippines",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8332958?gh_jid=8332958"
+ },
+ "greenhouse:cloudflare:8332959": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-02T03:54:29+00:00",
+  "job_id": "8332959",
+  "location": "Hybrid",
+  "posted_at": "2026-11-01T20:29:43-05:00",
+  "source": "greenhouse",
+  "title": "Enterprise Account Executive, Vietnam",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8332959?gh_jid=8332959"
+ },
+ "greenhouse:cloudflare:8332960": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-02T03:54:29+00:00",
+  "job_id": "8332960",
+  "location": "Hybrid",
+  "posted_at": "2026-11-01T22:44:30-05:00",
+  "source": "greenhouse",
+  "title": "Named Account Executive, Indonesia (Public Sector)",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8332960?gh_jid=8332960"
  },
  "greenhouse:cloudflare:8335069": {
   "company": "cloudflare",
@@ -74878,6 +74968,16 @@
   "source": "greenhouse",
   "title": "[\ucfe0\ud321\ub85c\uc9c0\uc2a4\ud2f1\uc2a4\uc11c\ube44\uc2a4] Rocket A/S \uc11c\ube44\uc2a4 \uc6b4\uc601 \ubc0f \uc804\ub7b5\uae30\ud68d \ub2f4\ub2f9\uc790",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=5923445"
+ },
+ "greenhouse:coupang:5981148": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T03:50:55+00:00",
+  "job_id": "5981148",
+  "location": "Seoul, South Korea",
+  "posted_at": "2024-05-22T03:13:18-04:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321\ub85c\uc9c0\uc2a4\ud2f1\uc2a4\uc11c\ube44\uc2a4] \ub85c\ucf13\uc124\uce58 \ud611\ub825\uc0ac \uc6b4\uc601 \uad00\ub9ac \ub2f4\ub2f9\uc790 (Rocket Install Operation)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=5981148"
  },
  "greenhouse:coupang:6077599": {
   "company": "coupang",
@@ -89499,6 +89599,16 @@
   "title": "[\ucfe0\ud321] \uc2dc\ub2c8\uc5b4 \uc81c\ud734 \ub2f4\ub2f9\uc790 (Eats Strategic Partnership)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8333088"
  },
+ "greenhouse:coupang:8333112": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T03:50:55+00:00",
+  "job_id": "8333112",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-01T21:02:27-05:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321] HRM Specialist (Inclusion Management/1\ub144 \uacc4\uc57d\uc9c1)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8333112"
+ },
  "greenhouse:coupang:8333296": {
   "company": "coupang",
   "first_seen": "2026-10-29T10:40:01+00:00",
@@ -89538,6 +89648,16 @@
   "source": "greenhouse",
   "title": "[\ucfe0\ud321] \ub9c8\ucf13\ud50c\ub808\uc774\uc2a4 \uc138\uc77c\uc988 \ub2f4\ub2f9\uc790 \ucc44\uc6a9",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8333362"
+ },
+ "greenhouse:coupang:8333513": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T03:50:55+00:00",
+  "job_id": "8333513",
+  "location": "Taipei, Taiwan",
+  "posted_at": "2026-11-01T21:28:33-05:00",
+  "source": "greenhouse",
+  "title": "Principal, Product Compliance Policy (Food & Specialized Categories)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8333513"
  },
  "greenhouse:coupang:8333651": {
   "company": "coupang",
@@ -112208,6 +112328,16 @@
   "source": "greenhouse",
   "title": "Sourcer II",
   "url": "https://careers.datadoghq.com/detail/8329282/?gh_jid=8329282"
+ },
+ "greenhouse:datadog:8330344": {
+  "company": "datadog",
+  "first_seen": "2026-11-02T03:54:30+00:00",
+  "job_id": "8330344",
+  "location": "Singapore, Singapore",
+  "posted_at": "2026-11-01T22:36:27-05:00",
+  "source": "greenhouse",
+  "title": "Customer Success Manager (Key Accounts)",
+  "url": "https://careers.datadoghq.com/detail/8330344/?gh_jid=8330344"
  },
  "greenhouse:datadog:8333737": {
   "company": "datadog",
@@ -204939,6 +205069,16 @@
   "title": "Social Media Manager",
   "url": "https://job-boards.greenhouse.io/turing/jobs/6239025004"
  },
+ "greenhouse:turing:6240371004": {
+  "company": "turing",
+  "first_seen": "2026-11-02T03:54:40+00:00",
+  "job_id": "6240371004",
+  "location": "New York, New York, United States",
+  "posted_at": "2026-11-01T22:13:14-05:00",
+  "source": "greenhouse",
+  "title": "Vice President, Business Development (BFSI)",
+  "url": "https://job-boards.greenhouse.io/turing/jobs/6240371004"
+ },
  "greenhouse:twilio:6372770": {
   "company": "twilio",
   "first_seen": "2026-08-09T16:05:58+00:00",
@@ -240859,6 +240999,16 @@
   "title": "Senior Manager - Digital Product Management",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015197"
  },
+ "oraclecloud:amex:26015199": {
+  "company": "amex",
+  "first_seen": "2026-11-02T03:54:53+00:00",
+  "job_id": "26015199",
+  "location": "Rueil-Malmaison, Ile-de-France, France",
+  "posted_at": "2026-11-02",
+  "source": "oraclecloud",
+  "title": "Analyst-Risk Management H/F",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015199"
+ },
  "oraclecloud:amex:26015200": {
   "company": "amex",
   "first_seen": "2026-10-16T08:45:50+00:00",
@@ -240868,6 +241018,16 @@
   "source": "oraclecloud",
   "title": "Travel Counselor \u2013 Canada",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015200"
+ },
+ "oraclecloud:amex:26015201": {
+  "company": "amex",
+  "first_seen": "2026-11-02T03:54:53+00:00",
+  "job_id": "26015201",
+  "location": "Rueil-Malmaison, Ile-de-France, France",
+  "posted_at": "2026-11-02",
+  "source": "oraclecloud",
+  "title": "Analyst-Risk Management H/F",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015201"
  },
  "oraclecloud:amex:26015202": {
   "company": "amex",
@@ -242909,6 +243069,16 @@
   "title": "TCPS Analyst I - Korean Language",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015784"
  },
+ "oraclecloud:amex:26015785": {
+  "company": "amex",
+  "first_seen": "2026-11-02T03:54:53+00:00",
+  "job_id": "26015785",
+  "location": "Taguig City, Manila, Philippines",
+  "posted_at": "2026-11-02",
+  "source": "oraclecloud",
+  "title": "Manager - Operations Risk Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015785"
+ },
  "oraclecloud:amex:26015789": {
   "company": "amex",
   "first_seen": "2026-10-28T10:20:23+00:00",
@@ -243028,6 +243198,16 @@
   "source": "oraclecloud",
   "title": "Customer Care Professional \u2013 US Servicing",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015892"
+ },
+ "oraclecloud:amex:26015900": {
+  "company": "amex",
+  "first_seen": "2026-11-02T03:54:53+00:00",
+  "job_id": "26015900",
+  "location": "Taguig City, Manila, Philippines",
+  "posted_at": "2026-11-02",
+  "source": "oraclecloud",
+  "title": "Analyst - Operations Risk Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015900"
  },
  "oraclecloud:amex:26015920": {
   "company": "amex",
@@ -269038,6 +269218,16 @@
   "source": "workday",
   "title": "Business Relationship Manager- Alameda / East Bay CA , Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Alameda-California-United-States/Business-Relationship-Manager--Alameda---East-Bay-CA---Assistant-Vice-President_26995269"
+ },
+ "workday:citi:/job/Alameda-California-United-States/Part-Time-Universal-Banker--20-Hours---Alameda-Branch_261006227": {
+  "company": "citi",
+  "first_seen": "2026-11-02T03:53:17+00:00",
+  "job_id": "/job/Alameda-California-United-States/Part-Time-Universal-Banker--20-Hours---Alameda-Branch_261006227",
+  "location": "Alameda California United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Part-Time Universal Banker (20 Hours), Alameda Branch",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Alameda-California-United-States/Part-Time-Universal-Banker--20-Hours---Alameda-Branch_261006227"
  },
  "workday:citi:/job/Alameda-California-United-States/Part-Time-Universal-Banker--20-Hours---Alameda-Branch_26999236": {
   "company": "citi",
@@ -312509,6 +312699,16 @@
   "title": "Part-Time Universal Banker (20 Hours), Los Angeles, Miracle Mile Branch",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Los-Angeles-California-United-States/Part-Time-Universal-Banker--20-Hours---Los-Angeles--Miracle-Mile-Branch_26996197"
  },
+ "workday:citi:/job/Los-Angeles-California-United-States/Part-Time-Universal-Banker--20-Hours---Los-Angeles--Wilshire-Branch---Korean-Speaking-Preferred_261006242": {
+  "company": "citi",
+  "first_seen": "2026-11-02T03:53:17+00:00",
+  "job_id": "/job/Los-Angeles-California-United-States/Part-Time-Universal-Banker--20-Hours---Los-Angeles--Wilshire-Branch---Korean-Speaking-Preferred_261006242",
+  "location": "Los Angeles California United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Part-Time Universal Banker (20 Hours), Los Angeles, Wilshire Branch - Korean Speaking Preferred",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Los-Angeles-California-United-States/Part-Time-Universal-Banker--20-Hours---Los-Angeles--Wilshire-Branch---Korean-Speaking-Preferred_261006242"
+ },
  "workday:citi:/job/Los-Angeles-California-United-States/Part-Time-Universal-Banker--20-Hours---Los-Angeles--Wilshire-Westwood-Branch_261002251": {
   "company": "citi",
   "first_seen": "2026-10-20T16:13:54+00:00",
@@ -312598,6 +312798,16 @@
   "source": "workday",
   "title": "Personal Banker SAFE Act, Los Angeles Main Branch, Officer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Los-Angeles-California-United-States/Personal-Banker-SAFE-Act--Los-Angeles-Main-Branch--Officer_26983645-1"
+ },
+ "workday:citi:/job/Los-Angeles-California-United-States/Personal-Banker-SAFE-Act--Los-Angeles-Wilshire-Branch---Korean-Speaking-Preferred_261006240": {
+  "company": "citi",
+  "first_seen": "2026-11-02T03:53:17+00:00",
+  "job_id": "/job/Los-Angeles-California-United-States/Personal-Banker-SAFE-Act--Los-Angeles-Wilshire-Branch---Korean-Speaking-Preferred_261006240",
+  "location": "Los Angeles California United States",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Personal Banker SAFE Act, Los Angeles Wilshire Branch - Korean Speaking Preferred",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Los-Angeles-California-United-States/Personal-Banker-SAFE-Act--Los-Angeles-Wilshire-Branch---Korean-Speaking-Preferred_261006240"
  },
  "workday:citi:/job/Los-Angeles-California-United-States/Personal-Banker-SAFE-Act--Westchester-Branch_26987651": {
   "company": "citi",
@@ -376058,6 +376268,16 @@
   "source": "workday",
   "title": "Sr Network Test Engineer \u2014 Data Center Fabrics",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/Sr-Network-Test-Engineer---Data-Center-Fabrics_1210195-2"
+ },
+ "workday:hpe:/job/Bengaluru-Karntaka-India/Sr-Principal-Cloud-Developer_1217050-2": {
+  "company": "hpe",
+  "first_seen": "2026-11-02T03:50:36+00:00",
+  "job_id": "/job/Bengaluru-Karntaka-India/Sr-Principal-Cloud-Developer_1217050-2",
+  "location": "Bengaluru, Karn\u0101taka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Principal Cloud Developer",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/Sr-Principal-Cloud-Developer_1217050-2"
  },
  "workday:hpe:/job/Bengaluru-Karntaka-India/Sr-Principal-Systems-Software-Engineer_1216021-2": {
   "company": "hpe",
