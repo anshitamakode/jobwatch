@@ -4599,6 +4599,16 @@
   "title": "Talent Sourcer, Tech",
   "url": "https://jobs.ashbyhq.com/cohere/5da754e4-d83a-4d91-b6fe-a128227ae609"
  },
+ "ashby:cohere:5dcad8a9-5daf-4e28-b315-ee91b5f98512": {
+  "company": "cohere",
+  "first_seen": "2026-11-02T12:00:59+00:00",
+  "job_id": "5dcad8a9-5daf-4e28-b315-ee91b5f98512",
+  "location": "Toronto",
+  "posted_at": "2026-11-02T10:03:51.718+00:00",
+  "source": "ashby",
+  "title": "Senior Product Designer",
+  "url": "https://jobs.ashbyhq.com/cohere/5dcad8a9-5daf-4e28-b315-ee91b5f98512"
+ },
  "ashby:cohere:5e344658-f721-4f4a-b4df-b4052b6a0393": {
   "company": "cohere",
   "first_seen": "2026-10-29T17:58:26+00:00",
@@ -8308,6 +8318,16 @@
   "source": "ashby",
   "title": "Software Engineer, Agents",
   "url": "https://jobs.ashbyhq.com/harvey/0c3ccbfd-25d1-4f66-be9c-e3c680fbe2fc"
+ },
+ "ashby:harvey:0c5471bf-f296-4eaa-8f8b-700296387157": {
+  "company": "harvey",
+  "first_seen": "2026-11-02T12:01:00+00:00",
+  "job_id": "0c5471bf-f296-4eaa-8f8b-700296387157",
+  "location": "London",
+  "posted_at": "2026-11-02T10:09:15.621+00:00",
+  "source": "ashby",
+  "title": "Sales Manager, Enterprise",
+  "url": "https://jobs.ashbyhq.com/harvey/0c5471bf-f296-4eaa-8f8b-700296387157"
  },
  "ashby:harvey:0c5c9a62-3872-4dd2-9dc6-091259fab9b0": {
   "company": "harvey",
@@ -29759,6 +29779,16 @@
   "title": "Account Director, Startups",
   "url": "https://jobs.ashbyhq.com/openai/8bdcff7b-b5c0-4bed-84dd-7f0f2a44b270"
  },
+ "ashby:openai:8c1ce3bb-4451-49da-8fc9-315549a77289": {
+  "company": "openai",
+  "first_seen": "2026-11-02T11:56:40+00:00",
+  "job_id": "8c1ce3bb-4451-49da-8fc9-315549a77289",
+  "location": "Paris, France",
+  "posted_at": "2026-11-02T11:54:37.710+00:00",
+  "source": "ashby",
+  "title": "Southern Europe B2B Marketing Manager",
+  "url": "https://jobs.ashbyhq.com/openai/8c1ce3bb-4451-49da-8fc9-315549a77289"
+ },
  "ashby:openai:8c460221-77ba-4120-b74e-3b1ad7c82818": {
   "company": "openai",
   "first_seen": "2026-08-09T16:02:24+00:00",
@@ -48729,6 +48759,16 @@
   "title": "Customer Value Manager",
   "url": "https://jobs.ashbyhq.com/tekion/f07606b3-25cc-4efd-aa12-e6748c3eb2ab"
  },
+ "ashby:tekion:f0fd8cec-5fc4-4e0a-8b82-46fda8b76561": {
+  "company": "tekion",
+  "first_seen": "2026-11-02T12:01:27+00:00",
+  "job_id": "f0fd8cec-5fc4-4e0a-8b82-46fda8b76561",
+  "location": "Bangalore HQ",
+  "posted_at": "2026-11-02T09:42:47.253+00:00",
+  "source": "ashby",
+  "title": "Senior Software Engineer",
+  "url": "https://jobs.ashbyhq.com/tekion/f0fd8cec-5fc4-4e0a-8b82-46fda8b76561"
+ },
  "ashby:tekion:f1cd8809-b289-48b5-9962-4dc27d42b629": {
   "company": "tekion",
   "first_seen": "2026-09-15T09:11:52+00:00",
@@ -61478,6 +61518,16 @@
   "source": "greenhouse",
   "title": "Fullstack Engineer",
   "url": "https://www.asana.com/jobs/apply/7979882?gh_jid=7979882"
+ },
+ "greenhouse:asana:7979918": {
+  "company": "asana",
+  "first_seen": "2026-11-02T12:00:45+00:00",
+  "job_id": "7979918",
+  "location": "Warsaw",
+  "posted_at": "2026-06-03T13:49:28-04:00",
+  "source": "greenhouse",
+  "title": "Engineering Manager, Reporting Horizons",
+  "url": "https://www.asana.com/jobs/apply/7979918?gh_jid=7979918"
  },
  "greenhouse:asana:7980140": {
   "company": "asana",
@@ -74358,6 +74408,16 @@
   "source": "greenhouse",
   "title": "Territory Account Executive, Saskatchewan / Manitoba",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8335469?gh_jid=8335469"
+ },
+ "greenhouse:cloudflare:8336674": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-02T12:00:46+00:00",
+  "job_id": "8336674",
+  "location": "Hybrid",
+  "posted_at": "2026-11-02T04:35:19-05:00",
+  "source": "greenhouse",
+  "title": "Systems Engineer, WARP",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8336674?gh_jid=8336674"
  },
  "greenhouse:cloudflare:8338018": {
   "company": "cloudflare",
@@ -89239,6 +89299,26 @@
   "title": "Senior Product Manager (Seller Financial Products)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8311926"
  },
+ "greenhouse:coupang:8311948": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T11:56:39+00:00",
+  "job_id": "8311948",
+  "location": "Taipei, Taiwan",
+  "posted_at": "2026-11-02T03:28:28-05:00",
+  "source": "greenhouse",
+  "title": "LOC Specialist",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8311948"
+ },
+ "greenhouse:coupang:8311950": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T11:56:39+00:00",
+  "job_id": "8311950",
+  "location": "South Korea",
+  "posted_at": "2026-11-01T22:59:24-05:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321\uc774\uce20\uc11c\ube44\uc2a4] CS \uc0c1\ub2f4 \ud488\uc9c8 \uad00\ub9ac \ub2f4\ub2f9\uc790",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8311950"
+ },
  "greenhouse:coupang:8312121": {
   "company": "coupang",
   "first_seen": "2026-10-22T16:27:00+00:00",
@@ -89268,6 +89348,26 @@
   "source": "greenhouse",
   "title": "[\ucfe0\ud321\ub85c\uc9c0\uc2a4\ud2f1\uc2a4\uc11c\ube44\uc2a4] \ubb3c\ub958 \ub370\uc774\ud130 \ubd84\uc11d \ub2f4\ub2f9\uc790 (\uc2e0\uc785 \uac00\ub2a5)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8316768"
+ },
+ "greenhouse:coupang:8316830": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T11:56:39+00:00",
+  "job_id": "8316830",
+  "location": "Taipei, Taiwan",
+  "posted_at": "2026-11-02T03:24:22-05:00",
+  "source": "greenhouse",
+  "title": "Senior Process Innovation Specialist",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8316830"
+ },
+ "greenhouse:coupang:8316918": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T11:56:39+00:00",
+  "job_id": "8316918",
+  "location": "Taipei, Taiwan",
+  "posted_at": "2026-11-02T03:09:24-05:00",
+  "source": "greenhouse",
+  "title": "Senior Program Management Specialist (TW CS Program Management)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8316918"
  },
  "greenhouse:coupang:8316984": {
   "company": "coupang",
@@ -89479,6 +89579,16 @@
   "title": "[\ucfe0\ud321] \ub178\ubb34\uad00\ub9ac \ub2f4\ub2f9\uc790/ER (Employee Relations) Manager ",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8323987"
  },
+ "greenhouse:coupang:8326220": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T11:56:39+00:00",
+  "job_id": "8326220",
+  "location": "Taipei, Taiwan",
+  "posted_at": "2026-11-02T03:49:18-05:00",
+  "source": "greenhouse",
+  "title": "Sr. Specialist (CS Planning)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8326220"
+ },
  "greenhouse:coupang:8326547": {
   "company": "coupang",
   "first_seen": "2026-10-27T09:31:47+00:00",
@@ -89518,6 +89628,16 @@
   "source": "greenhouse",
   "title": "[\ucfe0\ud321\ud50c\ub808\uc774] TVOD (\uac1c\ubcc4\uad6c\ub9e4) \ucf58\ud150\uce20 \uc6b4\uc601 \ub9e4\ub2c8\uc800 (\uacc4\uc57d\uc9c1/1\ub144)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8329714"
+ },
+ "greenhouse:coupang:8330141": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T11:56:39+00:00",
+  "job_id": "8330141",
+  "location": "Taipei, Taiwan",
+  "posted_at": "2026-11-02T01:51:38-05:00",
+  "source": "greenhouse",
+  "title": "Principal Pricing Strategy & Category Program Management",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8330141"
  },
  "greenhouse:coupang:8330368": {
   "company": "coupang",
@@ -89688,6 +89808,86 @@
   "source": "greenhouse",
   "title": "Corporate Counsel \u2013 Corporate Securities, M&A and Governance",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8335707"
+ },
+ "greenhouse:coupang:8335836": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T11:56:39+00:00",
+  "job_id": "8335836",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-02T04:25:25-05:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321\ub85c\uc9c0\uc2a4\ud2f1\uc2a4\uc11c\ube44\uc2a4] \uc778\uc0ac \ub2f4\ub2f9\uc790 (\uadfc\ud0dc\uad00\ub9ac) ",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8335836"
+ },
+ "greenhouse:coupang:8344977": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T11:56:39+00:00",
+  "job_id": "8344977",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-02T00:46:07-05:00",
+  "source": "greenhouse",
+  "title": "Senior System Engineer - Fintech Cloud & Infrastructure ",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8344977"
+ },
+ "greenhouse:coupang:8344981": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T11:56:39+00:00",
+  "job_id": "8344981",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-02T00:51:11-05:00",
+  "source": "greenhouse",
+  "title": "Senior System Engineer - Fintech IT Innovation",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8344981"
+ },
+ "greenhouse:coupang:8344995": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T11:56:39+00:00",
+  "job_id": "8344995",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-02T03:11:05-05:00",
+  "source": "greenhouse",
+  "title": "[Coupang Pay] \ud540\ud14c\ud06c \uc0ac\uc5c5\uac1c\ubc1c \ub2f4\ub2f9\uc790 (Fintech Business Development 1)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8344995"
+ },
+ "greenhouse:coupang:8345448": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T11:56:39+00:00",
+  "job_id": "8345448",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-02T02:03:20-05:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321] Sr. Workplace Project Manager (GA)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8345448"
+ },
+ "greenhouse:coupang:8345567": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T11:56:39+00:00",
+  "job_id": "8345567",
+  "location": "South Korea",
+  "posted_at": "2026-11-02T03:26:15-05:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321\ud480\ud544\uba3c\ud2b8\uc11c\ube44\uc2a4] \ubb3c\ub958\uc13c\ud130 \uc790\ub3d9\ud654 \uc124\ube44 \ubcf4\uc804 \uad00\ub9ac\uc790 (\uc6a9\uc7785\uc13c\ud130)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8345567"
+ },
+ "greenhouse:coupang:8345579": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T11:56:39+00:00",
+  "job_id": "8345579",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-02T03:55:21-05:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321] Director, Pricing Operations Seller Excellence_\ud504\ub77c\uc774\uc2f1 \uc815\ucc45 \ubc0f \uc6b4\uc601 \ud601\uc2e0 \ub9ac\ub4dc",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8345579"
+ },
+ "greenhouse:coupang:8345783": {
+  "company": "coupang",
+  "first_seen": "2026-11-02T11:56:39+00:00",
+  "job_id": "8345783",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-02T05:28:48-05:00",
+  "source": "greenhouse",
+  "title": "[Coupang] Director, Pricing Operations Seller Excellence",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8345783"
  },
  "greenhouse:databricks:4513122002": {
   "company": "databricks",
@@ -103379,6 +103579,16 @@
   "title": "Strategic Core Account Executive",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8878722002"
  },
+ "greenhouse:databricks:8878946002": {
+  "company": "databricks",
+  "first_seen": "2026-11-02T11:56:34+00:00",
+  "job_id": "8878946002",
+  "location": "Bengaluru, India",
+  "posted_at": "2026-11-01T23:55:17-05:00",
+  "source": "greenhouse",
+  "title": "Evergreen - AI Engineer, AI FDE",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8878946002"
+ },
  "greenhouse:databricks:8879335002": {
   "company": "databricks",
   "first_seen": "2026-10-12T20:43:51+00:00",
@@ -104439,6 +104649,16 @@
   "title": "Lakebase Sales Specialist (Greater China Region)",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8924844002"
  },
+ "greenhouse:databricks:8924868002": {
+  "company": "databricks",
+  "first_seen": "2026-11-02T11:56:34+00:00",
+  "job_id": "8924868002",
+  "location": "Bengaluru, India",
+  "posted_at": "2026-11-02T00:01:00-05:00",
+  "source": "greenhouse",
+  "title": "Sr. Software Engineer- Databricks AI",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8924868002"
+ },
  "greenhouse:databricks:8926307002": {
   "company": "databricks",
   "first_seen": "2026-10-31T16:40:24+00:00",
@@ -104448,6 +104668,16 @@
   "source": "greenhouse",
   "title": "Sr. Solutions Architect (Energy)",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8926307002"
+ },
+ "greenhouse:databricks:8926498002": {
+  "company": "databricks",
+  "first_seen": "2026-11-02T11:56:34+00:00",
+  "job_id": "8926498002",
+  "location": "Bengaluru, India",
+  "posted_at": "2026-11-02T00:02:35-05:00",
+  "source": "greenhouse",
+  "title": "Staff Software Engineer- Databricks AI",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8926498002"
  },
  "greenhouse:datadog:1497543": {
   "company": "datadog",
@@ -115619,6 +115849,16 @@
   "title": "Cloud Operations Engineer",
   "url": "https://www.druva.com/why-druva/explore/careers/jobs/8811603002/?gh_jid=8811603002"
  },
+ "greenhouse:druva:8814721002": {
+  "company": "druva",
+  "first_seen": "2026-11-02T12:01:35+00:00",
+  "job_id": "8814721002",
+  "location": "Pune, Maharashtra, India",
+  "posted_at": "2026-11-02T05:23:31-05:00",
+  "source": "greenhouse",
+  "title": "Senior Staff Software Engineer in Test ",
+  "url": "https://www.druva.com/why-druva/explore/careers/jobs/8814721002/?gh_jid=8814721002"
+ },
  "greenhouse:druva:8814777002": {
   "company": "druva",
   "first_seen": "2026-10-01T10:43:55+00:00",
@@ -123069,6 +123309,16 @@
   "title": "Junior Public Sector Account Executive",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8313394&gh_jid=8313394"
  },
+ "greenhouse:elastic:8314141": {
+  "company": "elastic",
+  "first_seen": "2026-11-02T12:00:48+00:00",
+  "job_id": "8314141",
+  "location": "Spain",
+  "posted_at": "2026-11-02T04:50:14-05:00",
+  "source": "greenhouse",
+  "title": "Senior Full Stack Engineer - Observability APM UI",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8314141&gh_jid=8314141"
+ },
  "greenhouse:elastic:8314209": {
   "company": "elastic",
   "first_seen": "2026-10-22T16:31:21+00:00",
@@ -123318,6 +123568,26 @@
   "source": "greenhouse",
   "title": "Senior Recruiter, G&A + Marketing",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8338305&gh_jid=8338305"
+ },
+ "greenhouse:elastic:8345719": {
+  "company": "elastic",
+  "first_seen": "2026-11-02T12:00:48+00:00",
+  "job_id": "8345719",
+  "location": "Portugal",
+  "posted_at": "2026-11-02T04:50:48-05:00",
+  "source": "greenhouse",
+  "title": "Senior Full Stack Engineer - Observability APM UI",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8345719&gh_jid=8345719"
+ },
+ "greenhouse:elastic:8345720": {
+  "company": "elastic",
+  "first_seen": "2026-11-02T12:00:48+00:00",
+  "job_id": "8345720",
+  "location": "Greece",
+  "posted_at": "2026-11-02T04:51:18-05:00",
+  "source": "greenhouse",
+  "title": "Senior Full Stack Engineer - Observability APM UI",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8345720&gh_jid=8345720"
  },
  "greenhouse:fastly:6873321": {
   "company": "fastly",
@@ -137468,6 +137738,26 @@
   "source": "greenhouse",
   "title": "Incident & Escalation Lead- Enterprise Customers ",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8923092002"
+ },
+ "greenhouse:gitlab:8923121002": {
+  "company": "gitlab",
+  "first_seen": "2026-11-02T11:57:47+00:00",
+  "job_id": "8923121002",
+  "location": "Remote, Canada; Remote, United States",
+  "posted_at": "2026-11-02T05:48:18-05:00",
+  "source": "greenhouse",
+  "title": "Incident & Escalation Lead- Enterprise Customers",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8923121002"
+ },
+ "greenhouse:gitlab:8924923002": {
+  "company": "gitlab",
+  "first_seen": "2026-11-02T11:57:47+00:00",
+  "job_id": "8924923002",
+  "location": "Bangalore, India",
+  "posted_at": "2026-11-02T01:44:11-05:00",
+  "source": "greenhouse",
+  "title": "Intermediate Data Engineer",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8924923002"
  },
  "greenhouse:gleanwork:4006731005": {
   "company": "gleanwork",
@@ -162149,6 +162439,16 @@
   "title": "SVP, Revenue Marketing",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8331479"
  },
+ "greenhouse:mongodb:8333381": {
+  "company": "mongodb",
+  "first_seen": "2026-11-02T11:57:46+00:00",
+  "job_id": "8333381",
+  "location": "Singapore",
+  "posted_at": "2026-11-02T06:06:36-05:00",
+  "source": "greenhouse",
+  "title": "Solutions Architect",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8333381"
+ },
  "greenhouse:mongodb:8334108": {
   "company": "mongodb",
   "first_seen": "2026-10-30T17:37:32+00:00",
@@ -174349,6 +174649,16 @@
   "title": "Employee Relations & Compliance Manager ",
   "url": "https://www.okta.com/company/careers/opportunity/8311034?gh_jid=8311034"
  },
+ "greenhouse:okta:8312605": {
+  "company": "okta",
+  "first_seen": "2026-11-02T12:01:39+00:00",
+  "job_id": "8312605",
+  "location": "Bengaluru, India",
+  "posted_at": "2026-11-02T03:56:31-05:00",
+  "source": "greenhouse",
+  "title": "Manager, Customer Identity, Security Engineering",
+  "url": "https://www.okta.com/company/careers/opportunity/8312605?gh_jid=8312605"
+ },
  "greenhouse:okta:8312752": {
   "company": "okta",
   "first_seen": "2026-10-22T16:31:57+00:00",
@@ -174608,6 +174918,16 @@
   "source": "greenhouse",
   "title": "Sr. Product Analyst (Xactly)",
   "url": "https://www.okta.com/company/careers/opportunity/8335959?gh_jid=8335959"
+ },
+ "greenhouse:okta:8345798": {
+  "company": "okta",
+  "first_seen": "2026-11-02T12:01:39+00:00",
+  "job_id": "8345798",
+  "location": "Bengaluru, India",
+  "posted_at": "2026-11-02T05:45:53-05:00",
+  "source": "greenhouse",
+  "title": "Senior Internal Auditor",
+  "url": "https://www.okta.com/company/careers/opportunity/8345798?gh_jid=8345798"
  },
  "greenhouse:pagerduty:5707881004": {
   "company": "pagerduty",
@@ -178368,6 +178688,16 @@
   "source": "greenhouse",
   "title": "Client Account Manager II",
   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8016642"
+ },
+ "greenhouse:pinterest:8016646": {
+  "company": "pinterest",
+  "first_seen": "2026-11-02T12:00:53+00:00",
+  "job_id": "8016646",
+  "location": "Singapore, SG",
+  "posted_at": "2026-11-02T02:29:32-05:00",
+  "source": "greenhouse",
+  "title": "Sr. Technical Program Manager",
+  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8016646"
  },
  "greenhouse:pinterest:8016650": {
   "company": "pinterest",
@@ -190169,6 +190499,16 @@
   "title": "Sr AI Engineer, Agentic Systems",
   "url": "https://www.rubrik.com/company/careers/departments/job.8318044?gh_jid=8318044"
  },
+ "greenhouse:rubrik:8324126": {
+  "company": "rubrik",
+  "first_seen": "2026-11-02T11:57:47+00:00",
+  "job_id": "8324126",
+  "location": "Tokyo, Japan",
+  "posted_at": "2026-11-02T01:40:24-05:00",
+  "source": "greenhouse",
+  "title": "Sales Operations - Senior Analyst (Japan)",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8324126?gh_jid=8324126"
+ },
  "greenhouse:rubrik:8324419": {
   "company": "rubrik",
   "first_seen": "2026-10-27T23:27:01+00:00",
@@ -196458,6 +196798,16 @@
   "source": "greenhouse",
   "title": "Sales Engineering Manager Core - Mainland Europe ",
   "url": "https://www.samsara.com/company/careers/roles/8336439?gh_jid=8336439"
+ },
+ "greenhouse:samsara:8337515": {
+  "company": "samsara",
+  "first_seen": "2026-11-02T12:00:54+00:00",
+  "job_id": "8337515",
+  "location": "London, England, United Kingdom",
+  "posted_at": "2026-11-02T06:02:11-05:00",
+  "source": "greenhouse",
+  "title": "Business Technology Support Specialist",
+  "url": "https://www.samsara.com/company/careers/roles/8337515?gh_jid=8337515"
  },
  "greenhouse:samsara:8337673": {
   "company": "samsara",
@@ -204159,6 +204509,16 @@
   "title": "Head of Engineering, Tide Credit Services",
   "url": "https://job-boards.greenhouse.io/tide/jobs/8046430003"
  },
+ "greenhouse:tide:8047046003": {
+  "company": "tide",
+  "first_seen": "2026-11-02T11:56:36+00:00",
+  "job_id": "8047046003",
+  "location": "India, Hyderabad",
+  "posted_at": "2026-11-02T06:27:01-05:00",
+  "source": "greenhouse",
+  "title": "Senior Workplace Technology Engineer",
+  "url": "https://job-boards.greenhouse.io/tide/jobs/8047046003"
+ },
  "greenhouse:tide:8047176003": {
   "company": "tide",
   "first_seen": "2026-10-28T17:46:47+00:00",
@@ -204188,6 +204548,16 @@
   "source": "greenhouse",
   "title": "CRM Manager \u2013 Tide Credit",
   "url": "https://job-boards.greenhouse.io/tide/jobs/8074707003"
+ },
+ "greenhouse:tide:8096229003": {
+  "company": "tide",
+  "first_seen": "2026-11-02T11:56:36+00:00",
+  "job_id": "8096229003",
+  "location": "India, Delhi NCR",
+  "posted_at": "2026-11-02T02:25:24-05:00",
+  "source": "greenhouse",
+  "title": "Lead Engineer, Data Platform",
+  "url": "https://job-boards.greenhouse.io/tide/jobs/8096229003"
  },
  "greenhouse:turing:5480607004": {
   "company": "turing",
@@ -208768,6 +209138,36 @@
   "source": "greenhouse",
   "title": "Staff, Product Manager - Identity",
   "url": "https://job-boards.greenhouse.io/twilio/jobs/8319160"
+ },
+ "greenhouse:twilio:8319386": {
+  "company": "twilio",
+  "first_seen": "2026-11-02T12:00:58+00:00",
+  "job_id": "8319386",
+  "location": "Remote - India",
+  "posted_at": "2026-11-02T04:49:58-05:00",
+  "source": "greenhouse",
+  "title": "Software Engineer (L3)",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8319386"
+ },
+ "greenhouse:twilio:8319388": {
+  "company": "twilio",
+  "first_seen": "2026-11-02T12:00:58+00:00",
+  "job_id": "8319388",
+  "location": "Remote - India",
+  "posted_at": "2026-11-02T05:16:46-05:00",
+  "source": "greenhouse",
+  "title": "Principal Engineer (L5)",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8319388"
+ },
+ "greenhouse:twilio:8319434": {
+  "company": "twilio",
+  "first_seen": "2026-11-02T12:00:58+00:00",
+  "job_id": "8319434",
+  "location": "Remote - India",
+  "posted_at": "2026-11-02T04:44:40-05:00",
+  "source": "greenhouse",
+  "title": "Staff, Software Engineer (L4)",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8319434"
  },
  "greenhouse:twilio:8324443": {
   "company": "twilio",
@@ -218449,6 +218849,16 @@
   "title": "Sr. Staff - Python Automation + Networking",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5253921007"
  },
+ "greenhouse:zscaler:5253923007": {
+  "company": "zscaler",
+  "first_seen": "2026-11-02T12:01:41+00:00",
+  "job_id": "5253923007",
+  "location": "Mohali, IND",
+  "posted_at": "2026-11-02T04:39:49-05:00",
+  "source": "greenhouse",
+  "title": "Sr. Staff Software Development Engineer - Automation",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5253923007"
+ },
  "greenhouse:zscaler:5253927007": {
   "company": "zscaler",
   "first_seen": "2026-10-15T08:50:19+00:00",
@@ -219248,6 +219658,16 @@
   "source": "greenhouse",
   "title": "Director, Marketing Business Strategy & Operations",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5268702007"
+ },
+ "greenhouse:zscaler:5269086007": {
+  "company": "zscaler",
+  "first_seen": "2026-11-02T12:01:41+00:00",
+  "job_id": "5269086007",
+  "location": "Bangalore, IND",
+  "posted_at": "2026-11-01T23:15:46-05:00",
+  "source": "greenhouse",
+  "title": "Senior Professional Services Consultant- APAC",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5269086007"
  },
  "greenhouse:zscaler:5269088007": {
   "company": "zscaler",
@@ -239929,6 +240349,16 @@
   "title": "Staff Auditor",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014983"
  },
+ "oraclecloud:amex:26014985": {
+  "company": "amex",
+  "first_seen": "2026-11-02T12:01:33+00:00",
+  "job_id": "26014985",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-02",
+  "source": "oraclecloud",
+  "title": "Analyst Data Governance & Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014985"
+ },
  "oraclecloud:amex:26014987": {
   "company": "amex",
   "first_seen": "2026-10-15T02:48:12+00:00",
@@ -241829,6 +242259,16 @@
   "title": "Analyst-Ops Risk Mgmt",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015381"
  },
+ "oraclecloud:amex:26015382": {
+  "company": "amex",
+  "first_seen": "2026-11-02T12:01:33+00:00",
+  "job_id": "26015382",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-02",
+  "source": "oraclecloud",
+  "title": "Apprentice",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015382"
+ },
  "oraclecloud:amex:26015383": {
   "company": "amex",
   "first_seen": "2026-10-19T18:13:13+00:00",
@@ -241859,6 +242299,16 @@
   "title": "ICCO Customer Care Professional",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015386"
  },
+ "oraclecloud:amex:26015390": {
+  "company": "amex",
+  "first_seen": "2026-11-02T12:01:33+00:00",
+  "job_id": "26015390",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-02",
+  "source": "oraclecloud",
+  "title": "Apprentice",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015390"
+ },
  "oraclecloud:amex:26015398": {
   "company": "amex",
   "first_seen": "2026-10-15T16:12:46+00:00",
@@ -241888,6 +242338,16 @@
   "source": "oraclecloud",
   "title": "Sr Mgr-Digital Product Mgmt",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015404"
+ },
+ "oraclecloud:amex:26015406": {
+  "company": "amex",
+  "first_seen": "2026-11-02T12:01:33+00:00",
+  "job_id": "26015406",
+  "location": "Bengaluru, KA, India",
+  "posted_at": "2026-11-02",
+  "source": "oraclecloud",
+  "title": "Manager-Digital Product Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015406"
  },
  "oraclecloud:amex:26015408": {
   "company": "amex",
@@ -241968,6 +242428,16 @@
   "source": "oraclecloud",
   "title": "Analyst-Compliance",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015427"
+ },
+ "oraclecloud:amex:26015428": {
+  "company": "amex",
+  "first_seen": "2026-11-02T12:01:33+00:00",
+  "job_id": "26015428",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-02",
+  "source": "oraclecloud",
+  "title": "Analyst Data Governance & Mgmt",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015428"
  },
  "oraclecloud:amex:26015430": {
   "company": "amex",
@@ -242609,6 +243079,16 @@
   "title": "Executive-Key Accnt Relatnship",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015608"
  },
+ "oraclecloud:amex:26015609": {
+  "company": "amex",
+  "first_seen": "2026-11-02T12:01:33+00:00",
+  "job_id": "26015609",
+  "location": "Bengaluru, KA, India",
+  "posted_at": "2026-11-02",
+  "source": "oraclecloud",
+  "title": "AI Security Engineer III - Agentic AI & Security Automation",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015609"
+ },
  "oraclecloud:amex:26015611": {
   "company": "amex",
   "first_seen": "2026-10-28T10:20:23+00:00",
@@ -242658,6 +243138,16 @@
   "source": "oraclecloud",
   "title": "Analyst-Operational Risk Management",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015615"
+ },
+ "oraclecloud:amex:26015617": {
+  "company": "amex",
+  "first_seen": "2026-11-02T12:01:33+00:00",
+  "job_id": "26015617",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-02",
+  "source": "oraclecloud",
+  "title": "Senior Manager Risk Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015617"
  },
  "oraclecloud:amex:26015621": {
   "company": "amex",
@@ -243059,6 +243549,26 @@
   "title": "Analyst-Control Mgmt",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015780"
  },
+ "oraclecloud:amex:26015782": {
+  "company": "amex",
+  "first_seen": "2026-11-02T12:01:33+00:00",
+  "job_id": "26015782",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-02",
+  "source": "oraclecloud",
+  "title": "Analyst-Control Mgmt",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015782"
+ },
+ "oraclecloud:amex:26015783": {
+  "company": "amex",
+  "first_seen": "2026-11-02T12:01:33+00:00",
+  "job_id": "26015783",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-02",
+  "source": "oraclecloud",
+  "title": "Analyst-Control Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015783"
+ },
  "oraclecloud:amex:26015784": {
   "company": "amex",
   "first_seen": "2026-10-28T17:51:30+00:00",
@@ -243208,6 +243718,16 @@
   "source": "oraclecloud",
   "title": "Analyst - Operations Risk Management",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015900"
+ },
+ "oraclecloud:amex:26015907": {
+  "company": "amex",
+  "first_seen": "2026-11-02T12:01:33+00:00",
+  "job_id": "26015907",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-02",
+  "source": "oraclecloud",
+  "title": "Senior Analyst-Data Analytics",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015907"
  },
  "oraclecloud:amex:26015920": {
   "company": "amex",
@@ -244768,6 +245288,16 @@
   "source": "ripplingats",
   "title": "Inbound SDR - India",
   "url": "https://ats.rippling.com/rippling/jobs/33eb1699-222f-4eb4-b830-f854357df20d"
+ },
+ "ripplingats:rippling:348cb132-86ec-4e93-9010-6a9114bf1eb2": {
+  "company": "rippling",
+  "first_seen": "2026-11-02T12:01:48+00:00",
+  "job_id": "348cb132-86ec-4e93-9010-6a9114bf1eb2",
+  "location": "Bangalore, India",
+  "posted_at": null,
+  "source": "ripplingats",
+  "title": "Software Engineer II - Benefits",
+  "url": "https://ats.rippling.com/rippling/jobs/348cb132-86ec-4e93-9010-6a9114bf1eb2"
  },
  "ripplingats:rippling:34c9af5f-e70c-4923-95db-31524cbb665a": {
   "company": "rippling",
@@ -252039,6 +252569,16 @@
   "title": "Enterprise Architect (Martech- CDP)",
   "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Enterprise-Architect--Martech--CDP-_R172048"
  },
+ "workday:adobe:/job/Bangalore/Enterprise-Architect--Martech-_R172042": {
+  "company": "adobe",
+  "first_seen": "2026-11-02T11:56:44+00:00",
+  "job_id": "/job/Bangalore/Enterprise-Architect--Martech-_R172042",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Enterprise Architect (Martech)",
+  "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Enterprise-Architect--Martech-_R172042"
+ },
  "workday:adobe:/job/Bangalore/Enterprise-Architect_R169928": {
   "company": "adobe",
   "first_seen": "2026-09-03T08:28:29+00:00",
@@ -254359,6 +254899,16 @@
   "title": "Solutions Consultant",
   "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-India/Solutions-Consultant_R169899"
  },
+ "workday:adobe:/job/Remote-India/Sr-Manager-Service---Growth_R173248": {
+  "company": "adobe",
+  "first_seen": "2026-11-02T11:56:44+00:00",
+  "job_id": "/job/Remote-India/Sr-Manager-Service---Growth_R173248",
+  "location": "Remote India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr. Manager-Service & Growth",
+  "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Remote-India/Sr-Manager-Service---Growth_R173248"
+ },
  "workday:adobe:/job/Remote-India/Sr-Technical-Support-Engineer_R171734": {
   "company": "adobe",
   "first_seen": "2026-09-18T08:40:46+00:00",
@@ -256509,6 +257059,16 @@
   "title": "ASIC Engineer || Physical Design | Floor Planning | GSP & PD | Exp - 8 to 11 years",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/ASIC-Engineer----Physical-Design---Floor-Planning---GSP---PD---Exp---8-to-11-years_2023110"
  },
+ "workday:cisco:/job/Bangalore-India/ASIC-Engineer----Physical-Design--CAD-Methodology----STA-Setup--Convergence-Methodology----Exp-4--years_2029841": {
+  "company": "cisco",
+  "first_seen": "2026-11-02T11:55:52+00:00",
+  "job_id": "/job/Bangalore-India/ASIC-Engineer----Physical-Design--CAD-Methodology----STA-Setup--Convergence-Methodology----Exp-4--years_2029841",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "ASIC Engineer || Physical Design, CAD Methodology || STA Setup, Convergence Methodology || Exp 4+ years",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/ASIC-Engineer----Physical-Design--CAD-Methodology----STA-Setup--Convergence-Methodology----Exp-4--years_2029841"
+ },
  "workday:cisco:/job/Bangalore-India/ASIC-Engineer---Design-Verification--Pre-Silicon--7-12-Yrs--Bangalore_2028811-1": {
   "company": "cisco",
   "first_seen": "2026-10-22T09:05:07+00:00",
@@ -257259,6 +257819,16 @@
   "title": "Consulting Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Consulting-Engineer_2022816"
  },
+ "workday:cisco:/job/Bangalore-India/Consulting-Engineer_2030337": {
+  "company": "cisco",
+  "first_seen": "2026-11-02T11:55:52+00:00",
+  "job_id": "/job/Bangalore-India/Consulting-Engineer_2030337",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Consulting Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Consulting-Engineer_2030337"
+ },
  "workday:cisco:/job/Bangalore-India/Consulting-Engineering-Technical-Leader_2022445": {
   "company": "cisco",
   "first_seen": "2026-09-24T16:17:27+00:00",
@@ -257818,6 +258388,16 @@
   "source": "workday",
   "title": "Electrical Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Electrical-Engineer_2026967"
+ },
+ "workday:cisco:/job/Bangalore-India/Electrical-Engineer_2027454-1": {
+  "company": "cisco",
+  "first_seen": "2026-11-02T11:55:52+00:00",
+  "job_id": "/job/Bangalore-India/Electrical-Engineer_2027454-1",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Electrical Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Electrical-Engineer_2027454-1"
  },
  "workday:cisco:/job/Bangalore-India/Electrical-Engineering-Technical-Leader_2026965": {
   "company": "cisco",
@@ -259098,6 +259678,16 @@
   "source": "workday",
   "title": "Mechanical Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Mechanical-Engineer_2026962"
+ },
+ "workday:cisco:/job/Bangalore-India/Mechanical-Engineer_2027482-1": {
+  "company": "cisco",
+  "first_seen": "2026-11-02T11:55:52+00:00",
+  "job_id": "/job/Bangalore-India/Mechanical-Engineer_2027482-1",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Mechanical Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Mechanical-Engineer_2027482-1"
  },
  "workday:cisco:/job/Bangalore-India/Mechanical-Engineering-Technical-Architect----Solid-modelling--Structural-Simulation--System-Thermal-Design---15--years_2017953": {
   "company": "cisco",
@@ -262679,6 +263269,16 @@
   "title": "Software Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer_2027017"
  },
+ "workday:cisco:/job/Bangalore-India/Software-Engineer_2027027": {
+  "company": "cisco",
+  "first_seen": "2026-11-02T11:55:52+00:00",
+  "job_id": "/job/Bangalore-India/Software-Engineer_2027027",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer_2027027"
+ },
  "workday:cisco:/job/Bangalore-India/Software-Engineer_2027065": {
   "company": "cisco",
   "first_seen": "2026-10-15T22:50:09+00:00",
@@ -262688,6 +263288,16 @@
   "source": "workday",
   "title": "Software Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer_2027065"
+ },
+ "workday:cisco:/job/Bangalore-India/Software-Engineer_2027270-1": {
+  "company": "cisco",
+  "first_seen": "2026-11-02T11:55:52+00:00",
+  "job_id": "/job/Bangalore-India/Software-Engineer_2027270-1",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer_2027270-1"
  },
  "workday:cisco:/job/Bangalore-India/Software-Engineer_2027271-1": {
   "company": "cisco",
@@ -263538,6 +264148,16 @@
   "source": "workday",
   "title": "Sr. Escalation Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Sr-Escalation-Engineer_2029915-1"
+ },
+ "workday:cisco:/job/Bangalore-India/Staff-Site-Reliability-Engineer---Bangalore---10--Yrs_2029631": {
+  "company": "cisco",
+  "first_seen": "2026-11-02T11:55:52+00:00",
+  "job_id": "/job/Bangalore-India/Staff-Site-Reliability-Engineer---Bangalore---10--Yrs_2029631",
+  "location": "Bangalore, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Staff Site Reliability Engineer - Bangalore | 10+ Yrs",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Staff-Site-Reliability-Engineer---Bangalore---10--Yrs_2029631"
  },
  "workday:cisco:/job/Bangalore-India/Strategy---Planning-Manager_2021406-1": {
   "company": "cisco",
@@ -264579,6 +265199,26 @@
   "title": "Consulting Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Mumbai-India/Consulting-Engineer_2024623-1"
  },
+ "workday:cisco:/job/Mumbai-India/Consulting-Engineer_2030338": {
+  "company": "cisco",
+  "first_seen": "2026-11-02T11:55:52+00:00",
+  "job_id": "/job/Mumbai-India/Consulting-Engineer_2030338",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Consulting Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Mumbai-India/Consulting-Engineer_2030338"
+ },
+ "workday:cisco:/job/Mumbai-India/Consulting-Engineer_2030339": {
+  "company": "cisco",
+  "first_seen": "2026-11-02T11:55:52+00:00",
+  "job_id": "/job/Mumbai-India/Consulting-Engineer_2030339",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Consulting Engineer",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Mumbai-India/Consulting-Engineer_2030339"
+ },
  "workday:cisco:/job/Mumbai-India/Customer-Delivery-Architect_2015017": {
   "company": "cisco",
   "first_seen": "2026-08-09T16:01:42+00:00",
@@ -264638,6 +265278,16 @@
   "source": "workday",
   "title": "Inside Account Executive-SMB",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Mumbai-India/Inside-Account-Executive-SMB_2009327-1"
+ },
+ "workday:cisco:/job/Mumbai-India/Inside-Account-Executive-SMB_2030058": {
+  "company": "cisco",
+  "first_seen": "2026-11-02T11:55:52+00:00",
+  "job_id": "/job/Mumbai-India/Inside-Account-Executive-SMB_2030058",
+  "location": "Mumbai, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Inside Account Executive-SMB",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Mumbai-India/Inside-Account-Executive-SMB_2030058"
  },
  "workday:cisco:/job/Mumbai-India/Leader--Sales--BFSI-_2025785-1": {
   "company": "cisco",
@@ -266679,6 +267329,16 @@
   "title": "Senior Manager, Application Support & Data Platforms",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Apps-Support-Group-Manager---C14---CHENNAI_26980048"
  },
+ "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Assistant-Vice-President---Mobile-Development_261002595": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/1124-SHIVAJI-GARDENS-MOONLI/Assistant-Vice-President---Mobile-Development_261002595",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Assistant Vice President - Mobile Development",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Assistant-Vice-President---Mobile-Development_261002595"
+ },
  "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Big-data-Python-Databricks-Engineer--Engineer_26993874-1": {
   "company": "citi",
   "first_seen": "2026-09-21T09:33:11+00:00",
@@ -266978,6 +267638,16 @@
   "source": "workday",
   "title": "Fraud Operations Senior Supervisor",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Fraud-Operations-Senior-Supervisor_261001123"
+ },
+ "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Fraud-Operations-Senior-Supervisor_261003275": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/1124-SHIVAJI-GARDENS-MOONLI/Fraud-Operations-Senior-Supervisor_261003275",
+  "location": "1/124, SHIVAJI GARDENS, MOONLI",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Fraud Operations Senior Supervisor",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Fraud-Operations-Senior-Supervisor_261003275"
  },
  "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Fraud-Ops-Analyst-2---C10---CHENNAI_26986209": {
   "company": "citi",
@@ -267489,6 +268159,16 @@
   "title": "Java Microservice Senior Engineer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Java-Microservice-Senior-Engineer_26994807"
  },
+ "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Java-React-Full-stack-Developer_261002577": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/1124-SHIVAJI-GARDENS-MOONLI/Java-React-Full-stack-Developer_261002577",
+  "location": "1/124, SHIVAJI GARDENS, MOONLI",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Java React Full stack Developer",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Java-React-Full-stack-Developer_261002577"
+ },
  "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Java-Technical-Lead-Analyst_26991103": {
   "company": "citi",
   "first_seen": "2026-09-11T08:31:38+00:00",
@@ -267889,6 +268569,16 @@
   "title": "Oracle EBS System administrator Consultant Business Analyst",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Oracle-EBS-System-administrator-Consultant-Business-Analyst_26997047-1"
  },
+ "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Oracle-and-Python-Technology-Lead---Vice-President_261003817": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/1124-SHIVAJI-GARDENS-MOONLI/Oracle-and-Python-Technology-Lead---Vice-President_261003817",
+  "location": "1/124, SHIVAJI GARDENS, MOONLI",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Oracle and Python Technology Lead - Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Oracle-and-Python-Technology-Lead---Vice-President_261003817"
+ },
  "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Product-Management-Senior-Analyst--AVP--Hybrid-_26991361": {
   "company": "citi",
   "first_seen": "2026-09-03T15:39:44+00:00",
@@ -267908,6 +268598,26 @@
   "source": "workday",
   "title": "Project Manager -Scrum Master - Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Project-Manager--Scrum-Master---Assistant-Vice-President_26993947"
+ },
+ "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Python-ETL-Developer_261002630": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/1124-SHIVAJI-GARDENS-MOONLI/Python-ETL-Developer_261002630",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Python ETL Developer",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Python-ETL-Developer_261002630"
+ },
+ "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Python-ETL-Developer_261002631": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/1124-SHIVAJI-GARDENS-MOONLI/Python-ETL-Developer_261002631",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Python ETL Developer",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Python-ETL-Developer_261002631"
  },
  "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Quality-Analyst_26996663": {
   "company": "citi",
@@ -271059,6 +271769,16 @@
   "title": "Data Analyst - SAS and SQL",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Bangaluru-Karnataka-India/Data-Analyst---SAS-and-SQL_26997928"
  },
+ "workday:citi:/job/Bangaluru-Karnataka-India/Data-Analyst--Python--SQL-and-SAS_261002979": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Bangaluru-Karnataka-India/Data-Analyst--Python--SQL-and-SAS_261002979",
+  "location": "Bangaluru Karnataka India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Data Analyst, Python, SQL and SAS",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Bangaluru-Karnataka-India/Data-Analyst--Python--SQL-and-SAS_261002979"
+ },
  "workday:citi:/job/Bangaluru-Karnataka-India/Data-Governance-and-Management-Lead--Senior-Vice-President_26993872": {
   "company": "citi",
   "first_seen": "2026-10-01T10:42:00+00:00",
@@ -271548,6 +272268,36 @@
   "source": "workday",
   "title": "Applications Support Senior Analyst - Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Belfast--United-Kingdom/Applications-Support-Senior-Analyst---Assistant-Vice-President_261000092"
+ },
+ "workday:citi:/job/Belfast--United-Kingdom/Apps-Dev-Intmd-Programmer-Analyst---C11---BELFAST_261006470": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Belfast--United-Kingdom/Apps-Dev-Intmd-Programmer-Analyst---C11---BELFAST_261006470",
+  "location": "Belfast  United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Apps Dev Intmd Programmer Analyst - C11 - BELFAST",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Belfast--United-Kingdom/Apps-Dev-Intmd-Programmer-Analyst---C11---BELFAST_261006470"
+ },
+ "workday:citi:/job/Belfast--United-Kingdom/Apps-Dev-Intmd-Programmer-Analyst---C11---BELFAST_261006476": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Belfast--United-Kingdom/Apps-Dev-Intmd-Programmer-Analyst---C11---BELFAST_261006476",
+  "location": "Belfast  United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Apps Dev Intmd Programmer Analyst - C11 - BELFAST",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Belfast--United-Kingdom/Apps-Dev-Intmd-Programmer-Analyst---C11---BELFAST_261006476"
+ },
+ "workday:citi:/job/Belfast--United-Kingdom/Apps-Dev-Intmd-Programmer-Analyst---C11---BELFAST_261006481": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Belfast--United-Kingdom/Apps-Dev-Intmd-Programmer-Analyst---C11---BELFAST_261006481",
+  "location": "Belfast  United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Apps Dev Intmd Programmer Analyst - C11 - BELFAST",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Belfast--United-Kingdom/Apps-Dev-Intmd-Programmer-Analyst---C11---BELFAST_261006481"
  },
  "workday:citi:/job/Belfast--United-Kingdom/Apps-Dev-Tech-Lead-Analyst---C13---BELFAST_261000411": {
   "company": "citi",
@@ -277979,6 +278729,16 @@
   "title": "Core Java Application Developer - Assistance Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chennai-Tamil-Nadu-India/Core-Java-Application-Developer---Assistance-Vice-President_26961890"
  },
+ "workday:citi:/job/Chennai-Tamil-Nadu-India/Core-Java-Backend-Developer---Assistant-Vice-President_261005008": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Chennai-Tamil-Nadu-India/Core-Java-Backend-Developer---Assistant-Vice-President_261005008",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Core Java Backend Developer - Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chennai-Tamil-Nadu-India/Core-Java-Backend-Developer---Assistant-Vice-President_261005008"
+ },
  "workday:citi:/job/Chennai-Tamil-Nadu-India/Corporate-Banking--Relationship-Manager---Assistant-Vice-President_26994294-1": {
   "company": "citi",
   "first_seen": "2026-09-11T15:44:12+00:00",
@@ -280278,6 +281038,16 @@
   "source": "workday",
   "title": "Officer, Securities & Derivatives Analyst, Markets Operations",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Officer--Securities---Derivatives-Analyst--Markets-Operations_26980232"
+ },
+ "workday:citi:/job/Chiyoda-ku-Tokyo-Japan/Officer--Securities---Derivatives-Lead-Analyst--Markets-Operations_261006263": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Chiyoda-ku-Tokyo-Japan/Officer--Securities---Derivatives-Lead-Analyst--Markets-Operations_261006263",
+  "location": "Chiyoda-ku Tokyo Japan",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Officer, Securities & Derivatives Lead Analyst, Markets Operations",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Officer--Securities---Derivatives-Lead-Analyst--Markets-Operations_261006263"
  },
  "workday:citi:/job/Chiyoda-ku-Tokyo-Japan/Officer--Syndicated-Loan-Operations-Analyst--Operations_26985102-1": {
   "company": "citi",
@@ -287899,6 +288669,16 @@
   "title": "Big Data Java Spark Developer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Big-Data-Java-Spark-Developer_26998231"
  },
+ "workday:citi:/job/DLF-CYBERCITY-12B/Billing-Dispute-CCM_261005514-1": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/DLF-CYBERCITY-12B/Billing-Dispute-CCM_261005514-1",
+  "location": "DLF CYBERCITY 12B",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Billing Dispute CCM",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Billing-Dispute-CCM_261005514-1"
+ },
  "workday:citi:/job/DLF-CYBERCITY-12B/Business-Risk-and-Control-Intermediate-Analyst_26979557-1": {
   "company": "citi",
   "first_seen": "2026-08-24T12:39:14+00:00",
@@ -288038,6 +288818,26 @@
   "source": "workday",
   "title": "Control Execution Oversight Senior Analyst, Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Control-Execution-Oversight-Senior-Analyst--Assistant-Vice-President_26992992-1"
+ },
+ "workday:citi:/job/DLF-CYBERCITY-12B/Control-Testing-Automation-Development--Senior-Analyst_261004119": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/DLF-CYBERCITY-12B/Control-Testing-Automation-Development--Senior-Analyst_261004119",
+  "location": "DLF CYBERCITY 12B",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Control Testing Automation Development- Senior Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Control-Testing-Automation-Development--Senior-Analyst_261004119"
+ },
+ "workday:citi:/job/DLF-CYBERCITY-12B/Control-Testing-Automation-Development--Senior-Analyst_26998011": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/DLF-CYBERCITY-12B/Control-Testing-Automation-Development--Senior-Analyst_26998011",
+  "location": "DLF CYBERCITY 12B",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Control Testing Automation Development- Senior Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Control-Testing-Automation-Development--Senior-Analyst_26998011"
  },
  "workday:citi:/job/DLF-CYBERCITY-12B/Credit-Card-Control-Automation-Engagement-Lead--SVP_26999081": {
   "company": "citi",
@@ -288609,6 +289409,26 @@
   "title": "Java Full Stack Developer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Java-Full-Stack-Developer_26997605-1"
  },
+ "workday:citi:/job/DLF-CYBERCITY-12B/Java-Full-Stack_26996168": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/DLF-CYBERCITY-12B/Java-Full-Stack_26996168",
+  "location": "DLF CYBERCITY 12B",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Java Full Stack",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Java-Full-Stack_26996168"
+ },
+ "workday:citi:/job/DLF-CYBERCITY-12B/Java-Full-Stack_26996173": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/DLF-CYBERCITY-12B/Java-Full-Stack_26996173",
+  "location": "DLF CYBERCITY 12B",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Java Full Stack",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Java-Full-Stack_26996173"
+ },
  "workday:citi:/job/DLF-CYBERCITY-12B/Java-Fullstack-Developer_261000311": {
   "company": "citi",
   "first_seen": "2026-10-26T09:37:19+00:00",
@@ -289088,6 +289908,16 @@
   "source": "workday",
   "title": "Ops Support Specialist",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Ops-Support-Specialist_25929099"
+ },
+ "workday:citi:/job/DLF-CYBERCITY-12B/Ops-Support-Specialist_261005888": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/DLF-CYBERCITY-12B/Ops-Support-Specialist_261005888",
+  "location": "DLF CYBERCITY 12B",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Ops Support Specialist",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Ops-Support-Specialist_261005888"
  },
  "workday:citi:/job/DLF-CYBERCITY-12B/Ops-Support-Specialist_26979867": {
   "company": "citi",
@@ -289728,6 +290558,16 @@
   "source": "workday",
   "title": "Senior Data Quality and Governance Analyst \u2013 Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Senior-Data-Quality-and-Governance-Analyst---Assistant-Vice-President_26988924"
+ },
+ "workday:citi:/job/DLF-CYBERCITY-12B/Senior-Data-Test-Analyst_261003207": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/DLF-CYBERCITY-12B/Senior-Data-Test-Analyst_261003207",
+  "location": "DLF CYBERCITY 12B",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Data Test Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/DLF-CYBERCITY-12B/Senior-Data-Test-Analyst_261003207"
  },
  "workday:citi:/job/DLF-CYBERCITY-12B/Senior-Database-Developer_261000368-1": {
   "company": "citi",
@@ -291788,6 +292628,16 @@
   "source": "workday",
   "title": "Product Development Senior Group Manager (Director)",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Dublin--Ireland/Product-Development-Senior-Group-Manager--Director-_26973437"
+ },
+ "workday:citi:/job/Dublin--Ireland/Program-Management-Lead---HR-Assist---Workday_261002854": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Dublin--Ireland/Program-Management-Lead---HR-Assist---Workday_261002854",
+  "location": "Dublin  Ireland",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Program Management Lead \u2013 HR Assist / Workday",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Dublin--Ireland/Program-Management-Lead---HR-Assist---Workday_261002854"
  },
  "workday:citi:/job/Dublin--Ireland/Project-Senior-Lead_26985360": {
   "company": "citi",
@@ -297719,6 +298569,16 @@
   "title": "Relationship Manager - Global Network Banking",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ho-Chi-Minh-City-Vietnam/Relationship-Manager---Global-Network-Banking_26995914"
  },
+ "workday:citi:/job/Ho-Chi-Minh-City-Vietnam/Vietnam-Payments-Product-Country-Lead---Senior-Vice-President_261005881": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Ho-Chi-Minh-City-Vietnam/Vietnam-Payments-Product-Country-Lead---Senior-Vice-President_261005881",
+  "location": "Ho Chi Minh City Vietnam",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Vietnam Payments Product Country Lead - Senior Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ho-Chi-Minh-City-Vietnam/Vietnam-Payments-Product-Country-Lead---Senior-Vice-President_261005881"
+ },
  "workday:citi:/job/Hoboken-New-Jersey-United-States/Branch-Manager---Hoboken--Vice-President_261000984": {
   "company": "citi",
   "first_seen": "2026-10-08T21:01:36+00:00",
@@ -302829,6 +303689,16 @@
   "title": "Credit Risk Analyst - Institutional Credit Management Underwriting - ISTANBUL",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Istanbul--Turkey/Credit-Risk-Analyst---Institutional-Credit-Management-Underwriting---ISTANBUL_26995916"
  },
+ "workday:citi:/job/Istanbul--Turkey/Fixed-Term-12-Months---Client-Executive-Manager--Vice-President--Services-Financial-Institution-Sales-_261005476": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Istanbul--Turkey/Fixed-Term-12-Months---Client-Executive-Manager--Vice-President--Services-Financial-Institution-Sales-_261005476",
+  "location": "Istanbul  Turkey",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Fixed Term 12 Months - Client Executive Manager, Vice President (Services Financial Institution Sales)",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Istanbul--Turkey/Fixed-Term-12-Months---Client-Executive-Manager--Vice-President--Services-Financial-Institution-Sales-_261005476"
+ },
  "workday:citi:/job/Istanbul--Turkey/Global-Network-Banking--GNB--Head--Director--Turkiye_261004686": {
   "company": "citi",
   "first_seen": "2026-10-28T10:18:31+00:00",
@@ -306518,6 +307388,16 @@
   "source": "workday",
   "title": "Officer, Equities Delta One Middle Office Analyst",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Kowloon--Hong-Kong/Officer--Equities-Delta-One-Middle-Office-Analyst_26970456"
+ },
+ "workday:citi:/job/Kowloon--Hong-Kong/Officer--Lifestyle-Relationship-Management--Affluent-Cards---Consumer-Bank_261005456": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Kowloon--Hong-Kong/Officer--Lifestyle-Relationship-Management--Affluent-Cards---Consumer-Bank_261005456",
+  "location": "Kowloon  Hong Kong",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Officer, Lifestyle Relationship Management (Affluent Cards), Consumer Bank",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Kowloon--Hong-Kong/Officer--Lifestyle-Relationship-Management--Affluent-Cards---Consumer-Bank_261005456"
  },
  "workday:citi:/job/Kowloon--Hong-Kong/Officer--Marketing-Product-Int-Analyst_26983437": {
   "company": "citi",
@@ -310369,6 +311249,16 @@
   "title": "Lead AI Engineer, Senior Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Lead-AI-Engineer--Senior-Vice-President_26977112"
  },
+ "workday:citi:/job/London--United-Kingdom/Lead-Applied-AI-Engineer---Banking-Technology--Senior-Vice-President_261002093": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/London--United-Kingdom/Lead-Applied-AI-Engineer---Banking-Technology--Senior-Vice-President_261002093",
+  "location": "London  United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Lead Applied AI Engineer - Banking Technology, Senior Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Lead-Applied-AI-Engineer---Banking-Technology--Senior-Vice-President_261002093"
+ },
  "workday:citi:/job/London--United-Kingdom/Lead-Business-Analyst-in-Markets-Treasury-Technology_26985560": {
   "company": "citi",
   "first_seen": "2026-08-25T16:32:39+00:00",
@@ -311718,6 +312608,16 @@
   "source": "workday",
   "title": "Senior Low Latency Software Engineer - Equities Execution (SVP)",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Senior-Low-Latency-Software-Engineer---Equities-Execution--SVP-_261000771"
+ },
+ "workday:citi:/job/London--United-Kingdom/Senior-Portfolio-Advisor--EMEA_26954239": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/London--United-Kingdom/Senior-Portfolio-Advisor--EMEA_26954239",
+  "location": "London  United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Portfolio Advisor, EMEA",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/London--United-Kingdom/Senior-Portfolio-Advisor--EMEA_26954239"
  },
  "workday:citi:/job/London--United-Kingdom/Senior-Python-Developer---Quant-Models-AI-Automation--Vice-President_26987269": {
   "company": "citi",
@@ -320859,6 +321759,16 @@
   "title": "Credit Risk Researcher, Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Credit-Risk-Researcher--Vice-President_261001233"
  },
+ "workday:citi:/job/Mumbai-Maharashtra-India/Credit-Risk-Review--Vice-President_261003690": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Mumbai-Maharashtra-India/Credit-Risk-Review--Vice-President_261003690",
+  "location": "Mumbai Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Credit Risk Review, Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Credit-Risk-Review--Vice-President_261003690"
+ },
  "workday:citi:/job/Mumbai-Maharashtra-India/Credit-Risk-Review-Senior-Group-Manager--Director--Hybrid-_26983247": {
   "company": "citi",
   "first_seen": "2026-08-09T16:04:41+00:00",
@@ -321248,6 +322158,16 @@
   "source": "workday",
   "title": "HR Benefits Analyst",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/HR-Benefits-Analyst_26998603"
+ },
+ "workday:citi:/job/Mumbai-Maharashtra-India/HR-Benefits-Senior-Analyst_261003278": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Mumbai-Maharashtra-India/HR-Benefits-Senior-Analyst_261003278",
+  "location": "Mumbai Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "HR Benefits Senior Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/HR-Benefits-Senior-Analyst_261003278"
  },
  "workday:citi:/job/Mumbai-Maharashtra-India/HR-Business-Partner---Vice-President_26988823": {
   "company": "citi",
@@ -322748,6 +323668,16 @@
   "source": "workday",
   "title": "Risk Model Validation, Officer (Hybrid)",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Risk-Model-Validation--Officer--Hybrid-_26998682"
+ },
+ "workday:citi:/job/Mumbai-Maharashtra-India/Risk-Reporting-2LOD-Sr-Analyst--Assistant-Vice-President_261001970": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Mumbai-Maharashtra-India/Risk-Reporting-2LOD-Sr-Analyst--Assistant-Vice-President_261001970",
+  "location": "Mumbai Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Risk Reporting 2LOD Sr. Analyst, Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Risk-Reporting-2LOD-Sr-Analyst--Assistant-Vice-President_261001970"
  },
  "workday:citi:/job/Mumbai-Maharashtra-India/Risk-Reporting-2LOD-Sr-Group-Mgr_26999765": {
   "company": "citi",
@@ -336369,6 +337299,16 @@
   "title": "Applications Development Senior Analyst",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Applications-Development-Senior-Analyst_26988779"
  },
+ "workday:citi:/job/Pune-Maharashtra-India/Applications-Development-Senior-Manager_261003330": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Applications-Development-Senior-Manager_261003330",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Applications Development Senior Manager",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Applications-Development-Senior-Manager_261003330"
+ },
  "workday:citi:/job/Pune-Maharashtra-India/Applications-Development-Senior-Manager_26990278": {
   "company": "citi",
   "first_seen": "2026-09-01T09:07:39+00:00",
@@ -337589,6 +338529,16 @@
   "title": "Big Data and Apache Spark Developer - Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Big-Data-and-Apache-Spark-Developer---Assistant-Vice-President_261002290"
  },
+ "workday:citi:/job/Pune-Maharashtra-India/BigData-Hadoop-and-Cloud-Engineer-Assistant-Vice-President_261004525": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/BigData-Hadoop-and-Cloud-Engineer-Assistant-Vice-President_261004525",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "BigData Hadoop and Cloud Engineer-Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/BigData-Hadoop-and-Cloud-Engineer-Assistant-Vice-President_261004525"
+ },
  "workday:citi:/job/Pune-Maharashtra-India/Bigdata-Spark-Developer_26998653": {
   "company": "citi",
   "first_seen": "2026-10-15T08:48:24+00:00",
@@ -337598,6 +338548,16 @@
   "source": "workday",
   "title": "Bigdata Spark Developer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Bigdata-Spark-Developer_26998653"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/Billing-Dispute-CCM_261005524": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Billing-Dispute-CCM_261005524",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Billing Dispute CCM",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Billing-Dispute-CCM_261005524"
  },
  "workday:citi:/job/Pune-Maharashtra-India/Books-and-Records-Oversight-Director_26955874": {
   "company": "citi",
@@ -337978,6 +338938,16 @@
   "source": "workday",
   "title": "Core Java Tech Lead - Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Core-Java-Tech-Lead---Vice-President_26995355"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/Core-Operations---Financial-Servicing---Accounting_261000934": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Core-Operations---Financial-Servicing---Accounting_261000934",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Core Operations - Financial Servicing & Accounting",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Core-Operations---Financial-Servicing---Accounting_261000934"
  },
  "workday:citi:/job/Pune-Maharashtra-India/Core-Trade-Modernization-Lead_26998917": {
   "company": "citi",
@@ -339029,6 +339999,16 @@
   "title": "Finance AI and Data Business Analyst - Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Finance-AI-and-Data-Business-Analyst---Assistant-Vice-President_26997840"
  },
+ "workday:citi:/job/Pune-Maharashtra-India/Financial-Services-and-Accounting_261000269": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Financial-Services-and-Accounting_261000269",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Financial Services and Accounting",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Financial-Services-and-Accounting_261000269"
+ },
  "workday:citi:/job/Pune-Maharashtra-India/Fixed-Income---Business-Analysis--Product-Owner---Vice-President_261002095-1": {
   "company": "citi",
   "first_seen": "2026-10-27T17:15:29+00:00",
@@ -339268,6 +340248,16 @@
   "source": "workday",
   "title": "Full Stack Java Developer - Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Full-Stack-Java-Developer---Assistant-Vice-President_261001400"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/Full-Stack-Java-Developer---Assistant-Vice-President_261004584": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Full-Stack-Java-Developer---Assistant-Vice-President_261004584",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Full Stack Java Developer - Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Full-Stack-Java-Developer---Assistant-Vice-President_261004584"
  },
  "workday:citi:/job/Pune-Maharashtra-India/Full-Stack-Java-Developer---Vice-President_26987502-1": {
   "company": "citi",
@@ -339859,6 +340849,16 @@
   "title": "IT Quality Manager",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/IT-Quality-Manager_26985852"
  },
+ "workday:citi:/job/Pune-Maharashtra-India/IT-Quality-Senior-Analyst---Assistant-Vice-President_261002463": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/IT-Quality-Senior-Analyst---Assistant-Vice-President_261002463",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "IT Quality Senior Analyst - Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/IT-Quality-Senior-Analyst---Assistant-Vice-President_261002463"
+ },
  "workday:citi:/job/Pune-Maharashtra-India/IT-Quality-Senior-Analyst---Assistant-Vice-President_26991349": {
   "company": "citi",
   "first_seen": "2026-09-03T15:39:44+00:00",
@@ -339898,6 +340898,16 @@
   "source": "workday",
   "title": "IT Quality Senior Manager - Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/IT-Quality-Senior-Manager---Vice-President_261003805"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/IT-Quality-Senior-Manager---Vice-President_261005528": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/IT-Quality-Senior-Manager---Vice-President_261005528",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "IT Quality Senior Manager - Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/IT-Quality-Senior-Manager---Vice-President_261005528"
  },
  "workday:citi:/job/Pune-Maharashtra-India/IT-Quality-Senior-Manager---Vice-President_26987121": {
   "company": "citi",
@@ -340018,6 +341028,26 @@
   "source": "workday",
   "title": "Information Technology Quality Senior Manager - Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Information-Technology-Quality-Senior-Manager---Vice-President_26976779"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/Infrastructure-Intermediate-Systems-Analyst_261004082": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Infrastructure-Intermediate-Systems-Analyst_261004082",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Infrastructure Intermediate Systems Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Infrastructure-Intermediate-Systems-Analyst_261004082"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/Infrastructure-Intermediate-Systems-Analyst_261004083": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Infrastructure-Intermediate-Systems-Analyst_261004083",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Infrastructure Intermediate Systems Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Infrastructure-Intermediate-Systems-Analyst_261004083"
  },
  "workday:citi:/job/Pune-Maharashtra-India/Java---IBM-BPM-Application-Development---Vice-President_26999587": {
   "company": "citi",
@@ -340158,6 +341188,16 @@
   "source": "workday",
   "title": "Java Applications Development - Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Applications-Development---Assistant-Vice-President_26997138"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/Java-Applications-Development-Lead---Assistant-Vice-President_261003247": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Java-Applications-Development-Lead---Assistant-Vice-President_261003247",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Java Applications Development Lead - Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Applications-Development-Lead---Assistant-Vice-President_261003247"
  },
  "workday:citi:/job/Pune-Maharashtra-India/Java-Applications-Development-Senior-Programmer_26988742": {
   "company": "citi",
@@ -340729,6 +341769,16 @@
   "title": "Java Full Stack Developer- Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Full-Stack-Developer--Vice-President_26986219"
  },
+ "workday:citi:/job/Pune-Maharashtra-India/Java-Full-Stack-Developer-with-Angular_261003825-1": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Java-Full-Stack-Developer-with-Angular_261003825-1",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Java Full Stack Developer with Angular",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Full-Stack-Developer-with-Angular_261003825-1"
+ },
  "workday:citi:/job/Pune-Maharashtra-India/Java-Full-Stack-Developer-with-React---Assistant-Vice-President_26978760": {
   "company": "citi",
   "first_seen": "2026-08-09T16:04:42+00:00",
@@ -340748,6 +341798,16 @@
   "source": "workday",
   "title": "Java Full Stack Developer with React JS",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Full-Stack-Developer-with-React-JS_26999098"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/Java-Full-Stack-Developer_261004654": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Java-Full-Stack-Developer_261004654",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Java Full Stack Developer",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Full-Stack-Developer_261004654"
  },
  "workday:citi:/job/Pune-Maharashtra-India/Java-Full-Stack-Developer_26986745-1": {
   "company": "citi",
@@ -341028,6 +342088,16 @@
   "source": "workday",
   "title": "Java Integration Developer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Integration-Developer_26986789"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/Java-Intermediate-Programmer-Analyst_26997180": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Java-Intermediate-Programmer-Analyst_26997180",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Java Intermediate Programmer Analyst",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Intermediate-Programmer-Analyst_26997180"
  },
  "workday:citi:/job/Pune-Maharashtra-India/Java-J2EE-Applications-Development-Lead_26987949": {
   "company": "citi",
@@ -341579,6 +342649,16 @@
   "title": "Lead Agentic AI Engineer - FDE ( Forward Deploy Engineer)",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Lead-Agentic-AI-Engineer---FDE---Forward-Deploy-Engineer-_26996353"
  },
+ "workday:citi:/job/Pune-Maharashtra-India/Lead-Architect---C---and-Java---Vice-President_261003034": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Lead-Architect---C---and-Java---Vice-President_261003034",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Lead Architect - C++ and Java - Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Lead-Architect---C---and-Java---Vice-President_261003034"
+ },
  "workday:citi:/job/Pune-Maharashtra-India/Lead-Data-Engineer---Big-Data---AI---Snowflake-and-Databricks--Assistant-Vice-President_26978383": {
   "company": "citi",
   "first_seen": "2026-08-09T16:04:42+00:00",
@@ -341788,6 +342868,26 @@
   "source": "workday",
   "title": "Lead Java Software Engineer - Prime Finance Risk - Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Lead-Java-Software-Engineer---Prime-Finance-Risk---Vice-President_26992549"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/Lead-Java-Spark-and-Big-Data-Developer---Vice-President_261002964": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Lead-Java-Spark-and-Big-Data-Developer---Vice-President_261002964",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Lead Java Spark and Big Data Developer - Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Lead-Java-Spark-and-Big-Data-Developer---Vice-President_261002964"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/Lead-Java-Spark-and-Big-Data-Developer---Vice-President_261002965": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Lead-Java-Spark-and-Big-Data-Developer---Vice-President_261002965",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Lead Java Spark and Big Data Developer - Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Lead-Java-Spark-and-Big-Data-Developer---Vice-President_261002965"
  },
  "workday:citi:/job/Pune-Maharashtra-India/Lead-Java-and-Apache-Spark-Developer---Vice-President_26994184": {
   "company": "citi",
@@ -342768,6 +343868,16 @@
   "source": "workday",
   "title": "QA Automation Analyst",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/QA-Automation-Analyst_26987118-1"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/QA-Automation-Engineer---Assistant-Vice-President_261004566": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/QA-Automation-Engineer---Assistant-Vice-President_261004566",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "QA Automation Engineer \u2013 Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/QA-Automation-Engineer---Assistant-Vice-President_261004566"
  },
  "workday:citi:/job/Pune-Maharashtra-India/QA-Automation-Engineer_26997926": {
   "company": "citi",
@@ -344119,6 +345229,16 @@
   "title": "Senior Java Developer - Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-Java-Developer---Assistant-Vice-President_261004572"
  },
+ "workday:citi:/job/Pune-Maharashtra-India/Senior-Java-Developer---Assistant-Vice-President_261005191": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Senior-Java-Developer---Assistant-Vice-President_261005191",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Java Developer - Assistant Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-Java-Developer---Assistant-Vice-President_261005191"
+ },
  "workday:citi:/job/Pune-Maharashtra-India/Senior-Java-Developer---Assistant-Vice-President_26942302": {
   "company": "citi",
   "first_seen": "2026-08-09T16:04:41+00:00",
@@ -344378,6 +345498,16 @@
   "source": "workday",
   "title": "Senior Java lead Developer - Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-Java-Developer-Lead--Assistant-Vice-President_26970847"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/Senior-Java-Developer_261004657": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Senior-Java-Developer_261004657",
+  "location": "Pune Maharashtra India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Java Developer",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-Java-Developer_261004657"
  },
  "workday:citi:/job/Pune-Maharashtra-India/Senior-Java-Developer_26976284": {
   "company": "citi",
@@ -344658,6 +345788,16 @@
   "source": "workday",
   "title": "Senior Java Technology Lead - Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-Java-Technology-Lead---Vice-President_26960896"
+ },
+ "workday:citi:/job/Pune-Maharashtra-India/Senior-Java-and-AI-Engineer---Vice-President_261004325": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Pune-Maharashtra-India/Senior-Java-and-AI-Engineer---Vice-President_261004325",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Java and AI Engineer - Vice President",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Senior-Java-and-AI-Engineer---Vice-President_261004325"
  },
  "workday:citi:/job/Pune-Maharashtra-India/Senior-Lead-Java-Development---Assistant-Vice-President_26982099": {
   "company": "citi",
@@ -350569,6 +351709,16 @@
   "title": "Cross-disciplinary Controls Lead Analyst - C13 - SHANGHAI",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Shanghai-Shanghai-China/Cross-disciplinary-Controls-Lead-Analyst---C13---SHANGHAI_26991906"
  },
+ "workday:citi:/job/Shanghai-Shanghai-China/Equity-Cash-Settlements-Senior-Manager---China-Securities-NewCo_261006301": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Shanghai-Shanghai-China/Equity-Cash-Settlements-Senior-Manager---China-Securities-NewCo_261006301",
+  "location": "Shanghai Shanghai China",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Equity Cash Settlements Senior Manager - China Securities NewCo",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Shanghai-Shanghai-China/Equity-Cash-Settlements-Senior-Manager---China-Securities-NewCo_261006301"
+ },
  "workday:citi:/job/Shanghai-Shanghai-China/Global-Solutions-Sales--Services---Vice-President---SHANGHAI_26983978-1": {
   "company": "citi",
   "first_seen": "2026-08-25T04:36:09+00:00",
@@ -350578,6 +351728,16 @@
   "source": "workday",
   "title": "Global Solutions Sales, Services - Vice President - SHANGHAI",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Shanghai-Shanghai-China/Global-Solutions-Sales--Services---Vice-President---SHANGHAI_26983978-1"
+ },
+ "workday:citi:/job/Shanghai-Shanghai-China/Head-of-China-Securities-Operations---China-Securities-NewCo_261006296": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Shanghai-Shanghai-China/Head-of-China-Securities-Operations---China-Securities-NewCo_261006296",
+  "location": "Shanghai Shanghai China",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Head of China Securities Operations - China Securities NewCo",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Shanghai-Shanghai-China/Head-of-China-Securities-Operations---China-Securities-NewCo_261006296"
  },
  "workday:citi:/job/Shanghai-Shanghai-China/KYC-Operations-Analyst---Officer_26994792": {
   "company": "citi",
@@ -351268,6 +352428,16 @@
   "source": "workday",
   "title": "Associate Banker Senior (Assistant Vice President)",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Associate-Banker-Senior--Assistant-Vice-President-_26993165"
+ },
+ "workday:citi:/job/Singapore--Singapore/Authentication-Platforms-Production-Support-Analyst--Authentication-and-Mobile-Security-_261006284": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Singapore--Singapore/Authentication-Platforms-Production-Support-Analyst--Authentication-and-Mobile-Security-_261006284",
+  "location": "Singapore  Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Authentication Platforms Production Support Analyst (Authentication and Mobile Security)",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Authentication-Platforms-Production-Support-Analyst--Authentication-and-Mobile-Security-_261006284"
  },
  "workday:citi:/job/Singapore--Singapore/Banking---Commercial-Banking--Summer-Analyst--Singapore---APAC--2027_26985457": {
   "company": "citi",
@@ -352918,6 +354088,16 @@
   "source": "workday",
   "title": "Technology Lead - Lending Applications Stability & Release Management (Vice President)",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Technology-Lead---Lending-Applications-Stability---Release-Management--Vice-President-_26982676"
+ },
+ "workday:citi:/job/Singapore--Singapore/Technology-Program-Manager--Risk-and-Governance--Markets-Trading-Technology_261005371": {
+  "company": "citi",
+  "first_seen": "2026-11-02T11:59:15+00:00",
+  "job_id": "/job/Singapore--Singapore/Technology-Program-Manager--Risk-and-Governance--Markets-Trading-Technology_261005371",
+  "location": "Singapore  Singapore",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Technology Program Manager, Risk and Governance, Markets Trading Technology",
+  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Technology-Program-Manager--Risk-and-Governance--Markets-Trading-Technology_261005371"
  },
  "workday:citi:/job/Singapore--Singapore/Technology-Project-Lead--Asia-Markets-Technology--Vice-President_261002252": {
   "company": "citi",
@@ -370589,6 +371769,16 @@
   "title": "Alliance Business Manager",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/Alliance-Business-Manager_1210229-1"
  },
+ "workday:hpe:/job/Bengaluru-Karntaka-India/Application-Security-Manager_1217229-2": {
+  "company": "hpe",
+  "first_seen": "2026-11-02T11:56:16+00:00",
+  "job_id": "/job/Bengaluru-Karntaka-India/Application-Security-Manager_1217229-2",
+  "location": "Bengaluru, Karn\u0101taka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Application Security Manager",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/Application-Security-Manager_1217229-2"
+ },
  "workday:hpe:/job/Bengaluru-Karntaka-India/Aruba-ERT-Engineer--DCN--Level-3-_1211967-2": {
   "company": "hpe",
   "first_seen": "2026-10-26T18:04:07+00:00",
@@ -370718,6 +371908,16 @@
   "source": "workday",
   "title": "CX - Strategy and Business Ops. OPEX",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/CX---Strategy-and-Business-Ops-OPEX_1214351-2"
+ },
+ "workday:hpe:/job/Bengaluru-Karntaka-India/CX-Team-member_1217661": {
+  "company": "hpe",
+  "first_seen": "2026-11-02T11:56:16+00:00",
+  "job_id": "/job/Bengaluru-Karntaka-India/CX-Team-member_1217661",
+  "location": "Bengaluru, Karn\u0101taka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "CX Team member",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/CX-Team-member_1217661"
  },
  "workday:hpe:/job/Bengaluru-Karntaka-India/Change-Manager_1201136-2": {
   "company": "hpe",
@@ -371658,6 +372858,16 @@
   "source": "workday",
   "title": "Senior Backend Software Engineer",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/Experienced-Software-Developer-or-Data-Science-Engineer_1200687-3"
+ },
+ "workday:hpe:/job/Bengaluru-Karntaka-India/External-Apprentice_1215489-2": {
+  "company": "hpe",
+  "first_seen": "2026-11-02T11:56:16+00:00",
+  "job_id": "/job/Bengaluru-Karntaka-India/External-Apprentice_1215489-2",
+  "location": "Bengaluru, Karn\u0101taka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "External Apprentice",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/External-Apprentice_1215489-2"
  },
  "workday:hpe:/job/Bengaluru-Karntaka-India/External-Intern_1215487-1": {
   "company": "hpe",
@@ -373029,6 +374239,16 @@
   "title": "Platform Engineer \u2013 Storage Product Platform Development",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/Platform-Engineer---Storage-Product-Platform-Development_1214830-1"
  },
+ "workday:hpe:/job/Bengaluru-Karntaka-India/Platform-SW-Dev-Engineer_1216378-2": {
+  "company": "hpe",
+  "first_seen": "2026-11-02T11:56:16+00:00",
+  "job_id": "/job/Bengaluru-Karntaka-India/Platform-SW-Dev-Engineer_1216378-2",
+  "location": "Bengaluru, Karn\u0101taka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Platform SW Dev Engineer",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/Platform-SW-Dev-Engineer_1216378-2"
+ },
  "workday:hpe:/job/Bengaluru-Karntaka-India/Power-Electronics-Design-Engineer_1211952": {
   "company": "hpe",
   "first_seen": "2026-10-12T11:33:05+00:00",
@@ -374318,6 +375538,16 @@
   "source": "workday",
   "title": "Senior ASIC Design Verification Engineer",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/Senior-ASIC-Design-Verification-Engineer_1205026-3"
+ },
+ "workday:hpe:/job/Bengaluru-Karntaka-India/Senior-Application-Security-Engineer_1217896": {
+  "company": "hpe",
+  "first_seen": "2026-11-02T11:56:16+00:00",
+  "job_id": "/job/Bengaluru-Karntaka-India/Senior-Application-Security-Engineer_1217896",
+  "location": "Bengaluru, Karn\u0101taka, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Application Security Engineer",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/Senior-Application-Security-Engineer_1217896"
  },
  "workday:hpe:/job/Bengaluru-Karntaka-India/Senior-Application-Software-Engineer_1208405-3": {
   "company": "hpe",
@@ -377868,6 +379098,16 @@
   "source": "workday",
   "title": "Software Consulting Engineer",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Chennai-Tamil-Nadu-India/Senior-Network-Engineer--WLAN---Switching---Software-_1209114-3"
+ },
+ "workday:hpe:/job/Chennai-Tamil-Nadu-India/Software-Consulting-Engineer_1217793-2": {
+  "company": "hpe",
+  "first_seen": "2026-11-02T11:56:16+00:00",
+  "job_id": "/job/Chennai-Tamil-Nadu-India/Software-Consulting-Engineer_1217793-2",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Software Consulting Engineer",
+  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Chennai-Tamil-Nadu-India/Software-Consulting-Engineer_1217793-2"
  },
  "workday:hpe:/job/Chennai-Tamil-Nadu-India/Software-Consulting-Engineer_1217809-2": {
   "company": "hpe",
@@ -381699,6 +382939,16 @@
   "title": "Observability Platform Engineer",
   "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Observability-Platform-Engineer_R0121185-1"
  },
+ "workday:lseg:/job/IND-BLR-Divyasree-Technopolis/Operational-Resilience-and-BCM-Analyst_R0123458": {
+  "company": "lseg",
+  "first_seen": "2026-11-02T11:56:32+00:00",
+  "job_id": "/job/IND-BLR-Divyasree-Technopolis/Operational-Resilience-and-BCM-Analyst_R0123458",
+  "location": "IND-BLR-Divyasree Technopolis",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Operational Resilience and BCM Analyst",
+  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-BLR-Divyasree-Technopolis/Operational-Resilience-and-BCM-Analyst_R0123458"
+ },
  "workday:lseg:/job/IND-BLR-Divyasree-Technopolis/Operations-Risk-Lead_R0116561-1": {
   "company": "lseg",
   "first_seen": "2026-08-09T16:02:15+00:00",
@@ -384479,6 +385729,16 @@
   "title": "Analyst - Order Fulfilment, Global Inhouse",
   "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-Bangalore-TowerERMZ-Infin/Analyst---Order-Fulfilment--Global-Inhouse_R0117978-1"
  },
+ "workday:lseg:/job/IND-Bangalore-TowerERMZ-Infin/Analyst---Order-Fulfilment--T1---Datastream_R0124132": {
+  "company": "lseg",
+  "first_seen": "2026-11-02T11:56:32+00:00",
+  "job_id": "/job/IND-Bangalore-TowerERMZ-Infin/Analyst---Order-Fulfilment--T1---Datastream_R0124132",
+  "location": "IND-Bangalore-TowerE,RMZ Infin",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Analyst - Order Fulfilment, T1 & Datastream",
+  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-Bangalore-TowerERMZ-Infin/Analyst---Order-Fulfilment--T1---Datastream_R0124132"
+ },
  "workday:lseg:/job/IND-Bangalore-TowerERMZ-Infin/Analyst---Order-Fulfilment--T1---Datastream_R0124183": {
   "company": "lseg",
   "first_seen": "2026-10-29T17:53:51+00:00",
@@ -384558,6 +385818,16 @@
   "source": "workday",
   "title": "Assistant Manager, Strategic Partner Operations",
   "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-Bangalore-TowerERMZ-Infin/Assistant-Manager--Strategic-Partner-Operations_R0123764"
+ },
+ "workday:lseg:/job/IND-Bangalore-TowerERMZ-Infin/Associate-Content-Analyst_R0124551": {
+  "company": "lseg",
+  "first_seen": "2026-11-02T11:56:32+00:00",
+  "job_id": "/job/IND-Bangalore-TowerERMZ-Infin/Associate-Content-Analyst_R0124551",
+  "location": "IND-Bangalore-TowerE,RMZ Infin",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Associate Content Analyst",
+  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-Bangalore-TowerERMZ-Infin/Associate-Content-Analyst_R0124551"
  },
  "workday:lseg:/job/IND-Bangalore-TowerERMZ-Infin/Associate-Project-Manager_R0122131-1": {
   "company": "lseg",
@@ -385039,6 +386309,16 @@
   "title": "Senior Content Analyst",
   "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-Bangalore-TowerERMZ-Infin/Senior-Content-Analyst_R0124244"
  },
+ "workday:lseg:/job/IND-Bangalore-TowerERMZ-Infin/Senior-Content-Analyst_R0124726": {
+  "company": "lseg",
+  "first_seen": "2026-11-02T11:56:32+00:00",
+  "job_id": "/job/IND-Bangalore-TowerERMZ-Infin/Senior-Content-Analyst_R0124726",
+  "location": "IND-Bangalore-TowerE,RMZ Infin",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Content Analyst",
+  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-Bangalore-TowerERMZ-Infin/Senior-Content-Analyst_R0124726"
+ },
  "workday:lseg:/job/IND-Bangalore-TowerERMZ-Infin/Senior-Content-Specialist_R0119840-1": {
   "company": "lseg",
   "first_seen": "2026-08-09T16:02:15+00:00",
@@ -385098,6 +386378,16 @@
   "source": "workday",
   "title": "Senior Data Scientist",
   "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-Bangalore-TowerERMZ-Infin/Senior-Data-Scientist_R0120546-1"
+ },
+ "workday:lseg:/job/IND-Bangalore-TowerERMZ-Infin/Senior-Data-Scientist_R0124598": {
+  "company": "lseg",
+  "first_seen": "2026-11-02T11:56:32+00:00",
+  "job_id": "/job/IND-Bangalore-TowerERMZ-Infin/Senior-Data-Scientist_R0124598",
+  "location": "IND-Bangalore-TowerE,RMZ Infin",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Data Scientist",
+  "url": "https://lseg.wd3.myworkdayjobs.com/en-US/Careers/job/IND-Bangalore-TowerERMZ-Infin/Senior-Data-Scientist_R0124598"
  },
  "workday:lseg:/job/IND-Bangalore-TowerERMZ-Infin/Senior-Engineer--Site-Reliability-Engineer_R0100544-1": {
   "company": "lseg",
@@ -386208,6 +387498,16 @@
   "source": "workday",
   "title": "Associate Analyst, Analytics & Metrics",
   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Gurgaon-India/Associate-Analyst--Analytics---Metrics_R-289217"
+ },
+ "workday:mastercard:/job/Gurgaon-India/Associate-Analyst--Analytics---Metrics_R-294847": {
+  "company": "mastercard",
+  "first_seen": "2026-11-02T11:59:30+00:00",
+  "job_id": "/job/Gurgaon-India/Associate-Analyst--Analytics---Metrics_R-294847",
+  "location": "Gurgaon, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Associate Analyst, Analytics & Metrics",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Gurgaon-India/Associate-Analyst--Analytics---Metrics_R-294847"
  },
  "workday:mastercard:/job/Gurgaon-India/Associate-Analyst--Insights---Enablement_R-282412": {
   "company": "mastercard",
@@ -389849,6 +391149,16 @@
   "title": "Lead Software Engineer",
   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-293851-1"
  },
+ "workday:mastercard:/job/Pune-India/Lead-Software-Engineer_R-294263": {
+  "company": "mastercard",
+  "first_seen": "2026-11-02T11:59:30+00:00",
+  "job_id": "/job/Pune-India/Lead-Software-Engineer_R-294263",
+  "location": "Pune, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Lead Software Engineer",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Lead-Software-Engineer_R-294263"
+ },
  "workday:mastercard:/job/Pune-India/Lead-Software-Integration-Engineer_R-287847-1": {
   "company": "mastercard",
   "first_seen": "2026-08-25T12:38:20+00:00",
@@ -392008,6 +393318,16 @@
   "source": "workday",
   "title": "Senior Platform Engineer",
   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Platform-Engineer_R-290928"
+ },
+ "workday:mastercard:/job/Pune-India/Senior-Platform-Engineer_R-292589": {
+  "company": "mastercard",
+  "first_seen": "2026-11-02T11:59:30+00:00",
+  "job_id": "/job/Pune-India/Senior-Platform-Engineer_R-292589",
+  "location": "Pune, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Platform Engineer",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Platform-Engineer_R-292589"
  },
  "workday:mastercard:/job/Pune-India/Senior-Principal-Data-Engineer_R-282791": {
   "company": "mastercard",
@@ -396538,6 +397858,16 @@
   "source": "workday",
   "title": "Staff Engineer, IP Dev Layout",
   "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/Engineer--IP-Dev-Layout_JR102254"
+ },
+ "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Engineer--IT--AI-Enablement_JR115271": {
+  "company": "micron",
+  "first_seen": "2026-11-02T11:59:42+00:00",
+  "job_id": "/job/Hyderabad---Phoenix-Aquila-India/Engineer--IT--AI-Enablement_JR115271",
+  "location": "Hyderabad - Phoenix Aquila, India",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Engineer, IT, AI Enablement",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Hyderabad---Phoenix-Aquila-India/Engineer--IT--AI-Enablement_JR115271"
  },
  "workday:micron:/job/Hyderabad---Phoenix-Aquila-India/Engineer--IT-EA-DHI_JR108032": {
   "company": "micron",
@@ -407749,6 +409079,16 @@
   "title": "Sr Data Scientist",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Data-Scientist_R0138393"
  },
+ "workday:paypal:/job/Bangalore-Karnataka-India/Sr-Executive-Assistant_R0138919-1": {
+  "company": "paypal",
+  "first_seen": "2026-11-02T11:57:38+00:00",
+  "job_id": "/job/Bangalore-Karnataka-India/Sr-Executive-Assistant_R0138919-1",
+  "location": "2 Locations",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Sr Executive Assistant",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Bangalore-Karnataka-India/Sr-Executive-Assistant_R0138919-1"
+ },
  "workday:paypal:/job/Bangalore-Karnataka-India/Sr-Manager--Procure-to-Pay_R0138360": {
   "company": "paypal",
   "first_seen": "2026-10-06T14:40:53+00:00",
@@ -409498,6 +410838,16 @@
   "source": "workday",
   "title": "Account Manager, Zettle \u2013 SMB",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/London-County-London-England-United-Kingdom/Account-Manager--Zettle---SMB_R0137847"
+ },
+ "workday:paypal:/job/London-County-London-England-United-Kingdom/Account-Manager--Zettle---SMB_R0138649": {
+  "company": "paypal",
+  "first_seen": "2026-11-02T11:57:38+00:00",
+  "job_id": "/job/London-County-London-England-United-Kingdom/Account-Manager--Zettle---SMB_R0138649",
+  "location": "London, County London, England, United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Account Manager, Zettle \u2013 SMB",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/London-County-London-England-United-Kingdom/Account-Manager--Zettle---SMB_R0138649"
  },
  "workday:paypal:/job/London-County-London-England-United-Kingdom/Consumer-Paid-Media--Manager_R0136267": {
   "company": "paypal",
@@ -414539,6 +415889,16 @@
   "title": "Cloud Security Engineer",
   "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Cloud-Security-Engineer_R0137326"
  },
+ "workday:paypal:/job/Tokyo-Tokyo-Prefecture-Japan/Content-Marketing-Specialist_R0138408": {
+  "company": "paypal",
+  "first_seen": "2026-11-02T11:57:38+00:00",
+  "job_id": "/job/Tokyo-Tokyo-Prefecture-Japan/Content-Marketing-Specialist_R0138408",
+  "location": "Tokyo, Tokyo Prefecture, Japan",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Content Marketing Specialist",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tokyo-Tokyo-Prefecture-Japan/Content-Marketing-Specialist_R0138408"
+ },
  "workday:paypal:/job/Tokyo-Tokyo-Prefecture-Japan/Credit-Risk-Manager_R0137012": {
   "company": "paypal",
   "first_seen": "2026-08-09T16:03:03+00:00",
@@ -415073,6 +416433,16 @@
   "company": "paypal",
   "first_seen": "2026-09-16T15:56:57+00:00",
   "job_id": "R0137946",
+  "location": "",
+  "posted_at": null,
+  "source": "workday",
+  "title": "",
+  "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs"
+ },
+ "workday:paypal:R0138392": {
+  "company": "paypal",
+  "first_seen": "2026-11-02T11:57:38+00:00",
+  "job_id": "R0138392",
   "location": "",
   "posted_at": null,
   "source": "workday",
@@ -418918,6 +420288,16 @@
   "source": "workday",
   "title": "Spiff - Onboarding Specialist",
   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Customer-Facing-Spiff-Onboarding-Specialist_JR355457"
+ },
+ "workday:salesforce:/job/India---Hyderabad/Customer-Service-Representative_JR328615": {
+  "company": "salesforce",
+  "first_seen": "2026-11-02T11:55:42+00:00",
+  "job_id": "/job/India---Hyderabad/Customer-Service-Representative_JR328615",
+  "location": "India - Hyderabad",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Customer Service Representative",
+  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Customer-Service-Representative_JR328615"
  },
  "workday:salesforce:/job/India---Hyderabad/Customer-Success-Manager--Marketing-Cloud_JR358525-1": {
   "company": "salesforce",
@@ -425028,6 +426408,16 @@
   "source": "workday",
   "title": "Target Security Specialist",
   "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1400-E-Ireland-Rd-South-Bend-IN-46614-3452/Target-Security-Specialist_R0000475096-1"
+ },
+ "workday:target:/job/1400-E-Ireland-Rd-South-Bend-IN-46614-3452/Target-Security-Specialist_R0000478833": {
+  "company": "target",
+  "first_seen": "2026-11-02T11:57:18+00:00",
+  "job_id": "/job/1400-E-Ireland-Rd-South-Bend-IN-46614-3452/Target-Security-Specialist_R0000478833",
+  "location": "1400 E Ireland Rd, South Bend, IN 46614-3452",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Target Security Specialist",
+  "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1400-E-Ireland-Rd-South-Bend-IN-46614-3452/Target-Security-Specialist_R0000478833"
  },
  "workday:target:/job/1400-E-Ireland-Rd-South-Bend-IN-46614-3452/XMLNAME-4am-Inbound--Stocking---T1902-_R0000393766": {
   "company": "target",
