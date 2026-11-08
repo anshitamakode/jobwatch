@@ -19119,6 +19119,16 @@
   "title": "Account Director, Media",
   "url": "https://jobs.ashbyhq.com/openai/4d0a2666-16e0-42e5-8573-180dcdc5439f"
  },
+ "ashby:openai:4d0b1eb5-ea5d-460b-8fe6-23c45b0703f5": {
+  "company": "openai",
+  "first_seen": "2026-11-08T03:49:34+00:00",
+  "job_id": "4d0b1eb5-ea5d-460b-8fe6-23c45b0703f5",
+  "location": "San Francisco",
+  "posted_at": "2026-08-09T20:20:33.818+00:00",
+  "source": "ashby",
+  "title": "Electrical Commissioning Lead",
+  "url": "https://jobs.ashbyhq.com/openai/4d0b1eb5-ea5d-460b-8fe6-23c45b0703f5"
+ },
  "ashby:openai:4d104ebe-64ff-4421-94c3-03a8982b19ea": {
   "company": "openai",
   "first_seen": "2026-11-07T23:19:39+00:00",
@@ -55749,16 +55759,6 @@
   "title": "[CFN] Staff Back-end Engineer (Lending Engineering)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8102540"
  },
- "greenhouse:coupang:8102542": {
-  "company": "coupang",
-  "first_seen": "2026-08-10T01:13:43+00:00",
-  "job_id": "8102542",
-  "location": "Seoul, South Korea",
-  "posted_at": "2026-08-09T20:23:25-04:00",
-  "source": "greenhouse",
-  "title": "[\ucfe0\ud321] \uc774\uce20 Account Management\ud300 \ub9e4\ub2c8\uc800 (Food AM)",
-  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8102542"
- },
  "greenhouse:coupang:8102544": {
   "company": "coupang",
   "first_seen": "2026-08-12T09:06:53+00:00",
@@ -56028,16 +56028,6 @@
   "source": "greenhouse",
   "title": "[\ucfe0\ud321] \ub85c\ucf13\ubc30\uc1a1 CS \uace0\uac1d\uc9c0\uc6d0 \ub2f4\ub2f9\uc790 (\uc815\uaddc\uc9c1,\uc2e0\uc785\uac00\ub2a5)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8113721"
- },
- "greenhouse:coupang:8118761": {
-  "company": "coupang",
-  "first_seen": "2026-08-10T01:13:43+00:00",
-  "job_id": "8118761",
-  "location": "Seoul, South Korea",
-  "posted_at": "2026-08-09T19:59:57-04:00",
-  "source": "greenhouse",
-  "title": "[\ucfe0\ud321] \uce74\ud0c8\ub85c\uadf8 Taxonomy \ubc0f \ub370\uc774\ud130 \ubd84\uc11d PM",
-  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8118761"
  },
  "greenhouse:coupang:8118765": {
   "company": "coupang",
@@ -80718,6 +80708,16 @@
   "source": "greenhouse",
   "title": "Manager I, Engineering - Zero Trust Networking",
   "url": "https://careers.datadoghq.com/detail/8350419/?gh_jid=8350419"
+ },
+ "greenhouse:datadog:8351509": {
+  "company": "datadog",
+  "first_seen": "2026-11-08T03:53:33+00:00",
+  "job_id": "8351509",
+  "location": "Seoul, South Korea; Sydney, Australia; Tokyo, Japan",
+  "posted_at": "2026-11-07T19:36:15-05:00",
+  "source": "greenhouse",
+  "title": "Technical Escalations Engineer 2 (Web Platform)",
+  "url": "https://careers.datadoghq.com/detail/8351509/?gh_jid=8351509"
  },
  "greenhouse:datadog:8354556": {
   "company": "datadog",
@@ -136978,16 +136978,6 @@
   "source": "greenhouse",
   "title": "Senior Legal Analyst & Litigation Project Manager",
   "url": "https://www.samsara.com/company/careers/roles/8029100?gh_jid=8029100"
- },
- "greenhouse:samsara:8036774": {
-  "company": "samsara",
-  "first_seen": "2026-08-10T01:17:05+00:00",
-  "job_id": "8036774",
-  "location": "Remote - SF Bay Area",
-  "posted_at": "2026-08-09T20:14:21-04:00",
-  "source": "greenhouse",
-  "title": "Senior Hardware Product Manager ",
-  "url": "https://www.samsara.com/company/careers/roles/8036774?gh_jid=8036774"
  },
  "greenhouse:samsara:8036863": {
   "company": "samsara",
@@ -195999,26 +195989,6 @@
   "title": "Application Support Technology Lead Analyst - Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Application-Support-Technology-Lead-Analyst---Vice-President_26971169"
  },
- "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Application-Support-Technology-Lead-Analyst---Vice-President_26978080": {
-  "company": "citi",
-  "first_seen": "2026-08-10T01:15:53+00:00",
-  "job_id": "/job/1124-SHIVAJI-GARDENS-MOONLI/Application-Support-Technology-Lead-Analyst---Vice-President_26978080",
-  "location": "1/124, SHIVAJI GARDENS, MOONLI",
-  "posted_at": "Posted 17 Days Ago",
-  "source": "workday",
-  "title": "Application Support Technology Lead Analyst - Vice President",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Application-Support-Technology-Lead-Analyst---Vice-President_26978080"
- },
- "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Application-Support-Technology-Lead-Analyst---Vice-President_26978090": {
-  "company": "citi",
-  "first_seen": "2026-08-10T01:15:53+00:00",
-  "job_id": "/job/1124-SHIVAJI-GARDENS-MOONLI/Application-Support-Technology-Lead-Analyst---Vice-President_26978090",
-  "location": "1/124, SHIVAJI GARDENS, MOONLI",
-  "posted_at": "Posted 17 Days Ago",
-  "source": "workday",
-  "title": "Application Support Technology Lead Analyst - Vice President",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/1124-SHIVAJI-GARDENS-MOONLI/Application-Support-Technology-Lead-Analyst---Vice-President_26978090"
- },
  "workday:citi:/job/1124-SHIVAJI-GARDENS-MOONLI/Application-Support-Technology-Lead-Analyst---Vice-President_26998015": {
   "company": "citi",
   "first_seen": "2026-10-13T15:33:05+00:00",
@@ -208388,16 +208358,6 @@
   "source": "workday",
   "title": "Assistant Vice President, Customer Service Senior Analyst, Securities Services Operations",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Assistant-Vice-President--Customer-Service-Senior-Analyst--Securities-Services-Operations_261003191"
- },
- "workday:citi:/job/Chiyoda-ku-Tokyo-Japan/Assistant-Vice-President--Domestic-Securities-Equity-Settlements--Cash-Securities-Operations--Markets-Operations_26947522": {
-  "company": "citi",
-  "first_seen": "2026-08-10T01:15:53+00:00",
-  "job_id": "/job/Chiyoda-ku-Tokyo-Japan/Assistant-Vice-President--Domestic-Securities-Equity-Settlements--Cash-Securities-Operations--Markets-Operations_26947522",
-  "location": "Chiyoda-ku Tokyo Japan",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Assistant Vice President, Domestic Securities Equity Settlements, Cash Securities Operations, Markets Operations",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chiyoda-ku-Tokyo-Japan/Assistant-Vice-President--Domestic-Securities-Equity-Settlements--Cash-Securities-Operations--Markets-Operations_26947522"
  },
  "workday:citi:/job/Chiyoda-ku-Tokyo-Japan/Assistant-Vice-President--FX-Operations--Markets-Operations_26985415": {
   "company": "citi",
@@ -232608,26 +232568,6 @@
   "source": "workday",
   "title": "Loan Officer, Consumer Bank",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Kowloon--Hong-Kong/Loan-Officer--Consumer-Bank_26988477-1"
- },
- "workday:citi:/job/Kowloon--Hong-Kong/Officer--Cash-Securities-Settlement-Intermediate-Analyst_26985432": {
-  "company": "citi",
-  "first_seen": "2026-08-10T01:15:53+00:00",
-  "job_id": "/job/Kowloon--Hong-Kong/Officer--Cash-Securities-Settlement-Intermediate-Analyst_26985432",
-  "location": "Kowloon  Hong Kong",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Officer, Cash Securities Settlement Intermediate Analyst",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Kowloon--Hong-Kong/Officer--Cash-Securities-Settlement-Intermediate-Analyst_26985432"
- },
- "workday:citi:/job/Kowloon--Hong-Kong/Officer--Cash-Securities-Settlement_26985430": {
-  "company": "citi",
-  "first_seen": "2026-08-10T01:15:53+00:00",
-  "job_id": "/job/Kowloon--Hong-Kong/Officer--Cash-Securities-Settlement_26985430",
-  "location": "Kowloon  Hong Kong",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Officer, Cash Securities Settlement",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Kowloon--Hong-Kong/Officer--Cash-Securities-Settlement_26985430"
  },
  "workday:citi:/job/Kowloon--Hong-Kong/Officer--Client-Onboard-Intermediate-Analyst_26994787": {
   "company": "citi",
