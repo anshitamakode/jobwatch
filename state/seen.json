@@ -9729,6 +9729,16 @@
   "title": "Account Executive, Mid-Market - ANZ",
   "url": "https://jobs.ashbyhq.com/harvey/ba1dd03d-f8fa-4097-8aa1-757fe17b2166"
  },
+ "ashby:harvey:ba8a6b0a-f791-4d06-8f1a-b960825cd7f8": {
+  "company": "harvey",
+  "first_seen": "2026-11-14T23:35:07+00:00",
+  "job_id": "ba8a6b0a-f791-4d06-8f1a-b960825cd7f8",
+  "location": "New York",
+  "posted_at": "2026-11-14T21:05:16.235+00:00",
+  "source": "ashby",
+  "title": "Marketing Coordinator, Brand Partnerships",
+  "url": "https://jobs.ashbyhq.com/harvey/ba8a6b0a-f791-4d06-8f1a-b960825cd7f8"
+ },
  "ashby:harvey:bab83f3e-dfa4-4e8e-9160-6ed428d3ab13": {
   "company": "harvey",
   "first_seen": "2026-09-30T17:29:26+00:00",
@@ -56699,16 +56709,6 @@
   "title": "Director EHS Compliance",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8108133"
  },
- "greenhouse:coupang:8108270": {
-  "company": "coupang",
-  "first_seen": "2026-08-16T20:15:06+00:00",
-  "job_id": "8108270",
-  "location": "z-Test & Templates Only",
-  "posted_at": "2026-08-16T13:57:20-04:00",
-  "source": "greenhouse",
-  "title": "Staff Backend Engineer",
-  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8108270"
- },
  "greenhouse:coupang:8108324": {
   "company": "coupang",
   "first_seen": "2026-11-07T23:19:37+00:00",
@@ -97218,6 +97218,16 @@
   "source": "greenhouse",
   "title": "Senior Software Engineer (RoR/Go), SSCS: Authentication",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8614945002"
+ },
+ "greenhouse:gitlab:8615268002": {
+  "company": "gitlab",
+  "first_seen": "2026-11-14T23:34:38+00:00",
+  "job_id": "8615268002",
+  "location": "Bangalore, India",
+  "posted_at": "2026-08-16T09:04:52-04:00",
+  "source": "greenhouse",
+  "title": "Staff Site Reliability Engineer - Monitoring and Anomaly Detection (Monetization)   ",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8615268002"
  },
  "greenhouse:gitlab:8615312002": {
   "company": "gitlab",
@@ -298328,16 +298338,6 @@
   "source": "workday",
   "title": "Analyst, Big Data Analytics & Engineering",
   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Analyst--Big-Data-Analytics---Engineering_R-293356"
- },
- "workday:mastercard:/job/Pune-India/Analyst--Franchise-Services_R-287899": {
-  "company": "mastercard",
-  "first_seen": "2026-08-16T20:17:29+00:00",
-  "job_id": "/job/Pune-India/Analyst--Franchise-Services_R-287899",
-  "location": "Pune, India",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Analyst, Franchise Services",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Analyst--Franchise-Services_R-287899"
  },
  "workday:mastercard:/job/Pune-India/Analyst--Risk-Management_R-294790": {
   "company": "mastercard",
