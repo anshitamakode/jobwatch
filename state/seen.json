@@ -1969,16 +1969,6 @@
   "title": "Sales Manager - AI Native (San Francisco)",
   "url": "https://jobs.ashbyhq.com/baseten/b1b5ab31-f90c-41f9-b9f2-13408b1c072b"
  },
- "ashby:baseten:b6a7e52e-be85-4f49-953d-d00e2a2f6143": {
-  "company": "baseten",
-  "first_seen": "2026-08-17T00:56:58+00:00",
-  "job_id": "b6a7e52e-be85-4f49-953d-d00e2a2f6143",
-  "location": "San Francisco",
-  "posted_at": "2026-08-17T00:00:18.349+00:00",
-  "source": "ashby",
-  "title": "Procurement Lead",
-  "url": "https://jobs.ashbyhq.com/baseten/b6a7e52e-be85-4f49-953d-d00e2a2f6143"
- },
  "ashby:baseten:b6dc9f81-ba0c-4c6a-9844-97be9f5c9e69": {
   "company": "baseten",
   "first_seen": "2026-09-10T22:16:23+00:00",
@@ -97179,16 +97169,6 @@
   "title": "Commercial Account Executive, Named - West",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8592555002"
  },
- "greenhouse:gitlab:8595154002": {
-  "company": "gitlab",
-  "first_seen": "2026-08-17T00:53:53+00:00",
-  "job_id": "8595154002",
-  "location": "Remote, Japan",
-  "posted_at": "2026-06-24T03:49:17-04:00",
-  "source": "greenhouse",
-  "title": "Commercial Account Executive - Japan",
-  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8595154002"
- },
  "greenhouse:gitlab:8597805002": {
   "company": "gitlab",
   "first_seen": "2026-11-07T23:20:34+00:00",
@@ -162729,16 +162709,6 @@
   "title": "Campus Undergraduate Summer Internship Program - 2027 Data Analytics, Enterprise Technology Services- Phoenix, AZ",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012703"
  },
- "oraclecloud:amex:26012706": {
-  "company": "amex",
-  "first_seen": "2026-08-17T00:56:48+00:00",
-  "job_id": "26012706",
-  "location": "Sydney, NSW, Australia",
-  "posted_at": "2026-08-16",
-  "source": "oraclecloud",
-  "title": "Senior Manager, Merchant Pricing Services",
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012706"
- },
  "oraclecloud:amex:26012707": {
   "company": "amex",
   "first_seen": "2026-08-20T08:34:49+00:00",
@@ -194568,6 +194538,16 @@
   "source": "workday",
   "title": "Software Engineer",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Kolkata-India/Software-Engineer_2022757-1"
+ },
+ "workday:cisco:/job/London-United-Kingdom/Senior-Economist---Data-Scientist--Technology-Markets_2029862-1": {
+  "company": "cisco",
+  "first_seen": "2026-11-15T04:14:38+00:00",
+  "job_id": "/job/London-United-Kingdom/Senior-Economist---Data-Scientist--Technology-Markets_2029862-1",
+  "location": "London, United Kingdom",
+  "posted_at": "Posted Today",
+  "source": "workday",
+  "title": "Senior Economist / Data Scientist, Technology Markets",
+  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/London-United-Kingdom/Senior-Economist---Data-Scientist--Technology-Markets_2029862-1"
  },
  "workday:cisco:/job/Mexico-City-Mexico/Senior-Escalation-Engineering--ThousandEyes-_2023948-1": {
   "company": "cisco",
@@ -301579,6 +301559,16 @@
   "title": "Senior Software Engineer",
   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-287434-1"
  },
+ "workday:mastercard:/job/Pune-India/Senior-Software-Engineer_R-287893": {
+  "company": "mastercard",
+  "first_seen": "2026-11-15T04:17:53+00:00",
+  "job_id": "/job/Pune-India/Senior-Software-Engineer_R-287893",
+  "location": "Pune, India",
+  "posted_at": "Posted 30+ Days Ago",
+  "source": "workday",
+  "title": "Senior Software Engineer",
+  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Senior-Software-Engineer_R-287893"
+ },
  "workday:mastercard:/job/Pune-India/Senior-Software-Engineer_R-288485": {
   "company": "mastercard",
   "first_seen": "2026-09-02T15:50:54+00:00",
@@ -307358,6 +307348,16 @@
   "source": "workday",
   "title": "Senior Electrical Technician",
   "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303A---ATSSDMOD-India/Senior-Electrical-Technician_JR113916"
+ },
+ "workday:micron:/job/Sanand---303A---ATSSDMOD-India/Senior-Energy-and-Decarbonization-Engineer_JR107831": {
+  "company": "micron",
+  "first_seen": "2026-11-15T04:18:05+00:00",
+  "job_id": "/job/Sanand---303A---ATSSDMOD-India/Senior-Energy-and-Decarbonization-Engineer_JR107831",
+  "location": "Sanand - 303A - AT/SSD/MOD, India",
+  "posted_at": "Posted 30+ Days Ago",
+  "source": "workday",
+  "title": "Senior Energy and Decarbonization Engineer",
+  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303A---ATSSDMOD-India/Senior-Energy-and-Decarbonization-Engineer_JR107831"
  },
  "workday:micron:/job/Sanand---303A---ATSSDMOD-India/Senior-Engineer---Tool-Install-Industrial-Engineering_JR106945": {
   "company": "micron",
@@ -341368,6 +341368,16 @@
   "source": "workday",
   "title": "Regional Sales Director, FSI",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-NY-New-York-City/Regional-Sales-Director--FSI_JR-0111140"
+ },
+ "workday:workday:/job/USA-NY-New-York-City/Sana-Engagement-Manager_JR-0111627-1": {
+  "company": "workday",
+  "first_seen": "2026-11-15T04:18:47+00:00",
+  "job_id": "/job/USA-NY-New-York-City/Sana-Engagement-Manager_JR-0111627-1",
+  "location": "USA, NY, New York City",
+  "posted_at": "Posted Yesterday",
+  "source": "workday",
+  "title": "Sana Engagement Manager",
+  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-NY-New-York-City/Sana-Engagement-Manager_JR-0111627-1"
  },
  "workday:workday:/job/USA-NY-New-York-City/Sana-Learn-Customer-Success-Manager_JR-0108353": {
   "company": "workday",
