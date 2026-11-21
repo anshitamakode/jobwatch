@@ -9429,6 +9429,16 @@
   "title": "Corporate Business Development Manager, Product",
   "url": "https://jobs.ashbyhq.com/harvey/a3e67f81-3c8a-443d-80d0-9f405cd5a456"
  },
+ "ashby:harvey:a42047fc-fbd1-4e14-bf10-15207ae2d060": {
+  "company": "harvey",
+  "first_seen": "2026-11-21T18:46:02+00:00",
+  "job_id": "a42047fc-fbd1-4e14-bf10-15207ae2d060",
+  "location": "New York",
+  "posted_at": "2026-11-21T17:44:26.219+00:00",
+  "source": "ashby",
+  "title": "Creative AI Engineer",
+  "url": "https://jobs.ashbyhq.com/harvey/a42047fc-fbd1-4e14-bf10-15207ae2d060"
+ },
  "ashby:harvey:a4668463-24f1-4b58-85d0-ac6e9637ae97": {
   "company": "harvey",
   "first_seen": "2026-11-13T00:55:10+00:00",
@@ -10798,6 +10808,16 @@
   "source": "ashby",
   "title": "Senior Product Designer",
   "url": "https://jobs.ashbyhq.com/harvey/e46cea47-7901-4b8d-ad80-ec31223fefed"
+ },
+ "ashby:harvey:e46d48b8-57c7-401c-be33-f56774dc072d": {
+  "company": "harvey",
+  "first_seen": "2026-11-21T18:46:02+00:00",
+  "job_id": "e46d48b8-57c7-401c-be33-f56774dc072d",
+  "location": "San Francisco",
+  "posted_at": "2026-11-21T17:44:35.163+00:00",
+  "source": "ashby",
+  "title": "Creative AI Engineer",
+  "url": "https://jobs.ashbyhq.com/harvey/e46d48b8-57c7-401c-be33-f56774dc072d"
  },
  "ashby:harvey:e5272fbe-4431-4841-bf00-b9f59812b82a": {
   "company": "harvey",
@@ -50479,16 +50499,6 @@
   "title": "Senior Customer Engineer, Japan",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8146536?gh_jid=8146536"
  },
- "greenhouse:cloudflare:8147148": {
-  "company": "cloudflare",
-  "first_seen": "2026-08-23T16:21:44+00:00",
-  "job_id": "8147148",
-  "location": "Distributed",
-  "posted_at": "2026-08-23T10:33:30-04:00",
-  "source": "greenhouse",
-  "title": "Senior Customer Engineer, East China",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8147148?gh_jid=8147148"
- },
  "greenhouse:cloudflare:8147174": {
   "company": "cloudflare",
   "first_seen": "2026-08-26T16:48:10+00:00",
@@ -50508,16 +50518,6 @@
   "source": "greenhouse",
   "title": "Senior Customer Engineer, South China",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8147190?gh_jid=8147190"
- },
- "greenhouse:cloudflare:8147213": {
-  "company": "cloudflare",
-  "first_seen": "2026-08-23T16:21:44+00:00",
-  "job_id": "8147213",
-  "location": "Hybrid",
-  "posted_at": "2026-08-23T10:39:14-04:00",
-  "source": "greenhouse",
-  "title": "Senior Customer Engineer, iGaming ",
-  "url": "https://boards.greenhouse.io/cloudflare/jobs/8147213?gh_jid=8147213"
  },
  "greenhouse:cloudflare:8152697": {
   "company": "cloudflare",
@@ -55299,6 +55299,16 @@
   "title": "Senior Commercial Account Executive (Los Angeles)",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8406159?gh_jid=8406159"
  },
+ "greenhouse:cloudflare:8406944": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-21T18:45:49+00:00",
+  "job_id": "8406944",
+  "location": "In-Office",
+  "posted_at": "2026-11-21T12:47:15-05:00",
+  "source": "greenhouse",
+  "title": "Senior Platform Engineer, Replicate",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8406944?gh_jid=8406944"
+ },
  "greenhouse:cockroachlabs:2578081": {
   "company": "cockroachlabs",
   "first_seen": "2026-11-07T23:23:15+00:00",
@@ -56819,16 +56829,6 @@
   "title": "Senior Staff / Staff Machine Learning Engineer",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8022956"
  },
- "greenhouse:coupang:8025466": {
-  "company": "coupang",
-  "first_seen": "2026-08-23T16:18:06+00:00",
-  "job_id": "8025466",
-  "location": "Taipei, Taiwan",
-  "posted_at": "2026-08-23T09:53:48-04:00",
-  "source": "greenhouse",
-  "title": "Principal, Business Analyst",
-  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8025466"
- },
  "greenhouse:coupang:8025468": {
   "company": "coupang",
   "first_seen": "2026-11-07T23:19:38+00:00",
@@ -57829,36 +57829,6 @@
   "title": "Senior Product Manager - FTS",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8118849"
  },
- "greenhouse:coupang:8118859": {
-  "company": "coupang",
-  "first_seen": "2026-08-23T12:26:25+00:00",
-  "job_id": "8118859",
-  "location": "Seoul, South Korea",
-  "posted_at": "2026-08-23T07:43:04-04:00",
-  "source": "greenhouse",
-  "title": "Sr. Director, Back-End Engineering",
-  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8118859"
- },
- "greenhouse:coupang:8118861": {
-  "company": "coupang",
-  "first_seen": "2026-08-23T12:26:25+00:00",
-  "job_id": "8118861",
-  "location": "Seoul, South Korea",
-  "posted_at": "2026-08-23T07:57:33-04:00",
-  "source": "greenhouse",
-  "title": "Sr. Director, Back-End Engineering",
-  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8118861"
- },
- "greenhouse:coupang:8118863": {
-  "company": "coupang",
-  "first_seen": "2026-08-23T12:26:25+00:00",
-  "job_id": "8118863",
-  "location": "Seoul, South Korea",
-  "posted_at": "2026-08-23T05:53:07-04:00",
-  "source": "greenhouse",
-  "title": "[\ucfe0\ud321] \uce74\ud0c8\ub85c\uadf8 \ud488\uc9c8 \uac80\uc218 \ubc0f \uc6b4\uc601 \ud504\ub85c\uc138\uc2a4 \uac1c\uc120 \ub2f4\ub2f9\uc790 (\uc778\uc2a4\ud399\ud130)",
-  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8118863"
- },
  "greenhouse:coupang:8118870": {
   "company": "coupang",
   "first_seen": "2026-10-01T10:39:28+00:00",
@@ -58328,6 +58298,16 @@
   "source": "greenhouse",
   "title": "[\ucfe0\ud321] \uc774\uce20 \ud30c\ud2b8\ub108\uc0ac \uc601\uc5c5\uad00\ub9ac \ub2f4\ub2f9\uc790 (\uacc4\uc57d\uc9c1/\uc815\uaddc\uc804\ud658\uae30\ud68c)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8143330"
+ },
+ "greenhouse:coupang:8143394": {
+  "company": "coupang",
+  "first_seen": "2026-11-21T18:45:38+00:00",
+  "job_id": "8143394",
+  "location": "Mountain View, USA",
+  "posted_at": "2026-08-22T23:04:13-04:00",
+  "source": "greenhouse",
+  "title": "Senior Executive Assistant",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8143394"
  },
  "greenhouse:coupang:8143586": {
   "company": "coupang",
@@ -108628,6 +108608,16 @@
   "source": "greenhouse",
   "title": "Technical Account Manager",
   "url": "https://www.highradius.com/about/careers-list/?gh_jid=8012858003"
+ },
+ "greenhouse:highradius:8033172003": {
+  "company": "highradius",
+  "first_seen": "2026-11-21T18:46:17+00:00",
+  "job_id": "8033172003",
+  "location": "Hyderabad, Telangana, India",
+  "posted_at": "2026-11-21T11:30:04-05:00",
+  "source": "greenhouse",
+  "title": "Technical Consultant - Java ",
+  "url": "https://www.highradius.com/about/careers-list/?gh_jid=8033172003"
  },
  "greenhouse:highradius:8033180003": {
   "company": "highradius",
@@ -197869,16 +197859,6 @@
   "title": "Business Development Manager, Collab & Enterprise Networking",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Business-Development-Manager--Collab---Enterprise-Networking_2024216"
  },
- "workday:cisco:/job/San-Jose-California-US/Director--Financial-Regional-Sales_2022000": {
-  "company": "cisco",
-  "first_seen": "2026-08-23T12:25:48+00:00",
-  "job_id": "/job/San-Jose-California-US/Director--Financial-Regional-Sales_2022000",
-  "location": "23 Locations",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Director, Financial Regional Sales",
-  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/San-Jose-California-US/Director--Financial-Regional-Sales_2022000"
- },
  "workday:cisco:/job/San-Jose-California-US/Director--Pricing-Strategy-and-Monetization---Remote-_2029617": {
   "company": "cisco",
   "first_seen": "2026-10-27T17:12:04+00:00",
@@ -264148,16 +264128,6 @@
   "source": "workday",
   "title": "\uc99d\uad8c\uc5c5\ubb34\ubd80 Custody Operations Officer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Seoul--Korea-Republic-Of/-Custody-Operations-Officer_26990298"
- },
- "workday:citi:/job/Seoul--Korea-Republic-Of/-Financial-Reporting-Analyst_26984010": {
-  "company": "citi",
-  "first_seen": "2026-08-23T16:20:38+00:00",
-  "job_id": "/job/Seoul--Korea-Republic-Of/-Financial-Reporting-Analyst_26984010",
-  "location": "Seoul  Korea, Republic Of",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "\uc7ac\ubb34\uad00\ub9ac\ubd80 Financial Reporting Analyst",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Seoul--Korea-Republic-Of/-Financial-Reporting-Analyst_26984010"
  },
  "workday:citi:/job/Seoul--Korea-Republic-Of/-_26986674": {
   "company": "citi",
