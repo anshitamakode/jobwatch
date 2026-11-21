@@ -20959,16 +20959,6 @@
   "title": "Industry & Experiential Marketing Lead, Ads",
   "url": "https://jobs.ashbyhq.com/openai/5f3a3325-bc3c-4f92-8456-f22add6fe52b"
  },
- "ashby:openai:5f3a6397-47ac-4ef0-9ca9-cd358851a6b9": {
-  "company": "openai",
-  "first_seen": "2026-08-23T04:31:25+00:00",
-  "job_id": "5f3a6397-47ac-4ef0-9ca9-cd358851a6b9",
-  "location": "Washington, DC",
-  "posted_at": "2026-08-23T04:26:49.729+00:00",
-  "source": "ashby",
-  "title": "Strategic Delivery Lead, Intelligence Community",
-  "url": "https://jobs.ashbyhq.com/openai/5f3a6397-47ac-4ef0-9ca9-cd358851a6b9"
- },
  "ashby:openai:5f6685ad-2fba-4e60-8982-fa142b33e194": {
   "company": "openai",
   "first_seen": "2026-10-01T23:38:20+00:00",
@@ -21058,6 +21048,16 @@
   "source": "ashby",
   "title": "Android Engineer, Applied Foundations ",
   "url": "https://jobs.ashbyhq.com/openai/6202038a-323b-43ce-ae10-534acba4145c"
+ },
+ "ashby:openai:62032f94-87e8-45b8-968c-db9b8893e907": {
+  "company": "openai",
+  "first_seen": "2026-11-21T11:57:50+00:00",
+  "job_id": "62032f94-87e8-45b8-968c-db9b8893e907",
+  "location": "San Francisco",
+  "posted_at": "2026-11-21T01:36:53.556+00:00",
+  "source": "ashby",
+  "title": "Integrated Marketing Manager",
+  "url": "https://jobs.ashbyhq.com/openai/62032f94-87e8-45b8-968c-db9b8893e907"
  },
  "ashby:openai:621bb104-9daa-4c9e-949a-03d5730334e8": {
   "company": "openai",
@@ -45019,6 +45019,26 @@
   "title": "Senior Software Engineer, Backend (ML Training and Serving) ",
   "url": "https://job-boards.greenhouse.io/affirm/jobs/8201465003"
  },
+ "greenhouse:affirm:8201469003": {
+  "company": "affirm",
+  "first_seen": "2026-11-21T11:57:57+00:00",
+  "job_id": "8201469003",
+  "location": "Remote US",
+  "posted_at": "2026-11-20T20:09:09-05:00",
+  "source": "greenhouse",
+  "title": "Software Engineer I, Backend (Streaming Infra)",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8201469003"
+ },
+ "greenhouse:affirm:8201471003": {
+  "company": "affirm",
+  "first_seen": "2026-11-21T11:57:57+00:00",
+  "job_id": "8201471003",
+  "location": "Remote Canada",
+  "posted_at": "2026-11-20T20:09:11-05:00",
+  "source": "greenhouse",
+  "title": "Software Engineer I, Backend (Streaming Infra)",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8201471003"
+ },
  "greenhouse:affirm:8201566003": {
   "company": "affirm",
   "first_seen": "2026-11-18T16:52:30+00:00",
@@ -55129,6 +55149,46 @@
   "title": "Head of Majors, Developer GTM",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8400689?gh_jid=8400689"
  },
+ "greenhouse:cloudflare:8401108": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-21T11:57:59+00:00",
+  "job_id": "8401108",
+  "location": "Hybrid",
+  "posted_at": "2026-11-20T20:54:35-05:00",
+  "source": "greenhouse",
+  "title": "Senior Systems Engineer, Network Services",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8401108?gh_jid=8401108"
+ },
+ "greenhouse:cloudflare:8401112": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-21T11:57:59+00:00",
+  "job_id": "8401112",
+  "location": "Hybrid",
+  "posted_at": "2026-11-20T20:53:19-05:00",
+  "source": "greenhouse",
+  "title": "Distributed Systems Engineer - Network Services",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8401112?gh_jid=8401112"
+ },
+ "greenhouse:cloudflare:8401119": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-21T11:57:59+00:00",
+  "job_id": "8401119",
+  "location": "Hybrid",
+  "posted_at": "2026-11-20T20:56:07-05:00",
+  "source": "greenhouse",
+  "title": "Systems Engineer - Network Data Plane Software",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8401119?gh_jid=8401119"
+ },
+ "greenhouse:cloudflare:8401122": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-21T11:57:59+00:00",
+  "job_id": "8401122",
+  "location": "Hybrid",
+  "posted_at": "2026-11-20T20:57:14-05:00",
+  "source": "greenhouse",
+  "title": "Systems Engineer - Network Software Performance",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8401122?gh_jid=8401122"
+ },
  "greenhouse:cloudflare:8402154": {
   "company": "cloudflare",
   "first_seen": "2026-11-20T16:34:53+00:00",
@@ -58268,16 +58328,6 @@
   "source": "greenhouse",
   "title": "[\ucfe0\ud321] \uc774\uce20 \ud30c\ud2b8\ub108\uc0ac \uc601\uc5c5\uad00\ub9ac \ub2f4\ub2f9\uc790 (\uacc4\uc57d\uc9c1/\uc815\uaddc\uc804\ud658\uae30\ud68c)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8143330"
- },
- "greenhouse:coupang:8143394": {
-  "company": "coupang",
-  "first_seen": "2026-08-23T04:31:23+00:00",
-  "job_id": "8143394",
-  "location": "Mountain View, USA",
-  "posted_at": "2026-08-22T23:04:13-04:00",
-  "source": "greenhouse",
-  "title": "Senior Executive Assistant",
-  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8143394"
  },
  "greenhouse:coupang:8143586": {
   "company": "coupang",
@@ -65439,6 +65489,16 @@
   "title": "Senior Principal/Director, Public Relations - Coupang Play",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8375920"
  },
+ "greenhouse:coupang:8376965": {
+  "company": "coupang",
+  "first_seen": "2026-11-21T11:57:49+00:00",
+  "job_id": "8376965",
+  "location": "Seattle, USA",
+  "posted_at": "2026-11-20T22:21:02-05:00",
+  "source": "greenhouse",
+  "title": "Staff Software Engineer",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8376965"
+ },
  "greenhouse:coupang:8376969": {
   "company": "coupang",
   "first_seen": "2026-11-11T15:46:57+00:00",
@@ -71709,6 +71769,16 @@
   "title": "Designated Support Engineer - Spark",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8661520002"
  },
+ "greenhouse:databricks:8661524002": {
+  "company": "databricks",
+  "first_seen": "2026-11-21T11:57:47+00:00",
+  "job_id": "8661524002",
+  "location": "Sydney, Australia",
+  "posted_at": "2026-08-22T12:40:27-04:00",
+  "source": "greenhouse",
+  "title": "Staff Designated Support Engineer",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8661524002"
+ },
  "greenhouse:databricks:8661758002": {
   "company": "databricks",
   "first_seen": "2026-11-12T05:18:53+00:00",
@@ -72658,6 +72728,16 @@
   "source": "greenhouse",
   "title": "Manager, Delivery Solutions Architects - Public Sector",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739519002"
+ },
+ "greenhouse:databricks:8740680002": {
+  "company": "databricks",
+  "first_seen": "2026-11-21T11:57:47+00:00",
+  "job_id": "8740680002",
+  "location": "Sydney, Australia",
+  "posted_at": "2026-08-22T12:47:59-04:00",
+  "source": "greenhouse",
+  "title": "Senior Designated Support Engineer",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8740680002"
  },
  "greenhouse:databricks:8741922002": {
   "company": "databricks",
@@ -77698,6 +77778,16 @@
   "source": "greenhouse",
   "title": "Staff Software Engineer - Threat and Abuse Defense",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8950673002"
+ },
+ "greenhouse:databricks:8951023002": {
+  "company": "databricks",
+  "first_seen": "2026-11-21T11:57:47+00:00",
+  "job_id": "8951023002",
+  "location": "Remote - Washington D.C.; Washington, D.C.",
+  "posted_at": "2026-11-20T20:40:04-05:00",
+  "source": "greenhouse",
+  "title": "Sr. Staff Forward Deployed Engineer",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8951023002"
  },
  "greenhouse:databricks:8951414002": {
   "company": "databricks",
@@ -125429,36 +125519,6 @@
   "title": "Cloud & ISV Alliances Manager \u2013  APJ (excluding ANZ)",
   "url": "https://www.okta.com/company/careers/opportunity/8146575?gh_jid=8146575"
  },
- "greenhouse:okta:8146810": {
-  "company": "okta",
-  "first_seen": "2026-08-23T08:26:37+00:00",
-  "job_id": "8146810",
-  "location": "Bengaluru, India",
-  "posted_at": "2026-08-23T03:11:28-04:00",
-  "source": "greenhouse",
-  "title": "Senior Software Engineer, Identity Administration",
-  "url": "https://www.okta.com/company/careers/opportunity/8146810?gh_jid=8146810"
- },
- "greenhouse:okta:8146815": {
-  "company": "okta",
-  "first_seen": "2026-08-23T08:26:37+00:00",
-  "job_id": "8146815",
-  "location": "Bengaluru, India",
-  "posted_at": "2026-08-23T03:15:04-04:00",
-  "source": "greenhouse",
-  "title": "Senior Software Engineer, Identity Administration",
-  "url": "https://www.okta.com/company/careers/opportunity/8146815?gh_jid=8146815"
- },
- "greenhouse:okta:8147071": {
-  "company": "okta",
-  "first_seen": "2026-08-23T08:26:37+00:00",
-  "job_id": "8147071",
-  "location": "Bengaluru, India",
-  "posted_at": "2026-08-23T00:55:05-04:00",
-  "source": "greenhouse",
-  "title": "Staff Software Engineer",
-  "url": "https://www.okta.com/company/careers/opportunity/8147071?gh_jid=8147071"
- },
  "greenhouse:okta:8147222": {
   "company": "okta",
   "first_seen": "2026-08-24T08:45:09+00:00",
@@ -129788,6 +129848,16 @@
   "source": "greenhouse",
   "title": "Staff Software Engineer - Privileged Access Management (PAM)",
   "url": "https://www.okta.com/company/careers/opportunity/8396146?gh_jid=8396146"
+ },
+ "greenhouse:okta:8396674": {
+  "company": "okta",
+  "first_seen": "2026-11-21T11:58:29+00:00",
+  "job_id": "8396674",
+  "location": "Toronto, ON, Canada",
+  "posted_at": "2026-11-20T23:57:00-05:00",
+  "source": "greenhouse",
+  "title": "Senior Software Engineer (Frontend) - MFA, Assurance, Policies and Hybrid Access",
+  "url": "https://www.okta.com/company/careers/opportunity/8396674?gh_jid=8396674"
  },
  "greenhouse:okta:8396676": {
   "company": "okta",
@@ -139358,6 +139428,16 @@
   "source": "greenhouse",
   "title": "RVP Specialty Sales, International (Identity)",
   "url": "https://www.rubrik.com/company/careers/departments/job.8358523?gh_jid=8358523"
+ },
+ "greenhouse:rubrik:8358790": {
+  "company": "rubrik",
+  "first_seen": "2026-11-21T11:57:53+00:00",
+  "job_id": "8358790",
+  "location": "Bangalore, India",
+  "posted_at": "2026-11-21T03:44:36-05:00",
+  "source": "greenhouse",
+  "title": "Senior AI Engineer - Enterprise Agentic Systems",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8358790?gh_jid=8358790"
  },
  "greenhouse:rubrik:8359179": {
   "company": "rubrik",
@@ -153149,6 +153229,16 @@
   "title": "New Business Account Executive",
   "url": "https://job-boards.greenhouse.io/twilio/jobs/8383015"
  },
+ "greenhouse:twilio:8383319": {
+  "company": "twilio",
+  "first_seen": "2026-11-21T11:58:09+00:00",
+  "job_id": "8383319",
+  "location": "Remote - Colombia",
+  "posted_at": "2026-11-20T20:42:40-05:00",
+  "source": "greenhouse",
+  "title": "Technical Support Engineer 2",
+  "url": "https://job-boards.greenhouse.io/twilio/jobs/8383319"
+ },
  "greenhouse:twilio:8383479": {
   "company": "twilio",
   "first_seen": "2026-11-18T05:29:28+00:00",
@@ -154648,6 +154738,16 @@
   "source": "greenhouse",
   "title": "Software Engineer, Vercel Agent",
   "url": "https://job-boards.greenhouse.io/vercel/jobs/6264524004"
+ },
+ "greenhouse:vercel:6268187004": {
+  "company": "vercel",
+  "first_seen": "2026-11-21T11:58:31+00:00",
+  "job_id": "6268187004",
+  "location": "Hybrid - San Francisco",
+  "posted_at": "2026-11-20T20:34:17-05:00",
+  "source": "greenhouse",
+  "title": "Director, Partner Marketing",
+  "url": "https://job-boards.greenhouse.io/vercel/jobs/6268187004"
  },
  "greenhouse:yugabyte:4586344006": {
   "company": "yugabyte",
@@ -184098,6 +184198,16 @@
   "source": "ripplingats",
   "title": "Director, Enterprise Sales",
   "url": "https://ats.rippling.com/rippling/jobs/4fcb1bd1-45a7-4d2d-afcb-c6e601f8124f"
+ },
+ "ripplingats:rippling:50c67c2c-e4cb-485e-95ad-b668c2837471": {
+  "company": "rippling",
+  "first_seen": "2026-11-21T11:58:38+00:00",
+  "job_id": "50c67c2c-e4cb-485e-95ad-b668c2837471",
+  "location": "Mexico",
+  "posted_at": null,
+  "source": "ripplingats",
+  "title": "HR Advisor (Mexico)",
+  "url": "https://ats.rippling.com/rippling/jobs/50c67c2c-e4cb-485e-95ad-b668c2837471"
  },
  "ripplingats:rippling:51303a14-da7f-4be9-b6cd-75db0f884cc5": {
   "company": "rippling",
