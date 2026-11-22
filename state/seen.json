@@ -56829,6 +56829,16 @@
   "title": "Senior Staff / Staff Machine Learning Engineer",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8022956"
  },
+ "greenhouse:coupang:8025466": {
+  "company": "coupang",
+  "first_seen": "2026-11-22T00:00:23+00:00",
+  "job_id": "8025466",
+  "location": "Taipei, Taiwan",
+  "posted_at": "2026-08-23T09:53:48-04:00",
+  "source": "greenhouse",
+  "title": "Principal, Business Analyst",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8025466"
+ },
  "greenhouse:coupang:8025468": {
   "company": "coupang",
   "first_seen": "2026-11-07T23:19:38+00:00",
@@ -57828,6 +57838,26 @@
   "source": "greenhouse",
   "title": "Senior Product Manager - FTS",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8118849"
+ },
+ "greenhouse:coupang:8118859": {
+  "company": "coupang",
+  "first_seen": "2026-11-22T00:00:23+00:00",
+  "job_id": "8118859",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-08-23T07:43:04-04:00",
+  "source": "greenhouse",
+  "title": "Sr. Director, Back-End Engineering",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8118859"
+ },
+ "greenhouse:coupang:8118861": {
+  "company": "coupang",
+  "first_seen": "2026-11-22T00:00:23+00:00",
+  "job_id": "8118861",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-08-23T07:57:33-04:00",
+  "source": "greenhouse",
+  "title": "Sr. Director, Back-End Engineering",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8118861"
  },
  "greenhouse:coupang:8118870": {
   "company": "coupang",
@@ -194649,16 +194679,6 @@
   "title": "Software Engineer | Java/Golang/Python/C or C++ | 2 to 4 years | Bangalore",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer---Java-Golang-Python-C-or-C-----2-to-4-years---Bangalore_2027378"
  },
- "workday:cisco:/job/Bangalore-India/Software-Engineer---Networking---Security-Protocols--AI--Cloud---Virtualization---8-to-10-years_2022523-1": {
-  "company": "cisco",
-  "first_seen": "2026-08-23T20:15:10+00:00",
-  "job_id": "/job/Bangalore-India/Software-Engineer---Networking---Security-Protocols--AI--Cloud---Virtualization---8-to-10-years_2022523-1",
-  "location": "Bangalore, India",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Software Engineer - Networking & Security Protocols, AI, Cloud & Virtualization - 8 to 10 years",
-  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Software-Engineer---Networking---Security-Protocols--AI--Cloud---Virtualization---8-to-10-years_2022523-1"
- },
  "workday:cisco:/job/Bangalore-India/Software-Engineer---Python---Networking-Protocols---4-to-8-years_2023803": {
   "company": "cisco",
   "first_seen": "2026-09-11T15:40:57+00:00",
@@ -303329,16 +303349,6 @@
   "title": "Software QA Test Developer -  Embedded",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Software-QA-Test-Developer----Embedded_JR2024124"
  },
- "workday:nvidia:/job/India-Pune/Software-QA-Test-and-Tools-Developer---Automotive-Platform_JR2023573": {
-  "company": "nvidia",
-  "first_seen": "2026-08-23T20:14:49+00:00",
-  "job_id": "/job/India-Pune/Software-QA-Test-and-Tools-Developer---Automotive-Platform_JR2023573",
-  "location": "India, Pune",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Software QA Test and Tools Developer \u2013 Automotive Platform",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Pune/Software-QA-Test-and-Tools-Developer---Automotive-Platform_JR2023573"
- },
  "workday:nvidia:/job/India-Pune/Software-Solutions-Engineer_JR2018442-1": {
   "company": "nvidia",
   "first_seen": "2026-09-04T08:23:01+00:00",
@@ -330378,16 +330388,6 @@
   "source": "workday",
   "title": "Senior Software Development Engineer",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Senior-Software-Development-Engineer_JR-0109842"
- },
- "workday:workday:/job/USA-CO-Boulder/Senior-Specialized-Customer-Success-Manager--CLM--Evisort-_JR-0109106-1": {
-  "company": "workday",
-  "first_seen": "2026-08-23T20:19:07+00:00",
-  "job_id": "/job/USA-CO-Boulder/Senior-Specialized-Customer-Success-Manager--CLM--Evisort-_JR-0109106-1",
-  "location": "6 Locations",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Senior Specialized Customer Success Manager, CLM (Evisort)",
-  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Senior-Specialized-Customer-Success-Manager--CLM--Evisort-_JR-0109106-1"
  },
  "workday:workday:/job/USA-CO-Boulder/Software-Development-Engineer---AI-Infrastructure-Development-Platform_JR-0110276": {
   "company": "workday",
