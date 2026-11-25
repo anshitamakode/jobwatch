@@ -139,6 +139,16 @@
   "title": "IT Operations Specialist",
   "url": "https://jobs.ashbyhq.com/abridge/4e9042bc-b15b-4338-bc7e-b1b358e1cf4f"
  },
+ "ashby:abridge:5b66aac3-cb7a-4bbc-a28c-9fb38cf16656": {
+  "company": "abridge",
+  "first_seen": "2026-11-25T13:47:21+00:00",
+  "job_id": "5b66aac3-cb7a-4bbc-a28c-9fb38cf16656",
+  "location": "SF Office",
+  "posted_at": "2026-11-13T22:51:39.260+00:00",
+  "source": "ashby",
+  "title": "Member of Product Staff, Foundation Models & Post-Training",
+  "url": "https://jobs.ashbyhq.com/Abridge/5b66aac3-cb7a-4bbc-a28c-9fb38cf16656"
+ },
  "ashby:abridge:5eaa14a4-004f-4b7a-a16c-590e67f561e7": {
   "company": "abridge",
   "first_seen": "2026-10-28T23:52:10+00:00",
@@ -1369,16 +1379,6 @@
   "title": "Capacity Operations Manager",
   "url": "https://jobs.ashbyhq.com/baseten/28291849-b57f-4813-a7e0-66b1050b2d1b"
  },
- "ashby:baseten:2ae59494-97a5-4344-ae34-ffa3fab364be": {
-  "company": "baseten",
-  "first_seen": "2026-08-27T06:41:49+00:00",
-  "job_id": "2ae59494-97a5-4344-ae34-ffa3fab364be",
-  "location": "San Francisco",
-  "posted_at": "2026-08-27T03:57:18.737+00:00",
-  "source": "ashby",
-  "title": "Motion Designer (Brand Team)",
-  "url": "https://jobs.ashbyhq.com/baseten/2ae59494-97a5-4344-ae34-ffa3fab364be"
- },
  "ashby:baseten:2c7a4042-6c6b-4059-bfdb-7fa987326edb": {
   "company": "baseten",
   "first_seen": "2026-09-29T23:25:29+00:00",
@@ -1468,16 +1468,6 @@
   "source": "ashby",
   "title": "Product Manager, Inference Platform",
   "url": "https://jobs.ashbyhq.com/baseten/36f9e1be-a876-478b-b7ce-fa216ba12972"
- },
- "ashby:baseten:382978bd-7eef-4657-a229-3381a1057b4e": {
-  "company": "baseten",
-  "first_seen": "2026-08-27T06:41:49+00:00",
-  "job_id": "382978bd-7eef-4657-a229-3381a1057b4e",
-  "location": "San Francisco",
-  "posted_at": "2026-08-27T03:15:46.699+00:00",
-  "source": "ashby",
-  "title": "Product Designer",
-  "url": "https://jobs.ashbyhq.com/baseten/382978bd-7eef-4657-a229-3381a1057b4e"
  },
  "ashby:baseten:3e925ab1-2089-4a79-989e-50479b546eda": {
   "company": "baseten",
@@ -1789,16 +1779,6 @@
   "title": "Software Engineer - Testing Frameworks",
   "url": "https://jobs.ashbyhq.com/baseten/78028a72-2431-4373-aaec-d6e2c9a1cc7d"
  },
- "ashby:baseten:7a999a4e-5e04-4432-a7fe-86ad1151e061": {
-  "company": "baseten",
-  "first_seen": "2026-08-27T06:41:49+00:00",
-  "job_id": "7a999a4e-5e04-4432-a7fe-86ad1151e061",
-  "location": "San Francisco",
-  "posted_at": "2026-08-27T06:16:31.148+00:00",
-  "source": "ashby",
-  "title": "GTM Systems Manager",
-  "url": "https://jobs.ashbyhq.com/baseten/7a999a4e-5e04-4432-a7fe-86ad1151e061"
- },
  "ashby:baseten:7c0ba27d-2f09-42f2-9277-1b756076b00b": {
   "company": "baseten",
   "first_seen": "2026-10-27T03:20:16+00:00",
@@ -1848,16 +1828,6 @@
   "source": "ashby",
   "title": "Base Labs Research Scientist - RL Environments",
   "url": "https://jobs.ashbyhq.com/baseten/7dd86198-2132-4620-8c8d-af3dbcdb86e3"
- },
- "ashby:baseten:81d573b6-741c-4140-a36b-6892456eca73": {
-  "company": "baseten",
-  "first_seen": "2026-08-27T06:41:49+00:00",
-  "job_id": "81d573b6-741c-4140-a36b-6892456eca73",
-  "location": "San Francisco",
-  "posted_at": "2026-08-27T03:26:49.899+00:00",
-  "source": "ashby",
-  "title": "Design Engineer (Brand Team)",
-  "url": "https://jobs.ashbyhq.com/baseten/81d573b6-741c-4140-a36b-6892456eca73"
  },
  "ashby:baseten:84b48db9-4b3b-48f7-9ccd-ce6322d3cbf6": {
   "company": "baseten",
@@ -3959,16 +3929,6 @@
   "title": "Member of Technical Staff - Post-Training (Reinforcement Learning & Generalization)",
   "url": "https://jobs.ashbyhq.com/cohere/8a73f59d-41b7-42ed-8cc8-99afa0a2ba5f"
  },
- "ashby:cohere:8a7b1381-bd0b-444e-8605-faca526d4700": {
-  "company": "cohere",
-  "first_seen": "2026-08-27T06:41:24+00:00",
-  "job_id": "8a7b1381-bd0b-444e-8605-faca526d4700",
-  "location": "United States",
-  "posted_at": "2026-08-27T04:23:33.101+00:00",
-  "source": "ashby",
-  "title": "People Systems and Automation Manager",
-  "url": "https://jobs.ashbyhq.com/cohere/8a7b1381-bd0b-444e-8605-faca526d4700"
- },
  "ashby:cohere:8ac3ed85-e315-443b-bc13-e7a0b900b922": {
   "company": "cohere",
   "first_seen": "2026-11-07T23:23:28+00:00",
@@ -4709,6 +4669,16 @@
   "title": "Software Engineer, Enterprise Product",
   "url": "https://jobs.ashbyhq.com/decagon/0f41f8dc-a3c9-47e1-a3fe-5f137d83850e"
  },
+ "ashby:decagon:1117aac8-58b5-4b24-bc82-849317a52719": {
+  "company": "decagon",
+  "first_seen": "2026-11-25T13:46:46+00:00",
+  "job_id": "1117aac8-58b5-4b24-bc82-849317a52719",
+  "location": "San Francisco",
+  "posted_at": "2026-11-24T19:20:58.998+00:00",
+  "source": "ashby",
+  "title": "Staff Product Designer",
+  "url": "https://jobs.ashbyhq.com/decagon/1117aac8-58b5-4b24-bc82-849317a52719"
+ },
  "ashby:decagon:12d4dcc2-0a5a-48ef-9c47-cc45eb9bc0dd": {
   "company": "decagon",
   "first_seen": "2026-11-07T23:20:35+00:00",
@@ -4828,16 +4798,6 @@
   "source": "ashby",
   "title": "Software Engineer, Agents",
   "url": "https://jobs.ashbyhq.com/decagon/28366d07-ae89-428c-8593-1840591bfc18"
- },
- "ashby:decagon:2e561f25-77bd-4199-b5c4-3618f1743a0d": {
-  "company": "decagon",
-  "first_seen": "2026-08-27T06:38:24+00:00",
-  "job_id": "2e561f25-77bd-4199-b5c4-3618f1743a0d",
-  "location": "Brazil",
-  "posted_at": "2026-08-27T02:31:36.439+00:00",
-  "source": "ashby",
-  "title": "Senior Agent Product Manager",
-  "url": "https://jobs.ashbyhq.com/decagon/2e561f25-77bd-4199-b5c4-3618f1743a0d"
  },
  "ashby:decagon:2f64e63b-e825-4fdc-89be-978ae22e4ad4": {
   "company": "decagon",
@@ -11909,16 +11869,6 @@
   "title": "Web Designer",
   "url": "https://jobs.ashbyhq.com/hex/954a640c-47f8-4186-b6cc-79f1c6ebe255"
  },
- "ashby:hex:9640c55f-b9cb-4d9a-b31f-8463b31b2aa7": {
-  "company": "hex",
-  "first_seen": "2026-08-27T06:41:50+00:00",
-  "job_id": "9640c55f-b9cb-4d9a-b31f-8463b31b2aa7",
-  "location": "New York",
-  "posted_at": "2026-08-27T00:56:07.862+00:00",
-  "source": "ashby",
-  "title": "Recruiting Operations Manager",
-  "url": "https://jobs.ashbyhq.com/hex/9640c55f-b9cb-4d9a-b31f-8463b31b2aa7"
- },
  "ashby:hex:977eca81-fdff-40f5-93df-8a0a1ffd56a8": {
   "company": "hex",
   "first_seen": "2026-11-07T23:23:49+00:00",
@@ -14899,6 +14849,16 @@
   "title": "Solutions Consultant, Mid-Market, Nordics",
   "url": "https://jobs.ashbyhq.com/notion/3c031ac2-ef25-4335-8189-b021733275b3"
  },
+ "ashby:notion:3e988191-692b-48b7-969f-61c000c1636e": {
+  "company": "notion",
+  "first_seen": "2026-11-25T13:47:02+00:00",
+  "job_id": "3e988191-692b-48b7-969f-61c000c1636e",
+  "location": "New York, New York",
+  "posted_at": "2026-08-26T21:46:43.362+00:00",
+  "source": "ashby",
+  "title": "Forward Deployed Architect",
+  "url": "https://jobs.ashbyhq.com/notion/3e988191-692b-48b7-969f-61c000c1636e"
+ },
  "ashby:notion:3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c": {
   "company": "notion",
   "first_seen": "2026-11-13T11:52:06+00:00",
@@ -15158,6 +15118,16 @@
   "source": "ashby",
   "title": "Manager, Solutions Consultants, DACH",
   "url": "https://jobs.ashbyhq.com/notion/6140e48c-949d-48a8-a3f0-c826199040fe"
+ },
+ "ashby:notion:63f3e6dc-d03b-4c7d-a016-e7909e3466a0": {
+  "company": "notion",
+  "first_seen": "2026-11-25T13:47:02+00:00",
+  "job_id": "63f3e6dc-d03b-4c7d-a016-e7909e3466a0",
+  "location": "Singapore",
+  "posted_at": "2026-11-25T05:44:54.294+00:00",
+  "source": "ashby",
+  "title": "Outcomes Architect",
+  "url": "https://jobs.ashbyhq.com/notion/63f3e6dc-d03b-4c7d-a016-e7909e3466a0"
  },
  "ashby:notion:6597b600-7781-46e6-b70a-a9af4fb2b61b": {
   "company": "notion",
@@ -19349,6 +19319,16 @@
   "title": "Service Designer, Intelligence & Investigations",
   "url": "https://jobs.ashbyhq.com/openai/33250b88-936a-4994-950c-fc5fe346446c"
  },
+ "ashby:openai:333ebd68-cc1d-4706-8d0a-07f3e50d7bfd": {
+  "company": "openai",
+  "first_seen": "2026-11-25T13:46:42+00:00",
+  "job_id": "333ebd68-cc1d-4706-8d0a-07f3e50d7bfd",
+  "location": "San Francisco",
+  "posted_at": "2026-08-26T17:31:11.207+00:00",
+  "source": "ashby",
+  "title": "Partner Marketing Manager, Technology Partners & ISVs",
+  "url": "https://jobs.ashbyhq.com/openai/333ebd68-cc1d-4706-8d0a-07f3e50d7bfd"
+ },
  "ashby:openai:3359a138-2a17-4f9f-be79-f17268f5c8c1": {
   "company": "openai",
   "first_seen": "2026-11-25T03:17:11+00:00",
@@ -19748,16 +19728,6 @@
   "source": "ashby",
   "title": "Account Director, Startups | New Business - UK&I",
   "url": "https://jobs.ashbyhq.com/openai/3b85fc17-403b-4ca0-81e3-21c2aec9c052"
- },
- "ashby:openai:3c5ebd43-1f83-422b-9e44-94b96bc8e4e0": {
-  "company": "openai",
-  "first_seen": "2026-08-27T06:37:33+00:00",
-  "job_id": "3c5ebd43-1f83-422b-9e44-94b96bc8e4e0",
-  "location": "San Francisco",
-  "posted_at": "2026-08-27T00:44:14.528+00:00",
-  "source": "ashby",
-  "title": "Product Marketing Lead, Executive Engagement",
-  "url": "https://jobs.ashbyhq.com/openai/3c5ebd43-1f83-422b-9e44-94b96bc8e4e0"
  },
  "ashby:openai:3c67f712-697d-48d8-b05c-01be896e61da": {
   "company": "openai",
@@ -27479,16 +27449,6 @@
   "title": "Growth Marketing Manager, SMB Ads",
   "url": "https://jobs.ashbyhq.com/openai/dc503400-f7a8-4ad4-b50b-b33d2d12cc2d"
  },
- "ashby:openai:dc5a7877-5bc3-4366-90d4-8370cc11d44e": {
-  "company": "openai",
-  "first_seen": "2026-08-27T06:37:33+00:00",
-  "job_id": "dc5a7877-5bc3-4366-90d4-8370cc11d44e",
-  "location": "S\u00e3o Paulo",
-  "posted_at": "2026-08-27T00:18:55.065+00:00",
-  "source": "ashby",
-  "title": "South America Lead, Global Affairs (Sao Paulo)",
-  "url": "https://jobs.ashbyhq.com/openai/dc5a7877-5bc3-4366-90d4-8370cc11d44e"
- },
  "ashby:openai:dc79ee90-98f5-41f1-b408-5861cb433612": {
   "company": "openai",
   "first_seen": "2026-10-27T23:26:05+00:00",
@@ -28418,6 +28378,16 @@
   "source": "ashby",
   "title": "Product Manager, Frontier Risks Safety",
   "url": "https://jobs.ashbyhq.com/openai/efae0a22-24d6-4562-834c-1110c5e7677b"
+ },
+ "ashby:openai:efed424b-e025-400f-8ac3-73e962b85751": {
+  "company": "openai",
+  "first_seen": "2026-11-25T13:46:42+00:00",
+  "job_id": "efed424b-e025-400f-8ac3-73e962b85751",
+  "location": "San Francisco",
+  "posted_at": "2026-11-19T23:45:47.316+00:00",
+  "source": "ashby",
+  "title": "Operating Systems Engineer | Consumer Devices",
+  "url": "https://jobs.ashbyhq.com/openai/efed424b-e025-400f-8ac3-73e962b85751"
  },
  "ashby:openai:effa8b95-3b2d-4f57-8fcd-b3c9b3c142ba": {
   "company": "openai",
@@ -30538,16 +30508,6 @@
   "source": "ashby",
   "title": "Account Executive, Inside Sales",
   "url": "https://jobs.ashbyhq.com/ramp/8d516dbd-e5b7-43da-922f-1417ead4d082"
- },
- "ashby:ramp:8efd3a0a-fc66-46e2-9415-bffba10e2919": {
-  "company": "ramp",
-  "first_seen": "2026-08-27T06:41:27+00:00",
-  "job_id": "8efd3a0a-fc66-46e2-9415-bffba10e2919",
-  "location": "New York, NY (HQ)",
-  "posted_at": "2026-08-27T03:05:26.969+00:00",
-  "source": "ashby",
-  "title": "AI Solutions Engineer",
-  "url": "https://jobs.ashbyhq.com/ramp/8efd3a0a-fc66-46e2-9415-bffba10e2919"
  },
  "ashby:ramp:8f1aa562-5599-491b-b94c-128511ac40b2": {
   "company": "ramp",
@@ -36339,6 +36299,16 @@
   "title": "Database Support Engineer (APAC)",
   "url": "https://jobs.ashbyhq.com/supabase/62945518-2468-4cf5-9f36-904b60f75183"
  },
+ "ashby:supabase:62ad3b86-3a18-435a-ab29-dc62b77154e5": {
+  "company": "supabase",
+  "first_seen": "2026-11-25T13:47:04+00:00",
+  "job_id": "62ad3b86-3a18-435a-ab29-dc62b77154e5",
+  "location": "Remote, Global",
+  "posted_at": "2026-11-25T10:22:02.493+00:00",
+  "source": "ashby",
+  "title": "Product Security Engineer",
+  "url": "https://jobs.ashbyhq.com/supabase/62ad3b86-3a18-435a-ab29-dc62b77154e5"
+ },
  "ashby:supabase:62dfb104-ae18-46ce-a9ef-836f024c3d6d": {
   "company": "supabase",
   "first_seen": "2026-10-20T22:57:54+00:00",
@@ -36568,6 +36538,16 @@
   "source": "ashby",
   "title": "Software Engineer - Storage",
   "url": "https://jobs.ashbyhq.com/supabase/9f2ba0b2-6d3b-43ea-990f-5b4bf3930520"
+ },
+ "ashby:supabase:a069c886-1107-408e-88b4-e1aa8d33d4bc": {
+  "company": "supabase",
+  "first_seen": "2026-11-25T13:47:04+00:00",
+  "job_id": "a069c886-1107-408e-88b4-e1aa8d33d4bc",
+  "location": "Remote, EMEA",
+  "posted_at": "2026-10-31T09:47:47.582+00:00",
+  "source": "ashby",
+  "title": " Account Executive (German-Speaking)",
+  "url": "https://jobs.ashbyhq.com/supabase/a069c886-1107-408e-88b4-e1aa8d33d4bc"
  },
  "ashby:supabase:a0b46de3-5617-41cc-8623-2be9b6fd6b49": {
   "company": "supabase",
@@ -37838,16 +37818,6 @@
   "source": "ashby",
   "title": "Director, AI Distribution",
   "url": "https://jobs.ashbyhq.com/Tekion/a61a5a47-7d7f-4e3e-9351-bac1d1a2f86d"
- },
- "ashby:tekion:a6d4c45f-80f9-44c8-b532-905e4055221b": {
-  "company": "tekion",
-  "first_seen": "2026-08-27T06:41:31+00:00",
-  "job_id": "a6d4c45f-80f9-44c8-b532-905e4055221b",
-  "location": "Bangalore HQ",
-  "posted_at": "2026-08-26T10:14:40.061+00:00",
-  "source": "ashby",
-  "title": "Staff Product Manager",
-  "url": "https://jobs.ashbyhq.com/tekion/a6d4c45f-80f9-44c8-b532-905e4055221b"
  },
  "ashby:tekion:a703ab16-0675-4525-aade-066b59181845": {
   "company": "tekion",
@@ -39639,6 +39609,16 @@
   "title": "Sales Manager, Early Stage",
   "url": "https://jobs.ashbyhq.com/vanta/0c4ff8a3-c916-467b-b3e2-053f009f3ba4"
  },
+ "ashby:vanta:0ccbb65f-f675-410a-ae54-1d34575f228a": {
+  "company": "vanta",
+  "first_seen": "2026-11-25T13:47:05+00:00",
+  "job_id": "0ccbb65f-f675-410a-ae54-1d34575f228a",
+  "location": "Remote U.S.",
+  "posted_at": "2026-08-26T19:04:45.475+00:00",
+  "source": "ashby",
+  "title": "Software Engineer, Integrations Platform, Vanta For Government (V4G)",
+  "url": "https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a"
+ },
  "ashby:vanta:0e154a57-fc33-4cf7-95cc-0aa30e0bde90": {
   "company": "vanta",
   "first_seen": "2026-09-18T18:52:27+00:00",
@@ -40408,6 +40388,16 @@
   "source": "ashby",
   "title": "Account Executive, SLED Government - South",
   "url": "https://jobs.ashbyhq.com/vanta/c4f91672-04ee-4265-b4a7-6979a7e83308"
+ },
+ "ashby:vanta:c6090572-cbca-4b11-810e-127bf0183abf": {
+  "company": "vanta",
+  "first_seen": "2026-11-25T13:47:05+00:00",
+  "job_id": "c6090572-cbca-4b11-810e-127bf0183abf",
+  "location": "Remote U.S.",
+  "posted_at": "2026-11-03T17:03:03.309+00:00",
+  "source": "ashby",
+  "title": "Senior GTM Strategy & Operations Manager, Mid-Late Sales Funnel",
+  "url": "https://jobs.ashbyhq.com/vanta/c6090572-cbca-4b11-810e-127bf0183abf"
  },
  "ashby:vanta:c752a8a1-5832-4d2a-a8c5-8b8308d6a7e2": {
   "company": "vanta",
@@ -41758,6 +41748,16 @@
   "source": "greenhouse",
   "title": "Customer Solutions Engineer, EMEA",
   "url": "https://abnormal.ai/careers/jobs/8016898003?gh_jid=8016898003"
+ },
+ "greenhouse:abnormalsecurity:8016918003": {
+  "company": "abnormalsecurity",
+  "first_seen": "2026-11-25T13:46:41+00:00",
+  "job_id": "8016918003",
+  "location": "Remote - Singapore",
+  "posted_at": "2026-11-25T06:48:02-05:00",
+  "source": "greenhouse",
+  "title": "Software Engineer I - Backend",
+  "url": "https://abnormal.ai/careers/jobs/8016918003?gh_jid=8016918003"
  },
  "greenhouse:abnormalsecurity:8016920003": {
   "company": "abnormalsecurity",
@@ -54099,6 +54099,16 @@
   "title": "Enterprise Architect, Financial Services - Toronto, Canada",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8319377?gh_jid=8319377"
  },
+ "greenhouse:cloudflare:8323824": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-25T13:46:48+00:00",
+  "job_id": "8323824",
+  "location": "Hybrid",
+  "posted_at": "2026-11-24T22:18:32-05:00",
+  "source": "greenhouse",
+  "title": "Senior Territory Account Executive, Korea",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8323824?gh_jid=8323824"
+ },
  "greenhouse:cloudflare:8323918": {
   "company": "cloudflare",
   "first_seen": "2026-10-29T10:43:57+00:00",
@@ -55619,6 +55629,16 @@
   "title": "HR Operations Specialist (Full-time)",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8404717?gh_jid=8404717"
  },
+ "greenhouse:cloudflare:8405075": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-25T13:46:48+00:00",
+  "job_id": "8405075",
+  "location": "Hybrid",
+  "posted_at": "2026-11-25T05:25:24-05:00",
+  "source": "greenhouse",
+  "title": "Senior Named Account Executive, Melbourne",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8405075?gh_jid=8405075"
+ },
  "greenhouse:cloudflare:8405408": {
   "company": "cloudflare",
   "first_seen": "2026-11-23T19:43:11+00:00",
@@ -55628,6 +55648,36 @@
   "source": "greenhouse",
   "title": "Senior Named Account Executive, Czech Republic",
   "url": "https://boards.greenhouse.io/cloudflare/jobs/8405408?gh_jid=8405408"
+ },
+ "greenhouse:cloudflare:8406109": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-25T13:46:48+00:00",
+  "job_id": "8406109",
+  "location": "Hybrid",
+  "posted_at": "2026-11-25T08:41:00-05:00",
+  "source": "greenhouse",
+  "title": "Business Development Representative - Spanish and Portuguese Speaking",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8406109?gh_jid=8406109"
+ },
+ "greenhouse:cloudflare:8406129": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-25T13:46:48+00:00",
+  "job_id": "8406129",
+  "location": "Hybrid",
+  "posted_at": "2026-11-25T08:40:58-05:00",
+  "source": "greenhouse",
+  "title": "Business Development Representative - Spanish and Italian Speaking",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8406129?gh_jid=8406129"
+ },
+ "greenhouse:cloudflare:8406133": {
+  "company": "cloudflare",
+  "first_seen": "2026-11-25T13:46:48+00:00",
+  "job_id": "8406133",
+  "location": "Hybrid",
+  "posted_at": "2026-11-25T08:41:02-05:00",
+  "source": "greenhouse",
+  "title": "Business Development Representative - Spanish Speaking",
+  "url": "https://boards.greenhouse.io/cloudflare/jobs/8406133?gh_jid=8406133"
  },
  "greenhouse:cloudflare:8406156": {
   "company": "cloudflare",
@@ -56018,16 +56068,6 @@
   "source": "greenhouse",
   "title": "[\ucfe0\ud321\ub85c\uc9c0\uc2a4\ud2f1\uc2a4\uc11c\ube44\uc2a4] \ub85c\ucf13\uc124\uce58 A/S \uc6b4\uc601 \ub2f4\ub2f9\uc790 (Rocket A/S Operation)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=5923444"
- },
- "greenhouse:coupang:5923445": {
-  "company": "coupang",
-  "first_seen": "2026-08-27T06:37:32+00:00",
-  "job_id": "5923445",
-  "location": "Seoul, South Korea",
-  "posted_at": "2024-04-23T00:44:15-04:00",
-  "source": "greenhouse",
-  "title": "[\ucfe0\ud321\ub85c\uc9c0\uc2a4\ud2f1\uc2a4\uc11c\ube44\uc2a4] Rocket A/S \uc11c\ube44\uc2a4 \uc6b4\uc601 \ubc0f \uc804\ub7b5\uae30\ud68d \ub2f4\ub2f9\uc790",
-  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=5923445"
  },
  "greenhouse:coupang:5981148": {
   "company": "coupang",
@@ -57489,6 +57529,16 @@
   "title": "\uc7ac\ubb34\uad00\ub9ac/\uae30\ud68d (\uc778\uc7ac\ud480)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8063666"
  },
+ "greenhouse:coupang:8063701": {
+  "company": "coupang",
+  "first_seen": "2026-11-25T13:46:41+00:00",
+  "job_id": "8063701",
+  "location": "Mountain View, USA",
+  "posted_at": "2026-08-26T13:08:59-04:00",
+  "source": "greenhouse",
+  "title": "Staff Data Engineer",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8063701"
+ },
  "greenhouse:coupang:8063867": {
   "company": "coupang",
   "first_seen": "2026-11-06T15:32:47+00:00",
@@ -58709,16 +58759,6 @@
   "title": "Senior Principal, Compliance (Infosec & TBA Compliance)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8152204"
  },
- "greenhouse:coupang:8152513": {
-  "company": "coupang",
-  "first_seen": "2026-08-27T06:37:32+00:00",
-  "job_id": "8152513",
-  "location": "Seoul, South Korea",
-  "posted_at": "2026-08-27T01:43:52-04:00",
-  "source": "greenhouse",
-  "title": "[\ucfe0\ud321\ud398\uc774]Technical Account Manager(\uc2e0\uc0ac\uc5c5-\ub85c\ucf13\ud398\uc774)",
-  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8152513"
- },
  "greenhouse:coupang:8152518": {
   "company": "coupang",
   "first_seen": "2026-11-22T21:26:23+00:00",
@@ -59139,16 +59179,6 @@
   "title": "Staff Back-end Engineer [L6-1] (Business Support and Innovation)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8160647"
  },
- "greenhouse:coupang:8160724": {
-  "company": "coupang",
-  "first_seen": "2026-08-27T06:37:32+00:00",
-  "job_id": "8160724",
-  "location": "Mountain View, USA",
-  "posted_at": "2026-08-27T01:03:02-04:00",
-  "source": "greenhouse",
-  "title": "Senior Executive Assistant",
-  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8160724"
- },
  "greenhouse:coupang:8160884": {
   "company": "coupang",
   "first_seen": "2026-08-27T18:43:44+00:00",
@@ -59158,16 +59188,6 @@
   "source": "greenhouse",
   "title": "[\ucfe0\ud321\ud480\ud544\uba3c\ud2b8\uc11c\ube44\uc2a4] \ubb3c\ub958\uc13c\ud130 \uc790\ub3d9\ud654 \uc124\ube44 \ubcf4\uc804 \uad00\ub9ac\uc790 (\uc591\uc9c05\uc13c\ud130)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8160884"
- },
- "greenhouse:coupang:8160886": {
-  "company": "coupang",
-  "first_seen": "2026-08-27T06:37:32+00:00",
-  "job_id": "8160886",
-  "location": "South Korea",
-  "posted_at": "2026-08-27T01:59:30-04:00",
-  "source": "greenhouse",
-  "title": "[\ucfe0\ud321\ud480\ud544\uba3c\ud2b8\uc11c\ube44\uc2a4] \ubb3c\ub958\uc13c\ud130 \uc790\ub3d9\ud654 \uc124\ube44 \ubcf4\uc804 \uad00\ub9ac\uc790 (\uc131\ub0a82\uc13c\ud130)",
-  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8160886"
  },
  "greenhouse:coupang:8160894": {
   "company": "coupang",
@@ -65139,6 +65159,16 @@
   "title": "[\ucfe0\ud321] Ads Sales Manager I \uc18c\uc0c1\uacf5\uc778\uc758 \uc131\uc7a5\uc744 \uc774\ub044\ub294 \ub9ac\ub354 (Ads SMB Sales) ",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8349143"
  },
+ "greenhouse:coupang:8349145": {
+  "company": "coupang",
+  "first_seen": "2026-11-25T13:46:41+00:00",
+  "job_id": "8349145",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-24T22:37:05-05:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321] \uc911/\uc18c\ud615 \uc140\ub7ec \uad11\uace0 \uc601\uc5c5 \ub2f4\ub2f9\uc790 (Ads SMB Sales) (5\ub144 \uc774\uc0c1)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8349145"
+ },
  "greenhouse:coupang:8349148": {
   "company": "coupang",
   "first_seen": "2026-11-09T12:44:15+00:00",
@@ -65638,6 +65668,16 @@
   "source": "greenhouse",
   "title": "[\ucfe0\ud321] \uc774\uce20 \uc138\uc77c\uc988 \ub300\uaddc\ubaa8 \ucc44\uc6a9 (\uacc4\uc57d\uc9c1/\uc778\uc13c\ud2f0\ube0c/\uc131\uc7a5\uc9c0\uc6d0\uae08 100\ub9cc\uc6d0/\uba74\uc811\ube44 \uc9c0\uae09)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8370776"
+ },
+ "greenhouse:coupang:8370832": {
+  "company": "coupang",
+  "first_seen": "2026-11-25T13:46:41+00:00",
+  "job_id": "8370832",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-25T01:38:53-05:00",
+  "source": "greenhouse",
+  "title": "Director, Account Management (Eats Sales)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8370832"
  },
  "greenhouse:coupang:8370843": {
   "company": "coupang",
@@ -66419,6 +66459,26 @@
   "title": "[\ucfe0\ud321\ud480\ud544\uba3c\ud2b8\uc11c\ube44\uc2a4] \ubb3c\ub958 \ud504\ub85c\uc138\uc2a4 \uac1c\uc120 \uc804\ubb38\uac00",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8412845"
  },
+ "greenhouse:coupang:8413060": {
+  "company": "coupang",
+  "first_seen": "2026-11-25T13:46:41+00:00",
+  "job_id": "8413060",
+  "location": "Tokyo, Japan",
+  "posted_at": "2026-11-25T00:18:12-05:00",
+  "source": "greenhouse",
+  "title": "PR Manager",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8413060"
+ },
+ "greenhouse:coupang:8413062": {
+  "company": "coupang",
+  "first_seen": "2026-11-25T13:46:41+00:00",
+  "job_id": "8413062",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-25T03:20:15-05:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321] \uad11\uc5ed \uc0ac\uc5c5\uc7a5 \ubcf4\uac74\uad00\ub9ac\uc790 (\ub300\uc804 \uac70\uc810)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8413062"
+ },
  "greenhouse:coupang:8413124": {
   "company": "coupang",
   "first_seen": "2026-11-24T19:15:27+00:00",
@@ -66428,6 +66488,16 @@
   "source": "greenhouse",
   "title": "Senior Program Manager - Audit Ops",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8413124"
+ },
+ "greenhouse:coupang:8413327": {
+  "company": "coupang",
+  "first_seen": "2026-11-25T13:46:41+00:00",
+  "job_id": "8413327",
+  "location": "Tokyo, Japan",
+  "posted_at": "2026-11-25T00:50:50-05:00",
+  "source": "greenhouse",
+  "title": "Performance Marketing Specialist",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8413327"
  },
  "greenhouse:coupang:8413349": {
   "company": "coupang",
@@ -66448,6 +66518,16 @@
   "source": "greenhouse",
   "title": "Account Manager (CIC Sales)",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8413359"
+ },
+ "greenhouse:coupang:8413373": {
+  "company": "coupang",
+  "first_seen": "2026-11-25T13:46:41+00:00",
+  "job_id": "8413373",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-25T00:40:36-05:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321\ub85c\uc9c0\uc2a4\ud2f1\uc2a4\uc11c\ube44\uc2a4] \ubb3c\ub958 \uc6b4\uc601 \uae30\ud68d \ub2f4\ub2f9\uc790 (Logistics Capacity)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8413373"
  },
  "greenhouse:coupang:8413375": {
   "company": "coupang",
@@ -66488,6 +66568,46 @@
   "source": "greenhouse",
   "title": "Assistant Manager, Catalog Photo Team Operation Management",
   "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8413610"
+ },
+ "greenhouse:coupang:8415731": {
+  "company": "coupang",
+  "first_seen": "2026-11-25T13:46:41+00:00",
+  "job_id": "8415731",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-25T04:27:13-05:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321] \uacf5\uc815\uac70\ub798 \ucef4\ud50c\ub77c\uc774\uc5b8\uc2a4 \ubcc0\ud638\uc0ac (8\ub144 \uc774\uc0c1)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8415731"
+ },
+ "greenhouse:coupang:8416015": {
+  "company": "coupang",
+  "first_seen": "2026-11-25T13:46:41+00:00",
+  "job_id": "8416015",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-25T00:35:36-05:00",
+  "source": "greenhouse",
+  "title": "Sr. Staff Security Engineer (IAM)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8416015"
+ },
+ "greenhouse:coupang:8416291": {
+  "company": "coupang",
+  "first_seen": "2026-11-25T13:46:41+00:00",
+  "job_id": "8416291",
+  "location": "Taipei, Taiwan",
+  "posted_at": "2026-11-25T01:27:14-05:00",
+  "source": "greenhouse",
+  "title": "Senior Manager, Strategic Partnerships",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8416291"
+ },
+ "greenhouse:coupang:8416462": {
+  "company": "coupang",
+  "first_seen": "2026-11-25T13:46:41+00:00",
+  "job_id": "8416462",
+  "location": "Seoul, South Korea",
+  "posted_at": "2026-11-25T04:12:01-05:00",
+  "source": "greenhouse",
+  "title": "[\ucfe0\ud321] \uc911/\uc18c\ud615 \uc140\ub7ec \uad11\uace0 \uc601\uc5c5 \ub2f4\ub2f9\uc790(\uc2e0\uc785/\uc815\uaddc\uc9c1) (Ads SMB Sales)",
+  "url": "https://www.coupang.jobs/en/jobs/?gh_jid=8416462"
  },
  "greenhouse:databricks:4513122002": {
   "company": "databricks",
@@ -68838,16 +68958,6 @@
   "source": "greenhouse",
   "title": "Senior Manager - Technical Solutions (Big Data / AI)",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407895002"
- },
- "greenhouse:databricks:8407913002": {
-  "company": "databricks",
-  "first_seen": "2026-08-27T06:37:29+00:00",
-  "job_id": "8407913002",
-  "location": "United States",
-  "posted_at": "2026-08-26T19:32:54-04:00",
-  "source": "greenhouse",
-  "title": "Sr Platform Monitoring Engineer",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407913002"
  },
  "greenhouse:databricks:8407917002": {
   "company": "databricks",
@@ -71879,16 +71989,6 @@
   "title": "Tech Lead Manager - Lakebase",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8651161002"
  },
- "greenhouse:databricks:8652588002": {
-  "company": "databricks",
-  "first_seen": "2026-08-27T06:37:29+00:00",
-  "job_id": "8652588002",
-  "location": "United States",
-  "posted_at": "2026-08-26T23:13:43-04:00",
-  "source": "greenhouse",
-  "title": "Named Core Account Executive",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8652588002"
- },
  "greenhouse:databricks:8652590002": {
   "company": "databricks",
   "first_seen": "2026-11-07T23:19:35+00:00",
@@ -72938,6 +73038,16 @@
   "source": "greenhouse",
   "title": " Delivery Solutions Architect - Public Sector (DHS, Intelligence Community)",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739515002"
+ },
+ "greenhouse:databricks:8739519002": {
+  "company": "databricks",
+  "first_seen": "2026-11-25T13:46:39+00:00",
+  "job_id": "8739519002",
+  "location": "Maryland; Virginia; Washington, D.C.",
+  "posted_at": "2026-08-26T15:49:58-04:00",
+  "source": "greenhouse",
+  "title": "Director, Delivery Solutions Architects - Public Sector",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8739519002"
  },
  "greenhouse:databricks:8740680002": {
   "company": "databricks",
@@ -77779,6 +77889,16 @@
   "title": "Senior Manager, AI Forward Deployed Engineering",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937360002"
  },
+ "greenhouse:databricks:8937362002": {
+  "company": "databricks",
+  "first_seen": "2026-11-25T13:46:39+00:00",
+  "job_id": "8937362002",
+  "location": "Denmark",
+  "posted_at": "2026-11-25T06:05:45-05:00",
+  "source": "greenhouse",
+  "title": "Solutions Architect",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8937362002"
+ },
  "greenhouse:databricks:8937807002": {
   "company": "databricks",
   "first_seen": "2026-11-13T11:47:57+00:00",
@@ -79198,6 +79318,16 @@
   "source": "greenhouse",
   "title": "Product Strategy and Corporate Development Lead, AI",
   "url": "https://careers.datadoghq.com/detail/7555575/?gh_jid=7555575"
+ },
+ "greenhouse:datadog:7558666": {
+  "company": "datadog",
+  "first_seen": "2026-11-25T13:46:49+00:00",
+  "job_id": "7558666",
+  "location": "Boston, Massachusetts, USA; New York, New York, USA",
+  "posted_at": "2026-01-28T11:21:48-05:00",
+  "source": "greenhouse",
+  "title": "Executive Sourcer",
+  "url": "https://careers.datadoghq.com/detail/7558666/?gh_jid=7558666"
  },
  "greenhouse:datadog:7560494": {
   "company": "datadog",
@@ -87579,16 +87709,6 @@
   "title": "Senior Solutions Architect, Mid-Market East",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8140341&gh_jid=8140341"
  },
- "greenhouse:elastic:8142818": {
-  "company": "elastic",
-  "first_seen": "2026-08-27T06:41:12+00:00",
-  "job_id": "8142818",
-  "location": "Sydney, Australia",
-  "posted_at": "2026-08-27T02:27:58-04:00",
-  "source": "greenhouse",
-  "title": "IT Support Admin",
-  "url": "https://jobs.elastic.co/jobs?gh_jid=8142818&gh_jid=8142818"
- },
  "greenhouse:elastic:8143969": {
   "company": "elastic",
   "first_seen": "2026-11-20T05:14:02+00:00",
@@ -92319,6 +92439,16 @@
   "title": "Renewals Manager (Individual Contributor)",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8382870&gh_jid=8382870"
  },
+ "greenhouse:elastic:8382872": {
+  "company": "elastic",
+  "first_seen": "2026-11-25T13:46:51+00:00",
+  "job_id": "8382872",
+  "location": "Singapore",
+  "posted_at": "2026-11-24T23:57:42-05:00",
+  "source": "greenhouse",
+  "title": "Security Specialist Account Executive",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8382872&gh_jid=8382872"
+ },
  "greenhouse:elastic:8386050": {
   "company": "elastic",
   "first_seen": "2026-11-13T19:09:03+00:00",
@@ -92928,6 +93058,16 @@
   "source": "greenhouse",
   "title": "Sr. Solutions Architect, Enterprise East (Presales)",
   "url": "https://jobs.elastic.co/jobs?gh_jid=8414873&gh_jid=8414873"
+ },
+ "greenhouse:elastic:8416373": {
+  "company": "elastic",
+  "first_seen": "2026-11-25T13:46:51+00:00",
+  "job_id": "8416373",
+  "location": "Tokyo, Japan",
+  "posted_at": "2026-11-25T02:47:57-05:00",
+  "source": "greenhouse",
+  "title": "Sales Development Representative ",
+  "url": "https://jobs.elastic.co/jobs?gh_jid=8416373&gh_jid=8416373"
  },
  "greenhouse:fastly:7641510": {
   "company": "fastly",
@@ -94489,6 +94629,16 @@
   "title": "Forward Deployed Engineer",
   "url": "https://boards.greenhouse.io/figma/jobs/6158162004?gh_jid=6158162004"
  },
+ "greenhouse:figma:6160732004": {
+  "company": "figma",
+  "first_seen": "2026-11-25T13:46:52+00:00",
+  "job_id": "6160732004",
+  "location": "San Francisco, CA \u2022 New York, NY \u2022 United States",
+  "posted_at": "2026-08-26T14:40:04-04:00",
+  "source": "greenhouse",
+  "title": "Manager, Product Management - Figma Platform Experience",
+  "url": "https://boards.greenhouse.io/figma/jobs/6160732004?gh_jid=6160732004"
+ },
  "greenhouse:figma:6161021004": {
   "company": "figma",
   "first_seen": "2026-09-08T15:53:27+00:00",
@@ -95819,16 +95969,6 @@
   "title": "Senior Sales Engineer, Commercial",
   "url": "https://www.fivetran.com/careers/job?gh_jid=7735023003"
  },
- "greenhouse:fivetran:7735295003": {
-  "company": "fivetran",
-  "first_seen": "2026-08-27T06:41:14+00:00",
-  "job_id": "7735295003",
-  "location": "Bengaluru, Karnataka, India, APAC",
-  "posted_at": "2026-05-18T08:30:27-04:00",
-  "source": "greenhouse",
-  "title": "Staff Product Manager, Connectors",
-  "url": "https://www.fivetran.com/careers/job?gh_jid=7735295003"
- },
  "greenhouse:fivetran:7742243003": {
   "company": "fivetran",
   "first_seen": "2026-11-07T23:23:19+00:00",
@@ -96069,16 +96209,6 @@
   "title": "Senior Product Design Manager",
   "url": "https://www.fivetran.com/careers/job?gh_jid=7808191003"
  },
- "greenhouse:fivetran:7809452003": {
-  "company": "fivetran",
-  "first_seen": "2026-08-27T06:41:14+00:00",
-  "job_id": "7809452003",
-  "location": "Bengaluru, Karnataka, India, APAC",
-  "posted_at": "2026-08-27T02:18:11-04:00",
-  "source": "greenhouse",
-  "title": "Senior Software Engineer",
-  "url": "https://www.fivetran.com/careers/job?gh_jid=7809452003"
- },
  "greenhouse:fivetran:7811889003": {
   "company": "fivetran",
   "first_seen": "2026-11-07T23:23:19+00:00",
@@ -96169,6 +96299,16 @@
   "title": "Staff Software Engineer - Developer Productivity",
   "url": "https://www.fivetran.com/careers/job?gh_jid=7818252003"
  },
+ "greenhouse:fivetran:7818286003": {
+  "company": "fivetran",
+  "first_seen": "2026-11-25T13:46:52+00:00",
+  "job_id": "7818286003",
+  "location": "Oakland, California, United States",
+  "posted_at": "2026-08-26T15:50:23-04:00",
+  "source": "greenhouse",
+  "title": "Senior Product Manager,  Adapters ",
+  "url": "https://www.fivetran.com/careers/job?gh_jid=7818286003"
+ },
  "greenhouse:fivetran:7818292003": {
   "company": "fivetran",
   "first_seen": "2026-09-22T22:41:47+00:00",
@@ -96228,16 +96368,6 @@
   "source": "greenhouse",
   "title": "Manager, Software Engineering",
   "url": "https://www.fivetran.com/careers/job?gh_jid=7818324003"
- },
- "greenhouse:fivetran:7818336003": {
-  "company": "fivetran",
-  "first_seen": "2026-08-27T06:41:14+00:00",
-  "job_id": "7818336003",
-  "location": "Oakland, California, United States, AMER",
-  "posted_at": "2026-08-27T01:57:59-04:00",
-  "source": "greenhouse",
-  "title": "Senior Strategic Finance Analyst",
-  "url": "https://www.fivetran.com/careers/job?gh_jid=7818336003"
  },
  "greenhouse:fivetran:7818344003": {
   "company": "fivetran",
@@ -98989,6 +99119,16 @@
   "title": "Account Executive, Commercial (Oakland)",
   "url": "https://www.fivetran.com/careers/job?gh_jid=8215275003"
  },
+ "greenhouse:fivetran:8216842003": {
+  "company": "fivetran",
+  "first_seen": "2026-11-25T13:46:52+00:00",
+  "job_id": "8216842003",
+  "location": "London, England, United Kingdom",
+  "posted_at": "2026-11-25T03:41:19-05:00",
+  "source": "greenhouse",
+  "title": "Business Development Rep, Enterprise, German Speaking",
+  "url": "https://www.fivetran.com/careers/job?gh_jid=8216842003"
+ },
  "greenhouse:galileo:8710976002": {
   "company": "galileo",
   "first_seen": "2026-11-13T19:09:27+00:00",
@@ -99898,6 +100038,16 @@
   "source": "greenhouse",
   "title": "Staff Fullstack Engineer (Ruby/Vue.js) Monetization Engineering: Purchase",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8739391002"
+ },
+ "greenhouse:gitlab:8742248002": {
+  "company": "gitlab",
+  "first_seen": "2026-11-25T13:46:45+00:00",
+  "job_id": "8742248002",
+  "location": "Remote, United States",
+  "posted_at": "2026-08-26T14:40:24-04:00",
+  "source": "greenhouse",
+  "title": "Senior Strategic Account Executive - California ",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8742248002"
  },
  "greenhouse:gitlab:8746461002": {
   "company": "gitlab",
@@ -103339,6 +103489,16 @@
   "title": "Principal Revenue Strategist",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8957104002"
  },
+ "greenhouse:gitlab:8959549002": {
+  "company": "gitlab",
+  "first_seen": "2026-11-25T13:46:45+00:00",
+  "job_id": "8959549002",
+  "location": "Remote, Australia",
+  "posted_at": "2026-11-25T00:15:42-05:00",
+  "source": "greenhouse",
+  "title": "Business Development Representative, Australia\t",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8959549002"
+ },
  "greenhouse:gleanwork:4006731005": {
   "company": "gleanwork",
   "first_seen": "2026-11-07T23:19:36+00:00",
@@ -104988,6 +105148,26 @@
   "source": "greenhouse",
   "title": "Strategic Solutions Engineer, West",
   "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4757440005"
+ },
+ "greenhouse:gleanwork:4757997005": {
+  "company": "gleanwork",
+  "first_seen": "2026-11-25T13:46:39+00:00",
+  "job_id": "4757997005",
+  "location": "Mountain View, CA",
+  "posted_at": "2026-11-25T01:50:19-05:00",
+  "source": "greenhouse",
+  "title": "Technical Program Manager, LLM Infrastructure",
+  "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4757997005"
+ },
+ "greenhouse:grafanalabs:5697434004": {
+  "company": "grafanalabs",
+  "first_seen": "2026-11-25T13:47:17+00:00",
+  "job_id": "5697434004",
+  "location": "Germany (Remote)",
+  "posted_at": "2025-11-04T04:34:19-05:00",
+  "source": "greenhouse",
+  "title": "Senior Solutions Engineer | Germany | Remote",
+  "url": "https://job-boards.greenhouse.io/grafanalabs/jobs/5697434004"
  },
  "greenhouse:grafanalabs:5765376004": {
   "company": "grafanalabs",
@@ -107859,6 +108039,16 @@
   "title": "Finance Content Creator",
   "url": "https://job-boards.eu.greenhouse.io/groww/jobs/5000706101"
  },
+ "greenhouse:groww:5042260101": {
+  "company": "groww",
+  "first_seen": "2026-11-25T13:46:46+00:00",
+  "job_id": "5042260101",
+  "location": "Bengaluru-VTP, India",
+  "posted_at": "2026-11-25T00:58:39-05:00",
+  "source": "greenhouse",
+  "title": "Senior Manager - Underwriter (Bonds)",
+  "url": "https://job-boards.eu.greenhouse.io/groww/jobs/5042260101"
+ },
  "greenhouse:highradius:5808173003": {
   "company": "highradius",
   "first_seen": "2026-11-07T23:23:43+00:00",
@@ -109138,26 +109328,6 @@
   "source": "greenhouse",
   "title": "Bilingual Customer Experience Specialist (Spanish)",
   "url": "https://instacart.careers/job/?gh_jid=8157774"
- },
- "greenhouse:instacart:8160738": {
-  "company": "instacart",
-  "first_seen": "2026-08-27T06:41:15+00:00",
-  "job_id": "8160738",
-  "location": "United States - Remote",
-  "posted_at": "2026-08-26T18:58:41-04:00",
-  "source": "greenhouse",
-  "title": "Senior Project & Program Manager ",
-  "url": "https://instacart.careers/job/?gh_jid=8160738"
- },
- "greenhouse:instacart:8160786": {
-  "company": "instacart",
-  "first_seen": "2026-08-27T06:41:15+00:00",
-  "job_id": "8160786",
-  "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-  "posted_at": "2026-08-26T18:58:45-04:00",
-  "source": "greenhouse",
-  "title": "Senior Project & Program Manager ",
-  "url": "https://instacart.careers/job/?gh_jid=8160786"
  },
  "greenhouse:instacart:8163246": {
   "company": "instacart",
@@ -115089,6 +115259,16 @@
   "title": "Enterprise Account Executive, Federal",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=7028355"
  },
+ "greenhouse:mongodb:7031396": {
+  "company": "mongodb",
+  "first_seen": "2026-11-25T13:46:44+00:00",
+  "job_id": "7031396",
+  "location": "Atlanta; Florida; North Carolina; South Carolina; Tennessee",
+  "posted_at": "2025-10-01T16:45:36-04:00",
+  "source": "greenhouse",
+  "title": "Enterprise Account Executive, Growth",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=7031396"
+ },
  "greenhouse:mongodb:7032023": {
   "company": "mongodb",
   "first_seen": "2026-11-07T23:20:33+00:00",
@@ -116118,6 +116298,16 @@
   "source": "greenhouse",
   "title": "Senior IT Specialist, Executive Technology",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8046751"
+ },
+ "greenhouse:mongodb:8051197": {
+  "company": "mongodb",
+  "first_seen": "2026-11-25T13:46:44+00:00",
+  "job_id": "8051197",
+  "location": "Dubai",
+  "posted_at": "2026-07-22T08:56:04-04:00",
+  "source": "greenhouse",
+  "title": "Enterprise Account Executive, Growth",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8051197"
  },
  "greenhouse:mongodb:8053142": {
   "company": "mongodb",
@@ -120459,6 +120649,16 @@
   "title": "Revenue Marketing Manager",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8395596"
  },
+ "greenhouse:mongodb:8395701": {
+  "company": "mongodb",
+  "first_seen": "2026-11-25T13:46:44+00:00",
+  "job_id": "8395701",
+  "location": "Dublin",
+  "posted_at": "2026-11-25T07:52:56-05:00",
+  "source": "greenhouse",
+  "title": "Senior Software Engineer",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8395701"
+ },
  "greenhouse:mongodb:8395822": {
   "company": "mongodb",
   "first_seen": "2026-11-19T22:51:23+00:00",
@@ -120609,6 +120809,16 @@
   "title": "Technical Recruiter, Contract",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8403216"
  },
+ "greenhouse:mongodb:8403226": {
+  "company": "mongodb",
+  "first_seen": "2026-11-25T13:46:44+00:00",
+  "job_id": "8403226",
+  "location": "Singapore",
+  "posted_at": "2026-11-24T22:53:35-05:00",
+  "source": "greenhouse",
+  "title": "Senior Legal Counsel",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8403226"
+ },
  "greenhouse:mongodb:8403312": {
   "company": "mongodb",
   "first_seen": "2026-11-23T19:43:07+00:00",
@@ -120698,6 +120908,16 @@
   "source": "greenhouse",
   "title": "Software Engineer 3",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8406857"
+ },
+ "greenhouse:mongodb:8411524": {
+  "company": "mongodb",
+  "first_seen": "2026-11-25T13:46:44+00:00",
+  "job_id": "8411524",
+  "location": "Gurugram",
+  "posted_at": "2026-11-25T06:10:13-05:00",
+  "source": "greenhouse",
+  "title": "Manager, GTM Operations",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8411524"
  },
  "greenhouse:mongodb:8412006": {
   "company": "mongodb",
@@ -123059,6 +123279,16 @@
   "title": "Senior Account Executive, Enterprise Sales(Acquisition)",
   "url": "https://job-boards.greenhouse.io/newrelic/jobs/5450576008"
  },
+ "greenhouse:newrelic:5450578008": {
+  "company": "newrelic",
+  "first_seen": "2026-11-25T13:46:54+00:00",
+  "job_id": "5450578008",
+  "location": "Melbourne, Australia; Sydney, Australia",
+  "posted_at": "2026-11-24T23:09:06-05:00",
+  "source": "greenhouse",
+  "title": "Director, Solutions Consulting",
+  "url": "https://job-boards.greenhouse.io/newrelic/jobs/5450578008"
+ },
  "greenhouse:newrelic:5450925008": {
   "company": "newrelic",
   "first_seen": "2026-10-21T16:31:11+00:00",
@@ -125229,6 +125459,16 @@
   "title": "Staff Product Designer, Login and MFA (Auth0)",
   "url": "https://www.okta.com/company/careers/opportunity/8137889?gh_jid=8137889"
  },
+ "greenhouse:okta:8137951": {
+  "company": "okta",
+  "first_seen": "2026-11-25T13:47:19+00:00",
+  "job_id": "8137951",
+  "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC",
+  "posted_at": "2026-08-26T15:34:02-04:00",
+  "source": "greenhouse",
+  "title": "Senior Product Manager - Policies",
+  "url": "https://www.okta.com/company/careers/opportunity/8137951?gh_jid=8137951"
+ },
  "greenhouse:okta:8138328": {
   "company": "okta",
   "first_seen": "2026-09-15T16:07:39+00:00",
@@ -125349,6 +125589,16 @@
   "title": "Staff Product Security Engineer, Reviews",
   "url": "https://www.okta.com/company/careers/opportunity/8156825?gh_jid=8156825"
  },
+ "greenhouse:okta:8157885": {
+  "company": "okta",
+  "first_seen": "2026-11-25T13:47:19+00:00",
+  "job_id": "8157885",
+  "location": "Bellevue, Washington; Chicago, Illinois; New York, New York; San Francisco, California; Toronto, Ontario, Canada; Washington, DC",
+  "posted_at": "2026-08-26T13:01:32-04:00",
+  "source": "greenhouse",
+  "title": "Director Product Manager - Okta Identity Threat Detection and Response Products",
+  "url": "https://www.okta.com/company/careers/opportunity/8157885?gh_jid=8157885"
+ },
  "greenhouse:okta:8158010": {
   "company": "okta",
   "first_seen": "2026-08-28T16:01:33+00:00",
@@ -125388,6 +125638,16 @@
   "source": "greenhouse",
   "title": "Staff Site Reliability Engineer - Kubernetes",
   "url": "https://www.okta.com/company/careers/opportunity/8160050?gh_jid=8160050"
+ },
+ "greenhouse:okta:8160475": {
+  "company": "okta",
+  "first_seen": "2026-11-25T13:47:19+00:00",
+  "job_id": "8160475",
+  "location": "New York, New York; Washington, DC",
+  "posted_at": "2026-08-26T16:15:02-04:00",
+  "source": "greenhouse",
+  "title": "Manager, Site Reliability Engineering (Auth0)",
+  "url": "https://www.okta.com/company/careers/opportunity/8160475?gh_jid=8160475"
  },
  "greenhouse:okta:8161278": {
   "company": "okta",
@@ -129879,6 +130139,16 @@
   "title": "Senior Manager, Order to Cash & Revenue - Finance Technology",
   "url": "https://www.okta.com/company/careers/opportunity/8407829?gh_jid=8407829"
  },
+ "greenhouse:okta:8411574": {
+  "company": "okta",
+  "first_seen": "2026-11-25T13:47:19+00:00",
+  "job_id": "8411574",
+  "location": "Bengaluru",
+  "posted_at": "2026-11-24T23:41:26-05:00",
+  "source": "greenhouse",
+  "title": "Architect, Finance Technology",
+  "url": "https://www.okta.com/company/careers/opportunity/8411574?gh_jid=8411574"
+ },
  "greenhouse:okta:8415766": {
   "company": "okta",
   "first_seen": "2026-11-25T03:18:02+00:00",
@@ -131479,16 +131749,6 @@
   "title": "Staff Product Manager, Ads Measurement",
   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8109770"
  },
- "greenhouse:pinterest:8114104": {
-  "company": "pinterest",
-  "first_seen": "2026-08-27T06:41:18+00:00",
-  "job_id": "8114104",
-  "location": "Seattle, WA, US",
-  "posted_at": "2026-08-26T22:48:05-04:00",
-  "source": "greenhouse",
-  "title": "Sr. Client Account Manager, Fashion Retail",
-  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8114104"
- },
  "greenhouse:pinterest:8114760": {
   "company": "pinterest",
   "first_seen": "2026-09-01T19:12:12+00:00",
@@ -131888,16 +132148,6 @@
   "source": "greenhouse",
   "title": "Head of Business Marketing, Australia",
   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8154435"
- },
- "greenhouse:pinterest:8157108": {
-  "company": "pinterest",
-  "first_seen": "2026-08-27T06:41:18+00:00",
-  "job_id": "8157108",
-  "location": "Palo Alto, CA, US; San Francisco, CA, US",
-  "posted_at": "2026-08-26T18:55:39-04:00",
-  "source": "greenhouse",
-  "title": "Sr. Director, Security Engineering",
-  "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8157108"
  },
  "greenhouse:pinterest:8157351": {
   "company": "pinterest",
@@ -134098,6 +134348,16 @@
   "source": "greenhouse",
   "title": "Senior Project Manager - Software Implementation",
   "url": "https://job-boards.greenhouse.io/project44/jobs/8239444"
+ },
+ "greenhouse:project44:8255555": {
+  "company": "project44",
+  "first_seen": "2026-11-25T13:47:20+00:00",
+  "job_id": "8255555",
+  "location": "Bengaluru, India",
+  "posted_at": "2026-11-25T06:10:46-05:00",
+  "source": "greenhouse",
+  "title": "Project Manager- Carrier Onboarding",
+  "url": "https://job-boards.greenhouse.io/project44/jobs/8255555"
  },
  "greenhouse:project44:8264304": {
   "company": "project44",
@@ -137079,6 +137339,26 @@
   "title": "Senior Project Manager - Professional Services",
   "url": "https://www.rubrik.com/company/careers/departments/job.8140556?gh_jid=8140556"
  },
+ "greenhouse:rubrik:8140589": {
+  "company": "rubrik",
+  "first_seen": "2026-11-25T13:46:45+00:00",
+  "job_id": "8140589",
+  "location": "USA , Remote ",
+  "posted_at": "2026-08-26T14:21:36-04:00",
+  "source": "greenhouse",
+  "title": "Services Engineering Leader, Professional Services",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8140589?gh_jid=8140589"
+ },
+ "greenhouse:rubrik:8140591": {
+  "company": "rubrik",
+  "first_seen": "2026-11-25T13:46:45+00:00",
+  "job_id": "8140591",
+  "location": "USA , Remote ",
+  "posted_at": "2026-08-26T14:35:48-04:00",
+  "source": "greenhouse",
+  "title": "Global Resource Management Leader, Professional Services",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8140591?gh_jid=8140591"
+ },
  "greenhouse:rubrik:8140593": {
   "company": "rubrik",
   "first_seen": "2026-09-03T19:03:17+00:00",
@@ -137228,16 +137508,6 @@
   "source": "greenhouse",
   "title": "Senior Software Engineer - SaaS Data Protection",
   "url": "https://www.rubrik.com/company/careers/departments/job.8157246?gh_jid=8157246"
- },
- "greenhouse:rubrik:8158611": {
-  "company": "rubrik",
-  "first_seen": "2026-08-27T06:38:23+00:00",
-  "job_id": "8158611",
-  "location": "Australia",
-  "posted_at": "2026-08-27T01:59:38-04:00",
-  "source": "greenhouse",
-  "title": "Global Solutions Architect",
-  "url": "https://www.rubrik.com/company/careers/departments/job.8158611?gh_jid=8158611"
  },
  "greenhouse:rubrik:8158839": {
   "company": "rubrik",
@@ -137839,6 +138109,16 @@
   "title": "Senior Analyst, Global Alliances GTM Operation",
   "url": "https://www.rubrik.com/company/careers/departments/job.8229860?gh_jid=8229860"
  },
+ "greenhouse:rubrik:8230688": {
+  "company": "rubrik",
+  "first_seen": "2026-11-25T13:46:45+00:00",
+  "job_id": "8230688",
+  "location": "Sweden",
+  "posted_at": "2026-11-25T08:31:03-05:00",
+  "source": "greenhouse",
+  "title": "Account Executive, Sweden ",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8230688?gh_jid=8230688"
+ },
  "greenhouse:rubrik:8230692": {
   "company": "rubrik",
   "first_seen": "2026-11-12T16:31:54+00:00",
@@ -138249,6 +138529,16 @@
   "title": "Senior Applied AI Engineer",
   "url": "https://www.rubrik.com/company/careers/departments/job.8273717?gh_jid=8273717"
  },
+ "greenhouse:rubrik:8273724": {
+  "company": "rubrik",
+  "first_seen": "2026-11-25T13:46:45+00:00",
+  "job_id": "8273724",
+  "location": "Bangalore",
+  "posted_at": "2026-10-21T08:35:37-04:00",
+  "source": "greenhouse",
+  "title": "Senior AI Engineer - Enterprise Agentic Systems",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8273724?gh_jid=8273724"
+ },
  "greenhouse:rubrik:8273808": {
   "company": "rubrik",
   "first_seen": "2026-10-21T16:27:44+00:00",
@@ -138578,6 +138868,16 @@
   "source": "greenhouse",
   "title": "Sr AI Engineer, Agentic Systems",
   "url": "https://www.rubrik.com/company/careers/departments/job.8318044?gh_jid=8318044"
+ },
+ "greenhouse:rubrik:8318071": {
+  "company": "rubrik",
+  "first_seen": "2026-11-25T13:46:45+00:00",
+  "job_id": "8318071",
+  "location": "Bengaluru, India",
+  "posted_at": "2026-11-25T01:37:05-05:00",
+  "source": "greenhouse",
+  "title": "Senior AI Engineer - Enterprise Agentic Systems",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8318071?gh_jid=8318071"
  },
  "greenhouse:rubrik:8324126": {
   "company": "rubrik",
@@ -139429,6 +139729,16 @@
   "title": "AE Sales Specialist (Identity)",
   "url": "https://www.rubrik.com/company/careers/departments/job.8393244?gh_jid=8393244"
  },
+ "greenhouse:rubrik:8393326": {
+  "company": "rubrik",
+  "first_seen": "2026-11-25T13:46:45+00:00",
+  "job_id": "8393326",
+  "location": "Sweden",
+  "posted_at": "2026-11-25T08:31:25-05:00",
+  "source": "greenhouse",
+  "title": "Account Executive, Sweden ",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8393326?gh_jid=8393326"
+ },
  "greenhouse:rubrik:8393528": {
   "company": "rubrik",
   "first_seen": "2026-11-17T23:16:30+00:00",
@@ -139708,6 +140018,16 @@
   "source": "greenhouse",
   "title": "Senior Manager, Revenue Accounting",
   "url": "https://www.samsara.com/company/careers/roles/7266397?gh_jid=7266397"
+ },
+ "greenhouse:samsara:7266569": {
+  "company": "samsara",
+  "first_seen": "2026-11-25T13:46:56+00:00",
+  "job_id": "7266569",
+  "location": "Bengaluru - BLR1",
+  "posted_at": "2025-10-28T12:28:14-04:00",
+  "source": "greenhouse",
+  "title": "Senior Software Engineer II ",
+  "url": "https://www.samsara.com/company/careers/roles/7266569?gh_jid=7266569"
  },
  "greenhouse:samsara:7311741": {
   "company": "samsara",
@@ -140808,16 +141128,6 @@
   "source": "greenhouse",
   "title": "Enterprise Customer Success Manager",
   "url": "https://www.samsara.com/company/careers/roles/8141688?gh_jid=8141688"
- },
- "greenhouse:samsara:8141744": {
-  "company": "samsara",
-  "first_seen": "2026-08-27T06:41:19+00:00",
-  "job_id": "8141744",
-  "location": "Remote - DC",
-  "posted_at": "2026-08-26T19:28:56-04:00",
-  "source": "greenhouse",
-  "title": "Senior Public Policy and Government Affairs Manager",
-  "url": "https://www.samsara.com/company/careers/roles/8141744?gh_jid=8141744"
  },
  "greenhouse:samsara:8141959": {
   "company": "samsara",
@@ -144569,6 +144879,16 @@
   "title": " Mid-Market Account Executive - Western Canada",
   "url": "https://www.samsara.com/company/careers/roles/8414804?gh_jid=8414804"
  },
+ "greenhouse:samsara:8415151": {
+  "company": "samsara",
+  "first_seen": "2026-11-25T13:46:56+00:00",
+  "job_id": "8415151",
+  "location": "Remote - UK",
+  "posted_at": "2026-11-25T05:41:43-05:00",
+  "source": "greenhouse",
+  "title": "Manager, Account Management",
+  "url": "https://www.samsara.com/company/careers/roles/8415151?gh_jid=8415151"
+ },
  "greenhouse:scaleai:4282118005": {
   "company": "scaleai",
   "first_seen": "2026-11-07T23:23:24+00:00",
@@ -144618,6 +144938,16 @@
   "source": "greenhouse",
   "title": "Software Engineer, Enterprise AI",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4513943005"
+ },
+ "greenhouse:scaleai:4528009005": {
+  "company": "scaleai",
+  "first_seen": "2026-11-25T13:46:57+00:00",
+  "job_id": "4528009005",
+  "location": "San Francisco, CA; Seattle, WA; New York, NY",
+  "posted_at": "2025-02-11T00:40:13-05:00",
+  "source": "greenhouse",
+  "title": "Machine Learning Research Scientist, Post-Training",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4528009005"
  },
  "greenhouse:scaleai:4534631005": {
   "company": "scaleai",
@@ -145648,6 +145978,16 @@
   "source": "greenhouse",
   "title": "Subcontracts Manager, Public Sector",
   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4727162005"
+ },
+ "greenhouse:scaleai:4728014005": {
+  "company": "scaleai",
+  "first_seen": "2026-11-25T13:46:57+00:00",
+  "job_id": "4728014005",
+  "location": "San Francisco, CA; Seattle, WA; New York, NY",
+  "posted_at": "2026-08-26T14:51:42-04:00",
+  "source": "greenhouse",
+  "title": "Machine Learning Research Scientist, Evaluations",
+  "url": "https://job-boards.greenhouse.io/scaleai/jobs/4728014005"
  },
  "greenhouse:scaleai:4728956005": {
   "company": "scaleai",
@@ -148369,6 +148709,16 @@
   "title": "Backend Software Engineer II Backend - Cloud SIEM, CyberSecurity",
   "url": "https://job-boards.greenhouse.io/sumologic/jobs/8415651"
  },
+ "greenhouse:sumologic:8416329": {
+  "company": "sumologic",
+  "first_seen": "2026-11-25T13:46:58+00:00",
+  "job_id": "8416329",
+  "location": "Noida , Uttar Pradesh , India",
+  "posted_at": "2026-11-25T02:12:54-05:00",
+  "source": "greenhouse",
+  "title": "Manager, Engineering",
+  "url": "https://job-boards.greenhouse.io/sumologic/jobs/8416329"
+ },
  "greenhouse:tide:6040880003": {
   "company": "tide",
   "first_seen": "2026-11-08T23:22:36+00:00",
@@ -149728,6 +150078,16 @@
   "source": "greenhouse",
   "title": "Senior Operations Responder",
   "url": "https://job-boards.greenhouse.io/tide/jobs/8204666003"
+ },
+ "greenhouse:tide:8204668003": {
+  "company": "tide",
+  "first_seen": "2026-11-25T13:46:40+00:00",
+  "job_id": "8204668003",
+  "location": "Bulgaria",
+  "posted_at": "2026-11-25T03:04:19-05:00",
+  "source": "greenhouse",
+  "title": "Partnerships Manager",
+  "url": "https://job-boards.greenhouse.io/tide/jobs/8204668003"
  },
  "greenhouse:tide:8206812003": {
   "company": "tide",
@@ -155669,16 +156029,6 @@
   "title": "Senior Director, CEO Communications",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5196203007"
  },
- "greenhouse:zscaler:5196205007": {
-  "company": "zscaler",
-  "first_seen": "2026-08-27T06:41:48+00:00",
-  "job_id": "5196205007",
-  "location": "Singapore, SGP",
-  "posted_at": "2026-08-26T20:16:48-04:00",
-  "source": "greenhouse",
-  "title": "Senior Specialist Sales Engineer - ZT Cloud - ASEAN",
-  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5196205007"
- },
  "greenhouse:zscaler:5196229007": {
   "company": "zscaler",
   "first_seen": "2026-11-11T15:51:35+00:00",
@@ -155728,16 +156078,6 @@
   "source": "greenhouse",
   "title": "Account Executive, Majors",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5197821007"
- },
- "greenhouse:zscaler:5198846007": {
-  "company": "zscaler",
-  "first_seen": "2026-08-27T06:41:48+00:00",
-  "job_id": "5198846007",
-  "location": "USA - Update Location",
-  "posted_at": "2026-08-26T19:02:41-04:00",
-  "source": "greenhouse",
-  "title": "Manager, Payroll",
-  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5198846007"
  },
  "greenhouse:zscaler:5198848007": {
   "company": "zscaler",
@@ -156379,16 +156719,6 @@
   "title": "Specialist Account Executive, SecOps",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216237007"
  },
- "greenhouse:zscaler:5216242007": {
-  "company": "zscaler",
-  "first_seen": "2026-08-27T06:41:48+00:00",
-  "job_id": "5216242007",
-  "location": "Melbourne, AUS; Sydney, AUS",
-  "posted_at": "2026-08-26T22:00:43-04:00",
-  "source": "greenhouse",
-  "title": "Senior Specialist Sales Engineer - ZT Cloud",
-  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5216242007"
- },
  "greenhouse:zscaler:5216531007": {
   "company": "zscaler",
   "first_seen": "2026-10-22T16:32:00+00:00",
@@ -156529,16 +156859,6 @@
   "title": "Detection Analyst",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5219486007"
  },
- "greenhouse:zscaler:5219488007": {
-  "company": "zscaler",
-  "first_seen": "2026-08-27T06:41:48+00:00",
-  "job_id": "5219488007",
-  "location": "Bangalore, IND",
-  "posted_at": "2026-08-27T00:39:38-04:00",
-  "source": "greenhouse",
-  "title": "Software Development Engineer",
-  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5219488007"
- },
  "greenhouse:zscaler:5219737007": {
   "company": "zscaler",
   "first_seen": "2026-09-15T09:12:22+00:00",
@@ -156558,16 +156878,6 @@
   "source": "greenhouse",
   "title": "Principal Backend Engineer (Analytics)",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5220291007"
- },
- "greenhouse:zscaler:5220295007": {
-  "company": "zscaler",
-  "first_seen": "2026-08-27T06:41:48+00:00",
-  "job_id": "5220295007",
-  "location": "Remote - California, USA",
-  "posted_at": "2026-08-26T19:12:04-04:00",
-  "source": "greenhouse",
-  "title": "Commercial Sales Engineer - California",
-  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5220295007"
  },
  "greenhouse:zscaler:5220301007": {
   "company": "zscaler",
@@ -159989,6 +160299,36 @@
   "title": "Manager, Site Reliability Engineer (Production Engineering)",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5271547007"
  },
+ "greenhouse:zscaler:5271549007": {
+  "company": "zscaler",
+  "first_seen": "2026-11-25T13:47:21+00:00",
+  "job_id": "5271549007",
+  "location": "Bangalore, IND",
+  "posted_at": "2026-11-25T05:52:49-05:00",
+  "source": "greenhouse",
+  "title": "Sr Production Engineer (SRE / Dev-Python)",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5271549007"
+ },
+ "greenhouse:zscaler:5271551007": {
+  "company": "zscaler",
+  "first_seen": "2026-11-25T13:47:21+00:00",
+  "job_id": "5271551007",
+  "location": "Bangalore, IND",
+  "posted_at": "2026-11-25T06:01:32-05:00",
+  "source": "greenhouse",
+  "title": "Staff Production Engineer (SRE / Dev-Python)",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5271551007"
+ },
+ "greenhouse:zscaler:5271559007": {
+  "company": "zscaler",
+  "first_seen": "2026-11-25T13:47:21+00:00",
+  "job_id": "5271559007",
+  "location": "Bangalore, IND",
+  "posted_at": "2026-11-25T05:47:54-05:00",
+  "source": "greenhouse",
+  "title": "Production Engineer (SRE/Dev - Python)",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5271559007"
+ },
  "greenhouse:zscaler:5271566007": {
   "company": "zscaler",
   "first_seen": "2026-11-05T21:54:58+00:00",
@@ -161399,6 +161739,16 @@
   "title": "Account Executive - Commercial",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5306738007"
  },
+ "greenhouse:zscaler:5307242007": {
+  "company": "zscaler",
+  "first_seen": "2026-11-25T13:47:21+00:00",
+  "job_id": "5307242007",
+  "location": "Mohali, IND",
+  "posted_at": "2026-11-25T01:37:16-05:00",
+  "source": "greenhouse",
+  "title": "Senior Project Manager- AMS",
+  "url": "https://job-boards.greenhouse.io/zscaler/jobs/5307242007"
+ },
  "greenhouse:zscaler:5307787007": {
   "company": "zscaler",
   "first_seen": "2026-11-24T19:16:09+00:00",
@@ -161408,6 +161758,16 @@
   "source": "greenhouse",
   "title": "Senior Product Support Engineer",
   "url": "https://job-boards.greenhouse.io/zscaler/jobs/5307787007"
+ },
+ "lever:hevodata:21fbe701-e71b-4f45-b865-a497a62a6482": {
+  "company": "hevodata",
+  "first_seen": "2026-11-25T13:47:06+00:00",
+  "job_id": "21fbe701-e71b-4f45-b865-a497a62a6482",
+  "location": "Pune, Maharashtra",
+  "posted_at": "2026-11-25T12:36:59Z",
+  "source": "lever",
+  "title": "Associate SDE- Pune",
+  "url": "https://jobs.lever.co/hevodata/21fbe701-e71b-4f45-b865-a497a62a6482"
  },
  "lever:hevodata:229a9ab2-2369-4c89-afd8-09cd5bfc2c20": {
   "company": "hevodata",
@@ -163829,16 +164189,6 @@
   "title": "Software Engineer II",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012791"
  },
- "oraclecloud:amex:26012795": {
-  "company": "amex",
-  "first_seen": "2026-08-27T06:41:37+00:00",
-  "job_id": "26012795",
-  "location": "New York, NY, United States",
-  "posted_at": "2026-08-27",
-  "source": "oraclecloud",
-  "title": "Director-Software Engineering",
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012795"
- },
  "oraclecloud:amex:26012796": {
   "company": "amex",
   "first_seen": "2026-09-02T02:25:20+00:00",
@@ -163878,16 +164228,6 @@
   "source": "oraclecloud",
   "title": "Senior Analyst - Paid Search Marketing",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012807"
- },
- "oraclecloud:amex:26012823": {
-  "company": "amex",
-  "first_seen": "2026-08-27T06:41:37+00:00",
-  "job_id": "26012823",
-  "location": "Gurugram, HR, India",
-  "posted_at": "2026-08-27",
-  "source": "oraclecloud",
-  "title": "Manager-Digital Product Management",
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012823"
  },
  "oraclecloud:amex:26012827": {
   "company": "amex",
@@ -164498,16 +164838,6 @@
   "source": "oraclecloud",
   "title": "Sr. Analyst, Customer Growth Marketing - Retention",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013044"
- },
- "oraclecloud:amex:26013055": {
-  "company": "amex",
-  "first_seen": "2026-08-27T06:41:37+00:00",
-  "job_id": "26013055",
-  "location": "CDMX, Mexico",
-  "posted_at": "2026-08-27",
-  "source": "oraclecloud",
-  "title": "Executive Sales Aeropuerto CDMX",
-  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013055"
  },
  "oraclecloud:amex:26013058": {
   "company": "amex",
@@ -173309,6 +173639,16 @@
   "title": "Sr Infrastructure Engineer I",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014931"
  },
+ "oraclecloud:amex:26014932": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26014932",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Business Analyst",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014932"
+ },
  "oraclecloud:amex:26014933": {
   "company": "amex",
   "first_seen": "2026-10-15T22:55:17+00:00",
@@ -179359,6 +179699,16 @@
   "title": "Financial Analyst",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016241"
  },
+ "oraclecloud:amex:26016242": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26016242",
+  "location": "Bengaluru, KA, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Analyst - Data Governance & Mgmt",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016242"
+ },
  "oraclecloud:amex:26016246": {
   "company": "amex",
   "first_seen": "2026-11-13T19:09:24+00:00",
@@ -179788,6 +180138,16 @@
   "source": "oraclecloud",
   "title": "Manager, Audit - Third-Party",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016332"
+ },
+ "oraclecloud:amex:26016335": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26016335",
+  "location": "Bengaluru, KA, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Senior Associate-Tech Ops Engineering",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016335"
  },
  "oraclecloud:amex:26016344": {
   "company": "amex",
@@ -180769,6 +181129,16 @@
   "title": "Manager-Financial Systems (FDI, OAC, OTBI)",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016601"
  },
+ "oraclecloud:amex:26016604": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26016604",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Analyst-Risk Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016604"
+ },
  "oraclecloud:amex:26016605": {
   "company": "amex",
   "first_seen": "2026-11-18T16:52:55+00:00",
@@ -181209,6 +181579,16 @@
   "title": "Manager - ICS Paid Channels",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016732"
  },
+ "oraclecloud:amex:26016736": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26016736",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "TM Credit & Collect-T2-II",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016736"
+ },
  "oraclecloud:amex:26016737": {
   "company": "amex",
   "first_seen": "2026-11-25T03:17:56+00:00",
@@ -181218,6 +181598,16 @@
   "source": "oraclecloud",
   "title": "Inbound Credit Collections Specialist",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016737"
+ },
+ "oraclecloud:amex:26016743": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26016743",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Senior Associate -Tech Ops Engineering",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016743"
  },
  "oraclecloud:amex:26016744": {
   "company": "amex",
@@ -181269,6 +181659,16 @@
   "title": "Financial Analyst",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016755"
  },
+ "oraclecloud:amex:26016756": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26016756",
+  "location": "Rueil-Malmaison, Ile-de-France, France",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Manager-Digital Product Solution Design H/F",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016756"
+ },
  "oraclecloud:amex:26016758": {
   "company": "amex",
   "first_seen": "2026-11-19T12:23:52+00:00",
@@ -181308,6 +181708,16 @@
   "source": "oraclecloud",
   "title": "Apprentice",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016762"
+ },
+ "oraclecloud:amex:26016766": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26016766",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Analyst-Control Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016766"
  },
  "oraclecloud:amex:26016767": {
   "company": "amex",
@@ -181509,6 +181919,16 @@
   "title": "Senior Lead Analyst",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016832"
  },
+ "oraclecloud:amex:26016833": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26016833",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Apprentice",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016833"
+ },
  "oraclecloud:amex:26016834": {
   "company": "amex",
   "first_seen": "2026-11-19T12:23:52+00:00",
@@ -181629,6 +182049,16 @@
   "title": "Manager - IT Audit, Data Governance",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016880"
  },
+ "oraclecloud:amex:26016883": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26016883",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Manager \u2013 Compliance, Privacy Risk (USCS)",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016883"
+ },
  "oraclecloud:amex:26016885": {
   "company": "amex",
   "first_seen": "2026-11-19T22:51:54+00:00",
@@ -181719,6 +182149,16 @@
   "title": "Analyst-Control Managment",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016911"
  },
+ "oraclecloud:amex:26016912": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26016912",
+  "location": "Bengaluru, KA, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Manager-Digital Product Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016912"
+ },
  "oraclecloud:amex:26016919": {
   "company": "amex",
   "first_seen": "2026-11-19T01:36:47+00:00",
@@ -181738,6 +182178,16 @@
   "source": "oraclecloud",
   "title": "Vice President & Senior Counsel, Chief Remediation Counsel \u2013 Global Financial Crimes",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016931"
+ },
+ "oraclecloud:amex:26016932": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26016932",
+  "location": "Bengaluru, KA, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Associate-Tech Ops Engineering",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016932"
  },
  "oraclecloud:amex:26016935": {
   "company": "amex",
@@ -181819,6 +182269,36 @@
   "title": "Financial Analyst",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016978"
  },
+ "oraclecloud:amex:26016979": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26016979",
+  "location": "Bengaluru, KA, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Analyst Data Governance & Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016979"
+ },
+ "oraclecloud:amex:26016981": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26016981",
+  "location": "Bengaluru, KA, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Analyst Data Governance & Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016981"
+ },
+ "oraclecloud:amex:26016985": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26016985",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Senior Analyst-Control Management",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016985"
+ },
  "oraclecloud:amex:26016986": {
   "company": "amex",
   "first_seen": "2026-11-23T19:43:37+00:00",
@@ -181848,6 +182328,16 @@
   "source": "oraclecloud",
   "title": "Customer Service & New Accounts Specialist \u2013 French Speaker & English and/or Spanish Desirable",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016998"
+ },
+ "oraclecloud:amex:26017002": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26017002",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Senior Analyst-Data Analytics",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26017002"
  },
  "oraclecloud:amex:26017004": {
   "company": "amex",
@@ -181919,6 +182409,16 @@
   "title": "Audit & Exam Manager",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26017041"
  },
+ "oraclecloud:amex:26017045": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26017045",
+  "location": "Bengaluru, KA, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Infrastructure Engineer II",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26017045"
+ },
  "oraclecloud:amex:26017048": {
   "company": "amex",
   "first_seen": "2026-11-21T01:01:02+00:00",
@@ -181958,6 +182458,16 @@
   "source": "oraclecloud",
   "title": "Senior Analyst-Control Management",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26017069"
+ },
+ "oraclecloud:amex:26017091": {
+  "company": "amex",
+  "first_seen": "2026-11-25T13:47:13+00:00",
+  "job_id": "26017091",
+  "location": "Gurugram, HR, India",
+  "posted_at": "2026-11-25",
+  "source": "oraclecloud",
+  "title": "Apprentice",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26017091"
  },
  "oraclecloud:amex:26017129": {
   "company": "amex",
@@ -182408,6 +182918,16 @@
   "source": "ripplingats",
   "title": "Director, Account Management (SMB Channel)",
   "url": "https://ats.rippling.com/rippling/jobs/141d079d-f09c-4088-b577-0f137d21de89"
+ },
+ "ripplingats:rippling:1539ad3c-98d8-4397-9795-82ec750a670f": {
+  "company": "rippling",
+  "first_seen": "2026-11-25T13:47:27+00:00",
+  "job_id": "1539ad3c-98d8-4397-9795-82ec750a670f",
+  "location": "Sydney, Australia",
+  "posted_at": null,
+  "source": "ripplingats",
+  "title": "Payroll Implementation Specialist (Time Interpretation) ",
+  "url": "https://ats.rippling.com/rippling/jobs/1539ad3c-98d8-4397-9795-82ec750a670f"
  },
  "ripplingats:rippling:1584be38-83a9-41a8-94e8-f733332ace4e": {
   "company": "rippling",
@@ -183599,16 +184119,6 @@
   "title": "Manager, Implementation (Benefits)",
   "url": "https://ats.rippling.com/rippling/jobs/4bc32e30-67e0-42cf-bb75-ca5539b2c1a0"
  },
- "ripplingats:rippling:4cec1e47-7d94-4485-b329-e7d93b881664": {
-  "company": "rippling",
-  "first_seen": "2026-08-27T06:41:55+00:00",
-  "job_id": "4cec1e47-7d94-4485-b329-e7d93b881664",
-  "location": "San Francisco, CA",
-  "posted_at": null,
-  "source": "ripplingats",
-  "title": "Senior Manager, Implementation (Global EOR)",
-  "url": "https://ats.rippling.com/rippling/jobs/4cec1e47-7d94-4485-b329-e7d93b881664"
- },
  "ripplingats:rippling:4d8cc8e5-f186-4cb9-a356-6b90022cbeb4": {
   "company": "rippling",
   "first_seen": "2026-11-24T19:16:15+00:00",
@@ -183618,16 +184128,6 @@
   "source": "ripplingats",
   "title": "Staff Software Engineer",
   "url": "https://ats.rippling.com/rippling/jobs/4d8cc8e5-f186-4cb9-a356-6b90022cbeb4"
- },
- "ripplingats:rippling:4dbf437e-3578-438e-97a8-cfa80df73584": {
-  "company": "rippling",
-  "first_seen": "2026-08-27T06:41:55+00:00",
-  "job_id": "4dbf437e-3578-438e-97a8-cfa80df73584",
-  "location": "Remote (United States)",
-  "posted_at": null,
-  "source": "ripplingats",
-  "title": "Implementation Manager, PEO/HRS",
-  "url": "https://ats.rippling.com/rippling/jobs/4dbf437e-3578-438e-97a8-cfa80df73584"
  },
  "ripplingats:rippling:4e3f327a-0b4b-4157-9048-efee5cbc0dba": {
   "company": "rippling",
@@ -184888,6 +185388,16 @@
   "source": "ripplingats",
   "title": "Global Payroll Operations Specialist - France",
   "url": "https://ats.rippling.com/rippling/jobs/7c7dda17-dff0-47c2-8957-f6b04bb68acc"
+ },
+ "ripplingats:rippling:7c7eed37-dc37-46e1-9ee4-93d5e4231dd0": {
+  "company": "rippling",
+  "first_seen": "2026-11-25T13:47:27+00:00",
+  "job_id": "7c7eed37-dc37-46e1-9ee4-93d5e4231dd0",
+  "location": "korea",
+  "posted_at": null,
+  "source": "ripplingats",
+  "title": "Global Payroll Operations Specialist (Korea)",
+  "url": "https://ats.rippling.com/rippling/jobs/7c7eed37-dc37-46e1-9ee4-93d5e4231dd0"
  },
  "ripplingats:rippling:7d014f16-c7e1-44aa-8c94-7b8dccb21668": {
   "company": "rippling",
@@ -187089,6 +187599,16 @@
   "title": "Account Executive - SMB - Global",
   "url": "https://ats.rippling.com/rippling/jobs/cb23f415-2e60-438f-a125-2fb36effb2da"
  },
+ "ripplingats:rippling:cb914f4c-f0cc-4f28-b529-91ba06b9ce7c": {
+  "company": "rippling",
+  "first_seen": "2026-11-25T13:47:27+00:00",
+  "job_id": "cb914f4c-f0cc-4f28-b529-91ba06b9ce7c",
+  "location": "Japan",
+  "posted_at": null,
+  "source": "ripplingats",
+  "title": "Global Payroll Operations Specialist (Japan)",
+  "url": "https://ats.rippling.com/rippling/jobs/cb914f4c-f0cc-4f28-b529-91ba06b9ce7c"
+ },
  "ripplingats:rippling:cbab30d6-2bbc-4be4-85d7-75d72c2fc64a": {
   "company": "rippling",
   "first_seen": "2026-09-10T02:37:44+00:00",
@@ -188109,6 +188629,16 @@
   "title": "Engineering Manager, Procurement",
   "url": "https://ats.rippling.com/rippling/jobs/fbbea486-2e97-43b6-ad8a-64defe529fab"
  },
+ "ripplingats:rippling:fcb44ddf-b5d5-485f-ac4b-edd3a8c8af9f": {
+  "company": "rippling",
+  "first_seen": "2026-11-25T13:47:27+00:00",
+  "job_id": "fcb44ddf-b5d5-485f-ac4b-edd3a8c8af9f",
+  "location": "Bangalore, India",
+  "posted_at": null,
+  "source": "ripplingats",
+  "title": "Benefits Operations Analyst, 401K Integration.",
+  "url": "https://ats.rippling.com/rippling/jobs/fcb44ddf-b5d5-485f-ac4b-edd3a8c8af9f"
+ },
  "ripplingats:rippling:fdad0c89-46f3-4fe2-8744-5b754d4b8f37": {
   "company": "rippling",
   "first_seen": "2026-10-29T17:59:05+00:00",
@@ -188998,16 +189528,6 @@
   "source": "workday",
   "title": "Computer Scientist-I (Python)",
   "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Noida/Computer-Scientist-I--Python-_R173660"
- },
- "workday:adobe:/job/Noida/Computer-Scientist_R171305": {
-  "company": "adobe",
-  "first_seen": "2026-08-27T06:37:43+00:00",
-  "job_id": "/job/Noida/Computer-Scientist_R171305",
-  "location": "Noida",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Computer Scientist",
-  "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Noida/Computer-Scientist_R171305"
  },
  "workday:adobe:/job/Noida/Computer-Scientist_R171427": {
   "company": "adobe",
@@ -190838,16 +191358,6 @@
   "source": "workday",
   "title": "Business Architect",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Business-Architect_2029900"
- },
- "workday:cisco:/job/Bangalore-India/Business-Development-Manager_2020776-1": {
-  "company": "cisco",
-  "first_seen": "2026-08-27T06:36:50+00:00",
-  "job_id": "/job/Bangalore-India/Business-Development-Manager_2020776-1",
-  "location": "2 Locations",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Business Development Manager",
-  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Business-Development-Manager_2020776-1"
  },
  "workday:cisco:/job/Bangalore-India/Business-Operations-Analyst_2025625": {
   "company": "cisco",
@@ -200729,16 +201239,6 @@
   "title": "Risk Modeling Solutions - Full-stack GenAI - Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Bangalore-Karnataka-India/Risk-Modeling-Solutions---Full-stack-GenAI---Assistant-Vice-President_26985465"
  },
- "workday:citi:/job/Bangalore-Karnataka-India/Senior-Business-Analytics---Assistant-Vice-President_26989832": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Bangalore-Karnataka-India/Senior-Business-Analytics---Assistant-Vice-President_26989832",
-  "location": "Bangalore Karnataka India",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Senior Business Analytics - Assistant Vice President",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Bangalore-Karnataka-India/Senior-Business-Analytics---Assistant-Vice-President_26989832"
- },
  "workday:citi:/job/Bangalore-Karnataka-India/Senior-Cards-Data-Analyst---Pyspark-SAS-and-Tableau_26989558": {
   "company": "citi",
   "first_seen": "2026-09-07T17:04:06+00:00",
@@ -205848,16 +206348,6 @@
   "source": "workday",
   "title": "Application Development Group Manager - Senior Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chennai-Tamil-Nadu-India/Application-Development-Group-Manager---Senior-Vice-President_26997144-1"
- },
- "workday:citi:/job/Chennai-Tamil-Nadu-India/Application-Development-Senior-Manager-Banking-Operations---Senior-Vice-President_26988644": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Chennai-Tamil-Nadu-India/Application-Development-Senior-Manager-Banking-Operations---Senior-Vice-President_26988644",
-  "location": "Chennai Tamil Nadu India",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Application Development Senior Manager Banking Operations - Senior Vice President",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Chennai-Tamil-Nadu-India/Application-Development-Senior-Manager-Banking-Operations---Senior-Vice-President_26988644"
  },
  "workday:citi:/job/Chennai-Tamil-Nadu-India/Application-Support-Technical-Lead--Vice-President_261003632": {
   "company": "citi",
@@ -217529,16 +218019,6 @@
   "title": "Branch Manager Fremont / Newark CA, Assistant Vice President",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Fremont-California-United-States/Branch-Manager-Safe-Act-Fremont--Contra-Costa-CA--Assistant-Vice-President_26982497"
  },
- "workday:citi:/job/Fremont-California-United-States/Part-Time-Teller--20-Hours---Bilingual-Mandarin-Speaking-Preferred---Fremont-Warm-Springs-Branch_26989746": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Fremont-California-United-States/Part-Time-Teller--20-Hours---Bilingual-Mandarin-Speaking-Preferred---Fremont-Warm-Springs-Branch_26989746",
-  "location": "Fremont California United States",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Part-Time Teller (20 Hours), Bilingual Mandarin Speaking Preferred,  Fremont Warm Springs Branch",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Fremont-California-United-States/Part-Time-Teller--20-Hours---Bilingual-Mandarin-Speaking-Preferred---Fremont-Warm-Springs-Branch_26989746"
- },
  "workday:citi:/job/Fremont-California-United-States/Part-Time-Teller--20-Hours---Fremont-Branch_261003448": {
   "company": "citi",
   "first_seen": "2026-10-22T02:53:17+00:00",
@@ -219529,26 +220009,6 @@
   "title": "Generative AI Data Scientist \u2014 Wealth Analytics",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Gurugram-Haryana-India/Generative-AI-Data-Scientist---Wealth-Analytics_26991384"
  },
- "workday:citi:/job/Gurugram-Haryana-India/Generative-AI-and-Machine-Learning-Developer_26987786": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Gurugram-Haryana-India/Generative-AI-and-Machine-Learning-Developer_26987786",
-  "location": "2 Locations",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Generative AI and Machine Learning Developer",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Gurugram-Haryana-India/Generative-AI-and-Machine-Learning-Developer_26987786"
- },
- "workday:citi:/job/Gurugram-Haryana-India/Generative-AI-and-Machine-Learning-Developer_26987787": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Gurugram-Haryana-India/Generative-AI-and-Machine-Learning-Developer_26987787",
-  "location": "2 Locations",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Generative AI and Machine Learning Developer",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Gurugram-Haryana-India/Generative-AI-and-Machine-Learning-Developer_26987787"
- },
  "workday:citi:/job/Gurugram-Haryana-India/Lead-Business-Analyst---Ops-Analytics_261001750": {
   "company": "citi",
   "first_seen": "2026-10-29T10:42:38+00:00",
@@ -221229,16 +221689,6 @@
   "title": "Associate, Subsidiary Account Manager, China Desk, Corporate Banking",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Associate--Subsidiary-Account-Manager--China-Desk--Corporate-Banking_261004155"
  },
- "workday:citi:/job/Hong-Kong--Hong-Kong/Associate--TMT--Investment-Banking--Hong-Kong_26990282": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Hong-Kong--Hong-Kong/Associate--TMT--Investment-Banking--Hong-Kong_26990282",
-  "location": "Hong Kong  Hong Kong",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Associate, TMT, Investment Banking, Hong Kong",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Associate--TMT--Investment-Banking--Hong-Kong_26990282"
- },
  "workday:citi:/job/Hong-Kong--Hong-Kong/Associate--Top-Tier-Local-Corporates-and-Public-Sector--Citi-Corporate-Bank_261004496": {
   "company": "citi",
   "first_seen": "2026-10-23T09:03:19+00:00",
@@ -221308,16 +221758,6 @@
   "source": "workday",
   "title": "Client Executive",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Client-Executive_26997437"
- },
- "workday:citi:/job/Hong-Kong--Hong-Kong/Compliance-Product-Senior-Officer---Senior-Vice-President--Hybrid-_26974023-1": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Hong-Kong--Hong-Kong/Compliance-Product-Senior-Officer---Senior-Vice-President--Hybrid-_26974023-1",
-  "location": "Hong Kong  Hong Kong",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Compliance Product Senior Officer - Senior Vice President (Hybrid)",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Hong-Kong--Hong-Kong/Compliance-Product-Senior-Officer---Senior-Vice-President--Hybrid-_26974023-1"
  },
  "workday:citi:/job/Hong-Kong--Hong-Kong/Equity-Financing-Trader---Associate---Vice-President_261006633": {
   "company": "citi",
@@ -231989,16 +232429,6 @@
   "title": "Wealth Relationship Manager - San Jose (Los Gatos/Almaden Valley)",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Los-Gatos-California-United-States/Wealth-Relationship-Manager-SAFE-Act---Los-Gatos_26959043"
  },
- "workday:citi:/job/Los-Mochis-Sinaloa-Mexico/BANAMEX-CAJERO-LOS-MOCHIS_26990599": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Los-Mochis-Sinaloa-Mexico/BANAMEX-CAJERO-LOS-MOCHIS_26990599",
-  "location": "2 Locations",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "BANAMEX CAJERO LOS MOCHIS",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Los-Mochis-Sinaloa-Mexico/BANAMEX-CAJERO-LOS-MOCHIS_26990599"
- },
  "workday:citi:/job/Los-Mochis-Sinaloa-Mexico/BANAMEX-VOLANTE-JR-DISTRITO-LOS-MOCHIS_26996978-1": {
   "company": "citi",
   "first_seen": "2026-09-24T22:58:44+00:00",
@@ -237859,16 +238289,6 @@
   "title": "Digital Acquisition Lead Analyst",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Digital-Acquisition-Lead-Analyst_261002482"
  },
- "workday:citi:/job/Mumbai-Maharashtra-India/Digital-Acquisition-Lead-Analyst_26984696": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Mumbai-Maharashtra-India/Digital-Acquisition-Lead-Analyst_26984696",
-  "location": "Mumbai Maharashtra India",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Digital Acquisition Lead Analyst",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Digital-Acquisition-Lead-Analyst_26984696"
- },
  "workday:citi:/job/Mumbai-Maharashtra-India/Digital-Acquisition-Lead-Analyst_26990100": {
   "company": "citi",
   "first_seen": "2026-09-03T08:30:42+00:00",
@@ -238848,16 +239268,6 @@
   "source": "workday",
   "title": "Omnesys Platform Lead",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Omnesys-Platform-Lead_26991115"
- },
- "workday:citi:/job/Mumbai-Maharashtra-India/Operations-Full-Time-Analyst_26989112": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Mumbai-Maharashtra-India/Operations-Full-Time-Analyst_26989112",
-  "location": "Mumbai Maharashtra India",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Operations Full Time Analyst",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Mumbai-Maharashtra-India/Operations-Full-Time-Analyst_26989112"
  },
  "workday:citi:/job/Mumbai-Maharashtra-India/Operations-Support-Supervisor_26991045": {
   "company": "citi",
@@ -240398,16 +240808,6 @@
   "source": "workday",
   "title": "261000573 Personal Banker SAFE Act - Holbrook Branch",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/NY-HOLBROOK/XMLNAME-261000573-Personal-Banker-SAFE-Act---Holbrook-Branch_261000573"
- },
- "workday:citi:/job/Naha-shi-Tokyo-Japan/Associate--Client-Service--Securities-Services-Operations_26989826": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Naha-shi-Tokyo-Japan/Associate--Client-Service--Securities-Services-Operations_26989826",
-  "location": "Naha-shi Tokyo Japan",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Associate, Client Service, Securities Services Operations",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Naha-shi-Tokyo-Japan/Associate--Client-Service--Securities-Services-Operations_26989826"
  },
  "workday:citi:/job/Naha-shi-Tokyo-Japan/Associate--Securities-Settlement--Securities-Services-Operations_261000365": {
   "company": "citi",
@@ -249669,16 +250069,6 @@
   "title": "Apps Development Group Manager - C14 - PUNE",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Apps-Development-Group-Manager---C14---PUNE_26993196"
  },
- "workday:citi:/job/Pune-Maharashtra-India/Apps-Support-Intmd-Analyst---C11---PUNE_26962415": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Pune-Maharashtra-India/Apps-Support-Intmd-Analyst---C11---PUNE_26962415",
-  "location": "2 Locations",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Applications Support Intermediate Analyst",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Apps-Support-Intmd-Analyst---C11---PUNE_26962415"
- },
  "workday:citi:/job/Pune-Maharashtra-India/Apps-Support-Intmd-Analyst---C11---PUNE_26976585": {
   "company": "citi",
   "first_seen": "2026-09-01T15:57:23+00:00",
@@ -252658,16 +253048,6 @@
   "source": "workday",
   "title": "Java Fullstack Developer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Fullstack-Developer_26997847"
- },
- "workday:citi:/job/Pune-Maharashtra-India/Java-Fullstack-developer_26958732-1": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Pune-Maharashtra-India/Java-Fullstack-developer_26958732-1",
-  "location": "2 Locations",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Java Fullstack developer",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Pune-Maharashtra-India/Java-Fullstack-developer_26958732-1"
  },
  "workday:citi:/job/Pune-Maharashtra-India/Java-Intermediate-Programmer-Analyst_26997180": {
   "company": "citi",
@@ -260229,16 +260609,6 @@
   "title": "Officer, Commercial Analyst, Core Segment, Commercial Bank",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Shanghai-Shanghai-China/Officer--Commercial-Analyst--Core-Segment--Commercial-Bank_26995087"
  },
- "workday:citi:/job/Shanghai-Shanghai-China/Officer--Commercial-Analyst--Industrials-Segment--Commercial-Bank_26990262": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Shanghai-Shanghai-China/Officer--Commercial-Analyst--Industrials-Segment--Commercial-Bank_26990262",
-  "location": "Shanghai Shanghai China",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Officer, Commercial Analyst, Industrials Segment, Commercial Bank",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Shanghai-Shanghai-China/Officer--Commercial-Analyst--Industrials-Segment--Commercial-Bank_26990262"
- },
  "workday:citi:/job/Shanghai-Shanghai-China/Production-Support-Technology-Assistant-Vice-President---China-Securities-NewCo_261005928": {
   "company": "citi",
   "first_seen": "2026-11-03T04:56:29+00:00",
@@ -260378,16 +260748,6 @@
   "source": "workday",
   "title": "VP, Senior Relationship Manager, Global Subsidiaries Group",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Shanghai-Shanghai-China/VP--Senior-Relationship-Manager--Global-Subsidiaries-Group_26959921"
- },
- "workday:citi:/job/Shenzhen-Shanghai-China/AVP--Commercial-Associate--Industrials-Segment--Commercial-Bank_26990260": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Shenzhen-Shanghai-China/AVP--Commercial-Associate--Industrials-Segment--Commercial-Bank_26990260",
-  "location": "Shenzhen Shanghai China",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "AVP, Commercial Associate, Industrials Segment, Commercial Bank",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Shenzhen-Shanghai-China/AVP--Commercial-Associate--Industrials-Segment--Commercial-Bank_26990260"
  },
  "workday:citi:/job/Sherman-Oaks-California-United-States/Wealth-Relationship-Mgmt--Branch--Sr-Analyst-SAFE-Act---C12---SHERMAN-OAKS_261005875": {
   "company": "citi",
@@ -261178,16 +261538,6 @@
   "source": "workday",
   "title": "Full Stack UI Developer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Full-Stack-UI-Developer_26988159"
- },
- "workday:citi:/job/Singapore--Singapore/Futures-Applications-Support-Senior-Analyst--Assistant-Vice-President_26989096": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Singapore--Singapore/Futures-Applications-Support-Senior-Analyst--Assistant-Vice-President_26989096",
-  "location": "Singapore  Singapore",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Futures Applications Support Senior Analyst, Assistant Vice President",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Singapore--Singapore/Futures-Applications-Support-Senior-Analyst--Assistant-Vice-President_26989096"
  },
  "workday:citi:/job/Singapore--Singapore/Global-Change-Management-Lead--Wealth-Operations--AI-Transformation-_26995507": {
   "company": "citi",
@@ -263569,16 +263919,6 @@
   "title": "Reference Data Services Analyst - APAC Shift",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taguig--Philippines/Reference-Data-Services-Analyst---APAC-Shift_26995030-1"
  },
- "workday:citi:/job/Taguig--Philippines/Reference-Data-Services-Analyst---C09---TAGUIG_26989148": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Taguig--Philippines/Reference-Data-Services-Analyst---C09---TAGUIG_26989148",
-  "location": "Taguig  Philippines",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Reference Data Services Analyst - C09 - TAGUIG",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taguig--Philippines/Reference-Data-Services-Analyst---C09---TAGUIG_26989148"
- },
  "workday:citi:/job/Taguig--Philippines/Reference-Data-Services-Analyst---Client-Onboarding---APAC-Shift_26964772": {
   "company": "citi",
   "first_seen": "2026-10-12T11:36:07+00:00",
@@ -263608,26 +263948,6 @@
   "source": "workday",
   "title": "Reference Data Services Analyst - Officer",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taguig--Philippines/Reference-Data-Services-Analyst-2---C10---TAGUIG_26979459"
- },
- "workday:citi:/job/Taguig--Philippines/Reference-Data-Services-Analyst-2---C10---TAGUIG_26989246": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Taguig--Philippines/Reference-Data-Services-Analyst-2---C10---TAGUIG_26989246",
-  "location": "Taguig  Philippines",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Reference Data Services Analyst 2 - C10 - TAGUIG",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taguig--Philippines/Reference-Data-Services-Analyst-2---C10---TAGUIG_26989246"
- },
- "workday:citi:/job/Taguig--Philippines/Reference-Data-Services-Analyst-2---C10---TAGUIG_26989962": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Taguig--Philippines/Reference-Data-Services-Analyst-2---C10---TAGUIG_26989962",
-  "location": "Taguig  Philippines",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Reference Data Services Analyst 2 - C10 - TAGUIG",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Taguig--Philippines/Reference-Data-Services-Analyst-2---C10---TAGUIG_26989962"
  },
  "workday:citi:/job/Taguig--Philippines/Reference-Data-Services-Analyst_26995901": {
   "company": "citi",
@@ -265128,26 +265448,6 @@
   "source": "workday",
   "title": "Customer Service Senior Analyst",
   "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Customer-Service-Senior-Analyst_261000960-1"
- },
- "workday:citi:/job/Tampa-Florida-United-States/Cybersecurity-Insider-Threat--Director_26986991": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Tampa-Florida-United-States/Cybersecurity-Insider-Threat--Director_26986991",
-  "location": "2 Locations",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Cybersecurity Insider Threat, Director",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Cybersecurity-Insider-Threat--Director_26986991"
- },
- "workday:citi:/job/Tampa-Florida-United-States/Cybersecurity-Insider-Threat-Lead_26986996": {
-  "company": "citi",
-  "first_seen": "2026-08-27T06:40:00+00:00",
-  "job_id": "/job/Tampa-Florida-United-States/Cybersecurity-Insider-Threat-Lead_26986996",
-  "location": "2 Locations",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Cybersecurity Insider Threat Lead",
-  "url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Cybersecurity-Insider-Threat-Lead_26986996"
  },
  "workday:citi:/job/Tampa-Florida-United-States/Data-Analyst---Credit-Risk-Management---Counterparty-Risk--Client---Markets-Data-_26994251-1": {
   "company": "citi",
@@ -273359,16 +273659,6 @@
   "title": "Commercial Account Manager",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/All-Colorado-United-States-of-America/Commercial-Account-Manager_1213094"
  },
- "workday:hpe:/job/All-Florida-United-States-of-America/Account-Executive--Global-Major-Accounts--Orlando_1211932-2": {
-  "company": "hpe",
-  "first_seen": "2026-08-27T06:37:10+00:00",
-  "job_id": "/job/All-Florida-United-States-of-America/Account-Executive--Global-Major-Accounts--Orlando_1211932-2",
-  "location": "All, Florida, United States of America",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Account Executive- Global Major Accounts- Orlando",
-  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/All-Florida-United-States-of-America/Account-Executive--Global-Major-Accounts--Orlando_1211932-2"
- },
  "workday:hpe:/job/All-Florida-United-States-of-America/Account-Executive-Global-Majors-Miami_1216837-3": {
   "company": "hpe",
   "first_seen": "2026-10-22T22:55:24+00:00",
@@ -279809,16 +280099,6 @@
   "title": "",
   "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe"
  },
- "workday:hpe:1207679": {
-  "company": "hpe",
-  "first_seen": "2026-08-27T06:37:10+00:00",
-  "job_id": "1207679",
-  "location": "",
-  "posted_at": null,
-  "source": "workday",
-  "title": "",
-  "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe"
- },
  "workday:hpe:1208203": {
   "company": "hpe",
   "first_seen": "2026-11-03T15:42:36+00:00",
@@ -284189,16 +284469,6 @@
   "title": "Analyst, Analytics & Metrics",
   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Gurgaon-India/Analyst--Analytics---Metrics_R-280868"
  },
- "workday:mastercard:/job/Gurgaon-India/Associate-Analyst--Analytics---Metrics_R-289217": {
-  "company": "mastercard",
-  "first_seen": "2026-08-27T06:40:16+00:00",
-  "job_id": "/job/Gurgaon-India/Associate-Analyst--Analytics---Metrics_R-289217",
-  "location": "Gurgaon, India",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Associate Analyst, Analytics & Metrics",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Gurgaon-India/Associate-Analyst--Analytics---Metrics_R-289217"
- },
  "workday:mastercard:/job/Gurgaon-India/Associate-Analyst--Analytics---Metrics_R-294847": {
   "company": "mastercard",
   "first_seen": "2026-11-02T11:59:30+00:00",
@@ -284768,16 +285038,6 @@
   "source": "workday",
   "title": "Senior Creative Project Manger (Managing Consultant)",
   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Gurgaon-India/Senior-Creative-Project-Manger--Managing-Consultant-_R-292218-1"
- },
- "workday:mastercard:/job/Gurgaon-India/Senior-Data-Engineer-3_R-278884": {
-  "company": "mastercard",
-  "first_seen": "2026-08-27T06:40:16+00:00",
-  "job_id": "/job/Gurgaon-India/Senior-Data-Engineer-3_R-278884",
-  "location": "Gurgaon, India",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Senior Data Scientist-3",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Gurgaon-India/Senior-Data-Engineer-3_R-278884"
  },
  "workday:mastercard:/job/Gurgaon-India/Senior-Data-Scientist-1_R-278882": {
   "company": "mastercard",
@@ -288928,16 +289188,6 @@
   "source": "workday",
   "title": "Software Engineer II",
   "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288539-1"
- },
- "workday:mastercard:/job/Pune-India/Software-Engineer-II_R-288941": {
-  "company": "mastercard",
-  "first_seen": "2026-08-27T06:40:16+00:00",
-  "job_id": "/job/Pune-India/Software-Engineer-II_R-288941",
-  "location": "Pune, India",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Software Engineer II",
-  "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Pune-India/Software-Engineer-II_R-288941"
  },
  "workday:mastercard:/job/Pune-India/Software-Engineer-II_R-288948": {
   "company": "mastercard",
@@ -293099,16 +293349,6 @@
   "title": "Module Planning Manager",
   "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303A---ATSSDMOD-India/Module-Planning-Manager_JR107617"
  },
- "workday:micron:/job/Sanand---303A---ATSSDMOD-India/NVMQRA-Solid-State-Drive--SSD--Quality-and-Reliability-Engineer_JR106971": {
-  "company": "micron",
-  "first_seen": "2026-08-27T06:40:27+00:00",
-  "job_id": "/job/Sanand---303A---ATSSDMOD-India/NVMQRA-Solid-State-Drive--SSD--Quality-and-Reliability-Engineer_JR106971",
-  "location": "Sanand - 303A - AT/SSD/MOD, India",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "NVMQRA Solid State Drive (SSD) Quality and Reliability Engineer",
-  "url": "https://micron.wd1.myworkdayjobs.com/en-US/External/job/Sanand---303A---ATSSDMOD-India/NVMQRA-Solid-State-Drive--SSD--Quality-and-Reliability-Engineer_JR106971"
- },
  "workday:micron:/job/Sanand---303A---ATSSDMOD-India/Package-Reliability-Engineer_JR109805": {
   "company": "micron",
   "first_seen": "2026-09-14T09:31:14+00:00",
@@ -294118,16 +294358,6 @@
   "source": "workday",
   "title": "Formal Verification Engineer",
   "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Formal-Verification-Engineer_JR2025305"
- },
- "workday:nvidia:/job/India-Bengaluru/Front-End-Integration-Engineer_JR2024228": {
-  "company": "nvidia",
-  "first_seen": "2026-08-27T06:36:27+00:00",
-  "job_id": "/job/India-Bengaluru/Front-End-Integration-Engineer_JR2024228",
-  "location": "India, Bengaluru",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Front-End Integration Engineer",
-  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/India-Bengaluru/Front-End-Integration-Engineer_JR2024228"
  },
  "workday:nvidia:/job/India-Bengaluru/GPU-Core-Pipeline-IP-Verification-Engineer_JR2020914": {
   "company": "nvidia",
@@ -308679,16 +308909,6 @@
   "title": "Software Engineering, SMTS/MTS (Backend + Kubernetes/Docker/Helm)",
   "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS_JR338172-1"
  },
- "workday:salesforce:/job/India---Hyderabad/Software-Engineering-MTS_JR356688": {
-  "company": "salesforce",
-  "first_seen": "2026-08-27T06:36:39+00:00",
-  "job_id": "/job/India---Hyderabad/Software-Engineering-MTS_JR356688",
-  "location": "India - Hyderabad",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Software Engineering MTS",
-  "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Hyderabad/Software-Engineering-MTS_JR356688"
- },
  "workday:salesforce:/job/India---Hyderabad/Software-Engineering-MTS_JR356833": {
   "company": "salesforce",
   "first_seen": "2026-08-27T18:42:55+00:00",
@@ -314019,16 +314239,6 @@
   "title": "Business Insights Partner",
   "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Business-Insights-Partner_R0000447102"
  },
- "workday:target:/job/BangaloreIndia/Cybersecurity-Analyst_R0000447851-1": {
-  "company": "target",
-  "first_seen": "2026-08-27T06:38:07+00:00",
-  "job_id": "/job/BangaloreIndia/Cybersecurity-Analyst_R0000447851-1",
-  "location": "Bangalore,India",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Cybersecurity Analyst",
-  "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Cybersecurity-Analyst_R0000447851-1"
- },
  "workday:target:/job/BangaloreIndia/DIRECTOR-DIGITAL-MARKETING-STRATEGY---OPERATIONS_R0000477262": {
   "company": "target",
   "first_seen": "2026-10-13T15:30:38+00:00",
@@ -314989,16 +315199,6 @@
   "title": "Sr L&D Business Partner",
   "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Sr-L-D-Business-Partner_R0000452671-1"
  },
- "workday:target:/job/BangaloreIndia/Sr-Manager-Data-Analytics-1_R0000450354": {
-  "company": "target",
-  "first_seen": "2026-08-27T06:38:07+00:00",
-  "job_id": "/job/BangaloreIndia/Sr-Manager-Data-Analytics-1_R0000450354",
-  "location": "Bangalore,India",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Sr. Manager Data Analytics-1",
-  "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Sr-Manager-Data-Analytics-1_R0000450354"
- },
  "workday:target:/job/BangaloreIndia/Sr-Manager-HR-Shared-Services_R0000442712-1": {
   "company": "target",
   "first_seen": "2026-09-04T08:24:37+00:00",
@@ -315128,16 +315328,6 @@
   "source": "workday",
   "title": "Sr Spclst Procuremenr Ops",
   "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Sr-Spclst-Procuremenr-Ops_R0000451037"
- },
- "workday:target:/job/BangaloreIndia/Sr-Specialist-Comp-Intel-Ops_R0000447417": {
-  "company": "target",
-  "first_seen": "2026-08-27T06:38:07+00:00",
-  "job_id": "/job/BangaloreIndia/Sr-Specialist-Comp-Intel-Ops_R0000447417",
-  "location": "Bangalore,India",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Sr Specialist Comp Intel Ops",
-  "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/BangaloreIndia/Sr-Specialist-Comp-Intel-Ops_R0000447417"
  },
  "workday:target:/job/BangaloreIndia/Sr-Specialist-Freight-Payment_R0000453709": {
   "company": "target",
@@ -316523,16 +316713,6 @@
   "company": "target",
   "first_seen": "2026-09-23T09:00:59+00:00",
   "job_id": "R0000445425",
-  "location": "",
-  "posted_at": null,
-  "source": "workday",
-  "title": "",
-  "url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers"
- },
- "workday:target:R0000446443": {
-  "company": "target",
-  "first_seen": "2026-08-27T06:38:07+00:00",
-  "job_id": "R0000446443",
   "location": "",
   "posted_at": null,
   "source": "workday",
@@ -321828,16 +322008,6 @@
   "source": "workday",
   "title": "Senior Manager, Software Development Engineering, Agent Trust & Security",
   "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Manager--Software-Development-Engineering--Agent-Trust---Security_JR-0110604"
- },
- "workday:workday:/job/USA-CA-Pleasanton/Senior-Manager--Software-Development-Engineering_JR-0109521": {
-  "company": "workday",
-  "first_seen": "2026-08-27T06:41:07+00:00",
-  "job_id": "/job/USA-CA-Pleasanton/Senior-Manager--Software-Development-Engineering_JR-0109521",
-  "location": "USA, CA, Pleasanton",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Senior Manager, Software Development Engineering",
-  "url": "https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Senior-Manager--Software-Development-Engineering_JR-0109521"
  },
  "workday:workday:/job/USA-CA-Pleasanton/Senior-Payroll-and-Absence-Enterprise-Applications-Analyst_JR-0110177": {
   "company": "workday",
