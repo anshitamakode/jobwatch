@@ -1499,16 +1499,6 @@
   "title": "Software Engineer - Observability",
   "url": "https://jobs.ashbyhq.com/baseten/3e925ab1-2089-4a79-989e-50479b546eda"
  },
- "ashby:baseten:40bce839-10ad-4274-a988-7cee8e0f795e": {
-  "company": "baseten",
-  "first_seen": "2026-08-29T22:15:15+00:00",
-  "job_id": "40bce839-10ad-4274-a988-7cee8e0f795e",
-  "location": "San Francisco",
-  "posted_at": "2026-08-29T17:04:48.113+00:00",
-  "source": "ashby",
-  "title": "Technical Program Manager, Model Performance",
-  "url": "https://jobs.ashbyhq.com/baseten/40bce839-10ad-4274-a988-7cee8e0f795e"
- },
  "ashby:baseten:4d91f30b-8c06-48c2-a56e-f48fc34968d4": {
   "company": "baseten",
   "first_seen": "2026-09-10T22:16:23+00:00",
@@ -4368,6 +4358,16 @@
   "source": "ashby",
   "title": "Solutions Architect",
   "url": "https://jobs.ashbyhq.com/cohere/d1ab4fbd-3271-4057-8b20-dfaad4270fa8"
+ },
+ "ashby:cohere:d24de9b2-35b6-456a-843e-a9e01d2facf2": {
+  "company": "cohere",
+  "first_seen": "2026-11-27T23:51:53+00:00",
+  "job_id": "d24de9b2-35b6-456a-843e-a9e01d2facf2",
+  "location": "Toronto",
+  "posted_at": "2026-11-27T20:28:59.296+00:00",
+  "source": "ashby",
+  "title": "Technical Program Manager, Model Delivery",
+  "url": "https://jobs.ashbyhq.com/cohere/d24de9b2-35b6-456a-843e-a9e01d2facf2"
  },
  "ashby:cohere:d28fbc03-cb09-49da-84b9-e12c16182695": {
   "company": "cohere",
@@ -18209,6 +18209,16 @@
   "title": "Product Data Scientist - Youth, Families and Learning",
   "url": "https://jobs.ashbyhq.com/openai/1f148786-2e00-472a-96b9-0b29015980e1"
  },
+ "ashby:openai:1f1ea997-283b-4d49-b25b-e8dbe2491938": {
+  "company": "openai",
+  "first_seen": "2026-11-27T23:51:35+00:00",
+  "job_id": "1f1ea997-283b-4d49-b25b-e8dbe2491938",
+  "location": "San Francisco",
+  "posted_at": "2026-11-27T18:00:20.459+00:00",
+  "source": "ashby",
+  "title": "Program Manager, Recruiting Events",
+  "url": "https://jobs.ashbyhq.com/openai/1f1ea997-283b-4d49-b25b-e8dbe2491938"
+ },
  "ashby:openai:1f247dd3-5c54-49a7-83f5-ca6cf6ed7717": {
   "company": "openai",
   "first_seen": "2026-11-07T23:19:39+00:00",
@@ -31228,16 +31238,6 @@
   "source": "ashby",
   "title": "People Strategy, M&A Lead",
   "url": "https://jobs.ashbyhq.com/ramp/ed41c87a-f944-447c-b1aa-7d8a2c005560"
- },
- "ashby:ramp:ee45197b-f2f7-455e-8a5e-f0a1db5088e5": {
-  "company": "ramp",
-  "first_seen": "2026-08-29T16:06:40+00:00",
-  "job_id": "ee45197b-f2f7-455e-8a5e-f0a1db5088e5",
-  "location": "New York, NY (HQ)",
-  "posted_at": "2026-08-29T14:17:31.007+00:00",
-  "source": "ashby",
-  "title": "Senior Recruiter | G&A",
-  "url": "https://jobs.ashbyhq.com/ramp/ee45197b-f2f7-455e-8a5e-f0a1db5088e5"
  },
  "ashby:ramp:ee493d8f-c75e-4ca4-b665-1576e835f522": {
   "company": "ramp",
@@ -45048,6 +45048,26 @@
   "source": "greenhouse",
   "title": "Senior Technical Program Manager",
   "url": "https://job-boards.greenhouse.io/affirm/jobs/8199159003"
+ },
+ "greenhouse:affirm:8199161003": {
+  "company": "affirm",
+  "first_seen": "2026-11-27T23:51:40+00:00",
+  "job_id": "8199161003",
+  "location": "Remote US",
+  "posted_at": "2026-11-27T08:42:35-05:00",
+  "source": "greenhouse",
+  "title": "Senior Software Engineer, Backend (Trust Infra)",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8199161003"
+ },
+ "greenhouse:affirm:8199163003": {
+  "company": "affirm",
+  "first_seen": "2026-11-27T23:51:40+00:00",
+  "job_id": "8199163003",
+  "location": "Remote Canada",
+  "posted_at": "2026-11-27T09:09:04-05:00",
+  "source": "greenhouse",
+  "title": "Senior Software Engineer, Backend (Trust Infra)",
+  "url": "https://job-boards.greenhouse.io/affirm/jobs/8199163003"
  },
  "greenhouse:affirm:8199288003": {
   "company": "affirm",
@@ -71649,6 +71669,16 @@
   "title": "Strategic  Account Executive, Public Sector",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8652590002"
  },
+ "greenhouse:databricks:8652984002": {
+  "company": "databricks",
+  "first_seen": "2026-11-27T23:51:32+00:00",
+  "job_id": "8652984002",
+  "location": "Bengaluru, India",
+  "posted_at": "2026-08-29T02:49:24-04:00",
+  "source": "greenhouse",
+  "title": "Senior Solutions Architect",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8652984002"
+ },
  "greenhouse:databricks:8653264002": {
   "company": "databricks",
   "first_seen": "2026-09-04T15:35:28+00:00",
@@ -72078,16 +72108,6 @@
   "source": "greenhouse",
   "title": "Accounting Data & Technology Manager",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8688861002"
- },
- "greenhouse:databricks:8688875002": {
-  "company": "databricks",
-  "first_seen": "2026-08-29T22:11:18+00:00",
-  "job_id": "8688875002",
-  "location": "Bengaluru, India",
-  "posted_at": "2026-08-29T14:25:05-04:00",
-  "source": "greenhouse",
-  "title": "SAP Consolidations Manager, International Accounting",
-  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8688875002"
  },
  "greenhouse:databricks:8691490002": {
   "company": "databricks",
@@ -77729,6 +77749,26 @@
   "title": "Deployment Strategist",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8960958002"
  },
+ "greenhouse:databricks:8960960002": {
+  "company": "databricks",
+  "first_seen": "2026-11-27T23:51:32+00:00",
+  "job_id": "8960960002",
+  "location": "Amsterdam, Netherlands",
+  "posted_at": "2026-11-27T12:33:22-05:00",
+  "source": "greenhouse",
+  "title": "Deployment Strategist",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8960960002"
+ },
+ "greenhouse:databricks:8960967002": {
+  "company": "databricks",
+  "first_seen": "2026-11-27T23:51:32+00:00",
+  "job_id": "8960967002",
+  "location": "Paris, France",
+  "posted_at": "2026-11-27T10:20:55-05:00",
+  "source": "greenhouse",
+  "title": "Staff Forward Deployment Strategist",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8960967002"
+ },
  "greenhouse:databricks:8960976002": {
   "company": "databricks",
   "first_seen": "2026-11-26T18:01:14+00:00",
@@ -77759,6 +77799,16 @@
   "title": "Manager, Field Engineering (Greater China)",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8963204002"
  },
+ "greenhouse:databricks:8963388002": {
+  "company": "databricks",
+  "first_seen": "2026-11-27T23:51:32+00:00",
+  "job_id": "8963388002",
+  "location": "London, United Kingdom",
+  "posted_at": "2026-11-27T06:46:51-05:00",
+  "source": "greenhouse",
+  "title": "Senior Manager, Capability Engineering & Customer Training, EMEA",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8963388002"
+ },
  "greenhouse:databricks:8963506002": {
   "company": "databricks",
   "first_seen": "2026-11-27T13:23:03+00:00",
@@ -77768,6 +77818,36 @@
   "source": "greenhouse",
   "title": "Manager, Delivery Solutions Architects",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8963506002"
+ },
+ "greenhouse:databricks:8964086002": {
+  "company": "databricks",
+  "first_seen": "2026-11-27T23:51:32+00:00",
+  "job_id": "8964086002",
+  "location": "Paris, France",
+  "posted_at": "2026-11-27T10:41:17-05:00",
+  "source": "greenhouse",
+  "title": "Senior Manager, Capability Engineering & Customer Training, EMEA",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8964086002"
+ },
+ "greenhouse:databricks:8964093002": {
+  "company": "databricks",
+  "first_seen": "2026-11-27T23:51:32+00:00",
+  "job_id": "8964093002",
+  "location": "Amsterdam, Netherlands",
+  "posted_at": "2026-11-27T10:44:00-05:00",
+  "source": "greenhouse",
+  "title": "Senior Manager, Capability Engineering & Customer Training, EMEA",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8964093002"
+ },
+ "greenhouse:databricks:8964095002": {
+  "company": "databricks",
+  "first_seen": "2026-11-27T23:51:32+00:00",
+  "job_id": "8964095002",
+  "location": "Munich, Germany",
+  "posted_at": "2026-11-27T10:44:44-05:00",
+  "source": "greenhouse",
+  "title": "Senior Manager, Capability Engineering & Customer Training, EMEA",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8964095002"
  },
  "greenhouse:datadog:1497543": {
   "company": "datadog",
@@ -98379,6 +98459,36 @@
   "title": "Staff Accountant (30 hours/week)",
   "url": "https://job-boards.greenhouse.io/galileo/jobs/8959345002"
  },
+ "greenhouse:galileo:8964371002": {
+  "company": "galileo",
+  "first_seen": "2026-11-27T23:52:07+00:00",
+  "job_id": "8964371002",
+  "location": "Remote, United States",
+  "posted_at": "2026-11-27T14:47:23-05:00",
+  "source": "greenhouse",
+  "title": "Per Diem Digital Clinician | MD/DO (GA License)",
+  "url": "https://job-boards.greenhouse.io/galileo/jobs/8964371002"
+ },
+ "greenhouse:galileo:8964386002": {
+  "company": "galileo",
+  "first_seen": "2026-11-27T23:52:07+00:00",
+  "job_id": "8964386002",
+  "location": "Remote, United States",
+  "posted_at": "2026-11-27T15:21:51-05:00",
+  "source": "greenhouse",
+  "title": "Per Diem Digital Clinician | MD/DO (TN License)",
+  "url": "https://job-boards.greenhouse.io/galileo/jobs/8964386002"
+ },
+ "greenhouse:galileo:8964387002": {
+  "company": "galileo",
+  "first_seen": "2026-11-27T23:52:07+00:00",
+  "job_id": "8964387002",
+  "location": "Remote, United States",
+  "posted_at": "2026-11-27T15:24:35-05:00",
+  "source": "greenhouse",
+  "title": "Per Diem Digital Clinician | MD/DO (TX License)",
+  "url": "https://job-boards.greenhouse.io/galileo/jobs/8964387002"
+ },
  "greenhouse:gitlab:8396674002": {
   "company": "gitlab",
   "first_seen": "2026-11-07T23:20:34+00:00",
@@ -102518,6 +102628,16 @@
   "source": "greenhouse",
   "title": "Enterprise Applications Engineer, Zendesk",
   "url": "https://job-boards.greenhouse.io/gitlab/jobs/8961167002"
+ },
+ "greenhouse:gitlab:8963786002": {
+  "company": "gitlab",
+  "first_seen": "2026-11-27T23:51:38+00:00",
+  "job_id": "8963786002",
+  "location": "Remote, United Kingdom",
+  "posted_at": "2026-11-27T18:05:12-05:00",
+  "source": "greenhouse",
+  "title": "Data Scientist, Enterprise Analytics",
+  "url": "https://job-boards.greenhouse.io/gitlab/jobs/8963786002"
  },
  "greenhouse:gleanwork:4006731005": {
   "company": "gleanwork",
@@ -119829,6 +119949,16 @@
   "title": "Senior Manager, Workplace Operations, Safety & Security",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8412160"
  },
+ "greenhouse:mongodb:8412394": {
+  "company": "mongodb",
+  "first_seen": "2026-11-27T23:51:37+00:00",
+  "job_id": "8412394",
+  "location": "Dublin, Ireland",
+  "posted_at": "2026-11-27T12:58:51-05:00",
+  "source": "greenhouse",
+  "title": "Senior Software Engineer",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8412394"
+ },
  "greenhouse:mongodb:8414057": {
   "company": "mongodb",
   "first_seen": "2026-11-25T23:56:37+00:00",
@@ -119888,6 +120018,16 @@
   "source": "greenhouse",
   "title": "Senior Solutions Architect",
   "url": "https://www.mongodb.com/careers/job/?gh_jid=8419294"
+ },
+ "greenhouse:mongodb:8419307": {
+  "company": "mongodb",
+  "first_seen": "2026-11-27T23:51:37+00:00",
+  "job_id": "8419307",
+  "location": "Germany",
+  "posted_at": "2026-11-27T08:27:20-05:00",
+  "source": "greenhouse",
+  "title": "Senior Solutions Architect",
+  "url": "https://www.mongodb.com/careers/job/?gh_jid=8419307"
  },
  "greenhouse:mongodb:8419310": {
   "company": "mongodb",
@@ -129009,6 +129149,16 @@
   "title": "Customer Success Manager (Tokyo)",
   "url": "https://www.okta.com/company/careers/opportunity/8419201?gh_jid=8419201"
  },
+ "greenhouse:okta:8420236": {
+  "company": "okta",
+  "first_seen": "2026-11-27T23:52:10+00:00",
+  "job_id": "8420236",
+  "location": "Bengaluru",
+  "posted_at": "2026-11-27T08:23:50-05:00",
+  "source": "greenhouse",
+  "title": "Staff Analyst - Workday Techno-Functional Consultant",
+  "url": "https://www.okta.com/company/careers/opportunity/8420236?gh_jid=8420236"
+ },
  "greenhouse:pagerduty:5707881004": {
   "company": "pagerduty",
   "first_seen": "2026-11-07T23:23:46+00:00",
@@ -137959,6 +138109,16 @@
   "title": "MSP Account Executive - DACH",
   "url": "https://www.rubrik.com/company/careers/departments/job.8365152?gh_jid=8365152"
  },
+ "greenhouse:rubrik:8365198": {
+  "company": "rubrik",
+  "first_seen": "2026-11-27T23:51:38+00:00",
+  "job_id": "8365198",
+  "location": "Germany, Remote",
+  "posted_at": "2026-11-27T12:02:09-05:00",
+  "source": "greenhouse",
+  "title": "Account Executive, Product Sales Specialist (SAAS) - DACH",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8365198?gh_jid=8365198"
+ },
  "greenhouse:rubrik:8365286": {
   "company": "rubrik",
   "first_seen": "2026-11-13T00:52:10+00:00",
@@ -138289,6 +138449,16 @@
   "title": "Sales Specialist - Cloud",
   "url": "https://www.rubrik.com/company/careers/departments/job.8385230?gh_jid=8385230"
  },
+ "greenhouse:rubrik:8385240": {
+  "company": "rubrik",
+  "first_seen": "2026-11-27T23:51:38+00:00",
+  "job_id": "8385240",
+  "location": "Tokyo, Japan",
+  "posted_at": "2026-11-27T09:47:50-05:00",
+  "source": "greenhouse",
+  "title": "Sales Specialist Identity, Japan",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8385240?gh_jid=8385240"
+ },
  "greenhouse:rubrik:8385249": {
   "company": "rubrik",
   "first_seen": "2026-11-18T16:52:29+00:00",
@@ -138308,6 +138478,16 @@
   "source": "greenhouse",
   "title": "Sales Specialist Identity, APJ",
   "url": "https://www.rubrik.com/company/careers/departments/job.8385257?gh_jid=8385257"
+ },
+ "greenhouse:rubrik:8385281": {
+  "company": "rubrik",
+  "first_seen": "2026-11-27T23:51:38+00:00",
+  "job_id": "8385281",
+  "location": "Australia",
+  "posted_at": "2026-11-27T10:39:40-05:00",
+  "source": "greenhouse",
+  "title": "Sales Specialist Cloud APAC, Australia",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8385281?gh_jid=8385281"
  },
  "greenhouse:rubrik:8385390": {
   "company": "rubrik",
@@ -138698,6 +138878,16 @@
   "source": "greenhouse",
   "title": "Director, GSI Business Development",
   "url": "https://www.rubrik.com/company/careers/departments/job.8406183?gh_jid=8406183"
+ },
+ "greenhouse:rubrik:8406397": {
+  "company": "rubrik",
+  "first_seen": "2026-11-27T23:51:38+00:00",
+  "job_id": "8406397",
+  "location": "London",
+  "posted_at": "2026-11-27T12:18:47-05:00",
+  "source": "greenhouse",
+  "title": "Sales Specialist (Cloud)",
+  "url": "https://www.rubrik.com/company/careers/departments/job.8406397?gh_jid=8406397"
  },
  "greenhouse:rubrik:8407738": {
   "company": "rubrik",
@@ -149148,6 +149338,16 @@
   "source": "greenhouse",
   "title": "Commercial Finance Broker ",
   "url": "https://job-boards.greenhouse.io/tide/jobs/8218239003"
+ },
+ "greenhouse:tide:8218337003": {
+  "company": "tide",
+  "first_seen": "2026-11-27T23:51:33+00:00",
+  "job_id": "8218337003",
+  "location": "United Kingdom",
+  "posted_at": "2026-11-27T09:52:07-05:00",
+  "source": "greenhouse",
+  "title": "Senior Treasury Analyst ",
+  "url": "https://job-boards.greenhouse.io/tide/jobs/8218337003"
  },
  "greenhouse:turing:5703798004": {
   "company": "turing",
@@ -180209,6 +180409,16 @@
   "title": "Financial Analyst",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016750"
  },
+ "oraclecloud:amex:26016753": {
+  "company": "amex",
+  "first_seen": "2026-11-27T23:52:04+00:00",
+  "job_id": "26016753",
+  "location": "BRIGHTON, EAST SUSSEX, United Kingdom, LONDON, LONDON, United Kingdom, BURGESS HILL, WEST SUSSEX, United Kingdom",
+  "posted_at": "2026-11-27",
+  "source": "oraclecloud",
+  "title": "Director, Solutions Enablement",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26016753"
+ },
  "oraclecloud:amex:26016754": {
   "company": "amex",
   "first_seen": "2026-11-18T16:52:55+00:00",
@@ -181028,6 +181238,16 @@
   "source": "oraclecloud",
   "title": "Customer Service Analyst",
   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26017005"
+ },
+ "oraclecloud:amex:26017012": {
+  "company": "amex",
+  "first_seen": "2026-11-27T23:52:04+00:00",
+  "job_id": "26017012",
+  "location": "Sunrise, FL, United States, New York, NY, United States, Phoenix, AZ, United States",
+  "posted_at": "2026-11-27",
+  "source": "oraclecloud",
+  "title": "Staff-Software Engineer",
+  "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26017012"
  },
  "oraclecloud:amex:26017013": {
   "company": "amex",
@@ -194699,16 +194919,6 @@
   "title": "Solutions Engineer (Customer Experience)",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Solutions-Engineer--Customer-Experience-_2023364"
  },
- "workday:cisco:/job/Bangalore-India/Solutions-Engineer_2022880": {
-  "company": "cisco",
-  "first_seen": "2026-08-29T22:10:43+00:00",
-  "job_id": "/job/Bangalore-India/Solutions-Engineer_2022880",
-  "location": "Bangalore, India",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Solutions Engineer",
-  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Bangalore-India/Solutions-Engineer_2022880"
- },
  "workday:cisco:/job/Bangalore-India/Solutions-Engineer_2025079-1": {
   "company": "cisco",
   "first_seen": "2026-09-22T16:04:53+00:00",
@@ -195118,16 +195328,6 @@
   "source": "workday",
   "title": "Marketing Manager",
   "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Gurgaon-India/Marketing-Manager_2027046"
- },
- "workday:cisco:/job/Gurgaon-India/Solutions-Engineer_2020453": {
-  "company": "cisco",
-  "first_seen": "2026-08-29T22:10:43+00:00",
-  "job_id": "/job/Gurgaon-India/Solutions-Engineer_2020453",
-  "location": "2 Locations",
-  "posted_at": "Posted Today",
-  "source": "workday",
-  "title": "Solutions Engineer",
-  "url": "https://cisco.wd5.myworkdayjobs.com/en-US/Cisco_Careers/job/Gurgaon-India/Solutions-Engineer_2020453"
  },
  "workday:cisco:/job/Gurgaon-India/Solutions-Engineer_2022057": {
   "company": "cisco",
