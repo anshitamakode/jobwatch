@@ -1499,6 +1499,16 @@
   "title": "Software Engineer - Observability",
   "url": "https://jobs.ashbyhq.com/baseten/3e925ab1-2089-4a79-989e-50479b546eda"
  },
+ "ashby:baseten:40bce839-10ad-4274-a988-7cee8e0f795e": {
+  "company": "baseten",
+  "first_seen": "2026-11-28T05:50:50+00:00",
+  "job_id": "40bce839-10ad-4274-a988-7cee8e0f795e",
+  "location": "San Francisco",
+  "posted_at": "2026-08-29T17:04:48.113+00:00",
+  "source": "ashby",
+  "title": "Technical Program Manager, Model Performance",
+  "url": "https://jobs.ashbyhq.com/baseten/40bce839-10ad-4274-a988-7cee8e0f795e"
+ },
  "ashby:baseten:4d91f30b-8c06-48c2-a56e-f48fc34968d4": {
   "company": "baseten",
   "first_seen": "2026-09-10T22:16:23+00:00",
@@ -72109,6 +72119,16 @@
   "title": "Accounting Data & Technology Manager",
   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8688861002"
  },
+ "greenhouse:databricks:8688875002": {
+  "company": "databricks",
+  "first_seen": "2026-11-28T05:50:09+00:00",
+  "job_id": "8688875002",
+  "location": "Bengaluru, India",
+  "posted_at": "2026-08-29T14:25:05-04:00",
+  "source": "greenhouse",
+  "title": "Global SAP Consolidations Manager",
+  "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8688875002"
+ },
  "greenhouse:databricks:8691490002": {
   "company": "databricks",
   "first_seen": "2026-11-07T23:19:35+00:00",
@@ -83318,6 +83338,16 @@
   "source": "greenhouse",
   "title": "Senior Developer Advocate, OpenTelemetry",
   "url": "https://careers.datadoghq.com/detail/8418089/?gh_jid=8418089"
+ },
+ "greenhouse:datadog:8421876": {
+  "company": "datadog",
+  "first_seen": "2026-11-28T05:50:19+00:00",
+  "job_id": "8421876",
+  "location": "Tokyo, Japan",
+  "posted_at": "2026-11-27T23:18:55-05:00",
+  "source": "greenhouse",
+  "title": "Strategic Account Executive",
+  "url": "https://careers.datadoghq.com/detail/8421876/?gh_jid=8421876"
  },
  "greenhouse:dataiku:5339585004": {
   "company": "dataiku",
@@ -149448,16 +149478,6 @@
   "source": "greenhouse",
   "title": "Senior Product Manager, AI",
   "url": "https://job-boards.greenhouse.io/turing/jobs/6150811004"
- },
- "greenhouse:turing:6174327004": {
-  "company": "turing",
-  "first_seen": "2026-08-30T03:01:39+00:00",
-  "job_id": "6174327004",
-  "location": "Colombia, Huila, Colombia; S\u00e3o Paulo, Brazil",
-  "posted_at": "2026-08-29T21:22:54-04:00",
-  "source": "greenhouse",
-  "title": "Senior DevOps & Infrastructure Engineer",
-  "url": "https://job-boards.greenhouse.io/turing/jobs/6174327004"
  },
  "greenhouse:turing:6174416004": {
   "company": "turing",
